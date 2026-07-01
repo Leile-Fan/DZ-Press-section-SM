@@ -57,6 +57,36 @@ const APP_DATA = {
         },
         maintenance: {
           topics: {
+            safety: {
+              icon: "🛡️", title: "安全条例 Safety Regulations (第2章)", subtitle: "安全装置 · 个人防护 · 温度噪音 · 电气液压焊接",
+              alerts: [
+                { type: "danger", title: "基本安全", content: "必须遵守所有事故预防规定。设备只能在安全停机后进行维护。所有能源供应必须断开。<br><small>All accident prevention rules must be observed. Maintenance only when machine is securely shut down. All energy supplies must be disconnected.</small>" }
+              ],
+              sections: [
+                { title: "2.1 基本安全条例 General Safety", paragraphs: [{ cn: "遵守各项事故预防规定。确保足够的维护作业空间。不超过起重机和吊具的允许载荷。不在悬吊负荷下走动。", en: "Observe all accident prevention rules. Ensure adequate maintenance space. Do not exceed crane and lifting gear capacities. Do not walk under suspended loads." }]},
+                { title: "2.2 危险和警告标志 Danger & Warning Signs", paragraphs: [{ cn: "设备上贴有危险和警告标志。必须遵守所有标志指示。标志损坏或脱落时必须更换。", en: "Danger and warning signs are affixed to the machine. All sign instructions must be followed. Replace damaged or missing signs." }]},
+                { title: "2.3 指定用途 Intended Use", paragraphs: [{ cn: "设备仅用于卫生纸生产。任何超出指定用途的使用均视为违规。运营公司承担全部责任。", en: "Machine is intended exclusively for tissue paper production. Any use beyond this is considered improper. Operating company bears full liability." }]},
+                { title: "2.6 运营公司责任 Operator Obligations", paragraphs: [{ cn: "运营公司必须确保设备仅在安全、功能正常的状态下运行。必须提供个人防护装备。必须制定操作说明。", en: "Operating company must ensure machine runs only in safe, functional condition. PPE must be provided. Operating instructions must be established." }]},
+                { title: "2.7 人员基本责任 Personnel Obligations", paragraphs: [{ cn: "作业人员必须阅读并理解操作手册。必须遵守安全条例。发现安全隐患必须立即报告。", en: "Personnel must read and understand the manual. Must follow safety regulations. Must report safety hazards immediately." }]},
+                { title: "2.8 安全装置 Safety Devices", paragraphs: [{ cn: "紧急停机装置必须功能正常。安全装置不可拆除、绕过或使其失效。维修后必须重新安装所有安全装置。", en: "EMERGENCY STOP must function properly. Safety devices must not be removed, bypassed, or disabled. All must be reinstalled after maintenance." }]},
+                { title: "2.9 个人防护装备 PPE", paragraphs: [{ cn: "作业时必须穿戴：安全帽、防护手套、安全鞋、护目镜、听力保护装置。", en: "Must wear during work: safety helmet, protective gloves, safety shoes, goggles, hearing protection." }]},
+                { title: "2.11-2.17 其他安全事项", paragraphs: [
+                  { cn: "温度：注意设备高温表面（扬克缸可达120°C+）。噪音：超过85 dB(A)需佩戴听力保护。电气：电气作业只能由熟练电工执行。液压/气动：维修前必须释放压力。焊接：需咨询ANDRITZ后批准。油与油脂：收集泄漏油并妥善处理。", en: "Temperature: Beware hot surfaces (Yankee 120°C+). Noise: >85 dB(A), wear protection. Electrical: only skilled electricians. Hydraulic/Pneumatic: depressurize before work. Welding: consult ANDRITZ first. Oils: collect and dispose properly." }
+                ]}
+              ]
+            },
+            installation: {
+              icon: "📦", title: "安装 Installation (第4章)", subtitle: "运输 · 保管 · 安装 · 冷测试 · 启动",
+              sections: [
+                { title: "4.3 运输 Transport", paragraphs: [{ cn: "使用合适的吊具和绳索。辊子吊装时注意使用专用吊点。不超过起重机允许载荷。", en: "Use appropriate lifting gear and ropes. Use dedicated lifting points for rolls. Do not exceed crane capacity." }]},
+                { title: "4.4 保管 Safekeeping", paragraphs: [{ cn: "施胶辊应避光、防潮、防冻保存。避免接触化学品和油类。定期旋转以防变形。", en: "Store rubberised rolls away from light, moisture, and frost. Avoid chemicals and oils. Rotate periodically to prevent deformation." }]},
+                { title: "4.5 安装 Installation", paragraphs: [{ cn: "按安装图进行设备安装。确保足够的维护作业空间。安装外围设备（管道、电气、气动）。基础必须符合规格要求。", en: "Install according to assembly drawings. Ensure adequate maintenance space. Install peripheral equipment (piping, electrical, pneumatic). Foundation must meet specifications." }]},
+                { title: "4.6 连接 Connect Up", paragraphs: [{ cn: "连接所有电源、气源、水源和蒸汽管路。检查所有连接是否牢固、无泄漏。", en: "Connect all power, air, water, and steam lines. Check all connections are secure and leak-free." }]},
+                { title: "4.7 冷测试 Cold Test", paragraphs: [{ cn: "首次启动前必须进行冷测试：检查所有连接、润滑点、转动方向、安全装置功能。确认所有急停按钮工作正常。", en: "Cold test required before initial start-up: check all connections, lubrication points, rotation direction, safety device function. Verify all E-STOP buttons work." }]},
+                { title: "4.11-4.12 启动 Start-up", paragraphs: [{ cn: "启动前确认所有前提条件。检查安全装置、防护罩、润滑。按启动顺序逐步操作。记录运行参数。", en: "Verify all prerequisites before start-up. Check safety devices, guards, lubrication. Follow start-up sequence step by step. Record operating parameters." }]},
+                { title: "4.8 拆卸与处置 Disassembly & Disposal", paragraphs: [{ cn: "设备报废时须按环保要求拆卸和处置。遵守当地法规处理废料、油品和化学品。", en: "Disassemble and dispose of according to environmental requirements. Follow local regulations for waste, oils, and chemicals." }]}
+              ]
+            },
             operation: {
               icon: "▶️", title: "操作 Operation (4.17–4.21)", subtitle: "清洁 · 启动 · 停机 · DCS控制 · 操作条件",
               sections: [
