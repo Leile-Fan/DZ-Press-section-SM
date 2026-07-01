@@ -1,5 +1,5 @@
 // Service Worker for TM PrimePress Single EOM
-const CACHE_NAME = 'primepress-eom-v2';
+const CACHE_NAME = 'primepress-eom-v3';
 const ASSETS = [
   './',
   './index.html',

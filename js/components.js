@@ -153,12 +153,17 @@ const UI = {
   },
 
   /**
-   * 图片
+   * 图片（大图自动折叠为点击查看）
    */
   figure(src, caption) {
     return `
       <figure class="image-figure">
-        <img src="${src}" alt="${caption || ''}" loading="lazy" onclick="App.openImage('${src}', '${caption || ''}')">
+        <div class="image-preview" onclick="App.openImage('${src}', '${caption || ''}')">
+          <img src="${src}" alt="${caption || ''}" loading="lazy">
+          <div class="image-overlay">
+            <span class="image-overlay-text">🔍 点击查看大图</span>
+          </div>
+        </div>
         ${caption ? `<figcaption>${caption}</figcaption>` : ''}
       </figure>
     `;
