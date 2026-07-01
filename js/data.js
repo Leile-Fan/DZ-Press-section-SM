@@ -88,21 +88,157 @@ const APP_DATA = {
               ]
             },
             operation: {
-              icon: "▶️", title: "操作 Operation (4.17–4.21)", subtitle: "清洁 · 启动 · 停机 · DCS控制 · 操作条件",
-              sections: [
-                { title: "清洁 Cleaning (4.17)", paragraphs: [{ cn: "每次停机后彻底清洁。流浆箱不能用尖锐工具。用清水和许可清洁剂冲洗约15分钟。", en: "Thorough cleaning after each shutdown. No sharp tools for headbox. Flush with fresh water and approved cleaning agents for ~15 min." }]},
-                { title: "启动 Starting (4.18)", paragraphs: [{ cn: "检查所有安全装置。确保所有防护罩就位。通知所有人员。按DCS启动程序操作。", en: "Check all safety devices. Ensure all guards in place. Notify all personnel. Follow DCS start-up sequence." }]},
-                { title: "停机 Shutdown (4.19)", paragraphs: [{ cn: "按DCS停机程序操作。停止进浆、清洗系统、释放张力、关闭蒸汽。", en: "Follow DCS shutdown sequence. Stop stock feed, clean system, relieve tensions, shut off steam." }]},
-                { title: "紧急停机后重启 (4.20)", paragraphs: [{ cn: "排除故障原因。检查设备有无损坏。确认安全后再重新启动。", en: "Eliminate fault cause. Check for equipment damage. Confirm safety before restarting." }]},
-                { title: "操作条件 Operating Conditions (4.21)", paragraphs: [{ cn: "遵守设计参数（速度、温度、压力）。定期检查运行状态。记录异常情况。", en: "Observe design parameters. Regularly check operating conditions. Log anomalies." }]}
+              icon: "▶️", title: "操作 Operation (4.17–4.21)", subtitle: "点击查看详细操作步骤",
+              children: [
+                { icon: "🧹", title: "4.17 清洁 Cleaning", subtitle: "停机后彻底清洁各部件 · 安全注意事项", route: "maintenance-detail?id=op-cleaning" },
+                { icon: "🚀", title: "4.18 启动 Starting", subtitle: "启动前提条件 · DCS自动启动步骤", route: "maintenance-detail?id=op-starting" },
+                { icon: "⏹️", title: "4.19 停机 Shutdown", subtitle: "停机程序 · 释放张力 · 关闭蒸汽", route: "maintenance-detail?id=op-shutdown" },
+                { icon: "🔄", title: "4.20 紧急停机后重启 Re-start after E-STOP", subtitle: "故障排除 · 损坏检查 · 安全确认", route: "maintenance-detail?id=op-restart" },
+                { icon: "📋", title: "4.21 操作条件 Operating Conditions", subtitle: "速度/温度/压力参数 · 运行状态检查", route: "maintenance-detail?id=op-conditions" }
               ]
             },
             "machine-settings": {
-              icon: "⚙️", title: "机器设置 Machine Settings (4.22)", subtitle: "流浆箱 · 网毯校正 · 真空箱角度",
+              icon: "⚙️", title: "机器设置 Machine Settings (4.22)", subtitle: "点击查看详细设置步骤",
+              children: [
+                { icon: "📐", title: "4.22.1 流浆箱 Headbox", subtitle: "回流校正 · 唇口开度 · 横幅定量调节", route: "maintenance-detail?id=settings-headbox" },
+                { icon: "🔧", title: "4.22.2 网毯校正装置 Wire & Felt Guiding", subtitle: "气动控制系统 · PC1/PC2 · 故障排除", route: "maintenance-detail?id=settings-wire-felt" },
+                { icon: "🎯", title: "4.22.3 真空箱角度 Suction Box Angle", subtitle: "蜗轮箱调节 · 密封条 · 运行中调节", route: "maintenance-detail?id=settings-suction" }
+              ]
+            },
+            "op-cleaning": {
+              icon: "🧹", title: "4.17 清洁 Cleaning", subtitle: "停机后彻底清洁各部件",
+              alerts: [
+                { type: "danger", title: "⚠️ DANGER 危险", content: "机器不安全！在不安全的机器上进行清理工作会对生命和肢体造成危险。在开始任何维修工作之前，务必完成设备电气联锁！<br><small>Machine not safe! Always interlock the plant electrically before beginning any service work!</small>" }
+              ],
               sections: [
-                { title: "流浆箱 Headbox (4.22.1)", paragraphs: [{ cn: "调节回流校正、唇口开度。参见流浆箱专项文档。", en: "Adjust return flow correction, slice lip opening. See Headbox documentation." }]},
-                { title: "网和毯校正装置 (4.22.2)", paragraphs: [{ cn: "气动控制系统：PC1重量补偿调节器、PC2控制波纹管调节器、FCV1流量控制、FCV2控制阀。出现校正问题时参见故障排除表。", en: "Pneumatic control: PC1 weight compensation, PC2 control bellow regulator, FCV1 flow control, FCV2 control valve. See troubleshooting table for guiding issues." }]},
-                { title: "真空压榨辊真空箱角度 (4.22.3)", paragraphs: [{ cn: "通过方颈调节蜗轮箱，直到密封条2处无泄漏空气进入。可在运行中进行调节。", en: "Adjust worm gear box via square neck until no leak air enters at sealing strip 2. Can be adjusted during operation." }]}
+                { title: "清洁总则 General", paragraphs: [{ cn: "在初次启动前和每次停机维护后，必须彻底清洁卫生纸机。参见所有机械组的维护章节。", en: "The tissue machine must be cleaned thoroughly before initial start-up and after each shutdown for maintenance. See all maintenance chapters of the machinery groups." }]},
+                { title: "流浆箱清洁 Headbox Cleaning", paragraphs: [{ cn: "清洁流浆箱时，请小心不要使锋利的仪器损坏流浆箱内的任何部件。此种类型的损坏会导致形成结块。如果在流浆箱中形成纤维结块，必须关闭设备并立即清洁流浆箱。", en: "When cleaning the headbox, take care not to damage any parts inside with sharp instruments. Damage of this type will cause lumps to form. If fiber lumps form, shut down the plant and clean the headbox without delay." }]},
+                { title: "网和毯部 Wire & Felt Sections", steps: [
+                  { label: "1", cn: "用清水冲洗网、毯、辊子和U型箱。", en: "Hose down wires, felts, rolls and Uhle boxes with fresh water." },
+                  { label: "2", cn: "清洁U型箱的内部和槽口。", en: "Clean the inside and the slots of the Uhle box." },
+                  { label: "3", cn: "用刮刀清除U型箱盖上的污垢。", en: "Remove any dirt from the Uhle box covers with a scraper." },
+                  { label: "4", cn: "冲洗废水盘。", en: "Flush out the waste water trays." },
+                  { label: "5", cn: "检查网/毯中是否有异物。", en: "Check whether there are any foreign objects in the wire/felt." },
+                  { label: "6", cn: "清洁任何堵塞的淋浴喷头。", en: "Clean any clogged shower nozzles." },
+                  { label: "7", cn: "清理刮刀片。", en: "Cleaning of the doctor blades." }
+                ]},
+                { title: "压榨部 Press Section", steps: [
+                  { label: "1", cn: "清洁真空压榨辊上的钻孔。清洁任何堵塞的喷淋头。", en: "Clean holes in the suction press roll. Clean any clogged shower nozzles." },
+                  { label: "2", cn: "清除扬克烘缸外壳上的残留灰尘。", en: "Clean residual dust off the Yankee shell." },
+                  { label: "3", cn: "用清洁刮刀剥离涂层。", en: "Remove coating layer with cleaning doctor." },
+                  { label: "4", cn: "清洁或更换刮刀片。清洁涂布喷射装置处的喷嘴。", en: "Clean or replace doctor blades. Clean nozzles at coating spray device." }
+                ]},
+                { title: "干燥部 & 卷纸机 Dryer & Reel", paragraphs: [{ cn: "通过吹入空气清除通道中的残余灰尘。清除生产区域内的灰尘沉积。清除各种辊子和卷纸辊。小心：不得用水冲洗辊子和机器！必须使用压缩空气！清洁延展辊。", en: "Clean dust residue from channels by blowing air. Clean off dust deposits in production area. Clear rolls and reel spools. CAUTION: Rolls and machine must not be hosed down with water! Use compressed air! Clean spreader roll." }]}
+              ]
+            },
+            "op-starting": {
+              icon: "🚀", title: "4.18 启动 Starting", subtitle: "启动前提条件 · 自动启动步骤",
+              alerts: [
+                { type: "danger", title: "⚠️ DANGER 危险", content: "未经培训的操作人员！机器不正确地启动可能会对生命和肢体造成风险并损坏机器或其组件。必须对操作人员进行启动培训。<br><small>Untrained operating personnel! Incorrect startup may cause risk to life and limb. Personnel must be trained for start-up.</small>" }
+              ],
+              sections: [
+                { title: "自动启动 Automatic Starting", paragraphs: [{ cn: "使用组启动时，DCS将自动实现所有必要步骤。带纸浆悬浮液的初次启动将与我方启动人员一起进行。", en: "When using group start, all necessary steps are carried out automatically from the DCS. Initial start-up with suspension will be carried out together with our start-up personnel." }]},
+                { title: "启动前提条件 Prerequisites", steps: [
+                  { label: "1", cn: "所有联锁功能正在工作并通过测试。", en: "All interlocks are functioning and have been tested." },
+                  { label: "2", cn: "润滑系统正在工作。", en: "Lubrication system is functioning." },
+                  { label: "3", cn: "辅助设施（水、电、压缩空气、真空）都可用。", en: "Auxiliaries (electricity, water, compressed air, vacuum) are available." },
+                  { label: "4", cn: "网和毯必须正确张紧。", en: "Wire and felt must be tensioned correctly." },
+                  { label: "5", cn: "刮刀已做好准备运行和设置。喷淋装置正在工作。U型箱已准备就绪。", en: "Doctors are ready for operation and set. Showers are functional. Uhle boxes are ready." },
+                  { label: "6", cn: "真空压榨辊准备好运行。", en: "The suction press roll is ready for operation." },
+                  { label: "7", cn: "扬克烘缸已经加热并处于正确的温度。", en: "The Yankee has been heated and is at the correct temperature." }
+                ]},
+                { title: "流浆箱设置 Headbox Setup", steps: [
+                  { label: "1", cn: "必须正确设置流浆箱相对于成型辊子和胸辊以及网/毯的方向（悬浮射流方向）。", en: "The headbox (suspension jet direction) must be set correctly in relation to the forming and breast roll and to the wire/felt." },
+                  { label: "2", cn: "必须保证纸浆的连续供应。", en: "A continuous supply of pulp must be guaranteed." },
+                  { label: "3", cn: "根据计划的体积流量设置切片间隙。设定了喷射方向。", en: "Set slice gap according to planned volume flow. Direction of jet has been set." },
+                  { label: "4", cn: "利用再循环阀平衡操作侧以及传动侧的喷嘴压力。检查再循环阀（在Q最大和Q最低）的影响。", en: "Balance out the nozzle pressure on operator and drive sides with the recirculation valve. Check influence at Qmax and Qmin." },
+                  { label: "5", cn: "如果定量不均匀，使用调节装置校正C.D.剖面，使整个机器宽度上定量再次均匀。", en: "If basis weight is uneven, correct the C.D. profile using adjusting devices." }
+                ]},
+                { title: "⚠️ 注意", paragraphs: [{ cn: "纸巾机启动后，不应对横幅进行粗略校正。首先等待，直到浓度、喷射速度、脱水行为等稳定下来。切片间隙的最终设置取决于：纸种、定量、机械速度、成型、脱水行为等。", en: "Caution: Rash corrections should not be made to the cross-direction profile after startup. Wait until consistency, jet speed, dewatering behavior, etc., have stabilized. Final slice gap setting depends on: paper grade, basis weight, machine speed, formation, dewatering behavior." }]},
+                { title: "纸幅穿引 Web Threading", steps: [
+                  { label: "1", cn: "将窄纸带通过压榨部和扬克烘缸干燥部，送入传送系统。", en: "Feed a narrow paper strip through the press section and Yankee dryer section to the transfer system." },
+                  { label: "2", cn: "使用起皱刮刀将纸带从扬克烘缸上刮下。", en: "Scrape the strip off the Yankee using the creping doctor." },
+                  { label: "3", cn: "将窄带送入传输架的开口，利用空气喷嘴来的空气悬浮并向前输送。", en: "Feed the narrow strip into the transfer tray, suspend with air from jets and transport onwards." },
+                  { label: "4", cn: "边缘进料带用的真空区准备好运行。通过卷纸缸上的边缘进给带引入这个窄带。", en: "Vacuum at suction zone for edge feed strip is ready. Pick up the narrow strip by the edge feed strip on the reel drum." },
+                  { label: "5", cn: "如果质量令人满意，纸幅可以缓慢延展到整个生产宽度上。", en: "If quality is satisfactory, the paper web can be extended slowly to the full production width." }
+                ]}
+              ]
+            },
+            "op-shutdown": {
+              icon: "⏹️", title: "4.19 停机 Shutdown", subtitle: "停机程序",
+              alerts: [
+                { type: "info", title: "注意", content: "按DCS停机程序操作。必须按正确顺序停机以避免设备损坏。" }
+              ],
+              steps: [
+                { label: "1", cn: "停止进浆（停止供料系统）。", en: "Stop stock feed." },
+                { label: "2", cn: "用水环路冲洗系统约15分钟以清除残留浆料。", en: "Flush the system with water loop for approx. 15 minutes to remove residual stock." },
+                { label: "3", cn: "释放网和毛毯的张力（长时间停机时必须执行）。", en: "Relieve wire and felt tension (mandatory for longer shutdowns)." },
+                { label: "4", cn: "关闭蒸汽供应。让扬克缸缓慢冷却（最大冷却速率30°C/h）。", en: "Shut off steam supply. Allow Yankee to cool slowly (max cooling rate 30°C/h)." },
+                { label: "5", cn: "停止所有喷淋管。", en: "Stop all showers." },
+                { label: "6", cn: "关闭真空系统。", en: "Shut off vacuum system." },
+                { label: "7", cn: "断开所有驱动系统电源（使用维护开关锁定）。", en: "Disconnect power to all drives (lock with maintenance switch)." },
+                { label: "8", cn: "彻底清洁设备（参见清洁章节）。", en: "Thoroughly clean the machine (see Cleaning section)." }
+              ]
+            },
+            "op-restart": {
+              icon: "🔄", title: "4.20 紧急停机后重启 Re-start after E-STOP", subtitle: "故障排除 · 重新启动",
+              alerts: [
+                { type: "danger", title: "⚠️ 重要", content: "紧急停机后不得立即重启！必须首先确定并排除触发紧急停机的原因。" }
+              ],
+              steps: [
+                { label: "1", cn: "确定并排除触发紧急停机的原因。", en: "Identify and eliminate the cause that triggered the E-STOP." },
+                { label: "2", cn: "检查整个设备是否有损坏（特别检查：辊子表面、网/毯、刮刀、密封条）。", en: "Inspect the entire machine for damage (especially: roll surfaces, wire/felt, doctors, sealing strips)." },
+                { label: "3", cn: "确保所有人员离开危险区域。", en: "Ensure all personnel have left the danger zone." },
+                { label: "4", cn: "确认所有安全装置就位且功能正常。", en: "Confirm all safety devices are in place and functional." },
+                { label: "5", cn: "如果扬克缸在停机期间冷却：按照加热曲线重新加热。", en: "If Yankee cooled during shutdown: reheat according to heating curve." },
+                { label: "6", cn: "按照正常启动程序重新启动设备（参见启动章节）。", en: "Restart the machine following the normal starting procedure (see Starting section)." }
+              ]
+            },
+            "op-conditions": {
+              icon: "📋", title: "4.21 操作条件 Operating Conditions", subtitle: "运行参数 · 检查要点",
+              sections: [
+                { title: "速度参数 Speed", paragraphs: [{ cn: "设计速度：1700 m/min（卷纸机1500 m/min）。驱动速度：1650 m/min（卷纸机1450 m/min）。最大操作速度：1650 m/min。严格遵守设计速度限制，超速运行将导致设备损坏和安全风险。", en: "Design speed: 1700 m/min (Reel 1500 m/min). Drive speed: 1650 m/min (Reel 1450 m/min). Max operating speed: 1650 m/min. Strictly observe design speed limits - overspeed operation will cause equipment damage and safety risks." }]},
+                { title: "温度参数 Temperature", paragraphs: [{ cn: "浆料温度：约60°C。扬克缸表面温度：约120°C（2 bar蒸汽）。扬克缸加热速率：最大30°C/h。注意高温表面——接触会导致严重烫伤。", en: "Pulp temperature: approx. 60°C. Yankee surface temp: approx. 120°C (2 bar steam). Yankee heating rate: max 30°C/h. Beware of hot surfaces - contact causes severe burns." }]},
+                { title: "压力参数 Pressure", paragraphs: [{ cn: "蒸汽压力：3.5-9.5 bar（取决于运行速度，见特性曲线图）。真空系统：正常工作真空度。气动系统：按设计压力运行。液压系统：按设计压力运行。", en: "Steam pressure: 3.5-9.5 bar (depending on operating speed, see characteristic curves). Vacuum system: normal operating vacuum. Pneumatic/hydraulic: operate at design pressures." }]},
+                { title: "定期检查 Regular Checks", steps: [
+                  { label: "1", cn: "检查所有仪表读数（压力、温度、流量、速度）是否在正常范围内。", en: "Check all instrument readings (pressure, temperature, flow, speed) are within normal range." },
+                  { label: "2", cn: "检查纸张质量（定量、水分、外观）。", en: "Check paper quality (basis weight, moisture, appearance)." },
+                  { label: "3", cn: "监听设备运行声音，注意异常噪音或振动。", en: "Listen for unusual noises or vibrations." },
+                  { label: "4", cn: "检查润滑系统是否正常工作。", en: "Check lubrication system is functioning properly." },
+                  { label: "5", cn: "记录所有异常情况并及时报告。", en: "Record all anomalies and report promptly." }
+                ]},
+                { title: "⚠️ 警告", alerts: [{ type: "warning", title: "", content: "任何超出设计参数范围的运行都可能导致设备损坏、安全隐患和产品质量问题。如发现异常，应立即降速或停机检查。" }]}
+              ]
+            },
+            "settings-headbox": {
+              icon: "📐", title: "4.22.1 流浆箱 Headbox Settings", subtitle: "回流校正 · 唇口开度 · 横幅定量调节",
+              alerts: [{ type: "info", title: "参考", content: "详细流浆箱设置请参见流浆箱专项文档 TM-Headbox EOM。" }],
+              sections: [
+                { title: "回流校正 Return Flow Correction", paragraphs: [{ cn: "通过调节再循环阀来平衡操作侧和传动侧的喷嘴压力。检查再循环阀在最大流量和最小流量时的影响。正确的回流校正可以确保横幅方向上的均匀喷射速度。", en: "Balance nozzle pressure on operator and drive sides by adjusting the recirculation valve. Check influence at Qmax and Qmin. Correct return flow correction ensures uniform jet velocity across the cross direction." }]},
+                { title: "唇口开度 Slice Gap", paragraphs: [{ cn: "根据计划的体积流量设置切片间隙。切片间隙的最终设置取决于：纸种、定量、机械速度、成型和脱水行为。启动后不应进行粗略校正——等待浓度、喷射速度和脱水行为稳定后再进行微调。", en: "Set slice gap according to planned volume flow. Final setting depends on: paper grade, basis weight, machine speed, formation, and dewatering behavior. Do not make rash corrections after startup — wait for stabilization before fine-tuning." }]},
+                { title: "横幅定量调节 C.D. Profile", paragraphs: [{ cn: "如果定量不均匀，使用微调装置校正C.D.（横幅）剖面，使整个机器宽度上定量均匀。相邻主轴间最大差异不超过0.25 mm，全宽最大差异不超过0.5 mm。", en: "If basis weight is uneven, correct the C.D. profile using micro-adjusters. Max difference: 0.25 mm spindle-to-spindle, 0.5 mm across entire width." }]},
+                { title: "喷射方向 Jet Direction", paragraphs: [{ cn: "必须正确设置流浆箱相对于成型辊、胸辊以及网/毯的喷射方向。不正确的喷射方向会导致成形问题和纸张质量缺陷。", en: "The headbox jet direction must be set correctly in relation to the forming roll, breast roll, and wire/felt. Incorrect jet direction causes formation problems and paper quality defects." }]}
+              ]
+            },
+            "settings-wire-felt": {
+              icon: "🔧", title: "4.22.2 网毯校正装置 Wire & Felt Guiding", subtitle: "气动控制系统 · 故障排除",
+              sections: [
+                { title: "系统概述 System Overview", paragraphs: [{ cn: "网和毯校正装置采用气动控制系统，由以下主要组件构成：PC1 — 重量补偿调节器；PC2 — 控制波纹管调节器；FCV1 — 流量控制阀；FCV2 — 控制阀。系统通过气动柜中的精密调压器进行控制。", en: "Wire and felt guiding uses a pneumatic control system with: PC1 — weight compensation regulator; PC2 — control bellow regulator; FCV1 — flow control valve; FCV2 — control valve. Controlled via precision regulators in the pneumatic cabinet." }]},
+                { title: "网校正 Wire Guiding", paragraphs: [{ cn: "网跑偏由气动传感器检测。当网偏离中心位置时，传感器发送信号，通过PC1和PC2调节器驱动校正辊调整网的位置。网张力变化会影响校正灵敏度——张力越高，校正响应越快。", en: "Wire drift is detected by pneumatic sensors. When wire deviates from center, sensors signal PC1 and PC2 regulators to adjust the guide roll. Wire tension affects guiding sensitivity — higher tension gives faster correction response." }]},
+                { title: "毛毯校正 Felt Guiding", paragraphs: [{ cn: "毛毯校正原理与网校正相同。注意毛毯张力（最大6 N/mm）低于网张力（最大10 N/mm），因此校正响应特性不同。", en: "Felt guiding operates on the same principle. Note felt tension (max 6 N/mm) is lower than wire tension (max 10 N/mm), so correction response characteristics differ." }]},
+                { title: "故障排除 Troubleshooting", paragraphs: [{ cn: "常见问题：1) 校正过度 → 降低PC2压力；2) 校正不足 → 提高PC1压力或检查传感器；3) 校正不响应 → 检查气源压力、传感器是否堵塞、FCV1/FCV2是否正常、校正辊轴承是否卡滞。定期清洁传感器和检查气动管路泄漏。", en: "Common issues: 1) Over-correction → reduce PC2 pressure; 2) Under-correction → increase PC1 pressure or check sensor; 3) No response → check air supply, sensor blockage, FCV1/FCV2 function, guide roll bearing seizure. Clean sensors regularly and check for pneumatic leaks." }]}
+              ]
+            },
+            "settings-suction": {
+              icon: "🎯", title: "4.22.3 真空箱角度 Suction Box Angle", subtitle: "蜗轮箱调节 · 密封条 · 运行中调节",
+              sections: [
+                { title: "调节方法 Adjustment Method", steps: [
+                  { label: "1", cn: "通过方颈使用提供的棘轮操作蜗杆传动装置来旋转真空箱。", en: "Rotate the suction box using the worm gear drive operated with the supplied ratchet at the square neck." },
+                  { label: "2", cn: "旋转直到密封条2处无泄漏空气进入。真空箱的位置可以从刻度上读出。", en: "Rotate until no leak air enters at sealing strip 2. Position can be read off the scale." },
+                  { label: "3", cn: "调节完成后拧紧蜗轮锁紧螺钉。", en: "After adjustment, tighten the worm gear locking screws." }
+                ]},
+                { title: "⚠️ 注意", paragraphs: [{ cn: "此调节可在设备运行期间进行。但操作人员必须经过培训，了解真空箱角度的变化对脱水效果的影响。错误的真空箱角度设置会导致脱水效率下降、纸张质量问题和密封条过早磨损。", en: "This adjustment can be performed during operation. However, operators must be trained on how suction box angle changes affect dewatering. Incorrect angle setting leads to reduced dewatering efficiency, paper quality issues, and premature sealing strip wear." }]},
+                { title: "参考", paragraphs: [{ cn: "详细真空箱调整信息请参见压榨部专项文档 TM-PrimePress Single EOM 中的真空箱调整章节。", en: "For detailed suction box adjustment information, see the Press Section document TM-PrimePress Single EOM." }]}
               ]
             },
             diagrams: {
