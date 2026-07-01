@@ -1,17 +1,375 @@
 /**
- * TM PrimePress Single EOM - 完整文档数据
- * 安德里茨 PrimePress 压榨部操作与维护说明书
- * 中文-英文双语 · 结构化 JSON
- *
- * 添加内容：按现有格式新增条目即可
+ * TM EOM Suite - 完整文档数据
+ * Tissue Machine | Headbox | Crescent Former | Press Section
+ * 安德里茨卫生纸机操作与维护说明书
  */
 
 const APP_DATA = {
+  machines: {
 
-  // =============================================================
-  // 1. 技术参数 Technical Data
-  // =============================================================
-  technicalData: {
+    // ============================================================
+    // TISSUE MACHINE (General)
+    // ============================================================
+    general: {
+      icon: "🏭",
+      title: "Tissue Machine EOM",
+      shortTitle: "TM EOM",
+      subtitle: "PrimeLine Compact M1600 · 卫生纸机总览",
+      info: "技术参数 · 安全 · 安装 · 操作 · 故障排除 · 68页",
+      data: {
+        sections: [
+          { icon: "📊", title: "技术参数 Technical Data", subtitle: "机型、产能、速度、宽度等规格", route: "tech-data" },
+          { icon: "🛡️", title: "安全 Safety", subtitle: "安全条例、危险标志、个人防护", route: "maintenance-detail?id=safety" },
+          { icon: "📦", title: "安装 Installation", subtitle: "运输、保管、安装、冷测试", route: "maintenance-detail?id=installation" },
+          { icon: "▶️", title: "操作 Operation", subtitle: "清洁、启动、停机、DCS控制、机器设置", route: "maintenance-detail?id=operation" },
+          { icon: "📈", title: "图表与曲线 Diagrams", subtitle: "流浆箱压力图、扬克缸特性曲线", route: "maintenance-detail?id=diagrams" },
+          { icon: "⚠️", title: "故障排除 Troubleshooting", subtitle: "流浆箱、成形器、压榨部、扬克缸、卷纸机故障", route: "maintenance-detail?id=troubleshooting" }
+        ],
+        technicalData: {
+          sections: [{
+            title: "📊 整机数据 Machine Data",
+            type: "data-table",
+            rows: [
+              { label: "机型 Machine Type", value: "PrimeLine Compact M1600" },
+              { label: "设计产能 Capacity (design)", value: "93.8 ADMT/d" },
+              { label: "纸种 Paper Types", value: "卫生纸、餐巾纸、手帕纸、面巾纸" },
+              { label: "定量 Basic Weight", value: "11–30 g/m²" },
+              { label: "干度 Dryness (at reel)", value: "93%" },
+              { label: "设计速度 Design Speed", value: "1700 m/min" },
+              { label: "最大操作速度 Max Operating Speed", value: "1650 m/min" },
+              { label: "流浆箱宽度 Headbox Pond Width", value: "3596 mm" },
+              { label: "网宽 Wire Width", value: "3541 mm" },
+              { label: "毛毯宽 Felt Width", value: "3800 mm" },
+              { label: "卷纸宽度 Sheet Width on Reel", value: "3500 mm" }
+            ]
+          }],
+          note: "PrimeLine Compact M1600 · C&S Paper (Jiangsu) Co., Ltd. · 2026"
+        },
+        components: {
+          application: {
+            title: "Tissue Machine 卫生纸机",
+            cn: "安德里茨 PrimeLine Compact M1600 卫生纸机，包含流浆箱、新月型成型器、压榨部、扬克缸和卷纸机。",
+            en: "ANDRITZ PrimeLine Compact M1600 Tissue Machine, including Headbox, Crescent Former, Press Section, Yankee, and Reel."
+          },
+          paragraphs: [
+            { cn: "详细部件信息请参见各专项文档（流浆箱、成型器、压榨部）。", en: "For detailed component information, refer to the respective machine documents (Headbox, Former, Press Section)." }
+          ]
+        },
+        maintenance: {
+          topics: {
+            safety: {
+              icon: "🛡️", title: "安全 Safety (第2章)", subtitle: "安全条例 · 危险标志 · 防护装备",
+              alerts: [
+                { type: "danger", title: "基本安全", content: "必须遵守所有事故预防规定。设备只能在安全停机后进行维护。所有能源供应必须断开。" }
+              ],
+              sections: [
+                { title: "安全装置 Safety Devices", paragraphs: [{ cn: "紧急停机装置必须功能正常。安全装置不得被拆除、绕过或使其失效。维修后必须重新安装所有安全装置。", en: "EMERGENCY STOP devices must function properly. Safety devices must not be removed, bypassed, or disabled. All safety devices must be reinstalled after maintenance." }]},
+                { title: "个人防护装备 PPE", paragraphs: [{ cn: "作业时必须穿戴个人防护装备：安全帽、防护手套、安全鞋、护目镜、听力保护。", en: "Personal protective equipment must be worn: safety helmet, protective gloves, safety shoes, goggles, hearing protection." }]},
+                { title: "温度与噪音", paragraphs: [{ cn: "注意设备高温表面（扬克缸）。噪音水平可能超过85 dB(A)，需佩戴听力保护装置。", en: "Beware of hot surfaces (Yankee). Noise levels may exceed 85 dB(A); wear hearing protection." }]},
+                { title: "电气与液压设备", paragraphs: [{ cn: "电气作业只能由熟练电工执行。液压和气动设备维修前必须释放压力。焊接作业需咨询ANDRITZ。", en: "Electrical work must be done by skilled electricians. Depressurize hydraulic and pneumatic systems before maintenance. Consult ANDRITZ before welding." }]}
+              ]
+            },
+            installation: {
+              icon: "📦", title: "安装 Installation (第4章)", subtitle: "运输 · 保管 · 安装 · 冷测试 · 启动",
+              sections: [
+                { title: "运输 Transport (4.3)", paragraphs: [{ cn: "使用合适的吊具和绳索。辊子吊装时注意使用专用吊点。不超载起重机。", en: "Use appropriate lifting gear and ropes. Use dedicated lifting points for rolls. Do not exceed crane capacity." }]},
+                { title: "保管 Safekeeping (4.4)", paragraphs: [{ cn: "施胶辊应避光、防潮、防冻保存。避免接触化学品和油类。定期旋转以防变形。", en: "Store rubberised rolls away from light, moisture, and frost. Avoid contact with chemicals and oils. Rotate periodically to prevent deformation." }]},
+                { title: "安装 (4.5)", paragraphs: [{ cn: "按安装图进行设备安装。确保足够维护空间。安装外围设备（管道、电气、气动）。", en: "Install according to assembly drawings. Ensure adequate maintenance space. Install peripheral equipment (piping, electrical, pneumatic)." }]},
+                { title: "冷测试 Cold Test (4.7)", paragraphs: [{ cn: "首次启动前必须进行冷测试：检查所有连接、润滑点、转动方向、安全装置功能。", en: "Cold test required before initial start-up: check all connections, lubrication points, rotation direction, safety device function." }]},
+                { title: "启动 Start-up (4.12)", paragraphs: [{ cn: "启动前确认所有前提条件。按启动顺序逐步操作。记录运行参数。", en: "Verify all prerequisites before start-up. Follow start-up sequence step by step. Record operating parameters." }]}
+              ]
+            },
+            operation: {
+              icon: "▶️", title: "操作 Operation (第4章续)", subtitle: "清洁 · 启动停机 · 机器设置 · DCS控制",
+              sections: [
+                { title: "清洁 Cleaning (4.17)", paragraphs: [{ cn: "每次停机后彻底清洁。流浆箱不能用尖锐工具。用清水和许可清洁剂冲洗约15分钟。", en: "Thorough cleaning after each shutdown. No sharp tools for headbox. Flush with fresh water and approved cleaning agents for ~15 min." }]},
+                { title: "启动 Starting (4.18)", paragraphs: [{ cn: "检查所有安全装置。确保所有防护罩就位。通知所有人员。按DCS启动程序操作。", en: "Check all safety devices. Ensure all guards in place. Notify all personnel. Follow DCS start-up sequence." }]},
+                { title: "停机 Shutdown (4.19)", paragraphs: [{ cn: "按DCS停机程序操作。停止进浆、清洗系统、释放张力、关闭蒸汽。", en: "Follow DCS shutdown sequence. Stop stock feed, clean system, relieve tensions, shut off steam." }]},
+                { title: "紧急停机后重启 (4.20)", paragraphs: [{ cn: "排除故障原因。检查设备有无损坏。确认安全后再重新启动。", en: "Eliminate fault cause. Check for equipment damage. Confirm safety before restarting." }]},
+                { title: "操作条件 Operating Conditions (4.21)", paragraphs: [{ cn: "遵守设计参数（速度、温度、压力）。定期检查运行状态。记录异常情况。", en: "Observe design parameters (speed, temperature, pressure). Regularly check operating conditions. Log anomalies." }]}
+              ]
+            },
+            "machine-settings": {
+              icon: "⚙️", title: "机器设置 Machine Settings (4.22)", subtitle: "流浆箱 · 网毯校正 · 真空箱角度",
+              sections: [
+                { title: "流浆箱 Headbox (4.22.1)", paragraphs: [{ cn: "调节回流校正、唇口开度。参见流浆箱专项文档。", en: "Adjust return flow correction, slice lip opening. See Headbox documentation." }]},
+                { title: "网和毯校正装置 (4.22.2)", paragraphs: [{ cn: "气动控制系统：PC1重量补偿调节器、PC2控制波纹管调节器、FCV1流量控制、FCV2控制阀。出现校正问题时参见故障排除表。", en: "Pneumatic control: PC1 weight compensation, PC2 control bellow regulator, FCV1 flow control, FCV2 control valve. See troubleshooting table for guiding issues." }]},
+                { title: "真空压榨辊真空箱角度 (4.22.3)", paragraphs: [{ cn: "通过方颈调节蜗轮箱，直到密封条2处无泄漏空气进入。可在运行中进行调节。", en: "Adjust worm gear box via square neck until no leak air enters at sealing strip 2. Can be adjusted during operation." }]}
+              ]
+            },
+            diagrams: {
+              icon: "📈", title: "图表与特性曲线 Diagrams (4.23)", subtitle: "流浆箱压力图 · 扬克缸加热曲线 · 蒸汽压力特性",
+              sections: [
+                { title: "流浆箱动态压力图 (4.23.1)", paragraphs: [{ cn: "显示流浆箱在不同速度下的背压关系。用于设定正确的运行参数。", en: "Shows headbox back-pressure relationship at different speeds. Used for setting correct operating parameters." }]},
+                { title: "扬克缸加热过程 (4.23.2)", paragraphs: [{ cn: "手动加热。爬行速度约30 m/min。最大加热速率30°C/h。冷凝水90°C时增压。2 bar蒸汽/约120°C表面温度时准备就绪。", en: "Manual heating. Crawl speed ~30 m/min. Max heating rate 30°C/h. Pressure boost at 90°C condensate. Ready at 2 bar steam / ~120°C surface temp." }]},
+                { title: "蒸汽压力特性曲线", paragraphs: [{ cn: "3.5 bar (1112 m/min) · 4 bar (1200 m/min) · 8.5 bar (1600 m/min) · 8.8 bar (1500 m/min) · 9.5 bar (1538 m/min)", en: "Characteristics at 3.5/4/8.5/8.8/9.5 bar steam pressure for various speeds." }]}
+              ]
+            },
+            troubleshooting: {
+              icon: "⚠️", title: "操作故障 Troubleshooting (4.26)", subtitle: "流浆箱 · 成型器 · 压榨部 · 扬克缸 · 卷纸机故障排查",
+              sections: [
+                { title: "流浆箱 Headbox Faults (4.26.1)", paragraphs: [{ cn: "故障排查表涵盖：纤维絮聚、横幅定量不均、唇口堵塞等问题。", en: "Troubleshooting covers: fiber flocculation, uneven cross-profile basis weight, slice lip clogging." }]},
+                { title: "新月型成型器 Crescent Former (4.26.2)", paragraphs: [{ cn: "故障排查表涵盖：网跑偏、网起皱、脱水不均、毛毯问题等。", en: "Troubleshooting covers: wire misalignment, wire wrinkling, uneven dewatering, felt issues." }]},
+                { title: "压榨部 Press Section (4.26.3)", paragraphs: [{ cn: "故障排查表涵盖：真空度不足、辊面磨损、密封条泄漏、毛毯寿命缩短等。", en: "Troubleshooting covers: insufficient vacuum, roll cover wear, sealing strip leaks, reduced felt life." }]},
+                { title: "扬克缸 Yankee (4.26.4–4.26.5)", paragraphs: [{ cn: "故障排查：涂层不均、干燥效率下降。停电时：关闭蒸汽、关闭燃烧器、收回热风罩、停止喷淋、抬起刮刀、每30分钟转1/4圈。", en: "Troubleshooting: uneven coating, reduced drying efficiency. Power failure: shut steam, switch off burner, retract hood, stop showers, lift doctors, rotate quarter-turn every 30 min." }]},
+                { title: "卷纸机 Reel (4.26.6)", paragraphs: [{ cn: "故障排查表涵盖：卷纸不齐、张力问题、纸芯固定故障。", en: "Troubleshooting covers: misaligned winding, tension issues, core fixing faults." }]}
+              ]
+            }
+          }
+        }
+      }
+    },
+
+    // ============================================================
+    // HEADBOX
+    // ============================================================
+    headbox: {
+      icon: "📐",
+      title: "TM-Headbox EOM",
+      shortTitle: "Headbox EOM",
+      subtitle: "PrimeFlow 流浆箱 · 操作与维护",
+      info: "技术参数 · 11个主要部件 · 流浆箱摆动操作 · 50页",
+      data: {
+        sections: [
+          { icon: "📊", title: "技术参数 Technical Data", subtitle: "宽度、流量、速度、重量等规格", route: "tech-data" },
+          { icon: "🔧", title: "设备描述 Description", subtitle: "11个主要部件 · 技术描述 · 工作条件", route: "components" },
+          { icon: "🛠", title: "维护 Maintenance", subtitle: "检查 · 清洁 · 润滑 · 流浆箱摆动 · 更换插件 · 唇口设定", route: "maintenance" }
+        ],
+        technicalData: {
+          sections: [{
+            title: "📊 流浆箱规格 Headbox Data",
+            type: "data-table",
+            rows: [
+              { label: "流浆箱宽度 Pond Width", value: "3596 mm" },
+              { label: "最大流量 Max. Flow", value: "62,000 l/min" },
+              { label: "设计速度 Design Speed", value: "1900 m/min" },
+              { label: "最大操作速度 Max. Operating Speed", value: "1650 m/min" },
+              { label: "设计喷浆速度 Design Jet Velocity", value: "1600 m/min" },
+              { label: "流量比 Flow Ratio", value: "1:2" },
+              { label: "供料侧 Stock Supply", value: "传动侧 Drive Side" },
+              { label: "层数 No. of Layers", value: "1" },
+              { label: "浆料浓度 Stock Consistency", value: "约 0.15–0.30%" },
+              { label: "保留率 Retention", value: "约 50–80%" },
+              { label: "浆料温度 Pulp Temperature", value: "60 °C" },
+              { label: "流浆箱总重 Headbox Weight", value: "约 14,530 kg" },
+              { label: "堰板体重量 Apron Body Weight", value: "约 4,510 kg" }
+            ]
+          }],
+          note: "PrimeFlow Headbox · C&S Paper · 2026"
+        },
+        components: {
+          application: {
+            title: "应用领域 Field of Application",
+            cn: "PrimeFlow流浆箱用于将纤维悬浮液均匀分配到成形网或毛毯的整个宽度上，是纸张成形的关键设备。",
+            en: "The PrimeFlow headbox distributes the fiber suspension uniformly across the width of the forming wire or felt.",
+            image: "images-headbox/page10-img02.jpeg",
+            imageCaption: "Fig. 1: Headbox overview / 流浆箱总览"
+          },
+          overview: {
+            title: "主要部件 Main Components",
+            image: "images-headbox/page11-img03.jpeg",
+            imageCaption: "Fig. 2: Main components of the headbox / 流浆箱主要部件",
+            items: [
+              { num: 1, name: "原悬液进料/涂布器 Stock feed/Spreader", route: "component-detail?id=stock-feed" },
+              { num: 2, name: "摆动装置 Pivoting device", route: "component-detail?id=pivoting-device" },
+              { num: 3, name: "锁定装置 Locking device", route: "component-detail?id=locking-device" },
+              { num: 4, name: "微调装置 Micro-adjusters", route: "component-detail?id=micro-adjusters" },
+              { num: 5, name: "阶梯扩散器 Step diffuser block", route: "component-detail?id=diffuser-block" },
+              { num: 6, name: "指示装置 Indicating device", route: "component-detail?id=indicating-device" },
+              { num: 7, name: "间隙测量 Gap measuring", route: "component-detail?id=gap-measuring" },
+              { num: 8, name: "调节装置 Adjusting device", route: "component-detail?id=adjusting-device" },
+              { num: 9, name: "喷嘴腔 Nozzle chamber", route: "component-detail?id=nozzle-chamber" },
+              { num: "11/12", name: "浆片和裙缘 Slice and apron lips", route: "component-detail?id=slice-lips" },
+              { num: 15, name: "抽吸装置 Suction pipe", route: "component-detail?id=suction-pipe" }
+            ]
+          },
+          techDescription: {
+            title: "技术描述 Technological Description",
+            cn: "纤维悬浮液通过进料口(A)进入，经扩散器(D)均匀分布，在喷嘴腔(E)中加速，通过浆片唇口喷出到成形辊(G)上。",
+            en: "Fiber suspension enters through inlet (A), is evenly distributed by diffuser block (D), accelerated in nozzle chamber (E), and jetted onto the forming roll (G) through the slice lip."
+          },
+          componentDetails: {
+            "stock-feed": { title: "原悬液进料/涂布器 Stock Feed/Spreader (1)", description: { cn: "将浆料均匀分配到流浆箱宽度方向。", en: "Distributes stock evenly across the headbox width." }, image: "images-headbox/page13-img02.jpeg", imageCaption: "Fig. 3: Distributor with supporting structure" },
+            "pivoting-device": { title: "摆动装置 Pivoting Device (2)", description: { cn: "用于将流浆箱摆动到不同工作位置（操作、换毯、清洁、换辊）。", en: "Used to swing the headbox into different working positions." }, image: "images-headbox/page14-img02.jpeg", imageCaption: "Fig. 4: Pivoting device" },
+            "locking-device": { title: "锁定装置 Locking Device (3)", description: { cn: "在维护工作中锁定流浆箱位置，确保安全。", en: "Locks the headbox position during maintenance for safety." }, image: "images-headbox/page16-img02.jpeg", imageCaption: "Fig. 5: Locking device" },
+            "micro-adjusters": { title: "微调装置 Micro-adjusters (4)", description: { cn: "用于精确调节唇口开度，相邻主轴间最大差0.25 mm，全宽最大差0.5 mm。", en: "For precise lip opening adjustment. Max difference: 0.25 mm spindle-to-spindle, 0.5 mm across entire width." }, image: "images-headbox/page16-img03.jpeg", imageCaption: "Fig. 6: Micro-adjusters" },
+            "diffuser-block": { title: "阶梯扩散器 Step Diffuser Block (5)", description: { cn: "通过阶梯结构使纤维悬浮液均匀分布，防止絮聚。", en: "Uniformly distributes fiber suspension through step structure, preventing flocculation." }, image: "images-headbox/page17-img02.jpeg", imageCaption: "Fig. 7-8: Step diffuser block" },
+            "indicating-device": { title: "指示装置 Indicating Device (6)", description: { cn: "显示唇口开度的刻度装置。", en: "Scale device showing the slice lip opening." }, image: "images-headbox/page19-img02.jpeg", imageCaption: "Fig. 9: Gap scale" },
+            "gap-measuring": { title: "间隙测量 Gap Measuring (7)", description: { cn: "测量浆片唇口与成形辊之间的间隙。", en: "Measures the gap between slice lip and forming roll." }, image: "images-headbox/page20-img02.jpeg", imageCaption: "Fig. 10: Gap measuring" },
+            "adjusting-device": { title: "调节装置 Adjusting Device (8)", description: { cn: "用于调节流浆箱的整体位置和角度。", en: "Used to adjust the overall position and angle of the headbox." }, image: "images-headbox/page20-img03.jpeg", imageCaption: "Fig. 11: Adjusting device" },
+            "nozzle-chamber": { title: "喷嘴腔 Nozzle Chamber (9)", description: { cn: "浆料在此加速并通过唇口喷出，是纸张成形的关键区域。", en: "Stock accelerates here and jets through the slice lip - key area for sheet formation." }, image: "images-headbox/page21-img02.jpeg", imageCaption: "Fig. 12: Nozzle chamber" },
+            "slice-lips": { title: "浆片和裙缘 Slice & Apron Lips (11, 12)", description: { cn: "浆片唇口决定纸张成形质量。裙缘引导浆流方向。出厂已设定，建议由ANDRITZ服务人员调整。", en: "Slice lip determines sheet formation quality. Apron lip guides stock flow. Factory preset; ANDRITZ service recommended for adjustments." }},
+            "suction-pipe": { title: "抽吸装置 Suction Pipe (15)", description: { cn: "用于清理喷淋器的抽吸装置。", en: "Suction device for cleaning the showers." }, image: "images-headbox/page23-img02.jpeg", imageCaption: "Fig. 13: Suction pipe" }
+          }
+        },
+        maintenance: {
+          topics: {
+            "checks-schedule": { icon: "✅", title: "检查与维护计划 Checks & Schedule", subtitle: "日常检查 · 周/月/年维护 · 纸张质量", sections: [
+              { title: "日常检查 Routine Checks", table: { headers: ["组件", "检查内容"], rows: [["流浆箱整体", "泄漏、损坏、异常噪音"], ["唇口", "磨损、堵塞"], ["喷淋管", "喷嘴堵塞"], ["仪表", "压力、温度、流量读数"]] }},
+              { title: "维护计划", table: { headers: ["周期", "检查内容"], rows: [["每周", "泄漏、唇口间隙、磨损"], ["每月", "齿轮箱油位/温度/噪音、伺服驱动、压力传感器"], ["每年", "流浆箱内部泄漏/磨损/清洁、管束、膨胀节"]] }}
+            ]},
+            cleaning: { icon: "🧹", title: "清洁 Cleaning (4.7)", subtitle: "清洁方法 · 化学清洁剂 · 管束清理", alerts: [
+              { type: "warning", title: "小心", content: "冷却后才能清洁。出口侧最大清洁压力40 bar。切勿使用尖锐物体。" }
+            ], sections: [
+              { title: "清洁流程", steps: [{ label: "步骤 1", cn: "停止进浆，用水冲洗约15分钟。", en: "Stop stock feed, flush with water ~15 min." }, { label: "步骤 2", cn: "可选化学清洁：HCl 2-5%、NaOH 2-5%、硫酸 0.45%，最高60°C。", en: "Optional chemical: HCl 2-5%, NaOH 2-5%, sulfamic acid 0.45%, max 60°C." }, { label: "步骤 3", cn: "用清水彻底冲洗。", en: "Rinse thoroughly with fresh water." }] }
+            ]},
+            lubrication: { icon: "🛢️", title: "润滑 Lubrication (4.8)", subtitle: "润滑计划表", image: "images-headbox/page40-img02.jpeg", imageCaption: "Fig. 16: Lubrication points", table: { headers: ["润滑点", "润滑剂", "用量", "间隔"], rows: [["支点轴承", "Mobilith SHC PM460", "2 g", "600 h"], ["行星齿轮", "ISO-VG 680", "—", "检查/更换"], ["轴承-间隙调节", "Mobilith SHC PM460", "1 g", "600 h"]] }},
+            "swinging-headbox": { icon: "🔄", title: "摆动流浆箱 Swinging Headbox (4.9)", subtitle: "4个工作位置切换操作", alerts: [{ type: "danger", title: "⚠️ 夹持危险", content: "流浆箱摆动时有挤压和夹持危险。必须使用锁定装置。控制面板钥匙从OPERATION切换到SERVICE。" }], sections: [
+              { title: "准备工作", paragraphs: [{ cn: "将控制面板钥匙开关转到SERVICE位置。确保所有人员离开危险区域。", en: "Turn control panel key switch to SERVICE. Ensure all personnel clear danger zone." }]},
+              { title: "4.9.2 释放网顶张力", steps: [{ label: "步骤", cn: "通过控制面板释放顶部网的张力。", en: "Relieve top wire tension via control panel." }]},
+              { title: "4.9.3 提升胸辊", steps: [{ label: "步骤 1", cn: "用起重机在吊耳处固定胸辊。", en: "Secure breast roll with crane at lifting lugs." }, { label: "步骤 2", cn: "拆卸操作侧和传动侧螺栓。", en: "Detach OS and DS bolts." }, { label: "步骤 3", cn: "电动提升。用固定销固定。", en: "Raise electrically. Secure with retention pins." }], image: "images-headbox/page42-img03.jpeg", imageCaption: "Fig. 17: Raising the breast roll" },
+              { title: "4.9.4 摆动到换毯位置", steps: [{ label: "步骤 1", cn: "释放锁定装置。", en: "Release locking device." }, { label: "步骤 2", cn: "将流浆箱摆动到换毯位置。", en: "Swing headbox into felt changing position." }, { label: "步骤 3", cn: "插入安全锁定装置。", en: "Insert safety locking device." }], image: "images-headbox/page43-img04.jpeg", imageCaption: "Fig. 18: Felt changing position" },
+              { title: "4.9.5 摆动到清洁位置", steps: [{ label: "步骤", cn: "摆动流浆箱到清洁位置，插入锁定装置。", en: "Swing headbox to cleaning position, insert locking device." }], image: "images-headbox/page45-img03.jpeg", imageCaption: "Fig. 19: Cleaning and roll changing position" },
+              { title: "4.9.6 摆动到换辊位置", steps: [{ label: "步骤", cn: "摆动流浆箱到成形辊更换位置。", en: "Swing headbox to forming roll changing position." }]},
+              { title: "4.9.7 摆动到工作位置", steps: [{ label: "步骤", cn: "解除锁定装置，将流浆箱摆动回工作位置，锁定。", en: "Release locking, swing headbox back to operating position, lock." }]}
+            ]},
+            "change-inserts": { icon: "🔧", title: "更换插件 Changing Inserts (4.10)", subtitle: "插件的拆卸和安装", alerts: [{ type: "warning", title: "小心", content: "检查裙缘唇口是否损坏。用塑料棒敲出插件。用粒度240的带式砂光机磨平。" }], steps: [{ label: "步骤 1", cn: "检查裙缘唇口是否有损坏。", en: "Check apron lip for damage." }, { label: "步骤 2", cn: "用塑料棒敲出旧插件。", en: "Knock out old inserts with plastic rod." }, { label: "步骤 3", cn: "安装新插件。", en: "Install new inserts." }, { label: "步骤 4", cn: "用粒度240的带式砂光机磨平。", en: "Grind flush with belt sander (grain 240)." }], image: "images-headbox/page48-img03.jpeg", imageCaption: "Fig. 20-21: Removing/Installing inserts" },
+            "set-slice-lip": { icon: "📏", title: "设定浆片唇口 Setting Slice Lip (4.11)", subtitle: "微调操作", alerts: [{ type: "info", title: "注意", content: "出厂已预设。相邻主轴间最大差0.25 mm，全宽最大差0.5 mm。建议由ANDRITZ服务人员调整。" }], steps: [{ label: "步骤", cn: "通过微调装置调节唇口开度。使用刻度指示检查设定值。", en: "Adjust lip opening via micro-adjusters. Check setting with scale indication." }], image: "images-headbox/page49-img02.jpeg", imageCaption: "Fig. 22: Setting spindle" }
+          },
+          procedures: {}
+        }
+      }
+    },
+
+    // ============================================================
+    // CRESCENT FORMER
+    // ============================================================
+    former: {
+      icon: "🔄",
+      title: "TM-Crescent Former EOM",
+      shortTitle: "Former EOM",
+      subtitle: "PrimeForm 新月型成型器 · 操作与维护",
+      info: "技术参数 · 15个主要部件 · 换网换毯 · 换辊 · 86页",
+      data: {
+        sections: [
+          { icon: "📊", title: "技术参数 Technical Data", subtitle: "网毯规格 · 辊子参数 · 驱动 · 喷淋水耗", route: "tech-data" },
+          { icon: "🔧", title: "设备描述 Description", subtitle: "15个主要部件 · 技术描述", route: "components" },
+          { icon: "🛠", title: "维护 Maintenance", subtitle: "清洁润滑 · 换刮刀 · 摆动操作 · 换网换毯 · 换辊换轴承", route: "maintenance" }
+        ],
+        technicalData: {
+          sections: [
+            { title: "📊 网部数据 Wire Data", type: "data-table", rows: [{ label: "网最大张力 Max. Wire Tension", value: "10 N/mm" }, { label: "网宽 Wire Width", value: "3541 mm" }, { label: "网长 Wire Length (min/max)", value: "14,547 / 15,070 mm" }]},
+            { title: "📊 毛毯数据 Felt Data", type: "data-table", rows: [{ label: "毛毯最大张力 Max. Felt Tension", value: "6 N/mm" }, { label: "毛毯宽 Felt Width", value: "3800 mm" }, { label: "毛毯长 Felt Length (min/max)", value: "34,350 / 36,750 mm" }]},
+            { title: "📊 辊子规格 Rolls", type: "data-table", rows: [
+              { label: "成形辊 Forming Roll (2.1)", value: "Ø1500mm · 4115mm · 驱动 · 橡胶包胶 · 7500kg" },
+              { label: "网辊 Wire Roll (2.2)", value: "Ø520mm · 4115mm · 无驱动 · 橡胶包胶 · 1800kg" },
+              { label: "网张紧辊 Wire Tension Roll (2.3)", value: "Ø520mm · 4115mm · 无驱动 · 橡胶包胶 · 1800kg" },
+              { label: "网校正辊 Regulating Roll (2.4)", value: "Ø520mm · 4115mm · 无驱动 · 橡胶包胶 · 1800kg" },
+              { label: "胸辊 Breast Roll (2.5)", value: "Ø520mm · 4115mm · 无驱动 · 橡胶包胶 · 1800kg" },
+              { label: "导毯辊 Felt Guide Rolls (2.6/2.7)", value: "Ø520mm · 4115mm · 无驱动 · 橡胶包胶 · 1800kg" },
+              { label: "毯张紧辊 Felt Tension Roll (2.8)", value: "Ø520mm · 4115mm · 无驱动 · 橡胶包胶 · 1800kg" },
+              { label: "毯驱动辊 Felt Drive Roll (2.9)", value: "Ø520mm · 4115mm · 驱动 · 橡胶包胶 · 1800kg" },
+              { label: "毯校正辊 Regulating Roll (2.10)", value: "Ø520mm · 4115mm · 无驱动 · 橡胶包胶 · 1800kg" }
+            ]}
+          ],
+          note: "新月型成型器 · 悬臂设计 · C&S Paper · 2026"
+        },
+        components: {
+          application: {
+            title: "应用领域 Field of Application",
+            cn: "新月型成型器PrimeForm用于纸幅的成形、脱水，并将纸幅传送到压榨部。采用悬臂设计，便于更换网和毛毯。",
+            en: "The Crescent Former PrimeForm is used for sheet formation, dewatering, and web transfer to the press section. Cantilever design for easy wire and felt changing."
+          },
+          overview: {
+            title: "主要部件 Main Components",
+            items: [
+              { num: 1, name: "流浆箱 Headbox", route: "component-detail?id=hb-unit" },
+              { num: 2, name: "胸辊及摆动装置 Breast roll & swing device", route: "component-detail?id=breast-roll" },
+              { num: 3, name: "机架 Frame (悬臂设计)", route: "component-detail?id=frame" },
+              { num: 4, name: "吸水箱 Uhle box", route: "component-detail?id=uhle-box" },
+              { num: 5, name: "网校正系统 Wire guiding", route: "component-detail?id=wire-guiding" },
+              { num: 6, name: "网和毛毯辊 Wire & felt rolls", route: "component-detail?id=rolls" },
+              { num: 7, name: "喷淋管 Showers", route: "component-detail?id=showers" },
+              { num: 8, name: "毛毯校正装置 Felt guiding", route: "component-detail?id=felt-guiding" },
+              { num: 9, name: "毛毯张紧装置 Felt tensioning", route: "component-detail?id=felt-tension" },
+              { num: 10, name: "网张紧系统 Wire tensioning", route: "component-detail?id=wire-tension" },
+              { num: 11, name: "成形辊 Forming roll", route: "component-detail?id=forming-roll" },
+              { num: 12, name: "白水通道 White water channel", route: "component-detail?id=white-water" }
+            ]
+          },
+          techDescription: { title: "技术描述", cn: "浆料从流浆箱喷射到成形辊和网之间的间隙。在成形辊上初步脱水后，纸幅附着在毛毯上继续脱水。网和毛毯各有独立的校正和张紧系统。", en: "Stock jets from headbox into gap between forming roll and wire. After initial dewatering on forming roll, web adheres to felt for further dewatering. Independent guiding and tensioning systems for wire and felt." },
+          componentDetails: {
+            "hb-unit": { title: "流浆箱 Headbox (1)", description: { cn: "详见流浆箱专项文档。", en: "See Headbox documentation." }},
+            "breast-roll": { title: "胸辊及摆动装置 Breast Roll & Swing Device (2)", description: { cn: "胸辊可升起以便更换网和毛毯。摆动装置用于将流浆箱和胸辊移到不同位置。", en: "Breast roll can be raised for wire and felt changes. Swing device moves headbox and breast roll to different positions." }},
+            "frame": { title: "机架 Frame (3)", description: { cn: "悬臂设计，操作侧可打开以便更换网和毛毯。", en: "Cantilever design, operator side opens for wire and felt changes." }, image: "images-former/page15-img01.jpeg", imageCaption: "Fig. 5-6: Cantilever device" },
+            "uhle-box": { title: "吸水箱 Uhle Box (4)", description: { cn: "用于从毛毯中真空脱水。", en: "Used for vacuum dewatering from the felt." }},
+            "wire-guiding": { title: "网校正系统 Wire Guiding (5)", description: { cn: "气动式网校正系统，确保网运行在正确位置。", en: "Pneumatic wire guiding system ensuring correct wire position." }},
+            "felt-guiding": { title: "毛毯校正装置 Felt Guiding (8)", description: { cn: "气动式毛毯校正系统。", en: "Pneumatic felt guiding system." }},
+            "felt-tension": { title: "毛毯张紧装置 Felt Tensioning (9)", description: { cn: "气动张紧，最大张力6 N/mm。", en: "Pneumatic tensioning, max 6 N/mm." }},
+            "wire-tension": { title: "网张紧系统 Wire Tensioning (10)", description: { cn: "气动张紧，最大张力10 N/mm。", en: "Pneumatic tensioning, max 10 N/mm." }},
+            "forming-roll": { title: "成形辊 Forming Roll (11)", description: { cn: "Ø1500mm，橡胶包胶，驱动，7500kg。浆料在此辊上初步成形和脱水。", en: "Ø1500mm, rubber covered, driven, 7500kg. Initial sheet formation and dewatering on this roll." }},
+            "rolls": { title: "网和毛毯辊 Wire & Felt Rolls (6)", description: { cn: "10根辊子，含驱动辊、张紧辊、校正辊、导辊。详见技术参数。", en: "10 rolls including drive, tension, regulating, and guide rolls. See technical data." }},
+            "showers": { title: "喷淋管 Showers (7)", description: { cn: "用于清洁网和毛毯的高压和低压喷淋系统。", en: "High and low pressure shower systems for wire and felt cleaning." }},
+            "white-water": { title: "白水通道 White Water Channel (12)", description: { cn: "收集和排出脱出的白水。", en: "Collects and drains extracted white water." }}
+          }
+        },
+        maintenance: {
+          topics: {
+            "checks-schedule": { icon: "✅", title: "检查与维护计划", subtitle: "日常检查 · 周/月/半年维护", sections: [
+              { title: "每周", table: { headers: ["项目", "内容"], rows: [["网/毛毯", "裂纹、孔洞、起皱"], ["辊", "损坏检查"], ["刮刀片", "磨损检查"], ["喷淋嘴", "堵塞检查"]] }},
+              { title: "每月", table: { headers: ["项目", "内容"], rows: [["轴承", "温度、振动、噪音"], ["张紧装置", "功能检查"], ["弹簧波纹管", "检查"], ["吸水箱", "检查"], ["紧急停机", "功能测试"]] }},
+              { title: "每半年", table: { headers: ["项目", "内容"], rows: [["蜗轮升降机", "检查"], ["齿轮箱", "油位/温度/泄漏/噪音"], ["伺服驱动", "检查"], ["引纸水针", "检查"], ["螺栓/螺钉", "检查拧紧"]] }}
+            ]},
+            cleaning: { icon: "🧹", title: "清洁 Cleaning (4.7)", subtitle: "清洁方法 · 冲洗流程", alerts: [{ type: "warning", title: "小心", content: "切勿用尖锐物体或高压设备清洁涂装表面。清洁剂：HCl 2-5%、NaOH 2-5%、硫酸 0.45%，最高60°C。" }], steps: [{ label: "步骤 1", cn: "停止进浆，用水环路冲洗约15分钟。", en: "Stop stock feed, flush with water loop ~15 min." }, { label: "步骤 2", cn: "彻底清洁毛毯和辊。", en: "Thoroughly clean felt and rolls." }, { label: "步骤 3", cn: "清洁刮刀片和堵塞的喷淋嘴。", en: "Clean doctor blades and clogged shower nozzles." }, { label: "步骤 4", cn: "长时间停机时释放毛毯和网张力。", en: "Relieve felt and wire tension for longer shutdowns." }]},
+            lubrication: { icon: "🛢️", title: "润滑 Lubrication (4.8)", subtitle: "三个润滑计划表", sections: [
+              { title: "回转装置润滑", table: { headers: ["润滑点", "润滑剂", "间隔"], rows: [["回转装置轴承", "Mobilith SHC PM460", "每月"], ["铰链接头", "Mobilith SHC PM460", "600 h"], ["蜗轮箱", "ISO-VG 680", "2000 h"]] }},
+              { title: "辊和刮刀润滑", table: { headers: ["润滑点", "润滑剂", "补充间隔"], rows: [["辊轴承", "Mobilith SHC PM460", "150 h"], ["刮刀轴承", "Mobilith SHC PM460", "150 h"]] }},
+              { title: "喷淋管润滑", table: { headers: ["润滑点", "润滑剂", "间隔"], rows: [["喷淋管摆动器", "锂皂基润滑脂", "150-300 h"]] }}
+            ]},
+            "blade-change": { icon: "🔪", title: "更换刮刀刀片 Blade Change (4.9)", subtitle: "刮刀刀片更换步骤", steps: [{ label: "步骤 1", cn: "将刮刀从辊上抬起。", en: "Raise doctor from roll." }, { label: "步骤 2", cn: "佩戴防割手套。", en: "Wear cut-resistant gloves." }, { label: "步骤 3", cn: "拉出旧刀片。", en: "Pull out old blade." }, { label: "步骤 4", cn: "插入新刀片。", en: "Insert new blade." }, { label: "步骤 5", cn: "将刮刀设置到工作位置。", en: "Set doctor to operating position." }]},
+            "swinging": { icon: "🔄", title: "摆动操作 Swinging (4.10)", subtitle: "流浆箱、胸辊和张紧辊的摆动", alerts: [{ type: "danger", title: "⚠️ 夹持危险", content: "必须使用安全支撑装置。控制面板钥匙从OPERATION切换到SERVICE。" }], sections: [
+              { title: "准备工作", steps: [{ label: "步骤 1", cn: "松开毛毯张力。", en: "Relieve felt tension." }, { label: "步骤 2", cn: "控制面板钥匙转到SERVICE。", en: "Turn control panel key to SERVICE." }]},
+              { title: "4.10.3 提升胸辊", steps: [{ label: "步骤", cn: "用起重机在吊耳处固定胸辊 → 拆卸螺栓 → 电动提升 → 固定销固定。", en: "Secure breast roll with crane at lugs → detach bolts → raise electrically → secure with pins." }]},
+              { title: "4.10.4 换毯位置", steps: [{ label: "步骤", cn: "释放锁定 → 摆动到换毯位置 → 插入安全锁定。", en: "Release lock → swing to felt changing position → insert safety lock." }]},
+              { title: "4.10.5 清洁位置", steps: [{ label: "步骤", cn: "摆动到清洁位置 → 锁定。", en: "Swing to cleaning position → lock." }]},
+              { title: "4.10.6 换辊位置", steps: [{ label: "步骤", cn: "摆动到成形辊更换位置 → 锁定。", en: "Swing to forming roll change position → lock." }]},
+              { title: "4.10.7 工作位置", steps: [{ label: "步骤", cn: "解除锁定 → 摆回工作位置 → 锁定。", en: "Release lock → swing back to operating position → lock." }]}
+            ]}
+          },
+          procedures: {
+            "change-wire": { icon: "🕸️", title: "更换网 Wire Change (4.11.1)", subtitle: "网更换完整流程", alerts: [{ type: "danger", title: "⚠️ 安全", content: "重物吊装作业。穿戴个人防护装备。不要在悬吊载荷下行走。" }], sections: [
+              { title: "拆除旧网", steps: [{ label: "步骤 1", cn: "释放网张力。", en: "Relieve wire tension." }, { label: "步骤 2", cn: "将胸辊和流浆箱向上运行。", en: "Run breast roll and headbox upward." }, { label: "步骤 3", cn: "打开悬臂机架（操作侧）。", en: "Open cantilever frame (operator side)." }, { label: "步骤 4", cn: "拆除旧网。", en: "Remove old wire." }]},
+              { title: "安装新网", steps: [{ label: "步骤 1", cn: "穿入新网。", en: "Thread new wire." }, { label: "步骤 2", cn: "关闭悬臂机架。", en: "Close cantilever frame." }, { label: "步骤 3", cn: "降下胸辊和流浆箱。", en: "Lower breast roll and headbox." }, { label: "步骤 4", cn: "张紧网至运行张力。", en: "Tension wire to operating tension." }]}
+            ]},
+            "change-felt": { icon: "🧶", title: "更换毛毯 Felt Change (4.11.2)", subtitle: "毛毯更换流程", alerts: [{ type: "danger", title: "⚠️ 安全", content: "重物吊装。穿戴防护装备。注意夹持点。" }], sections: [
+              { title: "更换流程", steps: [{ label: "步骤 1", cn: "释放毛毯张力。", en: "Relieve felt tension." }, { label: "步骤 2", cn: "打开悬臂机架。", en: "Open cantilever frame." }, { label: "步骤 3", cn: "拆除旧毛毯。", en: "Remove old felt." }, { label: "步骤 4", cn: "穿入新毛毯。", en: "Thread new felt." }, { label: "步骤 5", cn: "关闭机架，张紧毛毯。", en: "Close frame, tension felt." }]}
+            ]},
+            "change-rolls": { icon: "⚙️", title: "更换辊子 Roll Change (4.12)", subtitle: "10种辊子的更换步骤", alerts: [{ type: "danger", title: "⚠️ 警告", content: "成形辊重7500kg！使用合适的起重设备。所有步骤必须在机器停机并锁定后进行。" }], children: [
+              { icon: "", title: "成形辊 2.1 (7500kg)", route: "maintenance-detail?id=roll-forming" },
+              { icon: "", title: "网辊 2.2 / 张紧辊 2.3 / 校正辊 2.4", route: "maintenance-detail?id=roll-wire" },
+              { icon: "", title: "胸辊 2.5", route: "maintenance-detail?id=roll-breast" },
+              { icon: "", title: "导毯辊 2.6/2.7 / 张紧辊 2.8 / 驱动辊 2.9 / 校正辊 2.10", route: "maintenance-detail?id=roll-felt" }
+            ]},
+            "roll-forming": { title: "更换成形辊 Forming Roll 2.1", steps: [{ label: "步骤 1", cn: "安装滑动管到悬臂上。", en: "Mount slip-on tubes on cantilever." }, { label: "步骤 2", cn: "安装移出轨道。", en: "Mount run-out rails." }, { label: "步骤 3", cn: "用起重机/吊具固定成形辊。", en: "Secure forming roll with crane/rigging." }, { label: "步骤 4", cn: "拆卸轴承座螺栓。", en: "Detach bearing housing bolts." }, { label: "步骤 5", cn: "将成形辊沿轨道移出。", en: "Run forming roll out on rails." }, { label: "安装", cn: "按相反顺序执行。轴承需用液压螺母安装。", en: "Reverse order. Bearings mounted with hydraulic nut." }]},
+            "roll-wire": { title: "更换网辊/张紧辊/校正辊", steps: [{ label: "步骤", cn: "安装移出轨道。用起重机固定辊子。拆卸轴承座。沿轨道移出。按相反顺序安装。", en: "Mount run-out rails. Secure roll with crane. Detach bearing housing. Run out on rails. Install in reverse order." }]},
+            "roll-breast": { title: "更换胸辊 Breast Roll 2.5", steps: [{ label: "步骤", cn: "与上述辊更换流程相似。需先释放网张力并打开悬臂。", en: "Similar to above roll change. Relieve wire tension and open cantilever first." }]},
+            "roll-felt": { title: "更换毛毯相关辊", steps: [{ label: "步骤", cn: "释放毛毯张力。安装移出轨道。固定辊子。拆卸轴承座。沿轨道移出。反向安装。", en: "Relieve felt tension. Mount run-out rails. Secure roll. Detach bearing housing. Run out. Reverse to install." }]},
+            "change-bearings": { icon: "🔩", title: "更换轴承 Bearing Change (4.13)", subtitle: "三种轴承更换方法", sections: [
+              { title: "网/毛毯导辊轴承 (22319 CCK/W33 C3)", steps: [{ label: "步骤", cn: "拆卸轴承座。用液压手动泵推出轴承。用液压螺母安装新轴承（启动压力3.02 MPa，位移0.59 mm）。", en: "Detach housing. Push off bearing with hydraulic hand pump. Mount with hydraulic nut (Pstart 3.02 MPa, Ss 0.59 mm)." }]},
+              { title: "毛毯驱动辊轴承", steps: [{ label: "步骤", cn: "类似操作但轴承型号不同。注意驱动侧和操作侧的固定/浮动轴承配置。", en: "Similar but different bearing type. Note fixed/floating bearing arrangement DS/OS." }]},
+              { title: "成形辊轴承 (22330 CCK/W33 C3)", steps: [{ label: "步骤", cn: "需要更大启动力。启动压力5.28 MPa，位移0.9 mm。用液压螺母安装。", en: "Requires higher force. Pstart 5.28 MPa, Ss 0.9 mm. Mount with hydraulic nut." }]}
+            ]}
+          }
+        }
+      }
+    },
+
+    // ============================================================
+    // PRESS SECTION (Existing)
+    // ============================================================
+    press: {
+      icon: "⚙️",
+      title: "TM-PrimePress Single EOM",
+      shortTitle: "Press EOM",
+      subtitle: "PrimePress 压榨部 · 操作与维护",
+      info: "技术参数 · 6大部件 · 维护操作 · 47页",
+      data: {
+        sections: [
+          { icon: "📊", title: "技术参数 Technical Data", subtitle: "网部、毛毯、真空压榨辊规格", route: "tech-data" },
+          { icon: "🔧", title: "设备描述 Description", subtitle: "6大主要部件 · 技术工艺描述", route: "components" },
+          { icon: "🛠", title: "维护 Maintenance", subtitle: "安全 · 检查 · 清洁润滑 · 更换操作", route: "maintenance" }
+        ],
+        technicalData: {
     title: "技术参数 Technical Data",
     route: "tech-data",
     sections: [
@@ -60,8 +418,8 @@ const APP_DATA = {
 
   // =============================================================
   // 2. 设备描述 Description
-  // =============================================================
-  components: {
+  // =============================================================,
+        components: {
     title: "设备描述 Description",
     route: "components",
 
@@ -253,8 +611,8 @@ const APP_DATA = {
 
   // =============================================================
   // 3. 维护 Maintenance
-  // =============================================================
-  maintenance: {
+  // =============================================================,
+        maintenance: {
     title: "维护 Maintenance",
     route: "maintenance",
 
@@ -770,6 +1128,9 @@ const APP_DATA = {
           { type: "info", title: "研磨辊体", content: "在拆除组装完毕的真空压榨辊后，在驱动轴颈插入以旋转辊的条件下，研磨辊体。弯曲曲线 >> 技术参数" }
         ]
       }
+    }
+  }
+  }
     }
   }
 };

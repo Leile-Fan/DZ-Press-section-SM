@@ -1,7 +1,7 @@
 {
-  "name": "TM PrimePress Single EOM",
-  "short_name": "PrimePress EOM",
-  "description": "PrimePress 压榨部操作与维护说明书 - ANDRITZ",
+  "name": "TM EOM Suite",
+  "short_name": "TM EOM",
+  "description": "卫生纸机操作与维护说明书 - ANDRITZ Tissue Machine EOM Suite",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#F0F5FA",

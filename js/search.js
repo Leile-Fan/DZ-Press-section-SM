@@ -21,99 +21,107 @@ const Search = {
    * 构建搜索索引
    */
   buildIndex() {
-    if (!window.APP_DATA) return;
+    if (!window.APP_DATA || !window.APP_DATA.machines) return;
     this.searchIndex = [];
 
-    function addToIndex(section, chapterTitle) {
-      // 搜索标题
+    function addToIndex(section, chapterTitle, machineId, machineName) {
+      if (!section) return;
       if (section.title) {
-        const titleText = typeof section.title === 'string' ? section.title : section.title.cn || '';
+        const titleText = typeof section.title === 'string' ? section.title : (section.title.cn || section.title || '');
         this.searchIndex.push({
           title: titleText,
           text: titleText,
           route: section.route || section.id || '',
-          section: chapterTitle || ''
+          section: machineName || chapterTitle || ''
         });
       }
-
-      // 搜索数据行
       if (section.rows) {
         for (const row of section.rows) {
           this.searchIndex.push({
             title: row.label || row.cn || '',
-            text: `${row.label || ''} ${row.value || ''} ${row.cn || ''} ${row.en || ''} ${row.sub || ''}`,
+            text: `${row.label||''} ${row.value||''} ${row.cn||''} ${row.en||''} ${row.sub||''}`,
             route: section.route || section.id || '',
-            section: chapterTitle || ''
+            section: machineName || chapterTitle || ''
           });
         }
       }
-
-      // 搜索步骤
       if (section.steps) {
         for (const step of section.steps) {
           this.searchIndex.push({
             title: step.label || '',
-            text: `${step.label || ''} ${step.cn || ''} ${step.en || ''}`,
+            text: `${step.label||''} ${step.cn||''} ${step.en||''}`,
             route: section.route || section.id || '',
-            section: chapterTitle || ''
+            section: machineName || chapterTitle || ''
           });
         }
       }
-
-      // 搜索文本段落
       if (section.content) {
-        const text = typeof section.content === 'string' ? section.content : section.content.cn || '';
+        const text = typeof section.content === 'string' ? section.content : (section.content.cn || '');
         this.searchIndex.push({
           title: section.title || '',
           text: text,
           route: section.route || section.id || '',
-          section: chapterTitle || ''
+          section: machineName || chapterTitle || ''
         });
       }
-
-      // 递归处理子章节
+      if (section.paragraphs) {
+        for (const p of section.paragraphs) {
+          this.searchIndex.push({
+            title: section.title || '',
+            text: `${p.cn||''} ${p.en||''}`,
+            route: section.route || section.id || '',
+            section: machineName || chapterTitle || ''
+          });
+        }
+      }
+      // Recurse
       if (section.sections) {
         for (const sub of section.sections) {
-          addToIndex.call(this, sub, section.title || chapterTitle);
+          addToIndex.call(this, sub, section.title || chapterTitle, machineId, machineName);
         }
       }
       if (section.children) {
         for (const child of section.children) {
-          addToIndex.call(this, child, section.title || chapterTitle);
+          addToIndex.call(this, child, section.title || chapterTitle, machineId, machineName);
         }
       }
-      // 处理主题/子页面
       if (section.topics) {
-        // topics 是对象 { id: { title, content, sections, rows, steps, children } }
         for (const [id, topic] of Object.entries(section.topics)) {
-          addToIndex.call(this, { ...topic, route: `maintenance-detail?id=${id}`, id }, section.title || chapterTitle);
+          const t = {...topic, route: `maintenance-detail?id=${id}`, id};
+          addToIndex.call(this, t, section.title || chapterTitle, machineId, machineName);
         }
       }
-      // 处理 procedures
       if (section.procedures) {
         for (const [id, proc] of Object.entries(section.procedures)) {
-          addToIndex.call(this, { ...proc, route: `maintenance-detail?id=${id}`, id }, section.title || chapterTitle);
+          const p = {...proc, route: `maintenance-detail?id=${id}`, id};
+          addToIndex.call(this, p, section.title || chapterTitle, machineId, machineName);
         }
       }
-      // 处理 componentDetails
       if (section.componentDetails) {
         for (const [id, comp] of Object.entries(section.componentDetails)) {
-          addToIndex.call(this, { ...comp, route: `component-detail?id=${id}`, id }, section.title || chapterTitle);
+          const c = {...comp, route: `component-detail?id=${id}`, id};
+          addToIndex.call(this, c, section.title || chapterTitle, machineId, machineName);
         }
       }
-      // 处理 application, overview, techDescription 等直接子属性
       ['application', 'overview', 'techDescription', 'suctionRollFunction'].forEach(key => {
         if (section[key] && typeof section[key] === 'object') {
-          addToIndex.call(this, { ...section[key], route: section.route || '' }, section.title || chapterTitle);
+          addToIndex.call(this, {...section[key], route: section.route || ''}, section.title || chapterTitle, machineId, machineName);
         }
       });
     }
 
-    // 遍历 APP_DATA 构建索引
-    for (const [key, chapter] of Object.entries(window.APP_DATA)) {
-      if (chapter && typeof chapter === 'object') {
-        addToIndex.call(this, chapter, chapter.title || key);
+    // Iterate all machines
+    for (const [machineId, machine] of Object.entries(window.APP_DATA.machines)) {
+      const md = machine.data;
+      if (!md) continue;
+      if (md.sections) {
+        for (const s of md.sections) {
+          this.searchIndex.push({title: s.title, text: s.title + ' ' + (s.subtitle||''), route: s.route, section: machine.title});
+        }
       }
+      if (md.technicalData) addToIndex.call(this, md.technicalData, '', machineId, machine.title);
+      if (md.components) addToIndex.call(this, md.components, '', machineId, machine.title);
+      if (md.maintenance) addToIndex.call(this, md.maintenance, '', machineId, machine.title);
     }
   },
 

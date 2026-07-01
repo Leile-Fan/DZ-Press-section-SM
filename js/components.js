@@ -27,7 +27,24 @@ const UI = {
   },
 
   /**
-   * 分类卡片（首页用）
+   * 机器选择卡片（首页用）
+   */
+  machineCard(icon, title, subtitle, info, route) {
+    return `
+      <div class="machine-card" data-route="${route}">
+        <div class="machine-icon">${icon}</div>
+        <div class="machine-info">
+          <h3>${title}</h3>
+          <p class="machine-subtitle">${subtitle}</p>
+          <p class="machine-detail">${info}</p>
+        </div>
+        <span class="cat-arrow">›</span>
+      </div>
+    `;
+  },
+
+  /**
+   * 分类卡片（机器首页用）
    */
   categoryCard(icon, title, subtitle, route) {
     return `
