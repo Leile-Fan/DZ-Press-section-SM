@@ -1,0 +1,2454 @@
+===PAGE_1===
+Operating and Maintenance Instructions
+《操作与维护说明书》
+Press Section - PrimePress 
+压榨部-PrimePress
+ 
+Machine: 设备： 
+Press Section - PrimePress  
+压榨部-PrimePress 
+Year of manufacture: 制造年份： 
+2026 
+Order code: 订单代码： 
+C&S Paper (Jiangsu) Co., Ltd. 
+Order no.: 订单编号： 
+C-14-855551-716 TM4, C-14-855552-716 TM3
+Original language: 原文： 
+german 德语 
+Equipment No.: 设备编号： 
+ 
+ 
+Issued: 发行人： 
+PTP/Liang Xiaoqing, 01.2026 
+Checked: 审核人： 
+PTP/Yang Kun, 03.2026 
+Rev.: 修订： 
+0 
+ 
+Press Section - PrimePress Single 压榨部- PrimePress 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Title Page 扉页 
+
+===PAGE_2===
+Press Section - PrimePress Single 压榨部-PrimePress 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+ 
+Title Page 扉页 
+Rev. 0 版本：0
+The operating manual is protected by copyright. All usual rights reserved. It must not be wholly or partly reproduced 
+without authorization by ANDRITZ. Non-compliance will result in damages claims and may have consequences under 
+criminal law. All rights shall also be reserved for any patents granted, registration of trade marks and technical modifi-
+cations without prior notification. 
+本操作手册受版权保护。版权所有。未经安德里茨有限公司批准，不得复制本文的全部或部分内容，否则会据
+此提出索赔要求，甚至涉及刑法。版权还包括专利获得、商标注册，以及在未经事先通知的情况下做出的技术
+改良 
+ 
+©2026 ANDRITZ© 2026 年版权所有 
+
+===PAGE_3===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Table of contents 目录 
+3 / 47
+Table of contents 目录 
+1 
+Technical data 技术参数 ...................................................................................................................... 4 
+1.1 
+Data – Press section 数据-压榨部 ........................................................................................................... 4 
+2 
+Description 描述................................................................................................................................... 5 
+2.1 
+Field of application 应用领域 ................................................................................................................. 5 
+2.2 
+Main components 主要部件 ................................................................................................................... 6 
+ 6 
+ 6 
+2.2.1 
+Suction press roll (1) 真空压榨辊（1） ........................................................................................ 7 
+2.2.2 
+Yankee (2) 扬克缸（2） ........................................................................................................... 11 
+2.2.3 
+Water collecting tray (3) 集水盘（3） ........................................................................................ 12 
+2.2.4 
+Pressure loading device for suction press roll (4) 真空压榨辊的压力加载装置（4） .................... 13 
+2.2.5 
+Suspension device (5) 悬吊装置（5） ........................................................................................ 14 
+2.2.6 
+Run-out carriage (6) 拆除车（6） .............................................................................................. 15 
+2.3 
+Technological description 技术描述...................................................................................................... 16 
+2.3.1 
+Function of the suction press roll 真空压榨辊的作用 ................................................................... 16 
+3 
+Maintenance 维护 .............................................................................................................................. 17 
+3.1 
+General 总则 ....................................................................................................................................... 17 
+3.2 
+Safety regulations 安全条例 ................................................................................................................. 17 
+3.2.1 
+Showers 喷淋器 ........................................................................................................................ 18 
+3.2.2 
+Maintenance work at doctors 刮刀的维护工作 ............................................................................ 18 
+3.3 
+General machine check 一般设备检查 .................................................................................................. 19 
+3.3.1 
+Maintenance intervals 维护的时间间隔 ...................................................................................... 19 
+3.3.2 
+Routine checks 日常检查 ........................................................................................................... 19 
+3.4 
+Maintenance schedule 维护计划 ........................................................................................................... 20 
+3.5 
+Fasteners 紧固件 ................................................................................................................................. 21 
+3.6 
+Spare parts 备件 .................................................................................................................................. 22 
+3.7 
+Cleaning 清理 ..................................................................................................................................... 24 
+3.7.1 
+Overview and important instructions 概览与重要指示 ................................................................. 24 
+3.7.2 
+Activities before cleaning 清理之前的活动 ................................................................................. 25 
+3.7.3 
+Cleaning 清理 ........................................................................................................................... 25 
+3.7.4 
+Flushing out 冲洗 ...................................................................................................................... 26 
+3.8 
+Lubrication 润滑 .................................................................................................................................. 27 
+3.8.1 
+Lubrication schedule 润滑计划表 ............................................................................................... 28 
+3.9 
+Changing the suction press roll 更换真空压榨辊 ................................................................................... 29 
+3.9.1 
+Removing the suction press roll 拆除真空压榨辊 ........................................................................ 30 
+3.9.2 
+Installing the suction press roll 安装真空压榨辊 ......................................................................... 33 
+3.10 
+Changing the components of the suction press roll 更换真空压榨辊的部件 ............................................. 34 
+3.10.1 
+Changing the worm gear 更换蜗轮 ............................................................................................. 35 
+3.10.2 
+Dismounting the suction box 拆除真空箱 ................................................................................... 37 
+3.10.3 
+Running the suction box in 装入真空箱 ...................................................................................... 40 
+3.11 
+Changing the seals 更换密封件 ............................................................................................................ 41 
+3.12 
+Changing the bearings 更换轴承 ........................................................................................................... 42 
+3.12.1 
+Dismounting the operator-side bearing 拆除操作侧轴承 .............................................................. 43 
+3.12.2 
+Dismounting the drive-side bearing 拆除传动侧轴承 ................................................................... 44 
+3.12.3 
+Mounting the bearings 安装轴承 ................................................................................................ 45 
+3.13 
+Doctor for suction press roll 真空压榨辊用刮刀 .................................................................................... 46 
+3.14 
+Cleaning the drill holes in the shell 清洁壳体上的钻孔 .......................................................................... 47 
+
+===PAGE_4===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+4 / 47 
+Technical data 技术参数  
+Rev. 0 版本：0
+1 
+Technical data 技术参数 
+1.1 
+Data – Press section 数据-压榨部 
+ 
+Wire section 网部 
+Pond width 流浆箱宽度 
+3596 mm
+Maximum operating speed 最大工作速度 
+1650 m/min.
+Max. wire tension 网最大张力 
+10 N/mm
+Wire width 网宽 
+3541 mm
+Wire length 网长度 
+14000 mm
+ 
+Felt data 毛毯数据 
+Max. felt tension 最大毛毯张力 
+6 N/mm
+Felt width 毛毯宽 
+3800 mm
+Felt length 毛毯长度 
+36000 mm
+ 
+Suction press roll 真空压榨辊 
+Diameter 直径 
+1410 mm
+Number of suction zones 真空区数量 
+1
+Line force (design) 线压(设计) 
+110 N/mm
+Cover 包胶 
+PU
+Hardness 硬度P&J 
+14+/-3
+Thickness 厚度 
+20mm
+ 
+Cambering curve 中高曲线 
+ 
+Fig. 1: Suction press roll – cambering curve 图1：真空压榨辊-中高曲线 
+与中心线的距离（毫米） 
+径向顶 
+
+===PAGE_5===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Description 描述 
+5 / 47
+2 
+Description 描述 
+2.1 
+Field of application 应用领域 
+The press section is used to deflect, dewater, and press the paper web onto the yankee. 
+压榨部用于对纸幅的偏转、脱水，并将其压到扬克缸上。 
+ 
+Fig. 2: Press section 图2：压榨部 
+ 
+ 
+ 
+
+===PAGE_6===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+6 / 47 
+Description 描述 
+Rev. 0 版本：0
+2.2 
+Main components 主要部件 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 3: Main components of the press section 图3：压榨部主要部件 
+ 
+Item 
+项目 
+Component 组件 
+Item 
+项目 
+Component 组件 
+1 
+Suction press roll 真空压榨辊 
+4 
+Pressure loading device for suction press roll
+真空压榨辊的压力加载装置 
+2 
+Yankee 扬克缸 
+5 
+Suspension device 悬吊装置 
+3 
+Water collecting tray 集水盘 
+6 
+Run-out carriage(not shown) 换辊小车 
+ 
+ 
+3 
+1
+2
+3
+4
+5
+6
+
+===PAGE_7===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Description 描述 
+7 / 47
+2.2.1 
+Suction press roll (1) 真空压榨辊（1） 
+ 
+Dewatering and transferring the pulp web to the yankee. 浆板脱水并将其传送到扬克缸处。 
+ 
+ 
+ 
+              
+ 
+ 
+Fig. 4: Suction press roll 图4：真空压榨辊 
+ 
+Vacuum is applied to the suction press roll, which is designed with a suction box adjusting device. 
+It comprises the following main components:  
+在真空压榨辊上施加真空，真空压榨辊设计有一个真空箱调整装置。其包含以下主要部
+件： 
+ 
+Item 
+项目 
+Component 组件 
+Item 
+项目 
+Component 组件 
+1a 
+Roll shell 辊体 
+1f 
+Supports 轴承座 
+1b 
+Roll journal 辊筒轴颈 
+1g 
+Suction box fittings 真空箱管件 
+1c 
+Bearings 轴承 
+1h 
+Sealing strips 密封条 
+1d 
+Suction box adjustment 真空箱调整 
+1j 
+Suction connection piece 真空管道连接件 
+1e 
+Suction box 真空箱 
+1k 
+Sliding blocks / run-out rolls 滑块/移出轮 
+ 
+ 
+Function 功能 
+Design 设计 
+1d
+1h 
+1h 
+1g
+1k 
+1e
+1h 
+1h 
+1b 
+1b
+1a
+1e 
+1c 
+1c 
+1j
+1d 
+1f 
+1f 
+
+===PAGE_8===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+8 / 47 
+Description 描述 
+Rev. 0 版本：0
+2.2.1.1 
+Roll shell (1a) and roll journals (1b) 辊壳（1a）和轴头（1b） 
+The roll shell (1a) has bore holes through which the water is sucked out of the felt and the pulp 
+web by vacuum. The open surface area is approximately 19.9%. The roll shell is bolted to the roll 
+journals (1b).  
+辊壳（1a）设有多个钻孔，在真空的作用下，水通过钻孔从毛毯和纸浆上吸出。开孔面积
+大约占19.9 %。辊壳用螺栓固定到辊子轴头上（1b）。 
+ 
+Fig. 5: Roll shell 图5：辊体 
+2.2.1.2 
+Bearing (1c) 轴承（1c） 
+Bearing housings and spherical roller bearings with tapered seats. On the operating side, the 
+bearings are designed as floating bearings, while on the drive side, they are designed as fixed 
+bearings. The bearings of the rolls are automatically lubricated by the central oil lubrication 
+system and sealed with labyrinth rings. The suction press roll is screwed to the pressing levers by 
+means of the supports。 
+轴承座和带圆锥轴承座的自动调心滚珠轴承。在操作侧，轴承被设计成可动轴承，而
+在驱动侧，它们被设计成，而在驱动侧，它们被设计成固定轴承。辊子的轴承由中央
+油润滑系统润滑，并用迷宫环密封。吸水压榨辊是通过支撑物拧到压榨杠杆上的。 
+     
+ 
+ 
+Fig. 6: Drive side and operator side bearing 图6：传动侧和操作侧轴承 
+ 
+ 
+
+===PAGE_9===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Description 描述 
+9 / 47
+2.2.1.3 
+Suction box adjustment (1d) 真空箱调整（1d） 
+The suction box can be pivoted round its longitudinal axis. The desired position is set using a 
+worm drive. The worm drive is operated with the ratchet supplied, inserted at the square neck. The 
+position of the suction box can be read off a scale.  
+真空箱可绕其纵轴心旋转。使用蜗杆传动装置调整所需的位置。蜗杆传动装置利用提
+供的插在方颈处棘轮操作。真空箱的位置可以从刻度上读出。 
+ 
+Fig. 7: Suction box adjustment (example)图7：真空箱调整（例子） 
+ 
+2.2.1.4 
+Suction box (1e) with sealing strips (1h) 带密封带（1h）的真
+空箱（1e） 
+The suction box (1e) is located in the roll shell (1a). The suction zone is sealed off with 
+longitudinal sealing strips (1h1) and edge sealing strips (1h2). The sealing strips are pressed 
+pneumatically onto the roll shell by means of an air hose (1h3) and lubricated with water supplied 
+through lubricating showers (1h4). Run-out rolls (1k) are mounted at the suction box in order to 
+run the suction box out of the roll shell.  
+真空箱（1e）位于辊壳（1a）内。真空区用纵向密封条（1h1）和边缘密封条（1h2）
+密封。密封条通过空气软管（1h3），被气压压在辊体上，并用润滑喷淋管（1h4）供
+应的水进行润滑。移出轮（1k）安装在真空箱处，以便将真空箱从辊壳中移出。 
+ 
+Fig. 8: Suction box with sealing strips (example) 图8：带密封带的真空箱（例子） 
+ 
+
+===PAGE_10===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+10 / 47 
+Description 描述 
+Rev. 0 版本：0
+2.2.1.5 
+Suction box fittings (1g) 真空箱管件（1g） 
+ 
+ 
+ 
+Fig. 9: Suction box fittings - operator side 图9：真空箱管件-操作侧 
+ 
+Item 项目 
+Fitting 管件 
+A 
+Compressed air display 压缩空气显示 
+B 
+Vacuum display 真空显示 
+C 
+Lubricating water connection 润滑水接口 
+D 
+Compressed air line for sealing strips 密封条用压缩空气管线 
+E 
+Suction box angle display 真空箱角度显示 
+F 
+Run-out rolls display 移出轮位置显示 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+E 
+F 
+
+===PAGE_11===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Description 描述 
+11 / 47
+2.2.1.6 
+Suction connection piece (1j) 真空连接件（1j） 
+The vacuum is applied through the suction connection piece and the water extracted by suction is 
+carried off.  
+通过真空管道连接件施加真空，水在抽真空时带走。 
+ 
+Fig. 10: Suction connection piece 图10：真空连接件 
+ 
+2.2.2 
+Yankee (2) 扬克缸（2） 
+The Yankee receives the pulp web from the suction press roll. .../TISSUE MACHINE/DRYING 
+SECTION 
+扬克缸接收从真空压榨辊来的纸浆。. .../ 卫生纸机/干燥部 
+ 
+ 
+1j 
+
+===PAGE_12===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+12 / 47 
+Description 描述 
+Rev. 0 版本：0
+2.2.3 
+Water collecting tray (3) 集水盘（3） 
+ 
+Collecting and carrying off the shower water removed by suction.  
+收集并带走抽真空带来的喷淋水 
+ 
+Welded steel structure. Two strip (3a) is mounted at the top edge that deflects the water jet, exiting 
+from the suction press roll through the bore holes due to the centrifugal force, into the water 
+collecting tray. Inside the water collecting tray there is two doctors (3b) that cleans the shell of the 
+suction press roll continuously. The water collected is drained off continuously on the drive side 
+and operator side.  
+焊接钢结构。在顶部边缘安装两个挡水条（3a），用来挡喷水，使来自真空压榨辊的水在
+离心力的作用下，通过钻孔流出，进入集水盘。在集水盘内设有两个刮刀（3b），用于持
+续清洁真空压榨辊的外壳。收集到的水在传动侧和操作侧连续排出。 
+Doctor system >> SUPPLIER DOCUMENTATION 刮刀系统>>供应商文件 
+ 
+ 
+Fig. 11: Water collecting tray 图11：集水盘 
+ 
+ 
+ 
+Function 功能 
+Design 设计 
+3a 
+3a 
+3b 
+3b 
+
+===PAGE_13===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Description 描述 
+13 / 47
+2.2.4 
+Pressure loading device for suction press roll (4) 真空压
+榨辊的压力加载装置（4） 
+ 
+Pressing the suction press roll onto the Yankee.  
+将真空压榨辊压到扬克缸上 
+ 
+Two pressing levers (4a) supported in pivot bearings, on which the suction press roll (1) is 
+mounted, are raised and lowered by air bellow (4b). On the operator side there are spacers (4c) that 
+have to be removed for felt changing. During maintenance work the position of the suction press 
+roll can be secured by means of retention pins (4d).  
+支承在枢轴轴承上的两个压臂（4a）是通过气囊（4b）抬起和降低，在压臂上安装真空压
+榨辊（1）。在操作侧，有些间隔装置（4c）在毛毯更换时必须拆除。在维护工作中，可通
+过固定销（4d）使真空压榨辊固定在安全位置。 
+Hydraulic cylinder >> TISSUE MACHINE/SUPPLIER DOCUMENTATION 
+液压缸>卫生纸机/供应商文件。 
+ 
+ 
+ Fig. 12: Pressure loading device for suction press roll 图12：真空压榨辊的压力加载装置 
+ 
+ 
+ 
+ 
+Function 功能 
+Design 设计 
+1
+4c 
+4b 
+4a 
+4d 
+
+===PAGE_14===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+14 / 47 
+Description 描述 
+Rev. 0 版本：0
+2.2.5 
+Suspension device (5) 悬吊装置（5） 
+ 
+The suspension device is used to dismount and mount the suction press roll and the water 
+collecting tray, as well as to raise the suction press roll during felt changing.  
+悬吊装置用于拆除和安装真空压榨辊和集水盘以及在更换毛毯时，升起真空压榨辊。 
+ 
+Two stainless rails (5a), mounted on the operator and drive sides respectively, at the frame. A 
+trolley (5b) is mounted for each rail. During maintenance work one chain hoist is mounted per 
+trolley.  
+两个不锈钢轨道（5a）分别安装机架的在操作侧和传动侧。每条钢轨安装有一台小车
+（5b）。在维修工作中，每台小车安装一台链式提升机。 
+ 
+ 
+ 
+ 
+Fig. 13: Suspension device for the suction press roll 图13：真空压榨辊的悬吊装置 
+ 
+ 
+ 
+5b 
+5a
+Design 设计 
+Function 功能 
+
+===PAGE_15===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Description 描述 
+15 / 47
+2.2.6 
+Run-out carriage (6) 拆除车（6） 
+ 
+Running out the water collecting tray and the suction press roll. 拆除集水盘和真空压榨辊 
+ 
+A rail (6a) is mounted underneath the machine. On the operator side, an additional rail (6b) is 
+attached during removal work. The two run-out carriages (6c) are linked by a connecting rod (6d). 
+在机器下面安装一条钢轨（6a）。在操作侧，在拆除工作期间，增加一条钢轨（6b）。两
+个拆除车（6c）通过连杆（6d）连接。 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 14: Run-out carriage with suction press roll 图14：带真空压榨辊的拆除车 
+ 
+ 
+ 
+Function 功能 
+Design 设计 
+6b
+6c 
+6a
+6d
+6c
+
+===PAGE_16===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+16 / 47 
+Description 描述 
+Rev. 0 版本：0
+2.3 
+Technological description 技术描述 
+The press section is used to deflect, dewater and press the web onto the Yankee. 
+ 压榨部用于将纸浆偏转、脱水以及压到扬克缸上。 
+2.3.1 
+Function of the suction press roll 真空压榨辊的作用 
+The suction press roll presses the pulp web adhering to the outer side of the felt onto the Yankee. 
+The pulp web is held on the Yankee by means of pressure and vacuum. The Yankee is sprayed 
+beforehand with a coating layer.  
+真空压榨辊将粘在毛毯外侧的纸浆压在扬克缸上。纸浆是通过压力和真空，保持在扬克缸
+上。扬克缸会提前喷上一层涂层。 
+ 
+In the suction zone, the water in the felt and the web is sucked through the bore holes in the roll 
+shell by means of vacuum.  
+在压榨区内，通过真空将毛毯和纸浆中的水通过辊壳上的钻孔吸入。 
+After the suction zone, the water is sprayed by centrifugal force into the water collecting tray and 
+carried off.  
+在真空区后，在离心力的作用下，水喷飞溅进集水盘内，并将其带走。 
+ 
+The vacuum sector is delimited by longitudinal and transverse sealing strips. The sealing strips are 
+pressed pneumatically onto the inside wall of the roll shell and lubricated with water by a lube 
+shower.  
+真空部由纵向和横向密封条分隔。密封条通过气动方式，压在辊壳的内壁上，并通过润滑
+水喷淋器进行润滑。 
+ 
+The entire suction box can be rotated inside the suction press roll in order to set the suction angle. 
+This means that the beginning and the end of the suction zone - limited by the sealing strips - can 
+be changed by rotating the entire suction box.  
+整个真空箱可在真空压榨辊内旋转，以设定吸入角。这意味着受密封条限制的真空区的起
+始位置和终止位置-可以通过旋转整个真空箱来改变。 
+ 
+The dewatered and pressed fibers now adhering to the Yankee in the form of a web are 
+subsequently dried. 
+然后脱水和压榨后的纤维，将以纸的形式附着在扬克缸上开始后续的干燥。
+Dewatering 脱水 
+Sealing and lubricating
+密封和润滑 
+Suction box 真空箱 
+Further processing 
+进一步处理 
+
+===PAGE_17===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+17 / 47
+3 
+Maintenance 维护 
+3.1 
+General 总则 
+This chapter describes the maintenance and upkeep, which are the responsibility of the operating 
+company. 
+本章对由运营公司负责的维护和保养作了描述。 
+The ANDRITZ service department is at your disposal for troubleshooting, as well as for extensive 
+maintenance and repair work. 
+安德里茨有限公司服务部负责帮助您进行故障排除以及各种维护和维修工作。 
+>> Service address>> 服务地址 
+3.2 
+Safety regulations 安全条例 
+ 
+ 
+All applicable accident prevention rules must be observed. 
+应当遵守各项事故预防规定。 
+Sufficient space for maintenance work must be included right away in the arrangement planning. 
+当规划车间布局时，必须包括足够的维护作业空间。 
+Do not exceed permissible crane loads and weights on lifting gear and ropes/shackles. Secure 
+loads against falling from a height. 
+不要超过起重机和钢丝绳/吊具允许的起重载荷和重量。固定载荷，防止其从高处坠落。 
+Do not step or walk below suspended loads! Standing below suspended loads can be fatal and is 
+thus strictly forbidden! 
+不要在悬吊的负荷下走动！站在悬吊的负荷下是非常危险的，因而严格禁止！ 
+The machine must be thoroughly cleaned before carrying out any maintenance work. 
+进行任何维护作业前，必须将设备清空，并彻底清洁。 
+Maintenance and service work may only be performed when the machine is shut down securely.  
+只能在设备安全停机之后实施维护、保养作业。 
+ 
+ 
+ 
+After completion of maintenance work, all required safety devices must be mounted again. 
+维修工作完成后，必须重新安装所有必需的安全装置。 
+ 
+The energy supply to all drives must be disconnected securely before beginning any maintenance 
+and service work. This can be achieved with a maintenance switch, lockable racks in the MCC, or 
+with other suitable measures that comply with the safety regulations. 
+在开始任何维护和服务作业前，必须安全断开所有驱动机的能源供应。这项措施可以使用
+能够锁定的维护开关、MCC 的可锁定支架实现，或者按照相关安全条例的要求，采取各种
+适当措施。 
+ 
+The operating company shall ensure that adequate lighting is provided (with extra-low voltage 
+bulbs) during service and maintenance work. 
+运营公司应确保在服务和维修工作期间，提供足够的照明（超低电压灯泡）。 
+ 
+Maintenance and service work must be carried out by specially trained, skilled personnel only. 
+维修和保养必须由受过专门训练的熟练人员来完成。 
+All work on the electrical equipment, without exception, must be carried out by skilled 
+electricians. 
+General safety regula-
+tions 
+基本安全条例 
+Safety devices 安全装置 
+Power supply 电源 
+Lighting 照明 
+Qualification of per-
+sonnel assigned 
+指定人员的资质 
+
+===PAGE_18===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+18 / 47 
+Maintenance 维护 
+Rev. 0 版本：0
+电气设备的所有作业毫无例外，必须由熟练的电工进行。 
+ 
+Personal safety equipment must be worn when working (>> Personal protective apparel). 
+作业时必须穿戴个人安全装备。（>>个人防护装备） 
+ 
+In general, welding work is only permitted after consulting ANDRITZ. 
+通常情况下，只有在咨询安德里茨有限公司后，才能批准焊接作业。 
+The relevant safety regulations must be observed for welding work. 
+焊接作业应当遵守相关的安全条例。 
+ 
+3.2.1 
+Showers 喷淋器 
+ 
+ 
+ 
+ 
+ CAUTION 小心 
+ 
+Liquids splashing out of the showers 从喷淋器溅出的液体 
+Wear your personal protective equipment! 穿戴个人防护装备！ 
+a) Do not put your hand into the machine! 切勿将手伸进这些设备！ 
+ 
+ 
+3.2.2 
+Maintenance work at doctors 刮刀的维护工作 
+ 
+ 
+ 
+ 
+ CAUTION 小心 
+ 
+Danger of crushing and injury 夹持、受伤的危险 
+Crushing and cuts on parts of the body when engaging retractable doctors and doctor beams.  
+伸缩式刮刀和刮刀梁有可能夹持、切割肢体。 
+Before performing any maintenance work, shut off the air supply using the manual valve! 
+开始维护作业之前，通过手动阀门切断气源！ 
+ 
+ 
+ 
+ 
+ 
+ CAUTION 小心 
+ 
+Cuts caused by the doctor blades 刮刀片割伤 
+Risk of injury when changing the blade 更换刀片期间有受伤的风险。 
+Wear cut-resistant gloves when changing or setting the doctor blades!  
+当改变或设定刮刀片时应当佩戴防切割手套！ 
+ 
+ 
+ 
+ 
+Personal protective ap-
+parel 个人防护装备 
+Welding work 
+焊接作业 
+
+===PAGE_19===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+19 / 47
+3.3 
+General machine check 一般设备检查 
+When the machine is shut down, the inspections specified in the maintenance schedule should be 
+performed.  
+设备停机之后，可以按照维护计划完成规定的检查工作。 
+In the course of general machine checks, all additional units should also be checked to guarantee 
+that the entire plant functions satisfactorily. For these checks, the attached maintenance and 
+upkeep instructions provided by the manufacturer must be observed. 
+一般检查过程中，还应检查各类附加装置，以确保整套设备达标运行。进行此类检查时，
+必须遵守制造商随机提供的维护与维修说明。 
+Malfunctions and inadmissible changes found during these checks must be rectified immediately. 
+必须立即纠正此类检查期间发现的故障与不可接受的变更。 
+3.3.1 
+Maintenance intervals 维护的时间间隔 
+A maintenance interval of two weeks is recommended for machines in continuous operation (24 
+h/day, 7 days/week). During these periods, the machine should be shut down, thoroughly cleaned, 
+and checked for wear. 
+对于连续运行（24 小时/天，7 天/周）的设备，建议每两周进行一次维护。在这段时间内，
+设备应该停机、彻底清洁，并检查是否发生磨损。 
+Machines operating less than 24 hours a day should undergo these routine checks and be cleaned 
+at each shutdown. 
+每天运行少于24 小时的设备应进行这些例行检查，并在每次停机时进行清洁。 
+3.3.2 
+Routine checks 日常检查 
+ 
+Component 组件 
+Checks 检查 
+Felt 毛毯 
+Check for cracks, holes, signs of wrinkling. Check felt 
+position.  
+检查裂纹、孔洞、起皱迹象。检查毛毯位置。 
+Replace if necessary. 必要时更换。 
+Felt tensioning device 毛毯张紧装置Check functioning. 检查其工作。 
+Doctor blades 刮刀片 
+Check for wear. Clean contact surfaces.  
+检查是否出现磨损。清洁接触表面。 
+Level off or replace if necessary. 调平或必要时更换。 
+Vacuum connections 真空接头 
+Check for leaks. 检查泄漏。 
+Hydraulic cylinder 液压缸 
+Check for leaks. 检查泄漏。 
+Rolls 辊 
+Check for damage. 检查是否发生损坏。 
+Regrind or replace if necessary.  
+重新研磨或必要时更换。 
+Drill holes in the shell of the suction 
+press roll 
+真空压榨辊外壳上的钻孔 
+Clean as required 按需要进行清洁 
+Suction box seals 真空箱密封件 
+Re-adjust as required 按需要重新调整 
+ 
+ 
+ 
+
+===PAGE_20===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+20 / 47 
+Maintenance 维护 
+Rev. 0 版本：0
+3.4 
+Maintenance schedule 维护计划 
+ 
+ 
+Component 组件 
+Activity 活动 
+Felt 毛毯 
+Check for cracks, holes, signs of wrinkling.  
+– 检查裂纹、孔洞和起皱迹象。 
+Rolls 辊 
+Check for damage. 检查是否发生损坏。 
+ 
+Doctor blades 刮刀片 
+Check for wear. 检查磨损。 
+ 
+Vacuum system 真空系统 
+Check for leaks. 检查泄漏。 
+ 
+Tab. 1: Weekly 表 1：每周 
+ 
+ 
+Component 组件 
+Activity 活动 
+Bearings 轴承 
+Check temperature. 检查温度。 
+– Measure vibrations. 测量振动。 
+– Check for unusual noises. 检查异常噪音。 
+EMERGENCY STOP switch 
+紧急停机开关 
+Check function. 检查功能。 
+ 
+Roll cover of suction press roll 
+真空压榨辊的辊罩 
+Visual check for cracks and wear.  
+– 目视检查裂纹和磨损。 
+Tab. 2: Monthly 表 2：每月 
+ 
+ 
+Component 组件 
+Activity 活动 
+Hydraulic cylinder 液压缸 
+Check for leaks 检查泄漏 
+– Check for wear 检查磨损 
+– Check functioning 检查其工作 
+Screws/bolts 螺旋/螺栓 
+Check and tighten 检查并拧紧 
+ 
+Tab. 3: Six-monthly 表 3：每6 个月 
+ 
+Component 组件 
+Activity 活动 
+Suction box 真空箱 
+Disassemble and clean. 拆卸和清洁 
+ 
+Roll cover of suction press roll 
+真空压榨辊的辊罩 
+Regrind (as required) 重新研磨（按需要） 
+ 
+Tab. 4: Annually 表. 4：每年 
+ 
+ 
+ 
+
+===PAGE_21===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+21 / 47
+3.5 
+Fasteners 紧固件 
+The installation data apply to standard screwed/bolted connections at the machine and should only 
+be used if no special installation data are stated in the assembly drawings! The information in the 
+following table applies to commercially available hexagon head and cheese head screws with 
+metric ISO thread. 
+安装数据适用于设备上的标准螺纹/螺栓连接，应仅在组装图中没有说明特殊的安装数据时
+才能使用！在下表中的信息适用于市场上可以购买，带公称ISO 螺纹的六角头和高平头螺
+钉。 
+ 
+ 
+Pre-stressing forces (kN) 预应力（千牛）
+μ 
+Tightening torques (Nm) 拧紧扭矩（牛•米）
+5.6
+8.8
+A4-50
+A4-70
+A4-80
+C3-80
+5.6 
+8.8 
+A4-50
+A4-70
+A4-80
+C3-80
+M8 
+7 
+15
+5 
+11 
+14 
+15 
+0.1
+8
+17
+6
+12
+16
+17
+0.125
+10
+21
+7
+15
+19
+21
+0.14
+11
+23
+7
+16
+21
+23
+M10 
+11
+24
+8 
+17 
+23 
+24 
+0.1
+16
+34
+11
+24
+32
+34
+0.125
+19
+41
+13
+29
+38
+41
+0.14
+21
+45
+15
+32
+42
+45
+M12 
+16
+35
+12 
+25 
+33 
+35 
+0.1
+27
+58
+19
+41
+54
+58
+0.125
+33
+70
+23
+49
+66
+70
+0.14
+36
+77
+25
+54
+72
+77
+M16 
+31
+65
+21 
+46 
+61 
+65 
+0.1
+66
+140
+46
+99
+132
+140
+0.125
+80
+170
+56
+120
+160
+170
+0.14
+88
+188
+62
+133
+177
+188
+M20 
+48
+102
+33 
+72 
+95 
+102 
+0.1
+129
+275
+90
+193
+258
+275
+0.125
+156
+334
+110
+235
+313
+334
+0.14
+173
+369
+121
+259
+346
+369
+M24 
+69
+147
+48 
+103 
+137 
+147 
+0.1
+222
+474
+156
+333
+444
+474
+0.125
+269
+575
+189
+404
+539
+575
+0.14
+298
+635
+209
+447
+596
+635
+M27 
+90
+191
+63 
+134 
+179 
+191 
+0.1
+325
+693
+227
+-
+-
+693
+0.125
+395
+843
+277
+-
+-
+843
+0.14
+437
+933
+306
+-
+-
+933
+M30 
+109
+233
+77 
+109 
+219 
+233 
+0.1
+443
+945
+310
+443
+-
+945
+0.125
+538
+1149
+377
+538
+-
+1149
+0.14
+596
+1271
+417
+596
+-
+1271
+M36 
+159
+340
+111 
+159 
+319 
+340 
+0.1
+767
+1637
+537
+767
+-
+1637
+0.125
+934
+1992
+654
+934
+-
+1992
+0.14
+1034
+2205
+724
+1034
+-
+2205
+M42 
+219
+466
+153 
+328 
+437 
+466 
+0.1
+1223
+2609
+-
+-
+-
+2609
+0.125
+1490
+3178
+-
+-
+-
+3178
+
+===PAGE_22===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+22 / 47 
+Maintenance 维护 
+Rev. 0 版本：0
+ 
+Pre-stressing forces (kN) 预应力（千牛）
+μ 
+Tightening torques (Nm) 拧紧扭矩（牛•米）
+5.6
+8.8
+A4-50
+A4-70
+A4-80
+C3-80
+5.6
+8.8 
+A4-50
+A4-70
+A4-80
+C3-80
+0.14
+1650
+3520
+-
+-
+-
+3520
+M48 
+287
+612
+201 
+431 
+574 
+612 
+0.1
+1841
+3928
+-
+-
+-
+3928
+0.125
+2245
+4789
+-
+-
+-
+4789
+0.14
+2487
+5305
+-
+-
+-
+5305
+Tab. 2: Installation data for set screws 表 3：固定螺旋的安装数据 
+ 
+ 
+The coefficient of friction depending on the lubrication can be found in the following table: 
+在下表中可以找到取决于润滑剂的摩擦系数： 
+ 
+μ 
+Lubrication 润滑 
+5.6 / 8.8 / C3-80
+A4-50 / A4-70 / A4-80
+0.1
+MoS2
+0.125 
+dry or oiled 
+干燥或上油的 
+  
+0.14 
+ - 
+Anti-seize compounds 防卡剂 
+Tab. 5: Recommended lubrication and friction coefficients 表 5：推荐润滑和摩擦系数 
+If the special lubricants mentioned here are not used, please follow the respective manufacturer's 
+instructions. 
+如果没有使用这里提到的特殊润滑剂，请遵循制造商的相应说明。 
+Bolts and screws are manufactured in several classes of material. The heads of these screws and 
+bolts are marked to show the strength class. Damaged or lost fasteners should only be replaced 
+with fasteners of the same material. 
+螺栓和螺钉采用多种等级的材料制造。这些螺钉和螺栓的头部进行了强度等级标记。损坏
+或丢失的紧固件只能用相同材料的紧固件代替。 
+The manufacturer's instructions should be observed for sub-supplies pertaining to the machine. 
+对于与设备有关的子耗材，应遵守制造商的说明。 
+ 
+ 
+ 
+ 
+ CAUTION 小心 
+ 
+Incorrectly tightened screws 螺钉锁紧不正确 
+Incorrectly tightened screws may lead to machine damage and thus to hazardous situations for 
+persons.  
+螺钉锁紧不正确可导致机器损坏，因而导致人员的有害状况。 
+The installation values according to the drawings or the table must be observed!  
+必须遵循图纸或表格中给出的安装数值。 
+ 
+3.6 
+Spare parts 备件 
+Use only original spare parts. 只能使用原厂备件。 
+A list of the spare parts required for the machine can be found in the parts book. 
+此台设备需要的备件清单可以在部件集锦中找到。 
+Coefficients of friction 
+and lubrication 
+摩擦系数与润滑 
+
+===PAGE_23===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+23 / 47
+>> Parts book>>部件集锦 
+Details on spare parts from sub-suppliers are also included in specifications from component 
+suppliers. 
+由分包商供应的零部件清单也包括在零部件供应商的规格书中。 
+>> Supplier documentation>>供应商文件 
+ 
+ 
+
+===PAGE_24===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+24 / 47 
+Maintenance 维护 
+Rev. 0 版本：0
+3.7 
+Cleaning 清理 
+3.7.1 
+Overview and important instructions 概览与重要指示 
+ 
+ 
+ 
+ 
+ WARNING 警告 
+ 
+Danger from the improper use of chemical cleaning agents!  
+错误使用化学清洁剂会导致危险！ 
+Contact with the cleaning agents may cause skin damage and burning.  
+接触清洁剂有可能导致皮肤破损、烧伤。 
+Personal protective apparel must be worn! 应当佩戴个人防护装备！ 
+a) The safety regulations from the appropriate cleaning agent supplier must be observed!  
+应当遵守清洁剂供应商提供的安全条例！ 
+ 
+ 
+ 
+ 
+ 
+ 
+NOTICE 注意 
+ 
+Incorrect cleaning 清理不当 
+Damage due to incorrect cleaning agents. 错误使用清洁剂导致的破坏。 
+Only permissible cleaning agents may be used for cleaning! 只能使用规定的清洁剂！ 
+a) For electrical machine parts prevent any ingress of water, steam or other cleaning agents!  
+防止设备的电气零件浸水、渗透蒸汽和各种清洁剂！ 
+b) Do not use high-pressure cleaning equipment for cleaning the surface of painted parts as this 
+may lead to chipping in the paint coat and ultimately to corrosion!  
+切勿用高压力设备清理涂装表面以免涂层破损、导致腐蚀！ 
+ 
+3.7.1.1 
+Time and method 时间与方法 
+When the machine is shut down, the headbox must be cleaned thoroughly so that the stock does 
+not dry on.  
+设备停机以后，应当彻底清理流浆箱以免物料干结。 
+This prevents fermentation processes and bacteriological activity.  
+这样能够防止发酵、滋生细菌。 
+ 
+3.7.1.2 
+Cleaning work 清理作业 
+Flush out with fresh water and cleaning agent. 用清水和清洁剂冲洗。 
+– Flush out the entire machine.冲洗整个机器。 
+3.7.1.3 
+Process materials 工艺材料 
+Fresh water must be used to clean all parts of the machine. 应当用清水清理设备的各个部件。 
+3.7.1.4 
+Suitable cleaning agents 适用的清洁剂 
+The headbox should only be cleaned with the following cleaning agents:  
+
+===PAGE_25===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+25 / 47
+应当用下列清洁剂清理流浆箱： 
+ 
+Permitted cleaning agents 
+允许使用的清洁剂 
+Concentration 浓度 
+Temperature 温度 
+HCl (hydrochloric acid)  
+HCl（盐酸） 
+2-5% 
+up to 60°C 最高60℃ 
+NaOH (caustic soda)  
+NaOH（苛性钠） 
+2-5% 
+up to 60°C 最高60℃ 
+Sulfamic acid 硫酸 
+0.45% 
+up to 60°C 最高60℃ 
+Tab. 6: Cleaning agent 表 6：清洁剂 
+3.7.1.5 
+Clean polished surfaces 清理抛光表面 
+Please observe the following when cleaning polished surfaces:  
+清理抛光表面的时候注意下列事项： 
+Do not use sharp objects! 切勿使用尖锐物体！ 
+– Use only cleaning rags, fresh water,and permitted chemical cleaning agents!  
+– 只能使用干净的抹布、清水和允许使用的化学清洁剂！ 
+ 
+3.7.2 
+Activities before cleaning 清理之前的活动 
+Shut down stock feed. 停止送料。 
+– Shut down machine/plant. 停机机器/设备。 
+– Leave the water loop running for approximately 15 minutes to clean the system after the stock 
+feed has been shut down.  
+– 停止送料之后，让水路继续运行15 分钟左右，清理系统。 
+3.7.3 
+Cleaning 清理 
+Machine must be cleaned as follows before carrying out any maintenance work:  
+在进行任何维修工作前，必须按以下方式清洁机器： 
+Thorough cleaning of the felt and the rolls. 彻底清洁毛毯和辊。 
+– Any dirt or residue on the felt or rolls must always be removed.  
+– 必须清除毛毯或辊上的任何污垢或残留物。 
+– The tension on the felt must always be relieved if there is a longer shutdown.  
+– 如果长时间停机，必须释放毛毯上的张力。 
+– Thorough cleaning of the doctor blades. 彻底清洗刮刀片。 
+– Clean any clogged shower nozzles. 清洁任何堵塞的淋浴喷头。 
+ 
+ 
+ 
+ 
+ WARNING 警告 
+ 
+Contact with the fibre coating 
+接触纤维涂布层 
+Contact with the fibre coating can lead to skin damage and chemical burn injuries.  
+接触纤维涂布层会导致皮肤损伤和化学烧伤。 
+Persons handling the fibre coating must not be allergic to it!  
+
+===PAGE_26===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+26 / 47 
+Maintenance 维护 
+Rev. 0 版本：0
+对纤维涂布层过敏的人员不得接触纤维涂层！ 
+a) Wear personal protective equipment! 穿戴个人防护装备！ 
+b) Clean and disinfect hands after working on the machine!  
+在机器上工作后，洗手并对手进行消毒！ 
+ 
+NOTICE! Dirt and residue on the felt and rolls impair the paper quality. These parts should 
+therefore be thoroughly cleaned before re-starting the equipment. Personal protective 
+apparel must be worn!  
+注意！毛毯和辊上的污垢和残渣会影响纸张的质量。因此，在重新启动设备之前，应彻底
+清洗这些部件。必须穿戴个人防护装备！ 
+NOTICE! The felt can be damaged as a result of uneven tensioning. The felt tension must be 
+relieved at each longer shutdown period.  
+注意！由于张紧不均匀，可能会损坏毛毯。如果需要长时间停机，必须解除毛毯张力。 
+NOTICE! Worn doctor blades impair regular roll cleaning during operation. Level off 
+doctor blades in good time or replace.  
+注意！磨损的刮刀叶片在操作过程中会影响辊定期清洗。及时调平刮刀片或更换。 
+3.7.4 
+Flushing out 冲洗 
+ 
+Steps 步骤 
+Shut down stock feed. 停止送料。 
+a) If chemical cleaning agents are used: Add cleaning agent to the water loop.  
+如果使用了化学清洁剂：将清洁剂添加到水环路中。 
+>> OVERVIEW AND IMPORTANT INFORMATION>>概览与重要信息 
+b) Open the water loop and flush the system out for approximately 15 minutes.  
+打开水环路，冲洗系统15 分钟左右。 
+NOTICE! Cleaning agents should not attack plastics and must also contain additives to 
+combat fungal or bacterial growth. It is essential to observe the safety regulations provided 
+by the cleaning agent supplier. Personal protective apparel must be worn!  
+注意！清洁剂不应腐蚀塑料，还必须含有抑制真菌或细菌生长的添加剂。必须遵守清洁剂
+供应商给出的安全条例。应当佩戴个人防护装备！ 
+DANGER! Open drainage channels in the floor. Risk to life and limb and risk of damaging 
+the machine or one of its components. Drainage channels must be covered again after 
+cleaning in order to eliminate any danger of tripping or falling!  
+危险！地面上的打开的排水沟。危及生命和肢体危险以及损坏机器或其部件危险。清洗后
+必须重新覆盖排水沟，以消除任何绊倒或跌倒的危险！ 
+ 
+ 
+
+===PAGE_27===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+27 / 47
+3.8 
+Lubrication 润滑 
+Before start-up, check whether all lubrication points, in particular the bearings and gears, have 
+been filled with the appropriate lubricants. 
+在启动之前，检查所有润滑点（特别是轴承和齿轮）是否都添加了合适的润滑剂。 
+Details on lubrication are also included in the descriptions from component suppliers. 
+关于润滑的具体规定同时还包含在组件供应商的说明中。 
+>> Supplier documentation>>供应商文件 
+Please also observe maintenance instructions on the maintenance signs and rating plates attached 
+to the machine and components. 
+请同时遵守设备和组件上的维护标志和铭牌板上的维护说明。 
+ 
+ 
+ 
+ 
+NOTICE 注意 
+ 
+Incorrect disposal of lubricants 润滑剂处置错误 
+Incorrect disposal of lubricants endangers our environment. 
+润滑剂处置错误会污染我们的环境。 
+Collect leaking oil and dispose of properly without causing environmental pollution!  
+收集漏油，妥善处理，不会造成环境污染！ 
+a) Oil containing plant-based raw materials should always be collected and disposed of 
+separately!  
+基于蔬菜原材料的润滑油应分开进行收集和处置！ 
+ 
+ 
+ 
+
+===PAGE_28===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+28 / 47 
+Maintenance 维护 
+Rev. 0 版本：0
+3.8.1 
+Lubrication schedule 润滑计划表 
+ 
+ 
+ 
+ 
+ 
+Fig. 15: Lubrication points 图 15：润滑点 
+ 
+Lubrication point 润滑点 
+Lubricant 
+润滑剂 
+Amount per 
+lubricating point 
+每个润滑点的量 
+Interval 时间间隔 
+Item
+项目
+No./uni
+on 
+数量/
+单位
+Group 
+assembly/Designation 
+分部装配/名称 
+Type 类型 
+First 
+filling
+首次加
+注 
+Refilling
+重新加注
+Refilling
+重新加注
+Change 更换 
+1 
+2 
+Anti-friction bearing 
+耐磨轴承 
+ISO-VG 320 
+5 l / min. >> CENTRAL OIL LUBRICATION 
+10 升/分钟. >>中央油润滑系统 
+2 
+2 
+Bearing for worm gear 
+蜗轮轴承 
+Mobilith SHC 
+PM460 
+ 
+2 g 
+1200 h 
+ 
+3 
+2 
+Plain bearing for press-on 
+device 
+压上装置的滑动轴承 
+Mobilith SHC 
+PM460 
+ 
+2-4 g 
+600 h 
+ 
+Tab. 4: Lubricating schedule 表 15：润滑计划表 
+ 
+ 
+3
+2 
+1
+
+===PAGE_29===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+29 / 47
+3.9 
+Changing the suction press roll 更换真空压榨
+辊 
+ 
+ 
+ 
+ 
+The following parts must be prepared before starting to change the rolls:  
+在开始更换辊之前，必须准备下列零件： 
+Tools 工具 
+– Lifting devices 提升装置 
+– Wires, ropes 网，绳 
+– Roll changing parts 辊更换零件 
+– Rolls 辊 
+The machine must be thoroughly cleaned before carrying out any maintenance work. 
+进行任何维护作业前，必须将设备清空，并彻底清洁。 
+ 
+ 
+ 
+ 
+ WARNING 警告 
+ 
+Trapping and crushing 夹住与辗压 
+Limbs can be trapped or crushed during work. 作业中，肢体可能被夹住或辗压。 
+Do not place your hand below suspended loads! 不要将手放在悬吊载荷下方！ 
+a) Wear your personal protective equipment! 穿戴个人防护装备！ 
+b) Moving parts that are able to change position and thus have crushing or shearing points must 
+be secured in position with supporting bars or equivalent measures (e.g. lowering). 
+运转部件能够改变位置，因此具有挤压点或剪切点，必须使用支撑杆将其固定到位或
+采取等效措施（如放低）。 
+ 
+ 
+ 
+ 
+ 
+ DANGER 危险 
+ 
+Falls when working 作业时坠落 
+Mortal danger due to falls when working. 作业时坠落而造成死亡危险。 
+Greater risk of accidents because some gratings, walkway railings, protective devices, etc. have to be removed or swung 
+out of position.  
+ 因为一些格栅、走台栏杆、保护装置等必须移走或摆出其位置，存在重大事故风险。 
+a) Use stable ladders and platforms! 使用稳定的梯子和平台！ 
+b) Wear your personal protective equipment! 穿戴个人防护装备！ 
+ 
+ 
+ 
+ 
+Preparation 准备工作
+
+===PAGE_30===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+30 / 47 
+Maintenance 维护 
+Rev. 0 版本：0
+3.9.1 
+Removing the suction press roll 拆除真空压榨辊 
+ 
+All personnel involved must receive precise instructions before starting to change a roll.  
+– 在开始拆除一个辊之前，所有有关人员必须收到准确说明。 
+– The fitters involved must receive exact instructions as to their sphere of responsibility and 
+their activities.  
+– 所有相关装配人员必须收到关于其责任范围和活动的准确说明。 
+All tools and auxiliary equipment needed for roll changing must be checked and kept at the ready 
+before work begins.  
+更换辊所需的所有工具和辅助设备必须在工作开始前完成检查并准备工作。 
+ 
+ 
+ 
+Steps 步骤 
+There is no felt in the machine 机器内无毛毯。 
+a) Machine is shut down. 机器停机。 
+b) The suction press roll (1) is swung down and secured in place (2). The feed pipes to the air 
+bellow are closed 
+将真空压榨辊（1）向下摆动并固定到位（2）。气胎的进水管关闭。 
+c) All connections to the water collecting tray (3) have been removed.  
+所有到集水盘（3）的接口已拆除。 
+d) Place the two run-out carriages (9) underneath the machine and connect using the shifting rod.  
+将两台拆除车（9）放置在机器下面，并使用移动杆连接。 
+e) Mount the two top-mounted attachments (A) on the run-out carriages.  
+将两个顶部安装的附件（A）安装在拆除车上。 
+f) Suspend the removing device (4) from the suspension lugs (5) by means of shackles.  
+用吊具，利用吊耳（5），悬吊其拆卸装置（4）。 
+g) Attach the suspension straps (6) of the water collecting tray to the suspension device (7).  
+将集水盘的吊带（6）连接到到悬吊装置（7）上。 
+h) Detach the fastening screws (8) and place the water collecting tray on the run-out carriage (9). 
+Pull the water collecting tray out of the frame and lift out of the machine.  
+拆下紧固螺钉（8），并将集水盘放置在拆除车（9）上。将集水盘从机架中拉出，并
+将其从机器中抬出。 
+ 
+ 
+Preparations for dis-
+mounting 
+拆卸准备工作 
+Starting position 
+开始位置 
+
+===PAGE_31===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+31 / 47
+ 
+ 
+Fig. 16: Starting position for changing the suction press roll – Fig. 1 图 16：更换真空压榨辊的开始位置-图1 
+ 
+ 
+9 
+1 
+3 
+2 
+7 
+
+===PAGE_32===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+32 / 47 
+Maintenance 维护 
+Rev. 0 版本：0
+Fig. 17: Starting position for changing the suction press roll – Fig. 2 图 17：更换真空压榨辊的开始位置-图2 
+ 
+ 
+ 
+Steps 步骤 
+ 
+a)  Rotate the shell of the suction press roll until the bore holes for securing the anti-torsion 
+device match up. 旋转真空压榨辊的外壳，直到固定抗扭装置的孔对齐为止。 
+b) Mount rotation locks (10) on the operator and drive sides between the roll shell and the 
+bearing housing.  
+在操作侧和传动侧，在辊体和轴承座之间，安装旋转锁（10）。 
+ 
+Fig. 18: Mounting the anti-torsion device 图 18：安装抗扭装置 
+ 
+ 
+ 
+ 
+ 
+Steps 步骤 
+Place the two run-out carriages (9) underneath the machine and connect using the shifting rod.  
+将两个拆除车（9）放置在机器下方，并使用移动杆连接。 
+a) Suspend the suction press roll from the suspension devices (7) with the belt (G) on the drive 
+side.  
+在传动侧，利用悬吊装置（7）吊带（G），吊起真空压榨辊。 
+b) Suspend the suction press roll from the suspension devices (7) with the steel rope (S) on the 
+operator side.  
+在操作侧，利用悬吊装置（7）上钢丝绳（S），吊起真空压榨辊。 
+c) Tension the belt and steel rope slightly with the chain hoists.  
+用链式提升机稍微张紧吊带和钢丝绳。 
+d) Detach the operator-side and drive-side fastening screws (11) at the supports.  
+松开支架上的操作侧和传动侧紧固螺旋（11）。 
+e) Raise the suction press roll slightly and push into position above the run-out carriage (9).  
+稍微抬起真空压力辊，并将其推进到拆除车（9）上方的位置上。 
+f) Lower the suction press roll and place on the run-out carriages.  
+降低真空压榨辊，并将其放置在拆除车上。 
+Mounting the anti-tor-
+sion device 
+安装抗扭装置 
+Removing the suction 
+press roll 
+拆除真空压榨辊 
+
+===PAGE_33===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+33 / 47
+g) Screw the suction press roll to the run-out carriages. 将真空压榨辊旋入到拆除车上。 
+h) Dismount steel rope and belt. 拆除钢丝绳和吊带。 
+i) Pull the suction press roll out of the frame and lift out of the machine.  
+将真空压榨辊拉出机架，并将其抬出机器。 
+ 
+Fig. 19: Removing the suction press roll 图 19：拆除真空压榨辊 
+ 
+3.9.2 
+Installing the suction press roll 安装真空压榨辊 
+To install the suction press roll, carry out the steps described to remove it in reverse order.  
+如果想要安装真空压榨辊，按与拆除真空压榨辊相反的顺序执行。 
+ 
+ 
+
+===PAGE_34===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+34 / 47 
+Maintenance 维护 
+Rev. 0 版本：0
+3.10 
+Changing the components of the suction press 
+roll 更换真空压榨辊的部件 
+NOTICE! ANDRITZ recommends only changing components when the suction press roll 
+has been removed from the machine. Here, the suction press roll should be placed on the roll 
+shell such that the bearing housings are facing downwards.  
+注意！安德里茨有限公司建议只能在真空压榨辊从机器上拆除时，才能更换部件。此时，
+真空压榨力辊应放置在辊体上，使得轴承座表面朝下。 
+ 
+ 
+ 
+ 
+Steps 步骤 
+a) Loosen the bolts (1) at the worm drive. 松开蜗杆传动处的螺栓（1）。 
+b) Use the ratchet provided to turn the suction box at the square neck (2) until the sliding strips 
+and/or the run-out roll are in the run-out position.  
+使用所提供的棘轮，转动真空箱的方颈（2），直到密封条/或移出轮处于拆除位置。 
+The suction box is in the run-out position when the marking (3) is in the 6 o'clock position 
+(P1).  
+当标记（3）处于6 点钟位置（P1）时，真空箱处于拆除位置。 
+c) Lock the worm gear in position again by tightening the screws (1).  
+通过拧紧螺旋（1），再次将蜗轮锁定在位置上。 
+ 
+ 
+Fig. 20: Rotate suction box into removing position 图 20：将真空箱旋转到拆除位置 
+ 
+ 
+ 
+Suction box turned 
+into the removal posi-
+tion 
+真空箱旋转入拆除位置
+
+===PAGE_35===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+35 / 47
+3.10.1 
+Changing the worm gear 更换蜗轮 
+ 
+ 
+ 
+Steps 步骤 
+a) Turn the suction box into the dismounting position. 将真空箱旋转到拆卸位置。 
+b) Remove the hexagon head bolts (1) on both sides. 拆除两侧的六角头螺栓（1）。 
+c) Remove the clamping ring (2). 拆除夹紧环（2）。 
+d) Remove the pressure piece (3). 拆除压力件（3）。 
+e) Remove the head screws (4). 拆除螺钉（4）。 
+f) Push off the covers (5) on both sides with forcing screws.  
+推开两侧的带锁紧螺丝的上盖（5）。 
+g) Turn out worm (6) on one side far enough to remove the tapered roller bearing (7) and the 
+sealing disc (8).  
+旋出一侧蜗杆（6），直到可以拆卸圆锥滚子轴承（7）和密封盘（8）。 
+h) Turn out the worm in the other direction (this pushes the tapered roller bearing out on the 
+other side).  
+旋出另一个方向蜗杆（这会另将一侧的圆锥滚子轴承推出）。 
+i) Remove cover plate (9) by removing the screws (10).  
+通过拆除螺钉（10），拆下盖板（9）。 
+j) Remove hexagon head bolts (11). 拆除六角头螺栓（11）。 
+k) Dismount the worm gear cover (12) (with the aid of push-off screws if necessary).  
+拆除蜗轮盖（12）（必要时用顶起螺钉协助）。 
+l) Remove the bolts (13). 拆除螺栓（13）。 
+m) Push off worm gear wheel (14) and remove. 推开蜗轮（14）并拆下。 
+ 
+Re-assemble in reverse order. 按反向顺序重新装配。 
+NOTICE! Damage may be caused by incorrect installation. All parts must be cleaned, and 
+all bright-finish parts and fits must be greased before assembling. Always inspect seals, 
+sealing surfaces and fits for wear before assembly.  
+注意！安装不当可能会造成的损坏。所有零件必须清洁，所有亮漆零件和配合处必须在装
+配前进行润滑。组装前，始终检查密封件、密封表面和配合处是否出现磨损。 
+Removing the worm 
+gear 拆除蜗轮 
+Installing the worm 
+gear 安装蜗轮 
+
+===PAGE_36===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+36 / 47 
+Maintenance 维护 
+Rev. 0 版本：0
+ 
+ 
+Fig. 21: Removing the worm gear 图 21：拆除蜗轮 
+ 
+ 
+ 
+
+===PAGE_37===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+37 / 47
+3.10.2 
+Dismounting the suction box 拆除真空箱 
+If the bearing is not to be changed, the drive-side bearing is bolted to the roll shell and the 
+operator-side bearing remains attached to the suction box.  
+如果不更换轴承，则将传动侧轴承用螺栓固定在辊体上，操作侧轴承仍连接在真空箱上。 
+ 
+The suction press roll has been dismounted and placed on a suitable support resting on the roll shell.  
+– 已经拆除真空压榨辊，并放置在处于在辊体上的合适支架上。 
+– The anti-torsion devices between bearing housing and roll shell have been mounted.  
+– 轴承座与辊体之间的抗扭装置已安装完毕。 
+– The suction box is in the removal position. 真空箱处在拆除位置。 
+ 
+ 
+ 
+Steps 步骤 
+Attach the operator-side roll journal unit to the machine room crane at the point (1) provided for this purpose.  
+在为此目的提供的点（1）处，将操作侧辊筒轴颈单元连接到设备间起重机上。 
+a) Remove the cover ring (2). 拆卸盖环（2）。 
+b) Loosen the nuts (3) and unscrew by approx. 10 mm (Caution: do not remove completely).  
+松开螺母（3），大约松开螺钉10 毫米（小心：不要完全拆除）。 
+c) Dismount the closing pins from the push-off bores. 将推出孔上拆除闭合销。 
+d) Mount the forcing screws (4). 安装顶起螺栓（4）。 
+e) Push off the operator-side roll journal (5) using the forcing screws (4).  
+使用顶起螺栓（4），压出操作侧轴头（5）。 
+f) When pushing off with forcing screws, they should be tightened alternately until the press fit 
+between roll shell (6) and operator-side roll journal (5) has been detached.  
+用顶起螺钉推出时，应交替拧紧螺钉，直到辊体（6）与操作侧轴头（5）之间的配合
+面分离为止。 
+g) After detaching the press fit, remove the nuts (3) and push the roll journal out of the roll shell 
+with the aid of the forcing screws.  
+在分离压配合面后，拆下螺母（3），并借助顶起螺栓的帮助下，将辊筒轴颈从辊体中
+推出。 
+Preliminary require-
+ments for dismounting 
+the suction box 
+拆除真空箱的基本要求
+Pushing off the opera-
+tor-side roll journal 
+unit 
+推开操作侧辊筒轴颈装
+置 
+
+===PAGE_38===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+38 / 47 
+Maintenance 维护 
+Rev. 0 版本：0
+ 
+Fig. 22: Pushing off the operator-side roll journal unit 图 22：推出操作侧辊筒轴颈装置 
+ 
+ 
+ 
+ 
+Steps 步骤 
+Pull the suction box (1) carefully towards the operator side out of the drive-side fitting area (2) until the run-out rolls (3) are 
+resting on the inside on the roll shell (4).  
+将真空箱（1）小心地向操作侧拉动，拉出传动侧的配合位置（2），直到移出轮（3）
+可以停放在辊壳（4）的内表面上。 
+a) Pull out the suction box until the run-out rolls are at the end of the roll shell.  
+拉出真空箱，直到移出轮处在辊壳末端。 
+b) Suspend the suction box from the machine room crane by means of a belt (5). Use a second 
+crane trolley if required.  
+利用设备间起重机，通过吊带（5），吊起真空箱。如有需要，可使用二台起重机。 
+c) Run the suction box out completely. 将真空箱完全移出。 
+d) Place the suction box with the operator-side roll journal unit on a suitable support.  
+放置真空箱，操作侧轴头放置在适当的支撑上。 
+Running the suction 
+box out 移出真空箱 
+
+===PAGE_39===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+39 / 47
+ 
+ 
+ 
+Fig. 23: Running the suction box out 图 23：移出真空箱 
+ 
+ 
+Operator side 操作侧
+
+===PAGE_40===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+40 / 47 
+Maintenance 维护 
+Rev. 0 版本：0
+3.10.3 
+Running the suction box in 装入真空箱 
+To run the suction box in, carry out the steps described for removing it in reverse order.  
+为了装入真空箱，按拆除真空箱的反序，执行步骤。 
+NOTICE! When installing the suction box, ensure that all fitting surfaces have been properly 
+cleaned. The fitting surfaces of the drive-side suction box neck (2) and the seat of the 
+operator-side roll journal must be lubricated with graphite grease!  
+注意！安装真空箱时，确保所有装配表面均已正确清洁。传动侧真空箱颈部（2）的装配表
+面和操作侧辊筒轴颈座必须用石墨润滑脂润滑！ 
+NOTICE! Damage may be caused by incorrect installation. All parts must be cleaned, and 
+all bright-finish parts and fits must be greased before assembling. Always inspect seals, 
+sealing surfaces and fits before assembly.  
+注意！安装不当可能会造成的损坏。所有零件必须清洁，所有亮漆零件和配合处必须在装
+配前进行润滑。组装前，始终检查密封件、密封表面和配合处是否出现磨损。 
+NOTICE! Damage caused by dirty suction box. The suction box must be removed from the 
+machine once a year and cleaned. Function of the nozzles in the lubrication spray pipe 
+should also be checked when this work is carried out.  
+注意！真空箱脏污可造成的损坏。真空箱必须每年从机器上取出一次进行清洁工作。在进
+行这项工作时，还应检查润滑喷管中喷嘴的作用。 
+ 
+ 
+ 
+
+===PAGE_41===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+41 / 47
+3.11 
+Changing the seals 更换密封件 
+ 
+The suction box must be removed before changing the seals.  
+在更换密封件前必须拆下真空箱。 
+ 
+ 
+ 
+Steps 步骤 
+Pull out longitudinal sealing strips (1). 拉出纵向密封条（1）。 
+a) Unscrew bolts (2) and lift off mounting (3). 松开螺栓（2），抬出安装架（3）。 
+b) Pull out edge sealing strips (4). 拉出边缘密封条（4）。 
+c) Check air hoses (5) and install new ones if necessary.  
+检查空气软管（5），必要时安装新软管。 
+d) Insert the new seals. 插入新的密封条。 
+CAUTION! Damage may be caused by incorrect installation. All parts must be cleaned, and 
+all bright-finish parts and fits must be greased before assembling. Always inspect seals, 
+sealing surfaces and fits before assembly.  
+小心！安装不当可能会造成的损坏。所有零件必须清洁，所有亮漆零件和配合处必须在装
+配前进行润滑。组装前，始终检查密封件、密封表面和配合处是否出现磨损。 
+ 
+Fig. 24: Changing the sealing strips (symbolic illustration) 图 24：更换密封带（符号图示） 
+ 
+ 
+ 
+Prerequisites 前提条件 
+Changing the seals 
+更换密封件 
+
+===PAGE_42===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+42 / 47 
+Maintenance 维护 
+Rev. 0 版本：0
+3.12 
+Changing the bearings 更换轴承 
+ 
+The operator-side bearing can only be dismounted when the suction press roll and worm gear have 
+been removed.  
+操作侧轴承只能在拆除真空压榨辊和蜗轮时才能拆除。 
+It is essential to observe the lubrication intervals stated in the lubricating schedule, as well as to 
+use the recommended or equivalent lubricating greases in each case in order to prevent bearing 
+damage.  
+必须遵守润滑表中规定的润滑间隔，并在任何情况下使用推荐的或等效的润滑脂，以防止
+轴承损坏。 
+When changing the roll and bearing, check that the fixed bearing is always on the drive side 
+of the machine.  
+更换辊和轴承时，检查固定轴承是否总是处在机器的传动侧。 
+For detailed information on installing, removing and maintaining anti-friction bearings, see:  
+关于耐磨轴承安装、拆卸和维护的详细信息，请参阅： 
+>> /ANNEX/Maintenance, installation and removal of anti-friction bearings 
+>> /附件/耐磨轴承的维护、安装和拆卸 
+ 
+ 
+ 
+ 
+ WARNING 警告 
+ 
+Trapping and crushing 夹住与辗压 
+Limbs can be trapped or crushed during work. 作业中，肢体可能被夹住或辗压。 
+Do not place your hand below suspended loads! 不要将手放在悬吊载荷下方！ 
+a) Wear your personal protective equipment! 穿戴个人防护装备！ 
+b) Moving parts that are able to change position and thus have crushing or shearing points must 
+be secured in position with supporting bars or equivalent measures (e.g. lowering). 
+运转部件能够改变位置，因此具有挤压点或剪切点，必须使用支撑杆将其固定到位或
+采取等效措施（如放低）。 
+ 
+NOTICE! Bearing damage may be caused by incorrect installation! All parts must be 
+cleaned, and all bright-finish parts and fits must be greased before assembling. Always 
+inspect seals, sealing surfaces and fits before assembly.  
+注意！安装不当可能会造成轴承损坏。必须清洗所有零件，所有亮漆零件和配合必须在装
+配前进行润滑。在装配之前，一定要检查密封件、密封表面和装配的磨损。 
+ 
+ 
+Preparations for re-
+moving the bearings 
+拆除轴承的准备工作 
+
+===PAGE_43===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+43 / 47
+3.12.1 
+Dismounting the operator-side bearing 拆除操作侧轴承 
+Details on bearing change, please refer to >> ANNEX/SKF 
+关于轴承更换的详细说明，参见 >>附件/SKF 
+ 
+ 
+ 
+Steps 步骤 
+Dismount worm drive. 拆卸蜗杆传动装置。 
+a) Detach screws (1) and remove the outer bearing cover (2).  
+松开螺钉（1），拆除外轴承盖（2）。 
+b) Remove the safety cover (3). 拆除安全护罩（3）。 
+c) Detach bolts (4) and remove the bearing housing (5). 拆下螺栓（4），拆下轴承座（5）。 
+d) Screw the retaining screws (6) into the shaft nut (7) and loosen the locking screws (12).  
+将固定螺钉（6）拧入锁紧螺母（7）中，并松开锁紧螺钉（12）。 
+e) Loosen shaft nut by 2–3 turns with the striking-face wrench. 用冲击扳手松开锁紧螺母2-3
+圈。 
+f) Connect up a hydraulic hand pump to the forcing bore (8) and push the self-aligning roller 
+bearing (9) off.  
+将液压手动泵连接到固定孔（8）中，并推开自动调心滚珠轴承（9）。 
+g) Dismount hydraulic hand pump, close off forcing bore in roll journal with the screw plug.  
+拆除液压手动泵，用螺塞堵上辊子轴颈中的压力孔。 
+h) Remove shaft nut and self-aligning roller bearing. 拆卸轴螺母和自动调心滚珠轴承。 
+i) Remove inner bearing cover (10) and labyrinth ring (11).  
+拆卸内轴承盖（10）和迷宫环（11）。 
+ 
+Fig. 25: Changing the operator-side bearing 图 25：更换操作侧轴承 
+ 
+Re-assemble in reverse order. 按反向顺序重新组装。 
+>> Mounting the bearings 安装轴承 
+Check all seals and replace if necessary. 检查所有密封件，必要时进行更换。 
+ 
+ 
+ 
+Disassembly 拆卸 
+Installation 安装 
+
+===PAGE_44===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+44 / 47 
+Maintenance 维护 
+Rev. 0 版本：0
+3.12.2 
+Dismounting the drive-side bearing 拆除传动侧轴承 
+Details on bearing change, please refer to >> ANNEX/SKF 
+关于轴承更换，详见 >> 附件/SKF 
+ 
+ 
+ 
+Steps 步骤 
+Unscrew bolts (1) and remove the flange (2) with the seal.  
+松开螺栓（1），并拆除带密封件的法兰（2）。 
+a) Detach screws (3) and remove the outer bearing cover (4).  
+松开螺钉（3），拆除外轴承盖（4）。 
+b) Remove the safety cover (5). 拆除安全护罩（5）。 
+c) Detach bolts (6) and remove the bearing housing (7). 拆下螺栓（6），拆下轴承座（7）。 
+d) Screw the retaining screws (8) into the shaft nut (9) and loosen the locking screws (14).  
+将固定螺钉（8）拧入锁紧螺母（9）中，并松开锁紧螺钉（14）。 
+e) Loosen shaft nut by 2–3 turns with the striking-face wrench. 用冲击扳手松开锁紧螺母2-3
+圈。 
+f) Connect up a hydraulic hand pump to the forcing bore (10) and push off the self-aligning 
+roller bearing (11).  
+将液压手动泵连接到孔压力（10），并推开自动调心滚珠轴承（11）。 
+g) Remove hydraulic hand pump, close push-off bore in roll journal with the screw plug.  
+拆除液压手动泵，用螺塞，封闭辊筒轴颈内的推出孔。 
+h) Remove the shaft nut and the self-aligning roller bearing. 拆除轴螺母和自动调心滚珠轴
+承。 
+i) Remove inner bearing cover (12) and labyrinth ring (13).  
+拆卸内轴承盖（12）和迷宫环（13）。 
+ 
+Fig. 26: Changing the drive-side bearing 图 26：更换传动侧轴承 
+ 
+Re-assemble in reverse order. 按反向顺序重新装配 
+>> Mounting the bearings 安装轴承 
+Check all seals and replace if necessary. 检查所有密封件，必要时进行更换。 
+ 
+ 
+ 
+Disassembly 拆卸 
+Installation 安装 
+
+===PAGE_45===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+45 / 47
+3.12.3 
+Mounting the bearings 安装轴承 
+ 
+Steps 步骤 
+Apply a light coat of low-viscosity oil to all sliding surfaces.  
+在所有滑动表面，涂上一层低粘度润滑油。 
+a) Move bearing into the starting position by pumping oil into the hydraulic nut.  
+通过将油泵入液压螺母中，将轴承移至开始位置。 
+b) Oil pressure for starting position (Pstart): see table 开始位置的油压（P 启动）：见表 
+c) Set the dial gauge to "0".将刻度表设置为“0”。 
+d) Push bearing further onto the shaft using the hydraulic nut until the required value for the axial 
+displacement (Ss) according to the table is obtained.  
+使用液压螺母将轴承进一步推到轴上，直到获得表中给出的所需轴向位移（SS）值。 
+ 
+Fig. 27: Mounting the bearing 图. 27：安装轴承 
+3.12.3.1 
+Starting pressure and displacement path 启动压力和位移路径 
+ 
+Bearing assembly 轴承总成 
+Type of anti-friction 
+bearing 
+耐磨轴承类型 
+Pstart P 开始
+Displacement path 
+"SS" 
+位移路径“SS” 
+Suction press roll - operator 
+side 
+真空压榨辊 - 操作侧 
+SKF 239/600 
+CAK/C083W33 
+1.02 MPa 
+2.894 mm 
+Suction press roll - drive side 
+真空压榨辊 - 传动侧 
+SKF 239/600 
+CAK/C083W33 
+1.02 MPa 
+2.894 mm 
+Tab. 5: Starting pressure and displacement path 表 6：启动压力和位移路径 
+ 
+ 
+
+===PAGE_46===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+46 / 47 
+Maintenance 维护 
+Rev. 0 版本：0
+3.13 
+Doctor for suction press roll 真空压榨辊用刮
+刀 
+Detailed descriptions for setting, changing the doctor blades, and safety can be found in:  
+关于刮刀片的设置、更换以及安全性的详细描述，可在以下文件中找到：  
+>>TISSUE MACHINE/SUPPLIER DOCUMENTATION 
+>>卫生纸机/供应商文件 
+Doctor system (1)  
+刮刀系统（1） 
+ 
+ 
+Fig. 28: Doctor for suction press roll 图 28：真空压榨辊用刮刀 
+ 
+ 
+1 
+1 
+
+===PAGE_47===
+ 
+ 
+Press Section - PrimePress Single 压榨部-PrimePress  
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+47 / 47
+3.14 
+Cleaning the drill holes in the shell 清洁壳体
+上的钻孔 
+The bores in the shell may become clogged during operation. The material causing plugging can 
+harden within a short time.  
+壳体中的钻孔在操作过程中可能会堵塞。造成堵塞的材料可以在短时间内硬化。 
+A visual check must be conducted regularly. Cleaning is to be carried out as required and after 
+each felt change.  
+必须定期进行目视检查。按需要和在每个毛毯更换后，进行清洁工作。 
+NOTICE! Always switch to creep speed before cleaning the bores in the shell.  
+注意！在清洗外壳中的钻孔之前，一定要切换到爬行速度。 
+ 
+Steps 步骤 
+Switch machine to creep speed. 将机器切换到爬行速度。 
+a) Spray through the drill holes from the outside with the cleaning lance (40 bar max.)  
+用清洁枪（最多40 巴）从外面清洁钻孔。 
+NOTICE! The drill holes are blocked if the vacuum display exceeds operating pressure. The 
+materials harden and can damage the felt. The drill holes in the roll shell should therefore be 
+cleaned regularly!  
+注意！如果真空显示超过工作压力，钻孔就会堵塞。这些材料会硬化，损坏毛毯。因此，
+应定期清洁辊体上的钻孔！ 
+ 
+The roll shell is ground after the assembled suction press roll has been removed, with the drive 
+journal inserted to rotate the roll.  
+在拆除组装完毕的真空压榨辊后，在驱动轴颈插入以旋转辊的条件下，研磨辊体。 
+Cambering curve >> TECHNICAL DATA 弯曲曲线>>技术参数 
+Grinding the roll shell
+研磨辊体 
+

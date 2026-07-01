@@ -1,0 +1,2546 @@
+===PAGE_1===
+Operating and Maintenance Instructions
+《操作与维护说明书》
+Headbox – PrimeFlow
+流浆箱 – PrimeFlow
+ 
+Machine: 机器： 
+Headbox – PrimeFlow 流浆箱 – PrimeFlow
+Year of manufacture: 
+制造年份： 
+2025 
+Order code: 订单代码： 
+C&S Paper (Jiangsu) Co., Ltd. 
+Order no.: 订单编号： 
+C-14-855551-716 TM4, C-14-855552-716 TM3
+Original language: 原文：English 英语 
+ 
+Issued: 发行人： 
+PTP/Liang Xiaoqing, 01.2026 
+Checked: 审核人： 
+PTP/Yang Kun, 03.2026 
+Rev.: 修订： 
+0 
+ 
+Headbox 流浆箱 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Title Page 扉页 
+
+===PAGE_2===
+Headbox 流浆箱 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716
+ 
+ 
+Title Page 扉页 
+Rev. 0 版本：0
+The operating manual is protected by copyright. All usual rights reserved. It must not be wholly or partly reproduced 
+without authorization by ANDRITZ. Non-compliance will result in damages claims and may have consequences under 
+criminal law. All rights shall also be reserved for any patents granted, registration of trademarks and technical modifica-
+tions without prior notification. 
+本操作手册受版权保护。版权所有。未经安德里茨有限公司批准，不得复制本文的全部或部分内容，否则会据
+此提出索赔要求，甚至涉及刑法。版权还包括专利获得、商标注册，以及在未经事先通知的情况下做出的技术
+改良。 
+ 
+©2026 ANDRITZ ©2026 年版权所有 
+
+===PAGE_3===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Table of contents 目录 
+3 / 50
+Table of contents 目录 
+ 
+1 
+Introduction 简介 ................................................................................................................................. 5 
+1.1 
+General 总则 ......................................................................................................................................... 5 
+1.2 
+Use 使用 ............................................................................................................................................... 5 
+1.3 
+Standards and guidelines 标准与导则 ..................................................................................................... 6 
+1.4 
+Use of manual 手册使用 ........................................................................................................................ 6 
+1.5 
+Warranty and liability 保证和担保 .......................................................................................................... 8 
+1.6 
+Service address 服务地址 ....................................................................................................................... 8 
+1.7 
+Copyright 版权 ...................................................................................................................................... 8 
+2 
+Technical data 技术参数 ...................................................................................................................... 9 
+3 
+Description 描述................................................................................................................................. 10 
+3.1 
+Field of application 应用领域 ............................................................................................................... 10 
+3.2 
+Main components 主要部件 ................................................................................................................. 11 
+3.2.1 
+Stock feed/Spreader (1)原悬液进料/涂布器（1） ....................................................................... 13 
+3.2.2 
+Pivoting device (2)摆动装置（2） ............................................................................................. 14 
+3.2.3 
+Locking device (3)锁定装置（3） ............................................................................................. 15 
+3.2.4 
+Micro-adjusters (4)微调装置（4） ............................................................................................. 16 
+3.2.5 
+Step diffuser block (5)阶梯扩散器（5） .................................................................................... 17 
+3.2.6 
+Indicating device (6)指示装置（6） .......................................................................................... 18 
+3.2.7 
+Gap measuring (7)间隙测量（7） ............................................................................................. 19 
+3.2.8 
+Adjusting device (8)调节装置（8） ........................................................................................... 20 
+3.2.9 
+Nozzle chamber (9)喷嘴腔（9） ............................................................................................... 21 
+3.2.10 
+Slice and apron lips (11, 12)浆片和裙缘（11，12） ................................................................... 22 
+3.2.11 
+Suction pipe (15)用于清理喷淋器的抽吸装置（15） ................................................................. 23 
+3.3 
+Technological description 技术描述...................................................................................................... 24 
+3.3.1 
+Stock feed, inlet (A)原悬液进料，入口（A） ............................................................................ 25 
+3.3.2 
+Diffuser block (D)扩散器（D） ................................................................................................ 25 
+3.3.3 
+Nozzle chamber (E)喷嘴腔（E） ............................................................................................... 25 
+3.3.4 
+Stock distribution (F)物料分配（F） ......................................................................................... 25 
+3.3.5 
+Forming roll (G) ........................................................................................................................ 25 
+3.4 
+Operating conditions 工作条件 ............................................................................................................. 26 
+4 
+Maintenance 维护 .............................................................................................................................. 27 
+4.1 
+General 总则 ....................................................................................................................................... 27 
+4.2 
+Safety regulations 安全条例 ................................................................................................................. 27 
+4.2.1 
+Showers 喷淋器 ........................................................................................................................ 28 
+4.2.2 
+Maintenance work at doctors 刮刀的维护工作 ............................................................................ 28 
+4.3 
+General machine check 一般设备检查 .................................................................................................. 29 
+4.3.1 
+Maintenance intervals 维护的时间间隔 ...................................................................................... 29 
+4.3.2 
+Routine checks 日常检查 ........................................................................................................... 29 
+4.3.3 
+Paper quality 纸张的质量 .......................................................................................................... 29 
+4.4 
+Maintenance schedule 维护计划 ........................................................................................................... 30 
+4.5 
+Fasteners 紧固件 ................................................................................................................................. 31 
+4.5.1 
+Special tightening torques 规定的拧紧扭矩 ................................................................................ 33 
+4.6 
+Spare parts 备件 .................................................................................................................................. 33 
+4.7 
+Cleaning 清理 ..................................................................................................................................... 35 
+4.7.1 
+Overview and important instructions 概览与重要指示 ................................................................. 35 
+4.7.2 
+Activities before cleaning 清理之前的活动 ................................................................................. 36 
+4.7.3 
+Cleaning the tube bank with nozzle chamber and stock feed 用喷嘴腔和物料清理管束 ................. 37 
+
+===PAGE_4===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+4 / 50 
+Table of contents 目录 
+Rev. 0 版本：0
+4.8 
+Lubrication 润滑 .................................................................................................................................. 39 
+4.8.1 
+Lubrication schedule 润滑计划表 ............................................................................................... 40 
+4.9 
+Swinging the headbox 摆动流浆箱 ....................................................................................................... 41 
+4.9.1 
+Control panel – headbox and former 操纵台 – 流浆箱和成形器 ................................................... 42 
+4.9.2 
+Relieving the tension on the top wire 释放丝网顶部的张力 ......................................................... 42 
+4.9.3 
+Raising the breast roll 提升胸辊 ................................................................................................. 42 
+4.9.4 
+Swinging the headbox into the felt changing position 将流浆箱摆动到毛毯更换位置 .................... 43 
+4.9.5 
+Swinging the headbox into the cleaning position 将流浆箱摆动到清洁位置 .................................. 44 
+4.9.6 
+Swinging the headbox into the forming roll changing position 将流浆箱摆动到更换成型辊位置 ... 46 
+4.9.7 
+Swinging the headbox into the operating position 将流浆箱摆动到工作位置 ................................ 47 
+4.10 
+Changing the inserts 更换插件 .............................................................................................................. 48 
+4.11 
+Setting the slice lip 设定浆片唇口 ........................................................................................................ 49 
+ 
+
+===PAGE_5===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Introduction 简介 
+5 / 50
+1 
+Introduction 简介 
+1.1 
+General 总则 
+This manual is part of the ANDRITZ technical documentation for the machine. It is intended to 
+provide the operating company with the basic knowledge required for proper, safe and economical 
+use of the equipment delivered by ANDRITZ. Observing these instructions helps avoid hazards 
+and reduce repair and downtime costs, as well as increasing the reliability and useful life of the 
+machines.  
+本手册是安德里茨有限公司的设备技术文件的组成部分，本文旨在为运营公司提供恰当、
+安全、经济地使用安德里茨有限公司交付设备所需的基础知识。阅读这类说明书，有助于
+避免危害，降低修理成本和停机成本，同时提高设备的可靠性和有效使用寿命。 
+1.2 
+Use 使用 
+ 
+This operating manual is intended for users with a knowledge of mechanical engineering and is for 
+the exclusive use of the operating company and its personnel.  
+本操作手册意在向用户提供机械工程方面的知识，供广大的运营公司及其人员单独使用。 
+Personnel entrusted with work on the machine must have read and understood these operating in-
+structions and comply with them. This refers in particular to the following tasks:  
+委派操作该设备的人员，应当阅读、理解并遵守这些操作说明书的内容。操作特指下列内
+容： 
+– Transport 运输 
+– Erection work, installation and start-up 装配工作、安装和启动 
+– Handling, starting and stopping 搬运、启动和停机 
+– Troubleshooting 故障排除 
+– Maintenance and upkeep 维护与维修 
+– Maintenance and disposal of process materials, cleaning of machine and the area around the 
+machine 维护并处理工艺材料，清理设备及其周边地带。 
+In particular, the following must be considered: 还应当特别注意下列内容： 
+– SAFETY Chapter 安全章节 
+– Safety instructions contained in various other chapters 其它各章节中的安全指导 
+ 
+The plant operating company shall complete this manual by adding national regulations on occu-
+pational health and safety and on environmental protection, taking particular account of any spe-
+cial operating features.  
+设备的运营公司应当将本国的职业健康与安全、环境保护法规纳入本手册，特别注意特殊
+的运营特点。 
+ 
+Keep the entire operating manual near the place where the machine is installed and within easy 
+reach.  
+将整个操作手册放在设备的安装地点附近、易于获取的位置。 
+ 
+ 
+Target group 目标群体
+Supplementary in-
+structions 补充说明 
+Safekeeping 安全保管
+
+===PAGE_6===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+6 / 50 
+Introduction 简介 
+Rev. 0 版本：0
+1.3 
+Standards and guidelines 标准与导则 
+The machine/plant has been built in accordance with state-of-the-art standards and the recognized 
+safety rules.  
+机械/设备是按照最先进的标准和公认的安全原则制造的。 
+The CE declaration of conformity confirms that the requirements of Machinery Directive 
+2006/42/EC and the corresponding standards (see CE declaration of conformity for details) have 
+been observed.  
+通过欧盟认证确认了此台设备符合机械指令2006/42/EC 和相应的标准（详见符合性认证声
+明）。 
+The declaration of incorporation confirms that the safety requirements according to Annex 1 of 
+Machinery Directive 2006/42/EC have been obeyed.  
+通过公司声明，证明达到机械指令2006/42/EC 附录1 的安全要求。 
+Auxiliary electrical equipment supplied has CE marking if it falls within the scope of a directive, 
+for example the low-voltage or EMC Directive.  
+提供的辅助电气设备，凡是属于指令范围之内的，例如低压指令或者电磁兼容性指令，都
+配有CE 认证标志。 
+1.4 
+Use of manual 手册使用 
+ 
+Chapter and section headings are printed in capitals in the body text:  
+在连续文本中的章节的标题用大写字母打印： 
+e.g. SAFETY 例如：安全 
+ 
+The following pictograms are used in the operating instructions:  
+手册采用下列象形符号： 
+ 
+Warning signs 
+警告标志 
+Warning signs are shown with an explanation of the type of hazard.  
+警告标志配有危险类型的说明。 
+The meanings of the different safety instructions are described in the Chapter on 
+SAFETY.  
+不同等级的危险含义在《安全》章节描述 
+>> 
+Marks a cross-reference 
+交叉引用 
+e.g. >> Safety 例如>>安全 
+e.g. >> ANNEX 例如>>附录 
+ 
+ 
+Work instructions are shown in numbered lists. The work steps are numbered and must be carried 
+out in the order specified.  
+操作说明见编号列表。作业步骤已编号，必须按照指定顺序进行作业。 
+Lists without numbering do not require operations to be carried out in a certain order.  
+不带编号的清单不需要按特定顺序执行操作。 
+ 
+ 
+ 
+Pages: 页码： 
+Consecutive numbering 连续编号 
+e.g. 2/11 (Page 2 of 11)  
+例如2/11（共11 页，第2 页） 
+Table: 表： 
+Consecutive numbering 连续编号 
+e.g. Tab. 8 例如：表8 
+Figures: 图： 
+Consecutive numbering 连续编号 
+e.g. Fig. 12 例如：图12 
+ 
+Presentation 声明 
+Pictograms 象形图 
+Work steps 工作步骤
+Numbering of pages, 
+tables and figures 
+页码、表格和图的编号
+
+===PAGE_7===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Introduction 简介 
+7 / 50
+ 
+ 
+ 
+Tab. 表 
+Table 表 
+Fig. 图 
+Figure 图 
+ 
+ 
+The figures and graphics show the basic design of the machine. This need not necessarily corre-
+spond exactly to the version supplied.  
+数字和图表显示了设备的基本设计。这并不一定与供货的版本完全一致。 
+Detailed information on the equipment supplied:  
+所提供设备的详细信息： 
+>> Parts lists, drawings and supplier documentation 
+>>部件清单、图纸和供应商文件 
+ 
+ 
+Abbreviations 缩写词
+Illustrations and 
+graphics 插图和图形 
+
+===PAGE_8===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+8 / 50 
+Introduction 简介 
+Rev. 0 版本：0
+1.5 
+Warranty and liability 保证和担保 
+The ANDRITZ general terms of delivery and sale shall apply.  
+在适用的安德里茨有限公司的交货和销售方面的通用条款将适用。 
+Guarantee and liability claims towards ANDRITZ shall become void if personal injury or material 
+damage is caused by one or several of the following:  
+因下列原因导致的人员受伤或材料损坏，无权对安德里茨有限公司的担保和责任提出诉
+讼： 
+– Use of the machine/system for any purpose other than its designated use. 
+– 将设备或系统用于除其指定用途外的其他用途。 
+– Non-conformity of erection work, start-up and handling of the machine/system. 
+– 设备或系统安装工作、启动和搬运不符合要求。 
+– Non-observance of the safety instructions in the manual.不遵守手册中的安全指导。 
+– Non-authorized structural changes to the machine/system. 
+– 在未经批准的情况下改变设备/系统的结构。 
+– Non-observance of the maintenance and upkeep instructions.不遵守维护和维修说明。 
+In the event of a claim for repair under guarantee, ANDRITZ reserves the right to assess the dam-
+age to the machine/system. 
+在保质期内请求修理设备时，安德里茨有限公司有权评估设备的损坏情况。 
+1.6 
+Service address 服务地址 
+The ANDRITZ service department is at your disposal for spare part orders, troubleshooting, as 
+well as for extensive maintenance and repair work.  
+安德里茨有限公司服务部门为您提供备件订购、故障排除以及广泛的维护和维修工作。 
+Europe (ANDRITZ AG): 欧洲（ANDRITZ AG）： 
+Tel.: +43/316-6902-0 电话：+43/316-6902-0 
+Fax: +43 316 -6902 -424 传真：+43 316 -6902 -424 
+e-mail: paper.service@andritz.com 电子邮箱：paper.service@andritz.com 
+ANDRITZ (China) Ltd.: 安德里茨（中国）有限公司： 
+Tel.: +86 757 8296 9272 电话：+86 757 8296 9272 
+Fax: +86 757 8210 0028 传真：+86 757 8210 0028 
+e-mail: pulppaper-service.cn@andritz.com 电子邮箱：pulppaper-service.cn@andritz.com 
+1.7 
+Copyright 版权 
+This instruction manual is protected by copyright; all customary rights are reserved. Duplication of 
+the instruction manual, including extracts, is only permitted with approval from ANDRITZ. Con-
+traventions shall obligate the perpetrator to compensation for damages and may result in criminal 
+prosecution. We reserve all rights in the event of a patent being granted, a utility model being reg-
+istered or technical changes being effected without prior notice.  
+操作说明书受版权保护；保留所有常见权力。只有在获得安德里茨有限公司授权后，方可
+复制本操作说明书，包括摘录。违反本规定应使违约人承担损害赔偿义务，可能造成刑事
+诉讼。我司保留在授权专利时，在无事先通知的情况下，进行实用新型注册或实现技术变
+更。 
+© 2026 ANDRITZ AG
+
+===PAGE_9===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Description 描述Technical data 技术参
+数 
+9 / 50
+2 
+Technical data 技术参数 
+General Data – Headbox 一般数据 - 流浆箱 
+Pond width 宽度 
+3596 mm
+Max. flow 最大流量 
+62000 l/min
+Design speed 设计车速 
+1900 m/min
+Max. operating speed 最大运行车速 
+1650 m/min
+Design jet velocity 设计喷射速度 
+1600 m/min
+Flow ratio 流量范围 
+1:2
+Stock supply 进浆口 
+Drive side 传动侧
+No. of layers 流浆箱层数 
+1
+Medium 介质 
+Stock consistency 上浆浓度 
+Approx. 0.15 – 0.30%
+Retention 保留率 
+Approx. 50 – 80%
+Pulp temperature 浆料温度 
+60 °C
+Weights 重量 
+Headbox 流浆箱 
+approx. 14530 kg 约14530 千克
+Transport frame for header 流浆箱头的运输框架 
+approx. 830 kg 约830 千克
+Apron body 下墙体 
+approx.4510 kg 约4510 千克
+Slice body top 上墙体 
+approx. 1486 kg 约1486 千克
+Compensator 软接头 
+approx.619 kg 约619 千克
+ 
+ 
+ 
+
+===PAGE_10===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+10 / 50 
+Description 描述 
+Rev. 0 版本：0
+3 
+Description 描述 
+3.1 
+Field of application 应用领域 
+The headbox is used to distribute the stock suspension. The stock is to be distributed evenly over 
+the entire machine width.  
+流浆箱用于分布原悬液。应当将原悬液均匀地分布在设备的整个宽度上。 
+ 
+Fig. 1: Headbox 图. 1：流浆箱 
+ 
+ 
+ 
+
+===PAGE_11===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Description 描述Description 描述 
+11 / 50
+3.2 
+Main components 主要部件 
+ 
+ 
+ 
+1 
+1 
+2 
+3 
+14 
+6 
+13 
+7 
+12 
+5 
+11 
+8 
+4 
+9 
+10 
+15 
+
+===PAGE_12===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+12 / 50 
+Description 描述 
+Rev. 0 版本：0
+Fig. 2: Main components of the headbox 图. 2：流浆箱的主要部件 
+ 
+Item
+项目
+Component 部件 
+Item
+项目
+Component 部件 
+Item
+项目
+Component 部件 
+1 
+Stock feed/distributor 
+原悬液进料/分配器 
+6 
+Indicating device 指示装置
+11
+Apron body 下墙体 
+2 
+Pivoting device 摆动装置 
+7 
+Gap measuring 间隙测量 
+12
+Turbulence inserts 湍流插入
+3 
+Locking device 
+锁紧装置 
+8 
+Slice body 调节装置 
+13
+Pond side 侧壁 
+4 
+Micro-adjusters 微调装置 
+9 
+Top lip 喷嘴腔 
+14
+Cover 外壳 
+5 
+Tube bank 
+10 
+Apron lip 裙缘 
+15
+Suction pipe 清理喷淋器的
+抽吸装置 
+ 
+ 
+
+===PAGE_13===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Description 描述Description 描述 
+13 / 50
+3.2.1 
+Stock feed/Spreader (1)原悬液进料/涂布器（1） 
+ 
+The distributor is used to distribute and feed the stock over the entire machine working width. 
+分配器馈送原悬液并将原悬液均匀分布在设备的整个宽度上。 
+ 
+Welded steel structure, polished on the inside. In order to guarantee even distribution of pressure 
+and volume, the distribution pipes (1a) have a tapered cross-section that narrows in flow direction 
+(conical). The return flow is provided on the outlet side of the distribution pipe. 
+焊接钢制结构，内部抛光。为了保证压力、体积分布均匀，分配管道（1a）采用锥形截
+面，沿着流动方向逐渐缩小（呈锥形）。通过分配管道一侧的出口实现回流。 
+Expansion joints (1b) are mounted on the feed side for length compensation. 
+伸缩接头（1b）安装在送料端，用于容纳纵向膨胀。 
+ 
+ 
+ 
+ 
+Fig. 3: Distributor with supporting structure 图 3：分配器+支撑结构 
+ 
+ 
+ 
+Function 功能 
+Design 设计 
+1a 
+1b 
+
+===PAGE_14===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+14 / 50 
+Description 描述 
+Rev. 0 版本：0
+3.2.2 
+Pivoting device (2)摆动装置（2） 
+ 
+This device is used to swing the complete headbox out for cleaning purposes and in order to 
+change the lamella. In addition to the operating position, a further 2 positions are available: 
+这套装置用于摇摆流浆箱总成，用于清理、更换飘片。除工作位置以外，还有另外两个位
+置： 
+– Wire changing position 电线更换位置 
+– Roll changing position/cleaning position 辊轴更换位置/清理位置 
+>> MAINTENANCE 维护 
+ 
+Pivoting device (2a) for swinging the Headbox manually. The position can be adjusted 
+on the run using the pivoting device. 摆动装置（2a）用于摆动流浆箱。用摆动装置可以调节
+流浆箱的位置。 
+For Pivoting device, see: 摆动装置详细，请看 
+>> SUB-SUPPLIER DOCUMENTATION 分包商文件 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 4: Pivoting device 图 4：摆动装置 
+ 
+ 
+ 
+Function 功能 
+Design 设计 
+2a 
+
+===PAGE_15===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Description 描述Description 描述 
+15 / 50
+ 
+3.2.3 
+Locking device (3)锁定装置（3） 
+The locking device is used to hold the entire headbox in the desired position. 
+锁定装置用于将整个流浆箱固定在期望位置。 
+ 
+The Welding structure of stop device supports the whole Headbox. It can be adjusted 
+in horizontal position, integrate pivoting adjusting ability for Header. 
+停止装置的焊接结构支撑整个流浆箱。它可以在水平位置调整，旋转调整流浆箱的能力。 
+ 
+ 
+Fig. 5: Locking device 图 5：锁定装置 
+ 
+ 
+ 
+ 
+Function 功能 
+Design 设计 
+
+===PAGE_16===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+16 / 50 
+Description 描述 
+Rev. 0 版本：0
+3.2.4 
+Micro-adjusters (4)微调装置（4） 
+ 
+The micro-adjusters can be used to make manual readjustments to local unevenness in the slice 
+gap over the entire working width. This is achieved by making corrections to the vertical position 
+of the slice lip.  
+微调装置可以通过手动调节方式让浆片均匀分布在整个作业宽度上。将浆片唇缘调整到正
+确的垂直位置即可实现这个功能。 
+ 
+The threaded spindles (4a) arranged at equal distances over the working width are set with zero 
+backlash. Each spindle can be set individually by means of an adjusting screw (4b) with an appro-
+priate scale (4c). The stop screw (4e) prevents the pointer(4d) from overrunning. The position of 
+the pointer (4d) is set by the manufacturer and secured by means of a threaded pin (4f). The 
+threaded pin (4f) must not be removed! 
+螺杆（4a）等距分布在整个作业宽度上，反冲设定为零。可以通过螺钉（4b）和相应的刻
+度盘（4c）单独调节轴杆。止动螺钉（4e）防止指针过度指针（4d）的位置由厂家和用户
+自行设置用螺纹销(4f)固定。螺纹销(4f)不能拆卸! 
+ 
+                                                                         
+ 
+Fig. 6: Micro-adjusters 图. 6 微调装置 
+ 
+ 
+ 
+ 
+NOTICE 注意 
+ 
+Deformations due to wrong adjustments 调节不当导致的变形 
+Danger of permanent deformation of the slice lip. 浆片唇缘有发生永久变形的危险。 
+a) The following maximum differences in the adjusting path must be observed: 
+应当遵守下列最大调节差异： 
+From spindle to spindle: 0.25 mm 从轴杆到轴杆：0.25 毫米 
+over the entire width: 0.5 mm 跨越整个宽度：0.5 毫米 
+ 
+ 
+ 
+ 
+Function 功能 
+Design 设计 
+4a 
+4c 
+4d 
+4f 
+4b 
+4e 
+
+===PAGE_17===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Description 描述Description 描述 
+17 / 50
+3.2.5 
+Step diffuser block (5)阶梯扩散器（5） 
+ 
+In the step diffuser block, turbulence energy is applied to the stock by increasing the cross-section 
+of the diffuser tubes (5a). This is why the diffuser block is also referred to as the "turbulence 
+block" or "turbulence generator". 
+增加扩散管（5a）的截面积，将紊流能量施加在阶梯扩散器上。这也是扩散器称作“"紊流
+块”、“紊流发生器”的原因。 
+ 
+Welded structure with individual diffuser tubes mounted in an offset arrangement one above the 
+other and secured in perforated plates(5b). Plastic bushes (5c) are inserted from the inlet side. 
+These can be replaced if operating conditions change. The tubes have a round cross-section at the 
+inlet and a pentagonal cross-section at the outlet. 
+焊接结构配备相对安装的扩散管，用穿孔板固定。塑料套管（5c）从入口侧插入。如果工
+作条件变更，可以更换套管。入口处的套管截面为圆形，出口入的截面为五边形。 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 7: Outlet side 图7：出口侧 
+ 
+ 
+ 
+ 
+ 
+Fig.8: Inlet side 图 8：入口侧 
+ 
+ 
+ 
+ 
+Function 功能 
+Design 设计 
+5b
+5c 
+5a
+5b
+
+===PAGE_18===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+18 / 50 
+Description 描述 
+Rev. 0 版本：0
+ 
+3.2.6 
+Indicating device (6)指示装置（6） 
+ 
+Indicates the slice gap.显示浆片唇口。 
+ 
+The indicator has a connection to the eccentric shaft and rotates with the shaft. The 
+scale is calibrated to show the actual slice opening.该指示器与偏心轴连接，随偏心轴转动, 
+刻度被校准以显示实际的切片开口。 
+ 
+Fig. 9: Headbox – Gap scale 图 9：流浆箱–唇口刻度盘 
+ 
+ 
+ 
+Function 功能 
+Design 设计 
+
+===PAGE_19===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Description 描述Description 描述 
+19 / 50
+3.2.7 
+Gap measuring (7)间隙测量（7） 
+ 
+Gap measuring where the stock is discharged from the nozzle. 
+清空喷嘴中的物料之后，测量唇口。 
+ 
+A profiled plate (7b) that fits around the linear transducer (7c) and is fixed to a bearing 
+support on the front wall (7a). The change in position of the transducer relative to the 
+plate is displayed as the slice opening. 
+一种适合于线性传感器(7c)周围的压型板(7b) 固定在前墙(7a)上的轴承支架上。传感器相对
+于板的位置变化显示为切片开口。 
+Linear position encoder: 线性位置编码器： 
+>> SUPPLIER DOCUMENTATION 供应商文件 
+ 
+ 
+ 
+ 
+Fig. 10: Gap measuring 图10：间隙测量 
+ 
+ 
+ 
+Function 功能 
+Design 设计 
+7c 
+7b
+7a
+
+===PAGE_20===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+20 / 50 
+Description 描述 
+Rev. 0 版本：0
+3.2.8 
+Adjusting device (8)调节装置（8） 
+ 
+The slice body is adjusted using the adjusting device, thus the height of the slice gap is set over the 
+entire working width. The eccentricity of the eccentric shaft prevents damage to the headbox by 
+means of maximum deflection. 
+利用调节装置调整浆片体，在整个作业宽度上调整浆片高度。偏心轴的偏心防止轴在最大
+偏转下破坏流浆箱。 
+ 
+The slice lip (11) is connected via swivel joints (8a) and an eccentric shaft (8b) to the diffuser 
+block. The eccentric shaft is rotated via actuator drives (8c) and planetary gears (8d). The top slice 
+body is raised or lowered via the eccentric shaft. The slice gap is adjusted by the tilting movement 
+of the slice body (X). 
+通过回转接头（8a）和偏心轴（8b）将浆片唇缘（11）接入扩散器。偏心轴在执行器
+（8c）和行星齿轮（8d）的驱动下放置。浆片体顶部借助偏心轴升降。通过浆片体（X）
+的倾斜运动调整浆片唇口。 
+Planetary gear and servo drives: 行星齿轮和伺服驱动装置： 
+>>SUPPLIER DOCUMENTATION 供应商文件 
+ 
+ 
+ 
+Fig. 11: Adjusting device 图 11：调节装置 
+Function 功能 
+Design 设计 
+8b
+X 
+11 
+8a 
+
+===PAGE_21===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Description 描述Description 描述 
+21 / 50
+ 
+3.2.9 
+Nozzle chamber (9)喷嘴腔（9） 
+ 
+In the nozzle chamber, the individual stock flows from the step diffuser block (6) are merged to a 
+single flow and homogenized. This is where the pressure energy is converted into speed energy. 
+喷嘴腔内的物料穿过阶梯扩散器（6）形成均匀的单个流体。压力能在这里转换成速度能。 
+ 
+The nozzle chamber is formed by the slice lip (11) and the apron lip (12), the turbulence block (5), 
+the pond sides (9a). 
+喷嘴腔由浆片唇缘（11）、裙缘（12）、扩散器（5）、侧板（9a）构成。 
+In the nozzle chamber the cross-sectional area is narrowed continuously by the slice lip (11) and 
+the apron lip (12). The slice gap is set using the adjusting device(8). 
+喷嘴腔的横截面积在浆片唇缘（11）、裙缘（12）的作用下逐渐缩小。可以将浆片唇口用
+作微调装置（8）。 
+ 
+ 
+ 
+ 
+ 
+Fig. 12: Nozzle chamber 图 12：喷嘴腔 
+ 
+The pressure is measured on the operator-side nozzle wall for measuring the differential pressure. 
+在操作侧的喷嘴壁上测量压力，用于测量压差。 
+Measuring transducers are connected to a differential pressure transmitter via capillary pipes and 
+determine the differential pressure in the nozzle between the individual layers. A very small 
+amount of water flows continuously from the transmitter into the nozzle chamber so that the meas-
+uring membrane does not become clogged with fibers. This pipe is laid on an incline so that no air 
+bubbles can form as this would falsify the measurement. 
+测量转换器通过空管连接压差变送器，测定喷嘴内部各层之间的压差。有极少量的水从变
+送器连续流入喷嘴腔，防止纤维堵塞膜片。这条管道倾斜铺设以免产生气泡、干扰测量。 
+ 
+ 
+Function 功能 
+Design 设计 
+Pressure measurement
+测量压力 
+5 
+9a
+9 
+12
+11
+8 
+
+===PAGE_22===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+22 / 50 
+Description 描述 
+Rev. 0 版本：0
+3.2.10 
+Slice and apron lips (11, 12)浆片和裙缘（11，12） 
+ 
+The slice and apron lips together with the lamella element (if two layer headbox) form the nozzle 
+chamber of the headbox. 
+浆片、裙缘元件一起构成流浆箱的喷嘴腔。 
+ 
+The slice bodies are deflection-resistant, stainless steel welded structures. The slice and apron lips 
+are bolted to them. Each of the slice bodies are supported in a hinged strip.  
+浆片体采用不易扭曲的不锈钢焊接结构。通过螺栓固定浆片和裙缘。浆片体都支撑在铰链
+固定的钢板上。 
+ 
+ 
+Function 功能 
+Design 设计 
+
+===PAGE_23===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Description 描述Description 描述 
+23 / 50
+3.2.11 
+Suction pipe (15)用于清理喷淋器的抽吸装置（15） 
+ 
+Extracting shower water from the cleaning shower by suction.通过抽吸作用抽水，清理喷淋
+器。 
+ 
+Welded stainless steel structure.不锈钢焊接结构。 
+ 
+Fig. 13: Suction pipe 图 13：用于清理喷淋器的抽吸装置 
+ 
+ 
+ 
+Function 功能 
+Design 设计 
+15
+
+===PAGE_24===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+24 / 50 
+Description 描述 
+Rev. 0 版本：0
+3.3 
+Technological description 技术描述 
+ 
+The headbox receives the stock at a defined consistency from the approach system and feeds it to 
+the wire section spread evenly over the entire wire width and at a constant consistency.  
+流浆箱按照规定的浓稠度接受接近系统的物料，以恒定的浓稠度将物料送入网部并均匀摊
+开在整个宽度上。 
+ 
+The headbox also has considerable influence on the sheet quality. 流浆箱也会影响纸张的质量。 
+Uneven flow is eliminated in the headbox and turbulence is generated to prevent the fibers from 
+fully flocculating and to destroy the existing flocs. This ensures that an even basis weight and uni-
+form consistency are achieved over the entire working width of the wire section.  
+流浆箱保证流量均匀，产生紊流以防止纤维完全絮凝，消除纸浆中的团块，从而在网部的
+整个作业宽度上保证均匀的基本重量和统一的浓稠度。 
+If the stock coming from the headbox does not have an even basis weight and/or profile, this will 
+result in thinner patches forming in the web, which can lead to web breaks and poor quality of pa-
+per. 
+如果流浆箱输出的物料的外形和基本重量不够均匀，会导致网部的纸张变薄，降低纸张的
+质量甚至导致纸张破裂。 
+ 
+ 
+ 
+Fig. 14: Function sequence 图 14：功能 顺序 
+ 
+Phase 阶段
+Component 部件 
+Phase 阶段
+Component 部件 
+A 
+Stock feed/Inlet 原悬液进料/入口 
+D 
+Turbulence block 扩散器 
+G 
+Forming roll 成型辊 
+E 
+Nozzle chamber 喷嘴腔 
+ 
+ 
+F 
+Stock feed 原悬液进料 
+ 
+ 
+Purpose 用途 
+Influence on sheet 
+quality 
+影响纸张质量 
+A 
+G 
+F 
+E 
+D 
+
+===PAGE_25===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Description 描述Description 描述 
+25 / 50
+3.3.1 
+Stock feed, inlet (A)原悬液进料，入口（A） 
+The inlet is designed as a cross-flow distributor and deflects the stock through 90° towards the 
+distribution slot. The distribution slot extends over the entire working width and feeds stock sus-
+pension to the diffuser block. To guarantee an even distribution of pressure and quantities, the inlet 
+is linear in shape with a narrowing cross-section (conical). 
+入口用作错流分配器，将物料向着分配槽口偏转90°。分配槽口延伸到整个作业宽度，将原
+悬液送入扩散器。为了保证压力和数量的均匀分布，入口横截面的形状呈线性缩小（锥
+形）。 
+3.3.2 
+Diffuser block (D)扩散器（D） 
+The stock suspension pressed through the distribution slot enters the diffuser block, which is made 
+up of many individual thin tubes. As a result, the stock suspension is guided in a defined direction 
+and obtains a desired degree of turbulence, which is necessary to tear apart any fiber bundles. The 
+ends of the diffuser tubes are pentagonal in order to obtain even flow into the nozzle chamber.  
+原悬液通过分配槽口进入扩散器，滑块由若干独立的细管构成。于是原悬液被引导到规定
+的方向，形成规定程度的紊流，防止纤维束分离。扩散管的两端为五边形以保证物料均匀
+流入喷嘴腔。 
+3.3.3 
+Nozzle chamber (E)喷嘴腔（E） 
+In the nozzle chamber the pressure energy of the stock suspension is converted into the desired 
+machine speed. The pressure differential between nozzle inlet and outlet and the geometry of the 
+nozzle chamber are important criteria in obtaining an even jet speed. 
+原悬液的压力能在喷嘴腔中转换成期望的机械速度。喷嘴入口与出口之间的压差，喷嘴腔
+的几何形状，都是获得均匀喷射速度的重要参数。 
+3.3.4 
+Stock distribution (F)物料分配（F） 
+The stock is spread onto the wire at the slice gap. The lamella is secured to the front end of the 
+partition wall. It is a wear part and can be replaced. In order to avoid deformation, the differential 
+pressure between the nozzle chambers should not exceed a maximum of 0.5 bar.  
+物料通过浆片唇口喷入网站。飘片安装在隔断壁前端。飘片是耐磨零件，可以更换。喷嘴
+腔之间的压差不得超过0.5bar 的最大值以免发生变形。 
+3.3.5 
+Forming roll (G) 
+This roll is used to form the stock suspension into a web. The pulp suspension is fed 
+through the headbox into the gap between the wires at the forming roll. The wire is 
+deflected there, and the excess water is discharged through the wire. 
+Steel structure with rubber coating. 
+ 
+ 
+
+===PAGE_26===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+26 / 50 
+Description 描述 
+Rev. 0 版本：0
+3.4 
+Operating conditions 工作条件 
+ 
+In addition to even stock feed in terms of composition, pressure and quantity, the overall geometry 
+of the hydraulic section up to the stock discharge at the end of the nozzles is an important criteria 
+for good paper quality.  
+液压部从物料排放到喷嘴末端的整体形状，是保证物料成份、压力和数量均匀的重要因
+素，会严重影响纸张的质量。 
+The following parameters are important here: 
+下文列举了若干重要参数： 
+– Shape of the cross-flow distributor 错流分配器的形状 
+– Cross-section, shape and length of the diffuser block 扩散器的形状、长度和截面 
+– Cross-section conditions in the nozzle chamber 喷嘴腔的截面条件 
+– Geometry of the suspension jet to the forming and breast roll 
+– 成形辊和胸辊的悬浮喷头的几何形状 
+ 
+Quality 质量 
+
+===PAGE_27===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+27 / 50
+4 
+Maintenance 维护 
+4.1 
+General 总则 
+This chapter describes the maintenance and upkeep, which are the responsibility of the operating 
+company.  
+本章对由运营公司负责的维护和保养作了描述。 
+The ANDRITZ service department is at your disposal for troubleshooting, as well as for extensive 
+maintenance and repair work.  
+安德里茨有限公司服务部负责帮助您进行故障排除以及各种维护和维修工作。 
+>> Service address [} 8] >> 服务地址  [} 8] 
+4.2 
+Safety regulations 安全条例 
+ 
+ 
+All applicable accident prevention rules must be observed.  
+应当遵守各项事故预防规定。 
+Sufficient space for maintenance work must be included right away in the arrangement planning. 
+当规划车间布局时，必须包括足够的维护作业空间。 
+Do not exceed permissible crane loads and weights on lifting gear and ropes/shackles. Secure 
+loads against falling from a height.  
+不要超过起重机和钢丝绳/吊具允许的起重载荷和重量。固定载荷，防止其从高处坠落。 
+Do not step or walk below suspended loads! Standing below suspended loads can be fatal and is 
+thus strictly forbidden!  
+不要在悬吊的负荷下走动！站在悬吊的负荷下是非常危险的，因而严格禁止！ 
+The machine must be thoroughly cleaned before carrying out any maintenance work.  
+进行任何维护作业前，必须将设备清空，并彻底清洁。 
+Maintenance and service work may only be performed when the machine is shut down securely. 
+只能在设备安全停机之后实施维护、保养作业。 
+ 
+After completion of maintenance work, all required safety devices must be mounted again.  
+维修工作完成后，必须重新安装所有必需的安全装置。 
+ 
+The energy supply to all drives must be disconnected securely before beginning any maintenance 
+and service work. This can be achieved with a maintenance switch, lockable racks in the MCC, or 
+with other suitable measures that comply with the safety regulations.  
+在开始任何维护和服务作业前，必须安全断开所有驱动机的能源供应。这项措施可以使用
+能够锁定的维护开关、MCC 的可锁定支架实现，或者按照相关安全条例的要求，采取各种
+适当措施。 
+ 
+The operating company shall ensure that adequate lighting is provided (with extra-low voltage 
+bulbs) during service and maintenance work.  
+运营公司应确保在服务和维修工作期间，提供足够的照明（超低电压灯泡）。 
+ 
+Maintenance and service work must be carried out by specially trained, skilled personnel only.  
+维修和保养必须由受过专门训练的熟练人员来完成。 
+All work on the electrical equipment, without exception, must be carried out by skilled electri-
+cians.  
+电气设备的所有作业毫无例外，必须由熟练的电工进行。 
+ 
+Personal safety equipment must be worn when working (>> Personal protective apparel).  
+General safety regula-
+tions 基本安全条例 
+Safety devices 
+安全装置 
+Power supply 电源 
+Lighting 照明 
+Qualification of per-
+sonnel assigned 
+指定人员的资质 
+Personal protective ap-
+parel 个人防护装备 
+
+===PAGE_28===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+28 / 50 
+Maintenance 维护 
+Rev. 0 版本：0
+作业时必须穿戴个人安全装备。（>>个人防护装备） 
+ 
+In general, welding work is only permitted after consulting ANDRITZ.  
+通常情况下，只有在咨询安德里茨有限公司后，才能批准焊接作业。 
+The relevant safety regulations must be observed for welding work.  
+焊接作业应当遵守相关的安全条例。 
+ 
+4.2.1 
+Showers 喷淋器 
+ 
+ 
+ 
+ 
+ CAUTION 小心 
+ 
+Liquids splashing out of the showers 喷淋器溅出的液体 
+a) Wear your personal protective equipment!穿戴个人防护装备！ 
+b) Do not put your hand into the machine! 切勿将手伸入机械设备！ 
+ 
+ 
+4.2.2 
+Maintenance work at doctors 刮刀的维护工作 
+ 
+ 
+ 
+ 
+ CAUTION 小心 
+ 
+Danger of crushing and injury 夹持、受伤的危险 
+Crushing and cuts on parts of the body when engaging retractable doctors and doctor beams.  
+伸缩式刮刀和刮刀梁有可能夹持、切割肢体。 
+a) Before performing any maintenance work, shut off the air supply using the manual valve! 
+开始维护作业之前，通过手动阀门切断气源！ 
+ 
+ 
+ 
+ 
+ 
+ CAUTION 小心 
+ 
+Cuts caused by the doctor blades 刮刀片割伤 
+Risk of injury when changing the blade 更换叶片期间有受伤的风险。 
+a) Wear cut-resistant gloves when changing or setting the doctor blades! 
+当改变或设定刮刀片时应当佩戴防切割手套！ 
+ 
+ 
+ 
+ 
+Welding work 
+焊接作业 
+
+===PAGE_29===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+29 / 50
+4.3 
+General machine check 一般设备检查 
+When the machine is shut down, the inspections specified in the maintenance schedule should be 
+performed. 
+设备停机之后，可以按照维护计划完成规定的检查工作。 
+In the course of general machine checks, all additional units should also be checked to guarantee 
+that the entire plant functions satisfactorily. For these checks, the attached maintenance and up-
+keep instructions provided by the manufacturer must be observed.  
+一般检查过程中，还应检查各类附加装置，以确保整套设备达标运行。进行此类检查时，
+必须遵守制造商随机提供的维护与维修说明。 
+Malfunctions and inadmissible changes found during these checks must be rectified immediately.  
+必须立即纠正此类检查期间发现的故障与不可接受的变更。 
+4.3.1 
+Maintenance intervals 维护的时间间隔 
+A maintenance interval of two weeks is recommended for machines in continuous operation (24 
+h/day, 7 days/week). During these periods, the machine should be shut down, thoroughly cleaned, 
+and checked for wear.  
+对于连续运行（24 小时/天，7 天/周）的设备，建议每两周进行一次维护。在这段时间内，
+设备应该停机、彻底清洁，并检查是否发生磨损。 
+Machines operating less than 24 hours a day should undergo these routine checks and be cleaned 
+at each shutdown.  
+每天运行少于24 小时的设备应进行这些例行检查，并在每次停机时进行清洁。 
+4.3.2 
+Routine checks 日常检查 
+ 
+Component 部件 
+Checks 检查 
+Pressure transmitter 压力传送器 
+Check functioning. 检查其工作。 
+Complete headbox 流浆箱总成 
+Check for leaks. 检查泄漏。 
+Gear unit 齿轮装置 
+Check for leaks. 检查泄漏。 
+Check oil level. 检查油位。 
+4.3.3 
+Paper quality 纸张的质量 
+Any damage or scratches, e.g. caused when cleaning the slice lip or the apron lip, may upset the 
+cross-profile and thus, diminish the quality of the paper. The slice lip or apron lip may even have 
+to be replaced.  
+清理作业导致裙缘和浆片唇缘破损、刮痕，都有可能影响截面轮廓，从而降低纸张的质
+量。应当更换裙缘和浆片唇缘。 
+Thus, please observe the following: 因此请遵守下列规定： 
+– All parts of the headbox must be cleaned and maintained carefully and thoroughly! 
+应当仔细彻底地清理、保养流浆箱的各个零件！ 
+– Protect the slice lip and the apron lip when working in the vicinity of the nozzle chamber and 
+the breast roll! 
+在喷嘴腔和胸辊附近工作时，注意保护裙缘和浆片唇缘！ 
+ 
+ 
+
+===PAGE_30===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+30 / 50 
+Maintenance 维护 
+Rev. 0 版本：0
+4.4 
+Maintenance schedule 维护计划 
+ 
+ 
+ 
+Component 部件 
+Activity 活动 
+Complete headbox 流浆箱总成 
+– Check for leaks.检查泄漏。 
+Slice gap 浆片唇口 
+– Check that headbox is parallel to forming roll.  
+– 检查流浆箱是否与成形辊平行。 
+– Check for wear and tear. 检查磨损与裂纹。 
+– Check gap. 检查唇口。 
+Tab. 1: Weekly 表1：每周 
+ 
+ 
+ 
+Component 部件 
+Activity 活动 
+Gear unit 齿轮装置 
+– Check oil level 检查油位 
+– Check temperature 检查温度 
+– Check for leaks 检查泄漏 
+– Check for unusual noises. 检查异常噪音 
+Servo drives 伺服驱动装置 
+– Check functioning. 检查其工作。 
+Worm gear screw jacks 
+涡轮螺旋千斤顶 
+– Check functioning. 检查其工作。 
+Pressure transmitter 压力传送器 
+– Check functioning. 检查其工作。 
+Tab. 2: Monthly 表2：每月 
+ 
+ 
+ 
+Component 部件 
+Activity 活动 
+Header 收集器 
+– Check for leaks. 检查泄漏 
+– Check for wear and tear. 检查磨损与裂纹 
+– Clean with high pressure. 高压清理。 
+Tube bank 管束 
+– Check for wear and tear. 检查磨损与裂纹 
+– Check functioning. 检查其工作 
+– Cleaning 清理 
+Expansion joint 伸缩接头 
+– Check for wear and tear. 检查磨损与裂纹 
+– Check functioning. 检查其工作 
+– Check for leaks. 检查泄漏 
+Tab. 3: Annually 表3：每年 
+ 
+ 
+Weekly 每周 
+Monthly 每月 
+Annually 每年 
+
+===PAGE_31===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+31 / 50
+4.5 
+Fasteners 紧固件 
+The installation data apply to standard screwed/bolted connections at the machine and should only 
+be used if no special installation data are stated in the assembly drawings! The information in the 
+following table applies to commercially available hexagon head and cheese head screws with met-
+ric ISO thread.  
+安装数据适用于设备上的标准螺纹/螺栓连接，应仅在组装图中没有说明特殊的安装数据时
+才能使用！在下表中的信息适用于市场上可以购买，带公称ISO 螺纹的六角头和高平头螺
+钉。 
+ 
+ 
+Pre-stressing forces (kN)预应力（千牛）
+μ 
+Tightening torques (Nm)拧紧扭矩（牛•米）
+5.6
+8.8
+A4-50
+A4-70
+A4-80
+C3-80
+5.6 
+8.8 
+A4-50
+A4-70
+A4-80
+C3-80
+M8 
+7 
+15
+5 
+11 
+14 
+15 
+0.1
+8
+17
+6
+12
+16
+17
+0.125
+10
+21
+7
+15
+19
+21
+0.14
+11
+23
+7
+16
+21
+23
+M10 
+11
+24
+8 
+17 
+23 
+24 
+0.1
+16
+34
+11
+24
+32
+34
+0.125
+19
+41
+13
+29
+38
+41
+0.14
+21
+45
+15
+32
+42
+45
+M12 
+16
+35
+12 
+25 
+33 
+35 
+0.1
+27
+58
+19
+41
+54
+58
+0.125
+33
+70
+23
+49
+66
+70
+0.14
+36
+77
+25
+54
+72
+77
+M16 
+31
+65
+21 
+46 
+61 
+65 
+0.1
+66
+140
+46
+99
+132
+140
+0.125
+80
+170
+56
+120
+160
+170
+0.14
+88
+188
+62
+133
+177
+188
+M20 
+48
+102
+33 
+72 
+95 
+102 
+0.1
+129
+275
+90
+193
+258
+275
+0.125
+156
+334
+110
+235
+313
+334
+0.14
+173
+369
+121
+259
+346
+369
+M24 
+69
+147
+48 
+103 
+137 
+147 
+0.1
+222
+474
+156
+333
+444
+474
+0.125
+269
+575
+189
+404
+539
+575
+0.14
+298
+635
+209
+447
+596
+635
+M27 
+90
+191
+63 
+134 
+179 
+191 
+0.1
+325
+693
+227
+-
+-
+693
+0.125
+395
+843
+277
+-
+-
+843
+0.14
+437
+933
+306
+-
+-
+933
+M30 
+109
+233
+77 
+109 
+219 
+233 
+0.1
+443
+945
+310
+443
+-
+945
+0.125
+538
+1149
+377
+538
+-
+1149
+0.14
+596
+1271
+417
+596
+-
+1271
+M36 
+159
+340
+111 
+159 
+319 
+340 
+0.1
+767
+1637
+537
+767
+-
+1637
+0.125
+934
+1992
+654
+934
+-
+1992
+0.14
+1034
+2205
+724
+1034
+-
+2205
+M42 
+219
+466
+153 
+328 
+437 
+466 
+0.1
+1223
+2609
+-
+-
+-
+2609
+0.125
+1490
+3178
+-
+-
+-
+3178
+
+===PAGE_32===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+32 / 50 
+Maintenance 维护 
+Rev. 0 版本：0
+ 
+Pre-stressing forces (kN)预应力（千牛）
+μ 
+Tightening torques (Nm)拧紧扭矩（牛•米）
+5.6
+8.8
+A4-50
+A4-70
+A4-80
+C3-80
+5.6
+8.8 
+A4-50
+A4-70
+A4-80
+C3-80
+0.14
+1650
+3520
+-
+-
+-
+3520
+M48 
+287
+612
+201 
+431 
+574 
+612 
+0.1
+1841
+3928
+-
+-
+-
+3928
+0.125
+2245
+4789
+-
+-
+-
+4789
+0.14
+2487
+5305
+-
+-
+-
+5305
+Tab. 4: Installation data for set screws 表 4：固定螺旋的安装数据 
+ 
+ 
+The coefficient of friction depending on the lubrication can be found in the following table:  
+在下表中可以找到取决于润滑剂的摩擦系数： 
+ 
+μ 
+Lubrication 润滑 
+5.6 / 8.8 / C3-80
+A4-50 / A4-70 / A4-80
+0.1
+MoS2
+0.125 
+dry or oiled 
+干燥或上油的 
+  
+0.14 
+ - 
+Anti-seize compounds 防卡剂 
+Tab. 5: Recommended lubrication and friction coefficients 表5：推荐润滑和摩擦系数 
+If the special lubricants mentioned here are not used, please follow the respective manufacturer's 
+instructions.  
+如果没有使用这里提到的特殊润滑剂，请遵循制造商的相应说明。 
+Bolts and screws are manufactured in several classes of material. The heads of these screws and 
+bolts are marked to show the strength class. Damaged or lost fasteners should only be replaced 
+with fasteners of the same material.  
+螺栓和螺钉采用多种等级的材料制造。这些螺钉和螺栓的头部进行了强度等级标记。损坏
+或丢失的紧固件只能用相同材料的紧固件代替。 
+The manufacturer's instructions should be observed for sub-supplies pertaining to the machine.  
+对于与设备有关的子耗材，应遵守制造商的说明。 
+ 
+ 
+ 
+ 
+ CAUTION 小心 
+ 
+Incorrectly tightened screws 螺钉锁紧不正确 
+Incorrectly tightened screws may lead to machine damage and thus to hazardous situations for per-
+sons.  
+螺钉锁紧不正确可导致机器损坏，因而导致人员的有害状况。 
+a) The installation values according to the drawings or the table must be observed! 
+必须遵循图纸或表格中给出的安装数值。 
+ 
+Coefficients of friction 
+and lubrication 
+摩擦系数与润滑 
+
+===PAGE_33===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+33 / 50
+4.5.1 
+Special tightening torques 规定的拧紧扭矩 
+ 
+ 
+Fig. 14: Apron body 图 12：裙体 
+ 
+ 
+Fig. 15: Slice lip 图 13：浆片唇口 
+ 
+Item 
+项目 
+Designation 名称 
+Tightening torque 
+拧紧扭矩 
+1 
+Apron body - tube bank M24 裙体 - 管束M24*170 
+675 Nm 
+2 
+Apron body - tube bank M20 裙体 - 管束M 
+270 Nm 
+3 
+Slice lip –front screw M16*55 
+浆片唇口 - M16*55 六角套头螺钉 
+135 Nm 
+4 
+Slice lip-rear screw M20*200  
+浆片唇口 - M16*55 六角套头螺钉 
+350mm 
+4.6 
+Spare parts 备件 
+Use only original spare parts. 只能使用原厂配件。 
+1 
+2 
+4 
+3 
+
+===PAGE_34===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+34 / 50 
+Maintenance 维护 
+Rev. 0 版本：0
+A list of the spare parts required for the machine can be found in the parts book.  
+此台设备需要的备件清单可以在部件集锦中找到。 
+>> Parts book>>部件集锦 
+Details on spare parts from sub-suppliers are also included in specifications from component sup-
+pliers. >> Supplier documentation 
+由分包商供应的零部件清单也包括在零部件供应商的规格书中。>>供应商文件 
+
+===PAGE_35===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+35 / 50
+>>供应商文件 
+4.7 
+Cleaning 清理 
+4.7.1 
+Overview and important instructions 概览与重要指示 
+ 
+ 
+ 
+ 
+ WARNING 警告 
+ 
+Danger from the improper use of chemical cleaning agents! 
+错误使用化学清洁剂会导致危险！ 
+Contact with the cleaning agents may cause skin damage and burning.  
+接触清洁剂有可能导致皮肤破损、烧伤。 
+a) Personal protective apparel must be worn!应当佩戴个人防护装备！ 
+b) The safety regulations from the appropriate cleaning agent supplier must be observed! 
+应当遵守清洁剂供应商提供的安全条例！ 
+ 
+ 
+ 
+ 
+ 
+ 
+NOTICE 注意 
+ 
+Incorrect cleaning 清理不当 
+Damage due to incorrect cleaning agents. 错误使用清洁剂导致的破坏。 
+a) Only permissible cleaning agents may be used for cleaning!只能使用规定的清洁剂！ 
+b) For electrical machine parts prevent any ingress of water, steam or other cleaning agents! 
+防止设备的电气零件浸水、渗透蒸汽和各种清洁剂！ 
+c) Do not use high-pressure cleaning equipment for cleaning the surface of painted parts as this 
+may lead to chipping in the paint coat and ultimately to corrosion! 
+切勿用高压力设备清理涂装表面以免涂层破损、导致腐蚀！ 
+ 
+4.7.1.1 
+Time and method 时间与方法 
+When the machine is shut down, the headbox must be cleaned thoroughly so that the stock does 
+not dry on. 
+设备停机以后，应当彻底清理流浆箱以免物料干结。 
+This prevents fermentation processes and bacteriological activity. 
+这样能够防止发酵、滋生细菌。 
+4.7.1.2 
+Cleaning work 清理作业 
+– Flush out with fresh water and cleaning agent.用清水和清洁剂冲洗。 
+– Hose down tube bank and nozzle chamber.用软管连接管束和喷嘴腔。 
+– Hose down stock feed (spreader).用软管连接输料器（涂布器）。 
+– Flush out entire headbox.冲洗整个流浆箱。 
+4.7.1.3 
+Process materials 工艺材料 
+Fresh water must be used to clean all parts of the machine.应当用清水清理设备的各个部件。 
+
+===PAGE_36===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+36 / 50 
+Maintenance 维护 
+Rev. 0 版本：0
+4.7.1.4 
+Suitable cleaning agents 适用的清洁剂 
+The headbox should only be cleaned with the following cleaning agents: 
+应当用下列清洁剂清理流浆箱： 
+ 
+Permitted cleaning agents 
+允许使用的清洁剂 
+Concentration 浓度 
+Temperature 温度 
+HCl (hydrochloric acid)  
+HCl（盐酸） 
+2-5% 
+up to 60°C 
+最高60°C 
+NaOH (caustic soda)  
+NaOH（苛性钠） 
+2-5% 
+up to 60°C 
+最高60°C 
+Sulfamic acid 硫酸 
+0.45% 
+up to 60°C 
+最高60°C 
+Tab.5: Cleaning agent 表5：清洁剂 
+4.7.1.5 
+Clean polished surfaces 清理抛光表面 
+Please observe the following when cleaning polished surfaces:  
+清理抛光表面的时候注意下列事项： 
+– Do not use sharp objects!切勿使用尖锐物体！ 
+– Use only cleaning rags, fresh water,and permitted chemical cleaning agents! 
+– 只能使用干净的抹布、清水和允许使用的化学清洁剂！ 
+ 
+4.7.2 
+Activities before cleaning 清理之前的活动 
+– Shut down stock feed.停止送料。 
+– Leave the water loop running for approximately 15 minutes to clean the system after the stock 
+feed has been shut down. 
+– 停止送料之后，让水路继续运行15 分钟左右，清理系统。 
+– Open the slice gap wide. 打开浆片唇口。 
+– Swing headbox and breast roll upwards. 
+– 摆动流浆箱和胸辊。 
+– >> SWINGING THE HEADBOX 摆动流浆箱 
+ 
+ 
+
+===PAGE_37===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+37 / 50
+4.7.3 
+Cleaning the tube bank with nozzle chamber and stock 
+feed 用喷嘴腔和物料清理管束 
+ 
+NOTICE! Always allow the slice bodies and tube bank to cool down before cleaning or use 
+warm water to avoid deformations. Never hose down the warm tube bank with cold water. 
+Sudden changes in temperature can damage the headbox. 
+注意！清理人员用热水清理之前，一定要让管束和浆片体冷却，防止变形。切勿将冷水软
+管接入高温管束。温度的突然变化有可能损坏流浆箱。 
+NOTICE! Never use sharp objects to clean surfaces coming into contact with the stock. 
+Avoid damage to the nozzle chamber and tube bank. Never flush out the tube bank with 
+pressures above 40 bar.  
+注意！切勿使用尖锐物体清除表面堆积的物料。防止损坏喷嘴腔和管束。切勿用40 bar 以
+上的压力冲洗管束。 
+ 
+ 
+ 
+ 
+ WARNING 警告 
+ 
+Danger from the improper use of chemical cleaning agents! 
+错误使用化学清洁剂会导致危险！ 
+Contact with the cleaning agents may cause skin damage and burning.  
+接触清洁剂有可能导致皮肤破损、烧伤。 
+a) Personal protective apparel must be worn!应当佩戴个人防护装备！ 
+b) The safety regulations from the appropriate cleaning agent supplier must be observed! 
+应当遵守清洁剂供应商提供的安全条例！ 
+ 
+ 
+ 
+ 
+Steps 步骤 
+a) Shut down the stock feed (>> ACTIVITIES BEFORE CLEANING). 
+停止送料（>>清理之前的活动）。 
+b) If chemical cleaning agents are used: Add cleaning agent to the water loop.  
+如果使用了化学清洁剂：将清洁剂添加到水环路中。 
+>> OVERVIEW AND IMPORTANT INFORMATION>>概览与重要信息 
+c) Open the water loop and flush the system out for approximately 15 minutes. 
+打开水环路，冲洗系统15 分钟左右。 
+d) Swing the operator side and drive side covers of the pond side out of the way. 
+摆动到操作侧，打开侧板传动侧的盖板。 
+e) Hose down tube bank and nozzle chamber from the outlet side with fresh water. Max. cleaning 
+pressure for tube bank at outlet side: 40 bar 
+将清水软管接入管束和喷嘴腔的出口。管束出口端的最大清理压力：40 bar 
+f) Swing the headbox and breast roll into the cleaning position (see SWINGING THE HEAD-
+BOX). 
+将流浆箱和胸辊摆动到清理位置（参见摆动流浆箱）。 
+g) Hose down the tube bank with fresh water from the inlet side. 
+将清水软管接入管束入口。 
+h) If necessary, clean the discharge elements of the headbox with a cleaning lance covered with a 
+soft protection sleeve. 
+必要时，用柔软保护套包裹的长杆清理流浆箱的排放元件。 
+Preparation 准备 
+Cleaning with fresh 
+water or chemical 
+agents 
+用清水或者化学药剂清
+理 
+
+===PAGE_38===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+38 / 50 
+Maintenance 维护 
+Rev. 0 版本：0
+i) Hose down the stock feed (header) with fresh water as well if necessary. 
+必要时将清水软管清理流浆箱中的物料。 
+ 
+ 
+
+===PAGE_39===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+39 / 50
+4.8 
+Lubrication 润滑 
+Before start-up, check whether all lubrication points, in particular the bearings and gears, have 
+been filled with the appropriate lubricants.  
+在启动之前，检查所有润滑点（特别是轴承和齿轮）是否都添加了合适的润滑剂。 
+Details on lubrication are also included in the descriptions from component suppliers.  
+关于润滑的具体规定同时还包含在组件供应商的说明中。 
+>> Supplier documentation>>供应商文件 
+Please also observe maintenance instructions on the maintenance signs and rating plates attached 
+to the machine and components.  
+请同时遵守设备和组件上的维护标志和铭牌板上的维护说明。 
+ 
+ 
+ 
+ 
+NOTICE 注意 
+ 
+Incorrect disposal of lubricants 润滑剂处置错误 
+Incorrect disposal of lubricants endangers our environment. 润滑剂处置错误会污染我们的环
+境。 
+a) Collect leaking oil and dispose of properly without causing environmental pollution! 
+收集漏油，妥善处理，不会造成环境污染！ 
+b) Oil containing plant-based raw materials should always be collected and disposed of sepa-
+rately! 
+基于蔬菜原材料的润滑油应分开进行收集和处置！ 
+ 
+ 
+ 
+
+===PAGE_40===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+40 / 50 
+Maintenance 维护 
+Rev. 0 版本：0
+4.8.1 
+Lubrication schedule 润滑计划表 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+Fig. 16: Lubrication points 图 16：润滑点 
+ 
+Lubricating point 润滑点 
+Lubricants 润滑剂 
+Quantity 数量 
+Interval 时间间隔 
+Item
+项目
+No. 
+序号
+Designation 名称
+Type 类型 
+First fill-
+ing 
+首次加
+注 
+Refill 
+重新加
+注 
+Refill 
+重新加
+注 
+Change 更换 
+1 
+6 
+Fulcrum bearing
+关节轴承 
+Mobilith SHC PM 460 
+ 
+2 g 
+600 h 
+ 
+2 
+1 
+Planetary gear 
+行星齿轮 
+ISO-VG 680 
+ 
+Approx.
+8 L 
+ 
+ 
+ 
+3 
+12 
+Bearing-gap ad-
+justment 
+轴承-间隙调节
+Mobilith SHC PM 460
+ 
+1 g 
+600 h 
+ 
+Tab. 6: Lubricating schedule 表 6：润滑计划表 
+ 
+ 
+1 
+3 
+2 
+
+===PAGE_41===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+41 / 50
+4.9 
+Swinging the headbox 摆动流浆箱 
+Warning for Lifting with crane! 用吊车吊装警告! 
+The Headbox designed with moving and lifting with workshop crane. The crane loading 
+capacity and safety status must be careful check for each time! The operator must be 
+well trained! 流浆箱采用车间起重机移动升降设计。每次必须仔细检查起重机的装载能力
+和安全状态!操作员必须训练有素! 
+Warning for Multiple lifting!多次起吊警告！ 
+Lifting a load with two or more cranes or hoists on a single crane requires greater atten-
+tion to planning and supervision than lifting with one crane, because the effects of the 
+relative motion between the cranes may induce additional loadings on the cranes, the 
+load and the lifting gear. Because of this and the difficulty in monitoring these additional 
+loads, multiple lifting shall only be used when the physical dimensions, characteristics, 
+mass or required movement of the load prevent the operation being carried out by a sin-
+gle crane.  
+使用两台或两台以上的起重机或一台起重机上的起重机吊装一件货物，比使用一台起重机
+吊装需要更多的计划和监督，因为两台起重机之间的相对运动可能会导致起重机、货物和
+吊装装置上增加额外的货物。由于这一点以及监测这些额外的负载的困难，只有当负载的
+物理尺寸、特性、质量或所需的移动不能由一台起重机进行操作时，才能使用多次起吊。
+ 
+ 
+ 
+ 
+ 
+The lifting lug (Pos a) status must be carefully check before each use! 每次使用前必须仔
+细检查吊耳的状态! 
+The lifting lug is critical parts for lifting and machine safety! 吊耳是起重和机器安全的关键
+部件! 
+ 
+When using multiple chain hoist systems, each 
+individual hoist unit should be rated to a capacity 
+of at least 100% of the load. 当使用多个手动葫芦系
+统时，每个单独的提升单元的额定能力应至少达到负
+载的100%。 
+
+===PAGE_42===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+42 / 50 
+Maintenance 维护 
+Rev. 0 版本：0
+4.9.1 
+Control panel – headbox and former 操纵台 – 流浆箱
+和成形器 
+>>See Control Panel. 查看控制面板文件。 
+4.9.2 
+Relieving the tension on the top wire 释放丝网顶部的
+张力 
+Turn the key-operated switch at the control panel from "OPERATION" to "SERVICE" and relieve 
+the tension on the tensioning roll by means of the touch panel.  
+将操纵台上的钥匙开关从“OPERATION（操作）”旋转到“SERVICE（服务）”，通过触摸屏
+释放张力辊的张力。 
+4.9.3 
+Raising the breast roll 提升胸辊 
+ 
+Steps 步骤 
+a) Secure the breast roll at the lifting lugs (3) to the crane.  
+将吊耳(3)处的胸辊固定在起重机上。 
+b) Detach the eye bolts (1) on the operator side and drive side and swing down. 
+将吊环螺栓（1）摆动到操作侧和传动侧。 
+c) Confirm that the eye bolts have been swung down before the breast roll is run upwards electri-
+cally. 
+用电动机提升胸辊之前，检查吊环螺栓是否降下。 
+Swing the breast roll into the "Service Position" via the touch panel and secure in position 
+with the retention pins (2) on the operator side and drive side. 
+通过触摸屏将胸辊摆动到“服务位置”，用操作侧和传动侧的限位销（2）固定。 
+ 
+ 
+ 
+Fig. 17: Raising the breast roll 图 17：提升胸辊 
+ 
+ 
+ 
+1
+2.5 
+3
+2
+
+===PAGE_43===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+43 / 50
+4.9.4 
+Swinging the headbox into the felt changing position 将
+流浆箱摆动到毛毯更换位置 
+ 
+ 
+ 
+ 
+ DANGER 危险 
+ 
+Danger of crushing when swinging the headbox 流浆箱摆动期间会产生夹持危险 
+Moving machine components can create mortal danger.活动的设备部件会产生严重危险。 
+a) Always make sure that there is no-one in the danger zone!保证危险区内部没有人员！ 
+ 
+NOTICE! Before swinging upwards or downwards, always check whether the front part of 
+the headbox can move freely. Risk of damage to machine or one of its components. Stop im-
+mediately if the swing movement is obstructed. Maintenance work on the headbox is only 
+permitted when locking devices are in use.  
+注意！上下摆动之前，始终检查流浆箱的前端是否可以自由移动。机械设备及其组件有可
+能导致危险。如果摆动受到阻碍，立即停止摆动。只能在使用锁定装置的情况下实施流浆
+箱的维护作业。 
+ 
+Steps 步骤 
+a) Breast roll retracted (swivelled up) 胸辊回收（向上旋转） 
+b) Eye bolts M30 open (1*OS and 1*DS)  
+打开有眼螺栓M30（1*操作侧和1*传动侧） 
+c) Swing the headbox CW with ratchet until sidewall hits the stop bolt OS+DS 
+用棘轮顺时针摆动流浆箱直到侧壁碰到定位销 
+ 
+Fig. 18: Felt changing position 图 18：毛毯变更位置 
+ 
+ 
+
+===PAGE_44===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+44 / 50 
+Maintenance 维护 
+Rev. 0 版本：0
+4.9.5 
+Swinging the headbox into the cleaning position 将流浆
+箱摆动到清洁位置 
+ 
+ 
+ 
+ 
+ DANGER 危险 
+ 
+Danger of crushing when swinging the headbox 流浆箱摆动期间会产生夹持危险 
+Moving machine components can create mortal danger. 活动的设备部件会产生严重危险。 
+a) Always make sure that there is no-one in the danger zone!保证危险区内部没有人员！ 
+ 
+NOTICE! Before swinging upwards or downwards, always check whether the front part of 
+the headbox can move freely. Risk of damage to machine or one of its components. Stop im-
+mediately if the swing movement is obstructed. 
+注意！上下摆动之前，始终检查流浆箱的前端是否可以自由移动。机械设备及其组件有可
+能导致危险。如果摆动受到阻碍，立即停止摆动。 
+DANGER! Supports (3) are not mounted. Risk to life and limb and risk of damaging the ma-
+chine or one of its components. Maintenance work on the headbox is only permitted with the 
+safety supports mounted. 
+危险！支撑（3）没有安装。机械设备或其某个组件有可能危及生命、夹持肢体。只能在安
+全支撑安装完毕的情况下实施流浆箱的维护作业。 
+ 
+Steps 步骤 
+a) Disconnect compensator from header (look at DRW.703604284)从流浆箱断开补偿器 
+1. Open 8*bolt connection 打开8*螺栓连接 
+2. Squeeze compensator 5mm and rest pipe of recirculation on holding plate 在托板上挤压
+补偿器5mm 和再循环休息管 
+3. Loosen 20*nuts of eye bolts<10mm 拧松20*螺母的带眼螺栓<10mm 
+4. Screw back intermediate piece with M36 nuts 5mm 用5mm 的M36 螺母将中间件旋回 
+5. Fix intermediate piece with screws M30 用M30 螺丝固定中间件 
+6. Swing back 20*eye bolts 旋回20*有眼螺栓 
+7. Remove 2*taper pins 移走2*锥形销 
+b) Connect header with 3to shackle and 3to rope with house crane 连接流浆箱用3to 锚和3to
+绳子的起重机 
+c) Open header eye bolts M20 (38*over the whole width on the top)打开流浆箱M20 有眼螺栓 
+                                             (38*over the whole width on the bottom) 
+d) Remove retention pins OS+DS 拆卸定位销 
+e) Lift header with house crane until the pointers align (only OS)用起重机吊起流浆箱指导指针
+对齐 
+f) Secure header with retention pins OS+DS 使用定位销保护流浆箱 
+g) Close in reverse direction 反向关闭 
+
+===PAGE_45===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+45 / 50
+ 
+Fig. 19: Cleaning and roll changing position 图 19：清理、变更辊轴的位置 
+ 
+ 
+
+===PAGE_46===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+46 / 50 
+Maintenance 维护 
+Rev. 0 版本：0
+4.9.6 
+Swinging the headbox into the forming roll changing 
+position 将流浆箱摆动到更换成型辊位置 
+ 
+ 
+ 
+ 
+ DANGER 危险 
+ 
+Danger of crushing when swinging the headbox 流浆箱摆动期间会产生夹持危险 
+Moving machine components can create mortal danger. 活动的设备部件会产生严重危险。 
+a) Always make sure that there is no-one in the danger zone! 保证危险区内部没有人员！ 
+ 
+NOTICE! Before swinging upwards or downwards, always check whether the front part of 
+the headbox can move freely. Risk of damage to the machine or one of its components. Stop 
+immediately if the swing movement is obstructed (K).  
+注意！上下摆动之前，始终检查流浆箱的前端是否可以自由移动。机械设备及其部件有可
+能导致危险。如果摆动受到阻碍（K），立即停止摆动。 
+DANGER! If the supports are not mounted (3) Risk to life and limb and risk of damaging 
+the machine or one of its components. Maintenance work on the headbox is only permitted 
+with the safety supports mounted.  
+危险！如果未安装支架（3），存在对生命和肢体的风险及损害机器和部件风险。只有在安
+装了安全支架的情况下，才允许对流浆箱进行维护工作。 
+ 
+Steps 
+a)  breast roll retracted (swivelled up) 胸辊回收（向上旋转） 
+b) disconnect compensator 断开补偿器 
+c) dismount adjusting block and loosen fixing screws 拆卸调节块，松开固定螺丝 
+d) fix headbox with eyebolt M30-OS+DS 用有眼螺栓M30 固定流浆箱 操作侧+传动侧 
+e) lift complete headbox with house crane and move 575 mm in dryend direction-use 4*delivered 
+lifting lugs JDT TP17 as shown in drw. 703603372 用起重机吊起整个流浆箱，向干部方向移
+动575mm-用图703603372 中的4 个起重吊耳 
+f ) fix headbox with 4 screws M20 OS+DS 用螺栓M20 固定流浆箱 操作侧+传动侧 
+!!Take care for cables on drive side!!! 注意驱动侧的电缆 
+ 
+
+===PAGE_47===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+47 / 50
+ 
+4.9.7 
+Swinging the headbox into the operating position 将流
+浆箱摆动到工作位置 
+The headbox is swung back into the operating position by performing the actions described above 
+in reverse order.  
+按照上文介绍的相反步骤，将流浆箱摆动到工作位置。 
+The headbox is swung down using the touch panel.通过触摸屏摆动流浆箱。 
+NOTICE! The machine may be damaged by mechanical interlocking devices when swinging 
+downwards. The supports must be removed before swinging downwards. 
+注意！向下摆动时，设备内部的锁定装置有可能损坏机械设备。向下摆动之前应当拆除支
+撑。 
+After swinging into the operating position, all screws must be swung back into position and 
+mounted with the correct tightening torque. 
+摇摆动到工作位置之后，应当将全部螺钉放回原位并用正确的力矩拧紧。 
+ 
+ 
+
+===PAGE_48===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+48 / 50 
+Maintenance 维护 
+Rev. 0 版本：0
+4.10 
+Changing the inserts 更换插件 
+ 
+– Clean the machine. 清理设备。 
+– Shut down machine and secure against accidental start. 
+– 设备停机、销定以防意外启动。 
+– Dismount the lamellas.拆卸飘片。 
+– Open mixing chamber cover. 打开腔盖。 
+ 
+ 
+ 
+Steps 步骤 
+a) Check the apron lip for damage with a top layer or a rubber mat (A). 
+检查裙缘的顶层和橡胶垫（A）是否受损。 
+b) Push the plastic rod (B) into the tubes (5a) of the diffuser block and knock the inserts (5c) un-
+til they come out. 
+将塑料棒（B）插入扩散器的管道（5a）并完全推出插件（5c）。 
+ 
+Fig. 20: Removing the inserts 图 20：取出插件 
+ 
+ 
+ 
+ 
+Steps 步骤 
+a) Push the inserts (5c) into the diffuser block (5) and knock right in carefully with a rubber mal-
+let. 
+将插件（5c）推入扩散器（5），用橡胶垫仔细固定。 
+b) Grind off the inserts (5c) with a belt sander (C) (grain size 240) until they are flush with the 
+diffuser block (5). 
+用240 号砂纸（C）打磨插件（5c），直到插件与扩散器（5）齐平。 
+Preparation 准备 
+Removing the inserts
+取出插件 
+Installing the inserts 
+安装插件 
+
+===PAGE_49===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+Rev. 0 版本：0 
+Maintenance 维护 
+49 / 50
+ 
+Fig. 21: Installing the inserts 图 21：安装插件 
+ 
+4.11 
+Setting the slice lip 设定浆片唇口 
+CAUTION! The adjusting spindle is preset at the factory. If it is necessary to set a spindle, 
+we recommend having this work performed by service personnel from ANDRITZ. 
+小心！轴杆是在工厂预先设定的。如果需要设置轴杆，建议由安德里茨有限公司的服务人
+员完成这项工作。 
+The micro-adjusters can be used to make manual readjustments to local unevenness 
+in the slice gap over the entire working width. This is done by setting the slice lip (vertical 
+position). 微调节器可用于手动调整整个工作宽度上的上墙体唇口的局部不均匀性。这是通
+过设置上墙体唇口(垂直位置)来完成的。 
+The threaded spindles (12a) arranged at equal distances over the working width are 
+set with zero backlash. Each spindle can be set individually by means of an adjusting 
+screw (12b) with an appropriate scale (12c). 螺纹主轴(12a)在工作宽度上布置相等的距离，设
+置为零隙。每个主轴可以通过调节螺丝(12b)和适当的刻度(12c)单独设置。 
+The scale of movement can be read directly from the spindle. 运动的刻度可以直接从主轴读
+取。 
+ 
+
+===PAGE_50===
+ 
+ 
+Headbox 流浆箱 
+C&S PAPER (JIANGSU) CO., LTD., C-14-855551-716, C-14-855552-716
+ 
+50 / 50 
+Maintenance 维护 
+Rev. 0 版本：0
+ 
+ 
+       
+ 
+Fig. 22: Setting spindle 图. 22：设定轴杆 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NOTICE 注意 
+ 
+Deformations due to wrong adjustments 调节不当导致的变形 
+Danger of permanent deformation of the slice blade! 浆片叶片永久变形的危险！ 
+a) The following maximum difference in the adjusting path must be observed: 
+应当遵守下列最大调节幅度： 
+from spindle to spindle. . . 0.25 mm 从轴杆到轴杆：0.25 毫米 
+over the entire width: 0.5 mm 整个宽度：0.5mm 
+ 
+ 
+12a 
+12b 
+12c 
+

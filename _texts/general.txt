@@ -1,0 +1,3324 @@
+===PAGE_1===
+Operating and Maintenance Instructions 
+《操作与维护说明书》 
+Tissue Machine 卫生纸机 
+Machine: 设备： 
+Tissue Machine 卫生纸机 
+Year of manufacture:  
+制造年份： 
+2026 
+Order code: 订单代码： 
+C&S Paper (Jiangsu) Co., Ltd. 
+Order no.: 订单编号： 
+C-14-855551-716 TM4,  
+C-14-855552-716 TM3 
+Original language: 原文： 
+German 德语 
+Equipment No.:  
+设备编号： 
+ 
+Issued: 发行人： 
+PTP/Liang Xiaoqing, 03.2026 
+Checked: 审核人： 
+PTP/Yang Kun, 03.2026 
+Rev.: 修订： 
+0 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Title Page 扉页 
+
+===PAGE_2===
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+ 
+Title Page 扉页 
+Rev. 0 版本：0
+The operating manual is protected by copyright. All usual rights reserved. It must not be wholly or partly reproduced 
+without authorization by ANDRITZ. Non-compliance will result in damages claims and may have consequences under 
+criminal law. All rights shall also be reserved for any patents granted, registration of trade marks and technical modifi-
+cations without prior notification. 
+本操作手册受版权保护。版权所有。未经安德里茨有限公司批准，不得复制本文的全部或部分内容，否则会据
+此提出索赔要求，甚至涉及刑法。版权还包括专利获得、商标注册，以及在未经事先通知的情况下做出的技术
+改良。 
+©2026 ANDRITZ ©2026 年版权所有 
+
+===PAGE_3===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Table of contents 目录 
+3 / 68
+Table of contents 目录 
+ 
+1 
+Introduction 简介 ................................................................................................................................. 5 
+1.1 
+General 总则 ......................................................................................................................................... 5 
+1.2 
+Use 使用 ............................................................................................................................................... 5 
+1.3 
+Standards and guidelines 标准与导则 ..................................................................................................... 6 
+1.4 
+Use of manual 手册使用 ........................................................................................................................ 6 
+1.5 
+Warranty and liability 保证和担保 .......................................................................................................... 8 
+1.6 
+Service address 服务地址 ....................................................................................................................... 8 
+1.7 
+Copyright 版权 ...................................................................................................................................... 8 
+2 
+Safety 安全 ........................................................................................................................................... 9 
+2.1 
+General safety regulations 基本安全条例 ................................................................................................ 9 
+2.2 
+Danger and warning signs 危险和警告标志 ............................................................................................ 9 
+2.3 
+Intended use 指定用途 ......................................................................................................................... 10 
+2.4 
+General remarks on machine safety 设备安全的基本说明 ...................................................................... 11 
+2.5 
+Hazardous applications 危险应用情况 .................................................................................................. 11 
+2.6 
+Operating company’s obligations 运营公司的责任 ................................................................................ 11 
+2.7 
+General obligations of personnel 人员的基本责任 ................................................................................. 13 
+2.8 
+Safety devices 安全装置 ...................................................................................................................... 15 
+2.8.1 
+Execution of the EMERGENCY STOP device 执行紧急停机装置 ............................................... 15 
+2.9 
+Personal protective apparel 个人防护装备 ............................................................................................. 16 
+2.10 
+Safety at the machine installation site 设备安装现场的安全 ................................................................... 17 
+2.11 
+Temperature 温度 ................................................................................................................................ 17 
+2.12 
+Noise 噪音 .......................................................................................................................................... 18 
+2.13 
+Electrical equipment 电气设备 ............................................................................................................. 18 
+2.14 
+Hydraulic and pneumatic equipment 液压设备与气动设备 .................................................................... 19 
+2.15 
+Welding work 焊接作业 ...................................................................................................................... 19 
+2.16 
+Fluids, (liquids, gases, vapor, or smoke) 流体（液体、气体、蒸汽或烟气） ......................................... 19 
+2.17 
+Oils and greases 油与油脂.................................................................................................................... 20 
+3 
+Technical data 技术数据 .................................................................................................................... 21 
+4 
+Installation 安装 ................................................................................................................................. 22 
+4.1 
+General 总则 ....................................................................................................................................... 22 
+4.2 
+Safety regulations 安全条例 ................................................................................................................. 22 
+4.3 
+Transport 运输 .................................................................................................................................... 23 
+4.3.1 
+Lifting the rolls 吊装辊子 .......................................................................................................... 24 
+4.4 
+Safekeeping 安全保管 ......................................................................................................................... 24 
+4.4.1 
+Safekeeping of rubberised rolls 安全存放施胶辊筒 ..................................................................... 25 
+4.5 
+Installation 安装 .................................................................................................................................. 26 
+4.5.1 
+Machine installation 设备安装 ................................................................................................... 27 
+4.5.2 
+Installation of peripheral equipment 外围设备安装 ...................................................................... 27 
+4.6 
+Connect up 连接 .................................................................................................................................. 29 
+4.7 
+Cold test (preparation for initial start-up) 冷测试（准备首次启动） ...................................................... 31 
+4.8 
+Disassembly and disposal 拆卸与处置 .................................................................................................. 32 
+4.9 
+General 总则 ....................................................................................................................................... 34 
+4.10 
+Safety regulations 安全条例 ................................................................................................................. 34 
+4.11 
+Prerequisites for start-up 启动前的准备工作 ......................................................................................... 35 
+4.11.1 
+General prerequisites 一般前提条件 ........................................................................................... 35 
+4.12 
+Start-up 启动 ....................................................................................................................................... 35 
+4.13 
+Certificates 证书 .................................................................................................................................. 36 
+
+===PAGE_4===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+4 / 68 
+Table of contents 目录 
+Rev. 0 版本：0
+4.14 
+General 总则 ....................................................................................................................................... 37 
+4.15 
+Safety regulations 安全条例 ................................................................................................................. 37 
+4.16 
+Control via DCS 通过DCS 控制 .......................................................................................................... 37 
+4.17 
+Cleaning 清理...................................................................................................................................... 38 
+4.18 
+Starting 启动 ....................................................................................................................................... 40 
+4.19 
+Shutdown 停机 .................................................................................................................................... 41 
+4.20 
+Re-start after an EMERGENCY STOP 紧急停机后重新启动 ................................................................. 41 
+4.21 
+Operating conditions 操作条件 ............................................................................................................. 42 
+4.22 
+Settings at the machine 机器设置 .......................................................................................................... 43 
+4.22.1 
+Headbox 流浆箱 ........................................................................................................................ 43 
+4.22.2 
+Setting the wire and felt guiding devices 网和毯校正装置的设置 ................................................. 45 
+4.22.3 
+Suction box angle of suction press roll 真空压榨辊的真空箱角度 ................................................ 53 
+4.23 
+Diagrams and characteristic curves 图表和特征曲线 .............................................................................. 54 
+4.23.1 
+Dynamic pressure diagram for headbox 流浆箱的动态压力图 ...................................................... 54 
+4.23.2 
+Heating sequence of the Yankee 扬克缸加热过程 ....................................................................... 55 
+4.23.3 
+Characteristic curve for soda straw type siphon – Steam pressure 3.5 bar 苏打虹吸管特性曲线-蒸汽
+压力3.5 巴 
+ ................................................................................................................................................ 57 
+4.23.4 
+Characteristic curve for soda straw type siphon – Steam pressure 4bar 苏打虹吸管特性曲线-蒸汽压
+力4 巴 
+ ................................................................................................................................................ 58 
+4.23.5 
+Characteristic curve for soda straw type siphon – Steam pressure8.5 bar 苏打虹吸管特性曲线-蒸汽
+压力8.5 巴 
+ ................................................................................................................................................ 59 
+4.23.6 
+Characteristic curve for soda straw type siphon – Steam pressure8.8 bar 苏打虹吸管特性曲线-蒸汽
+压力8.8 巴 
+ ................................................................................................................................................ 60 
+4.23.7 
+Characteristic curve for soda straw type siphon – Steam pressure 9.5 bar 苏打虹吸管特性曲线-蒸汽
+压力9.5 巴 
+ ................................................................................................................................................ 61 
+4.24 
+Removing and mounting the core fixing unit of the reel spool 拆装卷纸辊纸芯固定装置 ......................... 62 
+4.25 
+Local operating panels 本地操作面板 ................................................................................................... 63 
+4.26 
+Operating faults 操作故障 .................................................................................................................... 64 
+4.26.1 
+Headbox 流浆箱 ........................................................................................................................ 64 
+4.26.2 
+Crescent Former (wire and felt section)新月型成型器（网和毯部） ............................................ 64 
+4.26.3 
+Press section 压榨部 .................................................................................................................. 66 
+4.26.4 
+Yankee – operating faults 扬克缸 – 操作故障 ............................................................................. 67 
+4.26.5 
+Yankee – what to do in the event of a power failure 扬克缸 – 停电时该怎么办？.......................... 68 
+4.26.6 
+Reel 卷纸机 .............................................................................................................................. 68 
+ 
+
+===PAGE_5===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Introduction 简介 
+5 / 68
+1 
+Introduction 简介 
+1.1 
+General 总则 
+This manual is part of the ANDRITZ technical documentation for the machine. It is intended to 
+provide the operating company with the basic knowledge required for proper, safe and economical 
+use of the equipment delivered by ANDRITZ. Observing these instructions helps avoid hazards 
+and reduce repair and downtime costs, as well as increasing the reliability and useful life of the 
+machines.  
+本手册是安德里茨有限公司的设备技术文件的组成部分，本文旨在为运营公司提供恰当、
+安全、经济地使用安德里茨有限公司交付设备所需的基础知识。阅读这类说明书，有助于
+避免危害，降低修理成本和停机成本，同时提高设备的可靠性和有效使用寿命。 
+1.2 
+Use 使用 
+ 
+This operating manual is intended for users with a knowledge of mechanical engineering and is for 
+the exclusive use of the operating company and its personnel.  
+本操作手册意在向用户提供机械工程方面的知识，供广大的运营公司及其人员单独使用。 
+Personnel entrusted with work on the machine must have read and understood these operating in-
+structions and comply with them. This refers in particular to the following tasks:  
+委派操作该设备的人员，应当阅读、理解并遵守这些操作说明书的内容。操作特指下列内
+容： 
+Transport 运输 
+– Erection work, installation and start-up 装配工作、安装和启动 
+– Handling, starting and stopping 搬运、启动和停机 
+– Troubleshooting 故障排除 
+– Maintenance and upkeep 维护与维修 
+– Maintenance and disposal of process materials, cleaning of machine and the area around the 
+machine 维护并处理工艺材料，清理设备及其周边地带 
+In particular, the following must be considered: 还应当特别注意下列内容： 
+SAFETY Chapter 安全章节 
+– Safety instructions contained in various other chapters 其它各章节中的安全指导 
+ 
+The plant operating company shall complete this manual by adding national regulations on occu-
+pational health and safety and on environmental protection, taking particular account of any spe-
+cial operating features.  
+设备的运营公司应当将本国的职业健康与安全、环境保护法规纳入本手册，特别注意特殊
+的运营特点。 
+ 
+Keep the entire operating manual near the place where the machine is installed and within easy 
+reach.  
+将整个操作手册放在设备的安装地点附近、易于获取的位置。 
+ 
+ 
+Target group 目标群体 
+Supplementary in-
+structions 补充说明 
+Safekeeping 安全保管 
+
+===PAGE_6===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+6 / 68 
+Introduction 简介 
+Rev. 0 版本：0
+1.3 
+Standards and guidelines 标准与导则 
+The machine/plant has been built in accordance with state-of-the-art standards and the recognized 
+safety rules.  
+机械/设备是按照最先进的标准和公认的安全原则制造的。 
+The CE declaration of conformity confirms that the requirements of Machinery Directive 
+2006/42/EC and the corresponding standards (see CE declaration of conformity for details) have 
+been observed.  
+通过欧盟认证确认了此台设备符合机械指令2006/42/EC 和相应的标准（详见符合性认证声
+明）。 
+The declaration of incorporation confirms that the safety requirements according to Annex 1 of 
+Machinery Directive 2006/42/EC have been obeyed.  
+通过公司声明，证明达到机械指令2006/42/EC 附录1 的安全要求。 
+Auxiliary electrical equipment supplied has CE marking if it falls within the scope of a directive, 
+for example the low-voltage or EMC Directive.  
+提供的辅助电气设备，凡是属于指令范围之内的，例如低压指令或者电磁兼容性指令，都
+配有CE 认证标志。 
+1.4 
+Use of manual 手册使用 
+ 
+Chapter and section headings are printed in capitals in the body text:  
+在连续文本中的章节的标题用大写字母打印： 
+e.g. SAFETY 例如：安全 
+ 
+The following pictograms are used in the operating instructions: 手册采用下列象形符号： 
+ 
+ 
+Warning signs 警告标志 
+Warning signs are shown with an explanation of the type of hazard.  
+警告标志配有危险类型的说明。 
+The meanings of the different safety instructions are described in the Chapter on 
+SAFETY.  
+不同等级的危险含义在《安全》章节描述。 
+>> 
+Marks a cross-reference 交叉引用 
+e.g. >> Safety [} 9] 例如>>安全 [} 9] 
+e.g. >> ANNEX 例如>>附录 
+ 
+ 
+Work instructions are shown in numbered lists. The work steps are numbered and must be carried 
+out in the order specified.  
+操作说明见编号列表。作业步骤已编号，必须按照指定顺序进行作业。 
+Lists without numbering do not require operations to be carried out in a certain order.  
+不带编号的清单不需要按特定顺序执行操作。 
+ 
+ 
+ 
+Pages: 页码： 
+Consecutive numbering 连续编号 
+e.g. 2/11 (Page 2 of 11)  
+例如：2/11（共11 页，第2 页） 
+Table: 表： 
+Consecutive numbering 连续编号 
+e.g. Tab. 8 例如：表8 
+Figures: 图： 
+Consecutive numbering 连续编号 
+e.g. Fig. 12 例如：图12 
+ 
+Presentation 声明 
+Pictograms 象形图 
+Work steps 工作步骤 
+Numbering of pages, 
+tables and figures 
+页码、表格和图的编号 
+
+===PAGE_7===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Introduction 简介 
+7 / 68
+ 
+ 
+ 
+Tab. 表 
+Table 表 
+Fig. 图 
+Figure 图 
+ 
+ 
+The figures and graphics show the basic design of the machine. This need not necessarily corre-
+spond exactly to the version supplied.  
+数字和图表显示了设备的基本设计。这并不一定与供货的版本完全一致。 
+Detailed information on the equipment supplied: 所提供设备的详细信息： 
+>> Parts lists, drawings and supplier documentation>> 部件清单、图纸和供应商文件 
+ 
+ 
+Abbreviations 缩写词 
+Illustrations and 
+graphics 插图和图形 
+
+===PAGE_8===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+8 / 68 
+Introduction 简介 
+Rev. 0 版本：0
+1.5 
+Warranty and liability 保证和担保 
+The ANDRITZ general terms of delivery and sale shall apply.  
+在适用的安德里茨有限公司的交货和销售方面的通用条款将适用。 
+Guarantee and liability claims towards ANDRITZ shall become void if personal injury or material 
+damage is caused by one or several of the following: 
+因下列原因导致的人员受伤或材料损坏，无权对安德里茨有限公司的担保和责任提出诉
+讼： 
+Use of the machine/system for any purpose other than its designated use.  
+– 将设备或系统用于除其指定用途外的其他用途。 
+– Non-conformity of erection work, start-up and handling of the machine/system.  
+– 设备或系统安装工作、启动和搬运不符合要求。 
+– Non-observance of the safety instructions in the manual. 不遵守手册中的安全指导。 
+– Non-authorized structural changes to the machine/system. 
+– 在未经批准的情况下改变设备/系统的结构。 
+– Non-observance of the maintenance and upkeep instructions.不遵守维护和维修说明。 
+In the event of a claim for repair under guarantee, ANDRITZ reserves the right to assess the dam-
+age to the machine/system.  
+在保质期内请求修理设备时，安德里茨有限公司有权评估设备的损坏情况。 
+1.6 
+Service address 服务地址 
+The ANDRITZ service department is at your disposal for spare part orders, troubleshooting, as 
+well as for extensive maintenance and repair work.  
+安德里茨有限公司服务部门为您提供备件订购、故障排除以及广泛的维护和维修工作。 
+Europe (ANDRITZ AG): 欧洲（ANDRITZ AG）： 
+Tel.: +43/316-6902-0 电话：+43/316-6902-0 
+Fax: +43 316 -6902 -424 传真：+43 316 -6902 -424 
+e-mail: paper.service@andritz.com 电子邮箱：paper.service@andritz.com 
+ANDRITZ (China) Ltd.: 安德里茨（中国）有限公司： 
+Tel.: +86 757 8296 9272 电话：+86 757 8296 9272 
+Fax: +86 757 8210 0028 传真：+86 757 8210 0028 
+e-mail: pulppaper-service.cn@andritz.com 电子邮箱：pulppaper-service.cn@andritz.com 
+1.7 
+Copyright 版权 
+This instruction manual is protected by copyright; all customary rights are reserved. Duplication of 
+the instruction manual, including extracts, is only permitted with approval from ANDRITZ. Con-
+traventions shall obligate the perpetrator to compensation for damages and may result in criminal 
+prosecution. We reserve all rights in the event of a patent being granted, a utility model being reg-
+istered or technical changes being effected without prior notice.  
+操作说明书受版权保护；保留所有常见权力。只有在获得安德里茨有限公司授权后，方可
+复制本操作说明书，包括摘录。违反本规定应使违约人承担损害赔偿义务，可能造成刑事
+诉讼。我司保留在授权专利时，在无事先通知的情况下，进行实用新型注册或实现技术变
+更。 
+© 2026 ANDRITZ AG © 2026 ANDRITZ AG 
+
+===PAGE_9===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Safety 安全 
+9 / 68
+2 
+Safety 安全 
+2.1 
+General safety regulations 基本安全条例 
+The chapter on SAFETY contains general safety regulations that must be observed when working 
+with/on the machine/plant.  
+安全一章包含基本安全条例，使用机器/设备或在机器/设备上作业时必须遵守该法规。 
+The regulations are supplemented by additional safety instructions for individual activities in the 
+relevant chapters of the manual. These instructions are highlighted in the text with special warning 
+signs.  
+手册中相关章节的每项活动都有附加安全指导，补充基本规定的内容。这些说明在文本中
+加上特殊的警告标志。 
+Safety instructions on components not supplied by ANDRITZ are contained in the respective sub-
+supplier documentation.  
+非安德里茨有限公司制造部件的安全指导包含在由分包商提供的文件中。 
+These safety instructions supplement the ANDRITZ operating instructions. 
+这类安全指导用作安德里茨有限公司的操作说明书的补充内容。 
+All safety instructions must be observed. Non-observance of the safety instructions can lead to 
+personal injury, damage to the environment, and/or material damage.  
+所有的安全指导都应当遵守。不遵守安全指导会导致人员受伤、环境破坏和/或材料 
+损坏。 
+ANDRITZ requires the operating company to provide the following:  
+安德里茨有限公司要求运营公司提供下列内容： 
+The operating company has compiled a comprehensive, general safety program. Anyone working 
+at or in the vicinity of the machine must have received training for working on plants of this type 
+and on the process running there, including where to mount barriers and markings.  
+运营公司已经制定了全面的基本安全计划。在设备及其周围工作的人员，都应当接受操作
+这类设备和运行工艺的培训，包括安装围栏、设置标志的场所。 
+2.2 
+Danger and warning signs 危险和警告标志 
+The entire SAFETY chapter is of extreme importance and relevant to safety. Thus, the information 
+in this chapter is not marked with special danger symbols.  
+整个《安全》章节的内容均与安全有关，因而非常重要。因此，这章的内容没有附加专用
+的危险符号。 
+The warnings given in the individual chapters are marked with a pictogram, signal word, and sig-
+nal colour as follows: 
+各个章节的警告内容都附加了下列象形符号、信号说明和信号颜色： 
+ 
+ 
+ 
+ 
+ DANGER 危险 
+ 
+This marking gives warning of imminent danger to life and limb.  
+这个标志表示直接威胁生命和肢体。 
+Non-observance can lead to serious or fatal injuries. 不遵守可能导致严重或致命的伤害。 
+ 
+
+===PAGE_10===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+10 / 68 
+Safety 安全 
+Rev. 0 版本：0
+ 
+ 
+ 
+ 
+ WARNING 警告 
+ 
+This marking gives warning of potential danger to life and limb.  
+这个标志表示可能威胁生命和肢体。 
+Non-observance can lead to serious or fatal injuries. 不遵守可能导致严重或致命的伤害。 
+ 
+ 
+ 
+ 
+ 
+ CAUTION 小心 
+ 
+This marking gives warning of an imminent health hazard.  
+这个标志表示直接影响健康。 
+Non-observance can lead to minor or slight injuries. 不遵守可能导致人员轻微受伤。 
+ 
+ 
+ 
+ 
+ 
+NOTICE 注意 
+ 
+This marking gives warning of possible damage to property.  
+这个标志表示可能会损坏财产。 
+Non-observance can lead to material damage. 不遵守可能导致物质损失。 
+ 
+Further symbols and pictograms used are described in the INTRODUCTION.  
+使用的其它符号和象形图描述见简介部分。 
+2.3 
+Intended use 指定用途 
+The machine should only be used according to the specifications forming part of the purchase or-
+der.  
+只能依据构成订单一部分的说明书中规定使用设备。 
+Using the machine/plant for other purposes is considered contrary to its designated use.  
+将本机器/设备用于其它用途，视为违反了其原定用途。 
+Any modifications to the scope of supply made without the agreement of ANDRITZ are consid-
+ered contrary to the designated use.  
+未经安德里茨有限公司许可擅自修改供货范围，视为违反了原定用途。 
+Observance of the Erection Work, Operating and Maintenance Instructions is part of the desig-
+nated use of the equipment.  
+遵守安装、操作和维护说明书是属于按指定用途使用设备的组成部分。 
+The machine is designed for installation in a non-explosive atmosphere. Designated use provides 
+for operation outside a zone according to ATEX directive 1999/92/EC.  
+设备应当安装在非爆炸环境中。其指定用途可用于ATEX 指令1999/92/EC 规定区域以外的
+场所。 
+The machine is intended for installation in a plant.  
+此台设备规定安装在厂房内。 
+
+===PAGE_11===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Safety 安全 
+11 / 68
+2.4 
+General remarks on machine safety 设备安全
+的基本说明 
+The machine/plant has been built in accordance with state-of-the-art standards and the recognized 
+safety rules. Nevertheless, its use may constitute a risk to life and limb of the user or of third par-
+ties, or cause damage to the machine/plant and to other material assets.  
+机械/设备是按照最先进的标准和公认的安全原则制造的。但是，使用设备有可能会使用户
+或第三方的生命和肢体面临危险，或者损坏机械/设备和各种有形资产。 
+The machine/plant may only be operated when in perfect condition and with due consideration to 
+safety and the risks involved. All protective devices as well as the EMERGENCY STOP equip-
+ment must be in place and fully functional.  
+机械/设备只能在完美的条件下运行，并应充分考虑到运行时的安全和风险。应当配备各种
+保护装置和紧急停机设备并保持正常运行。 
+Malfunctions and unforeseen changes to the machine/plant must be remedied immediately.  
+对机械/设备的故障和无法预料的变化，应当立即纠正。 
+2.5 
+Hazardous applications 危险应用情况 
+The machine was designed specially for the process specified in the sales contract. All changes to 
+this process must be checked and approved because ANDRITZ does not know in detail the chemi-
+cal and biological properties of the numerous materials that can be processed in this machine. The 
+machine as-sold is not suitable for safe processing of hazardous materials unless additional precau-
+tions are taken.  
+此台设备是专门设计用于销售合同中所规定的处理工艺。对此处理工艺所进行的任何改变
+都必须经过安德里茨有限公司的审查和批准，原因是安德里茨有限公司并不能详细了解可
+以在此台设备上进行处理的多种材料的化学和生物特性。除非采取额外的预防措施，否则
+售出的此台设备不适合用于危险物质的安全处理。 
+Before processing materials that are already combustible, explosive, toxic, or hazardous in other 
+ways or which can become hazardous in a reaction, the operating company must conduct a thor-
+ough hazard analysis and risk evaluation of the entire process. This includes drawing up of contin-
+gency plans for handling process errors and faults.  
+在处理已经是可燃、易爆、有毒或其他危险物质或在反应中可能变有害的材料之前，运营
+公司必须对整个处理过程进行全面的危险分析和风险评估，具体包括搬运过程错误和故障
+应急计划的编制 
+In particular, the following must be observed: 尤其必须要遵循以下几点： 
+If combustible or potentially explosive materials are to be processed, all electric motors, cabling 
+and operating elements must be explosion-proof. Furthermore, maintenance work on the plant 
+must be performed using non-sparking tools. Smoking is forbidden. 
+如果将要处理易燃易爆物品，所有电动机、电缆和操作元件都必须为防爆型。此外，
+设备维护工作必须使用无火花工具进行。禁止吸烟。 
+1. If the material processed is toxic, appropriate safety measures must be implemented. 
+如果处理的是有毒材料，必须采取适当的安全措施。 
+2.6 
+Operating company’s obligations 运营公司的
+责任 
+ 
+The operating company of the machine/plant is responsible for ensuring that the machine/plant is 
+not used for anything other than its intended purpose.  
+机械/设备的运营公司应当负责保证，不得将机械/设备用于原定用途以外的其它用途。 
+Intended use 指定用途 
+
+===PAGE_12===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+12 / 68 
+Safety 安全 
+Rev. 0 版本：0
+ 
+In addition to the operating instructions, the applicable legal regulations in the user countries and 
+other rules governing safety at work, health and environmental protection must be observed and 
+personnel instructed in these matters.  
+除操作说明书以外，还应当遵守用户所在国的适用法律规定，以及工作安全、健康和环境
+保护方面的规定，还应当让操作人员了解这些内容。 
+ 
+The machine/plant may only be operated, maintained, and serviced by authorized, skilled person-
+nel with hands-on training.  
+本机械/设备只能由经过授权的、技能合格的、且亲身经历培训的人员进行操作、维护和维
+修。 
+The minimum legal age must be taken into account.  
+应当注意最小法定年龄。 
+Any person undergoing training, in apprenticeship, or under instruction may only work on the ma-
+chine/plant after receiving instruction on the theory and only under the supervision of an experi-
+enced person.  
+任何正在接受培训的人员，或学徒，或依据指示操作的人员只能在接受理论说明后，或在
+有经验人员的监督下进行机器/设备作业。 
+ 
+The operating and maintenance personnel of the operating company must be instructed by quali-
+fied persons after completion of the installation work.  
+在完成安装工作后，运营公司的操作和维护人员将接受制造商的人员或其授权经销商的培
+训。 
+The user undertakes to have new, additional operating and maintenance personnel instructed in 
+machine/plant operation and maintenance to the same extent and applying the same care, and with 
+due consideration to the safety instructions.  
+用户承诺，按照同样的范围，使新的、额外的操作与维护人员接受机器/设备操作与维护方
+面的指导，以同样的方式严格遵守安全指导。 
+Workers entrusted with the transportation, erection work, operation, and maintenance of the ma-
+chine/system must have read and understood the operating instructions, especially the chapter on 
+SAFETY, the safety instructions concerning a certain activity, as well as the safety instructions 
+issued by sub-suppliers.  
+负责机器/设备的运输、装配工作、启动、操作及维护的工作人员，应当阅读并理解操作说
+明书的内容，特别是《安全》章节、各项活动相关的安全指导，以及分包商提供的安全指
+导。 
+ 
+The operating company is responsible for the following:  
+运营公司负责如下： 
+definition of the machine operator's responsibility and his right to give instructions,  
+– 确定设备操作人员的责任和指导权， 
+– definition of the contents and responsibility for keeping the records on functioning and any 
+failure of the monitoring equipment (log book).  
+– 保存监测设备正常工作和任何故障记录（日志本）的内容和责任的定义。 
+– personnel areas of responsibility in terms of operating, tooling, maintenance and upkeep. 
+– 按照操作、工具、维护和维修领域，划分人员责任。 
+ 
+The operating company must: 运营公司必须： 
+check at regular intervals whether the safety instructions and regulations governing work on the 
+machine/plant are observed.  
+– 定期检查机器/设备的安全指导和操作方面的规章制度是否得到遵守。 
+– carry out regular training to confirm the level of knowledge of the operating and maintenance 
+personnel.  
+– 实施定期培训以巩固操作与维护人员的专业知识。 
+Work instructions 
+操作说明 
+Qualification of per-
+sonnel assigned 
+指定人员的资质 
+Instructions 指导 
+Definition of areas of 
+responsibility 
+划分责任区 
+Inspections 检查 
+
+===PAGE_13===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Safety 安全 
+13 / 68
+ 
+The operating company shall ensure that all safety-relevant instructions are observed and that all 
+symbols and notices are attached in the production area in accordance with the local regulations.  
+运营公司应当检查安全方面的说明是否全部得到遵守，是否按照当地法规的要求，在生产
+场所设置各种符号和提示。 
+In addition, ANDRITZ recommends mounting the following devices, symbols and signs, in as far 
+as these are not already included in the local regulations.  
+另外，除当地法规已包含的要求以外，安德里茨有限公司还建议安装设置下列装置、符号
+和标志。 
+Markings on the floor for vehicle routes, protective fencing and danger areas (yellow)  
+– 车辆通道、保护围栏和危险场所的地面标志（黄色） 
+– Barriers and covers 屏障与盖板 
+– Handrails (foot, center and chest height) 栏杆（足部、中央和胸部高度） 
+– Emergency lighting 应急照明装置 
+– Lockable maintenance switch at the motors (shut-off device for power)  
+– 可以锁定的电机维护开关（用于切断电源的装置） 
+– Means of shutting off all auxiliaries (water, chemicals, compressed air, etc.)  
+– 所有辅助装置的切断措施（水、化学品、压缩空气等） 
+– Information signs – fire prevention equipment 提示标志 - 防火设备 
+– Information signs – emergency phone number 提示标志 – 应急电话号码 
+– Direction signs – exits 指示标志 – 出口 
+– Direction signs – escape routes 指示标志 – 逃生路线 
+– Information signs (first-aid post) 提示标志 – 急救站 
+– Fire-fighting equipment as required by national regulations 国家法律规定的消防设备 
+2.7 
+General obligations of personnel 人员的基本
+责任 
+To avoid personal injury and material damage, all persons working on the plant must observe the 
+following safety instructions:  
+为避免人员受伤和材料损坏，机械的全体工作人员都应当遵守下列安全指导： 
+Observe the safety regulations in the operating instructions and on the machine/plant.  
+– 遵守操作手册和机器/设备上的安全规程。 
+– In the event of a safety-relevant functional disorder, stop and secure the part of the plant af-
+fected. Report disorders and have them repaired immediately.  
+– 在某一项安全相关功能失效的情况下，停止设备运行并封闭设备受影响的部分。报告
+异常情况并马上修理。 
+– All safety-critical modes of operation are prohibited. 
+–  禁止操作中的各种安全临界模式。 
+– Use only the machine accesses, paths and passages intended for this purpose.  
+– 设备的通道、轨道和过道，只能用于这个用途。 
+– Do not touch moving and rotating parts and/or reach out beyond them.  
+– 切勿接触活动的和旋转的零件，和/或进入这类零件的活动范围。 
+– Keep the machine/plant and workplace clean and tidy. Do not lay tools or other items on the 
+machine.  
+– 保持机械和工作场所干净。切勿将工具或其它物品放在机械上。 
+Attachment of safety 
+features 安装安全装置 
+
+===PAGE_14===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+14 / 68 
+Safety 安全 
+Rev. 0 版本：0
+– Do not wear any garments/pieces of jewelry that might be caught on moving machine/plant 
+parts. This includes ties, scarves, rings, and necklaces.  
+– 不要穿戴任何可能被移动机器/设备部件夹住的衣服/珠宝首饰。包括领带、丝巾、戒指
+和项链等。 
+– Do not wear long hair loose.  
+– 切勿蓄留松散长发。 
+– Familiarize yourself with the function and any failure of monitoring equipment (log book) 
+before starting work.  
+– 开始工作之前熟悉设备监测设备（记录簿）的功能和任何故障情况。 
+– No smoking in the vicinity of the machine/plant.  
+– 切勿在机器/设备附近吸烟。 
+– Persons authorized to work on the machine/plant must not be under the influence of drugs or 
+alcohol.  
+– 经授权操作机器/设备的人员不得受毒品或酒精影响。 
+– Wear personal protective apparel when working on the machine/plant.  
+– 操作设备/设备时穿着个人防护装备。 
+ 
+ 
+ 
+
+===PAGE_15===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Safety 安全 
+15 / 68
+2.8 
+Safety devices 安全装置 
+The machine/plant must not be operated without effective safety equipment.  
+没有配备有效的安全设备，不得操作机器/设备。 
+Safety equipment must not be circumvented, dismantled or made unserviceable during operations. 
+The safety equipment is there to protect operating personnel.  
+在操作期间，不得改装、拆除、停止使用安全设备。安全设备是用来保护操作人员的。 
+Safety equipment and access thereto must be kept clear.  
+安全设备及接近安全设备的通道必须保持畅通无阻。 
+ 
+The keys for maintenance switches or operating mode switches for local machine settings must be 
+removed from these switches and retained by the operator to prevent the setting being changed by 
+any third parties, thus also preventing risks!  
+用于设置现场设备的维护开关或操作模式开关的钥匙，应当从开关上取下并由操作人员保
+管，防止第三方改变设置，从而预防风险！ 
+ 
+The operating company must provide an EMERGENCY STOP switch in the immediate vicinity of 
+the machine to guarantee that it can be shut down by immediately cutting off the power supply to 
+the drive elements of the machine.  
+运营公司应当在紧靠设备的附近安装紧急停机开关，保证开关能够立即切断设备驱动装置
+的电源，从而实现关机。 
+ 
+Fig. 1: Possible designs of the EMERGENCY STOP switch 
+图 2：关于紧急停机开关的可能设计方案 
+If a control panel is supplied with an EMERGENCY STOP switch installed by ANDRITZ, the 
+operating company need only wire and integrate the switch into the EMERGENCY STOP chain.  
+如果控制面板配有安德里茨有限公司安装的紧急停机开关，运营公司仅需通过接线，把开
+关集成到紧急停机链中。 
+ 
+Information, warning, and prohibiting signs must be observed. They must be checked regularly for 
+legibility and completeness, and they must not be removed or obstructed.  
+必须遵守信息、警告和禁止标志。必须定期检查它们的可读性和完整性，并且不得移除或
+阻挡它们。 
+2.8.1 
+Execution of the EMERGENCY STOP device
+执行紧急停机装置 
+The EMERGENCY STOP device must not be installed more than 15 m away from the machine. 
+紧急停机装置的安装位置距设备不得超过15 米。 
+The EMERGENCY STOP switch and further units included in the EMERGENCY STOP safety 
+equipment must be installed and implemented by the operator in accordance with the applicable 
+standards, particularly EN ISO 13850 and EN 60204-1 (stop category 0).  
+必须依据适用标准，尤其是EN ISO 13850 和EN 60204-1（停止类别0），安装紧急停机开
+关及紧急停机安全设备中所含的更多装置，并由操作员实施。 
+ 
+ 
+ 
+Lockable switches 
+可锁紧开关 
+EMERGENCY STOP 
+switch 紧急闭合开关 
+Indicative, warning 
+and prohibiting signs
+指示、警告和禁止标志 
+
+===PAGE_16===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+16 / 68 
+Safety 安全 
+Rev. 0 版本：0
+2.9 
+Personal protective apparel 个人防护装备 
+Use and always carry personal protective equipment in accordance with local regulations or those 
+of the plant operating company. It should be compulsory to wear hard-toed boots throughout the 
+entire premises.  
+按照当地法规或设备运营公司的规定，使用并始终随身携带个人防护装备。在整个场所
+内，都应当强制穿着硬头鞋。 
+In addition to the regulations applying, we recommend using the following safety equipment for 
+certain work.  
+除相关法规以外，我公司还建议在某些工作中使用下列安全设备。 
+ 
+Activity 活动 
+Safety equipment 安全装备 
+Time spent in the immediate vicinity of the machine while it is run-
+ning 
+在设备运转时，临近设备作业 
+ 
+ 
+ 
+Taking pulp samples 提取纸浆样品 
+ 
+ 
+ 
+Field installation and maintenance work for which parts of the ma-
+chine have to be removed 
+设备的部件需要拆卸下来以便进行现场安装和维护的作业 
+ 
+ 
+ 
+ 
+Tab. 1: Recommended safety equipment for certain work 表 2：为特定工作推荐的安全设备 
+ 
+ 
+Protective clothing to prevent the pulp from 
+coming into contact with the skin 
+防止纸浆与皮肤发生接触的防护服 
+ 
+Safety shoes as protection against foot injuries
+安全鞋，保护脚部免受伤害 
+ 
+Gloves to prevent hand injuries 
+防止手部受伤的手套 
+ 
+Ear protection to prevent damage to hearing 
+耳朵防护装置，防止造成听力损害 
+Eye protection to prevent eye injuries 
+眼部保护装置，防止眼睛受伤 
+ 
+Standard hard hat as protection against head in-
+juries 
+标准的硬纸安全帽，防止造成头部伤害 
+ 
+Safety belt to prevent falls. (During work con-
+ducted at a height, or where there is a risk of 
+falling or when entering a tank, etc.)  
+安全带防止跌落。（高空作业或有坠落危险
+或进入箱体等情况下使用） 
+ 
+Wear breathing apparatus if there is any risk 
+from vapors and gases that are dangerous or 
+damaging to health.  
+如果存在危害或损害健康的蒸汽和气体风
+险，则应佩戴呼吸防护装置。 
+Face shield to prevent facial injuries 
+防止面部受伤的防护面罩 
+ 
+ 
+Tab. 3: Purpose of the safety equipment 表 4：安全设备的用途 
+
+===PAGE_17===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Safety 安全 
+17 / 68
+2.10 
+Safety at the machine installation site 设备安
+装现场的安全 
+There is no permanent place of work at the machine. Working near the machine is only necessary 
+during inspection and maintenance work.  
+设备没有固定的工作地点。只有在检查和维护作业时，才须在设备附近工作。 
+A suitably large, clear, and unconfined working area must be created on all sides of the machine. 
+Pipework, ducting, etc. must be laid such as not to impede access to the machine.  
+设备的所有侧面都必须留有适当的大的、无障碍和无限制的工作区域。管道、导管等铺设
+不得妨碍通向设备的道路。 
+Maintenance access and inspection doors must be kept clear. Storing of any kind of material is 
+forbidden.  
+必须保持维护道路和检验门无障碍。禁止存放任何类型的材料。 
+All operating and maintenance areas of the machine must have adequate lighting and ventilation 
+(industrial lighting).  
+设备的所有操作区和维修区必须配备足够的照明和通风（工业照明）。 
+The foundation must be sized to withstand the loads caused by the machine.  
+基础必须估量，确保能够承受机械造成的荷载。 
+The area around the machine and the marked escapes are to be kept clear. The area around the ma-
+chine must be marked as a danger zone. It must be possible to enter and leave the operating area 
+unimpeded.  
+设备周围的场所和规定的逃生路线，都必须保持通畅无阻。设备周围的场所应当标记为危
+险区。必须能够畅通无阻地进入和离开操作区域。 
+Make sure machine and surrounding area are kept clean. In particular, oil and grease on the floor 
+and on machine elements may cause slipping. This is, therefore, a considerable source of injuries, 
+as are tools that have not been put down in a safe place. The operating area must be clear of waste 
+materials, tools and other extraneous objects.  
+确保保持设备和周围区域清洁。特别是地板和设备元件上的油和油脂会导致滑倒。因此，
+这是一个相当大的受伤源，还有那些没有放在安全地方的工具。必须保证运行区域不存在
+废料、工具和其它外来物体。 
+The floor in the area of the machine must be provided with a non-slip surface. 
+设备周围地板必须配备防滑表面。 
+In order to prevent any falls from or damage to the machine, it is forbidden to climb onto machine 
+elements or on the machine itself (except for the treading areas provided). Use ladders or similar 
+equipment in accordance with recognized standards.  
+为了防止从机械上跌落或对设备造成损坏，禁止爬到设备部件上或爬到机械上（所提供的
+踏面除外）。应按照公认的标准采用梯子或类似的设备。 
+Ramps, platforms, and lifts must be used to avoid injury or excessive physical effort.  
+必须使用坡道、平台和升降机，避免受伤或过度的体力劳动。 
+2.11 
+Temperature 温度 
+The following protective measures are required if the pulp used has a temperature higher than 
+73°C:  
+如果纸浆温度高于73°C，则需要采取以下保护措施： 
+The "Hot surface" warning sign must be mounted. 必须粘贴“高温表面”警告标志。 
+– It is compulsory to wear personal safety equipment in the immediate vicinity of the machine. 
+– 在机器附近时，必须穿戴个人安全设备。 
+
+===PAGE_18===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+18 / 68 
+Safety 安全 
+Rev. 0 版本：0
+– The operating company is responsible for informing newly assigned personnel about the risk 
+of burns when working on and in the vicinity of the machine and for implementing further 
+protective measures, such as insulation, safety barriers to maintain distance, and access re-
+strictions. 
+– 运营公司负责向新指派的人员告知在机器上和机器附近作业时的烧伤危险，并采取进
+一步的保护措施，例如：隔热措施以及保持距离的安全栅和准入限制。 
+No maintenance work should be carried out until the hot surface has cooled down.  
+在热表面冷却之前，不得开展维护作业。 
+2.12 
+Noise 噪音 
+The total noise emissions from all machines in the production room can restrict spoken communi-
+cation and impair hearing.  
+在生产车间内所有设备产生的总噪声会限制口语交流并造成听力损伤。 
+The machine is designed such that no operating personnel is required in the immediate vicinity of 
+the machine during normal operation. Appropriate hearing protection should be worn throughout 
+maintenance and adjusting work while the machine is running. 
+按照设备的设计，设备在正常运行期间，不需要操作人员停留在设备附近。在设备运行
+时，应在整个维护和调整工作中佩戴合适的听力保护装置。 
+2.13 
+Electrical equipment 电气设备 
+All work on the electrical equipment, without exception, must be carried out by skilled electri-
+cians.  
+电气设备的所有作业毫无例外，必须由熟练的电工进行。 
+Any form of contact with electrical equipment may cause fatal injuries. Damage to electrical com-
+ponents and insulations must be repaired immediately.  
+与电气设备的任何形式的接触均可能有丧生危险。必须立即修复损坏的电气部件和绝缘材
+料。 
+Before beginning any maintenance or repair work, the operating company must disconnect the 
+electric power supply to all drives securely. This can be achieved with a lockable maintenance 
+switch, lockable racks in the MCC, or with other suitable measures that comply with the safety 
+regulations applying.  
+在维护或修理工作开始之前，运营公司应当安全地断开所有驱动装置的电源。这项措施可
+以使用能够锁定的维护开关、MCC 的可锁定支架实现，或者按照相关安全条例的要求，采
+取各种适当措施。 
+If any work is necessary on live parts, it is essential to proceed according to the applicable stand-
+ards.  
+对带电零件作业时，必需按照相关标准的要求进行操作。 
+Users of medical electronic equipment (e.g. pacemakers) must not enter the electric danger zone.  
+使用医疗电子设备（例如心脏起博器）的人员，不得进入电气危险区。 
+The machine/system must be grounded to avoid electrostatic loading or contact voltage. Machine, 
+gears, motors and local equipment (tanks, control panel, etc.) must be connected to the grounding 
+system.  
+必须将设备/系统接地，避免静电负荷或接触电压。设备、齿轮、电机和现场设备（油箱、
+控制台等），都应当连至接地系统。 
+Do not bring an excessive amount of water or other liquids into the vicinity of electrical equip-
+ment.  
+请勿将过量的水或其它液体带入电气设备附近。 
+
+===PAGE_19===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Safety 安全 
+19 / 68
+2.14 
+Hydraulic and pneumatic equipment 液压设备
+与气动设备 
+Hydraulic and pneumatic systems operate at high pressure. Malfunctions in the hydraulic system 
+may cause hazards to operating personnel, damage to property and environmental pollution.  
+液压与气动系统在高压下运行。液压系统故障可能给操作人员带来危险，造成财产损失及
+环境污染。 
+The specified operating data and the prescribed revision and maintenance intervals must be ob-
+served at all times.  
+必须始终遵守指定的运行资料、规定的修订本与维护间隔。 
+Systems must be de-pressurized before carrying out maintenance work. 
+执行维修作业前系统必须卸压。 
+Work on hydraulic and pneumatic equipment must not be carried out other than by skilled erection 
+personnel with special training and experience in handling hydraulic and pneumatic equipment. 
+除受过特别训练、具有液压设备与气动设备操作经验的熟练安装人员外，其它人员不得操
+作液压设备与气动设备。 
+In order to avoid injuries (e.g. caused by whiplash), all pressurized flexible hoses and pipes must 
+be tied or held together.  
+所有承压软管与管道必须扎在一起或固定在一起，以免损伤（如由鞭打造成）。 
+ 
+2.15 
+Welding work 焊接作业 
+In general, welding work is only permitted after consulting ANDRITZ. Any welding work that is 
+described in detail in the maintenance instructions is excluded from this ruling. The relevant safety 
+regulations must be observed for welding work.  
+通常情况下，只有在咨询安德里茨有限公司后，才能批准焊接作业。在维护说明中具体列
+出的任何焊接作业，不受这条规定的限制。焊接作业应当遵守相关的安全条例。 
+All motors should be disconnected before carrying out electric welding work.  
+开展电焊作业前，所有电机均应断电。 
+During arc welding work, the ground should never be allowed to run over the rolling bearings. A 
+grounding cable is to be connected up in the immediate vicinity of the welding area.  
+电弧焊作业期间，辊轴支承不得辗过地面。在焊接区域附近连接接地电缆。 
+Danger of fire and explosions 火灾或爆炸危险 
+There is a considerable risk of fire or explosion during welding work.  
+焊接作业很可能引发火灾或爆炸。 
+Hot work permit required! 需要动火作业许可证！ 
+– Always take the appropriate fire precautions before beginning work, e.g. keep fire extinguish-
+ers at the ready!  
+– 开始工作之前，始终采取适当的防火预防措施，例如准备好灭火器！ 
+2.16 
+Fluids, (liquids, gases, vapor, or smoke) 流体
+（液体、气体、蒸汽或烟气） 
+Unintended chemical reactions may take place in media (fiber pulps, sludge, etc.) during a pro-
+longed standstill and hazardous fumes may be produced.  
+
+===PAGE_20===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+20 / 68 
+Safety 安全 
+Rev. 0 版本：0
+在长期停机期间，可能会在介质（纤维浆、污泥等）中发生意外的化学反应，并可能产生
+有害烟雾。 
+The machine must be thoroughly cleaned after prolonged stoppages.  
+设备长期搁置后，必须彻底清洗。 
+The area must be adequately ventilated.  
+此区域必须充分通风。 
+Before beginning work on the machine, ensure that no liquids, gases, vapors or smoke can enter 
+the working area from inlet pipes, discharge pipes or shafts.  
+开始操作设备前，确保无液体、气体、蒸汽或烟气可经入口管、排水管或轴进入作业区。 
+If it is not possible to exclude reliably the risk of liquids, gases, vapors or smoke flowing in, all 
+persons working in the danger zone must be equipped with a safety harness and a safety rope. 
+Each worker must be monitored by a second person outside the danger zone. 
+如不能可靠排除液体、气体、蒸汽或烟气流入风险，所有在危险区内作业的人员必须配戴
+安全带和安全绳。每名工作人员必须由危险区外的第二个人监护。 
+It must always be possible to evacuate a worker from the danger zone without delay.  
+必须始终能够使工作人员毫不迟延地从危险区撤离。 
+Due to the high temperatures and humidity, people wearing glasses may find that their glasses 
+steam up, thus exposing the wearer to a risk of injury (e.g. wearer may trip).  
+由于高温、高湿度，戴眼镜的人员可能发现他们的眼镜起雾，以此使配戴者面临损伤风险
+（如配戴者可能绊脚）。 
+2.17 
+Oils and greases 油与油脂 
+The safety instructions for the products concerned must be observed when handling oil, grease, 
+and other chemical substances.  
+在处理油，油脂和其他化学物质时，应当遵守产品的安全指导书。 
+Suitable skin protection is required when handling aggressive media. See manufacturers' infor-
+mation for the type of skin protection required.  
+在处理腐蚀介质时，应当采取适当的皮肤保护措施。有关所需的皮肤保护措施类型，参见
+制造商的文献。 
+Also observe the relevant requirements for disposal.  
+还要遵守处理方面的相关要求。
+
+===PAGE_21===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+21 / 68
+3 
+Technical data 技术数据 
+Production data 
+Tissue machine type 纸机型号 
+PrimeLine Compact M1600 
+Capacity (design)设计产能 
+93.8 ADMT/d 
+Paper types 纸种 
+Toilet, Napkin, Handkerchief, Facial 
+厕纸、餐巾纸、手帕纸、面巾纸 
+Paper quality 成纸品种 
+Conventional 
+传统型 
+Basic weight 定量 
+11-30 g/m² 
+Dryness (at reel)干度（卷纸） 
+93 % 
+Design data 
+Drive side 传动侧 
+Right (TM1) Left (TM2) 
+右侧（1 号机） 左侧（2 号机） 
+Design speed 设计车速 
+1700 m/min 
+1500 m/min (Reel) 
+Drive speed 传动车速 
+1650 m/min 
+1450 m/min (Reel) 
+Max operating speed (design) 最大操作速度 
+1650 m/min 
+Headbox pond width 流浆箱唇口宽度 
+3596 mm 
+Wire width 网宽 
+3541 mm 
+Felt width 毛毯宽 
+3800 mm 
+Sheet width on reel 卷纸机纸幅宽 
+3500 mm 
+ 
+ 
+ 
+ 
+
+===PAGE_22===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+22 / 68 
+Operation 运行 
+Rev. 0 版本：0
+ 
+4 
+Installation 安装 
+4.1 
+General 总则 
+This chapter describes certain steps for transport, storage and installation of the machine, which 
+may be the responsibility of the operating company.  
+本章介绍了设备的运输、储存和安装步骤，这类工作都由运营公司负责。 
+Activities which are carried out by ANDRITZ, including works assembly by the manufacturer, are 
+not the subject of this description.  
+由安德里茨有限公司进行的活动，包括工程装配不是本说明的主题。 
+4.2 
+Safety regulations 安全条例 
+ 
+All applicable accident prevention rules must be observed.  
+应当遵守各项事故预防规定。 
+Potential risks caused by gases and vapours forming must be analysed in detail. The appropriate 
+safety measures must be implemented.  
+应当详细分析气体和蒸汽构成的潜在风险。应当实施适当的安全措施。 
+Do not exceed permissible crane loads and weights on lifting gear and ropes/shackles. Secure 
+loads against falling from a height.  
+不要超过起重机和钢丝绳/吊具允许的起重载荷和重量。固定载荷，防止其从高处坠落。 
+Do not stand or walk below suspended loads! Standing below suspended loads can result in life-
+threatening injuries and is thus strictly forbidden! 
+切勿在悬吊的负荷下方站立或行走！由于站在悬吊的负荷下方可能导致危及生命的伤害，
+因此严格禁止站立在悬吊的负荷下方！ 
+Jolts must be avoided. This refers especially to the handling of pre-assembled machines.  
+必须避免颠簸，尤其是在搬运预装配的设备时。 
+ 
+Transport and unloading is to be carried out by personnel specially familiar with such work. 
+应由熟悉此类工作的人员进行运输和卸料。 
+Workers entrusted with lifting and conveying equipment must have the national qualifications re-
+quired.  
+负责吊装、搬运设备的工作人员，应当获得国家级资格证书。 
+Erection work may only be carried out by trained, skilled personnel.  
+只能由经过培训的熟练的人员进行安装工作。 
+ 
+Personal safety equipment must be worn when working (>> --- MISSING LINK ---). 
+作业时必须穿戴个人安全装备。（>>  ---缺少链接---） 
+） 
+ 
+ 
+ 
+ WARNING 警告 
+ 
+Non-observance of the installation work sequence 不遵守安装工作顺序 
+Disregarding the sequence plan and the installation instructions may result in hazardous situations 
+creating a danger to life and limb.  
+无视顺序图和安装说明可能会导致危险情况，对生命和肢体造成危险。 
+The sequence of erection work is important and must be strictly observed! 
+General safety regula-
+tions 基本安全条例 
+Qualification of per-
+sonnel assigned 
+指定人员的资质 
+Personal protective ap-
+parel 个人防护装备 
+
+===PAGE_23===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+23 / 68
+安装工作顺序很重要，必须严格遵守！ 
+ 
+ 
+4.3 
+Transport 运输 
+ 
+ 
+ 
+ 
+ DANGER 危险 
+ 
+Falling machine parts 下降的设备部件 
+During transport or loading/unloading there is a risk to life and limb due to the risk of machine 
+parts falling from a height.  
+运输或装料/卸料期间，由于设备部件从高处下落，存在危害生命和肢体的风险。 
+Do not lift machine and transport crates except at the points marked for lifting by crane or forklift! 
+除了使用吊车或叉车升降的标记点外，禁止升降设备和运输板条箱！ 
+a) If the entire machine is lifted and there are several different types of lifting lug available, per-
+sonnel should only use suitable lugs (according to the transport sketch) for the work in hand. 
+如果设备是整台吊起，且有几个不同类型的吊耳可用，则人员应只使用适合于当前工
+作的合适吊耳（根据运输示意图）。 
+b) Do not step or walk below suspended loads!不要在悬吊的负荷下走动！ 
+c) Wear your personal protective equipment!穿戴个人防护装备！ 
+ 
+ 
+ 
+ 
+ 
+NOTICE 注意 
+ 
+Damage to painted surfaces 涂漆表面的损坏 
+Corrosion due to damaged paintwork. 油漆损坏而导致的腐蚀 
+Do not use steel cables when lifting painted machine parts!  
+当吊装带涂层机械零件时，切勿使用钢丝绳吊装！ 
+ 
+ 
+The machine/system is supplied pre-assembled. The machine components and auxiliary materials 
+are packed in crates.  
+设备/系统按预装配状态供货。用柳条箱包装设备部件和辅助物料。 
+Transport sizes and weights are stated in the shipping documents.  
+运输单据上注明运输尺寸和重量。 
+Largest supply weights: >> Technical data 
+最大供货重量： >>技术参数 
+ 
+Check against shipping documents and packing lists whether the supply is complete and in perfect 
+condition.  
+按照装运单据和装箱单，检查到货是否齐全且完好无损。 
+Do not accept the goods in the event of transport damage or short supply, and notify the forwarder 
+and the ANDRITZ shipping department accordingly. 
+如果发现运输损坏或货物短缺，请勿收货，并请通知货运代理和安德里茨有限公司运输部
+门。 
+Delivery 交付 
+Acceptance 验收 
+
+===PAGE_24===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+24 / 68 
+Operation 运行 
+Rev. 0 版本：0
+4.3.1 
+Lifting the rolls 吊装辊子 
+Rolls should be lifted at the journals.辊子应在轴颈处吊装。 
+When lifting a roll at the coated surface, use broad, padded slings. 
+当在带涂层表面上吊装辊子时，请使用较宽的带衬垫吊索。 
+ 
+ 
+Roll suspended at the journals 
+在轴颈处悬吊的辊子 
+Suspending from the coated roll body 
+在带涂层的辊轴体处悬吊的辊子 
+ 
+ 
+ 
+ 
+ 
+NOTICE 注意 
+ 
+Lifting the roll out carefully 小心地吊出辊子 
+The roll coating may be damaged when lifting the roll out of the crate. 
+将辊子从板条箱中吊出时，可能会损坏辊轴涂层。 
+Open crate carefully and remove wood splinters and nails!  
+小心打开板条箱，去掉木屑和钉子！ 
+a) Do not remove cover paper! 不要取出封盖纸！ 
+b) When lifting the roll out, rope lashing must not touch the end faces of the roll body!  
+当辊子吊出时，绳索绑扎不得接触辊体的端面！ 
+c) Protect roll ends with squared timber! 用木方保护辊子端面！ 
+ 
+ 
+4.4 
+Safekeeping 安全保管 
+The following instructions for storage must be observed if assembly work is not to be performed 
+immediately:  
+如果系统不能立即安装，则必须遵守以下说明： 
+Please inform the ANDRITZ shipping department.  
+– 请通知安德里茨有限公司运输部。 
+– Provide weather protection for machine components stored. In particular, avoid wide varia-
+tions in temperature and ensure that the equipment is kept clean.  
+– 为储放的设备部件提供天气保护。尤其是避免温度发生大幅变化，确保设备保持清
+洁。 
+– Small parts should be protected against damage and unauthorized withdrawal by storing them 
+in lockable rooms.  
+– 将小型零件存放在带锁的房间内，防止其受损或被未授权的人员取走。 
+– Packing should not be removed until erection work begins.  
+
+===PAGE_25===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+25 / 68
+– 在现场安装工作开始之前，不得拆除包装。 
+4.4.1 
+Safekeeping of rubberised rolls 安全存放施胶
+辊筒 
+ 
+Rubber-covered rolls should always be stored indoors, in their shipping crates. Rolls must be 
+stored in an environment at temperatures above freezing point. 
+施胶辊筒应始终存放在其运输包装内，室内保存。各种辊子必须在零度以上温度保存。 
+A very cold roll should not be installed and put into service right away. It must be brought to the 
+temperature at the installation location one or two days beforehand. 
+温度非常低的辊子不得立即投入使用。必须提前一天或两天使其达到安装地点的温度。 
+If rolls are to be stored for a longer period, the roll and the bearings should be rotated once a 
+month to prevent the roll body from sagging and damage being caused to the bearings. 
+如果辊子将要长时间存放，则应每月转动一次辊子和轴承，以防止辊体下垂并对轴承造成
+损坏。 
+Also observe the maintenance instructions of the rubberizing company! 
+另请遵守施胶公司的维护说明！ 
+ 
+ 
+Rubber-covered rolls 
+施胶辊筒 
+
+===PAGE_26===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+26 / 68 
+Operation 运行 
+Rev. 0 版本：0
+4.5 
+Installation 安装 
+ 
+Completion of the various steps must be documented in the certificate of completion of erection 
+work.  
+各步骤的完成必须记录在安装工程完工证书中。 
+ 
+ 
+ 
+ 
+ WARNING 警告 
+ 
+Non-observance of the installation work sequence 不遵守安装工作顺序 
+Disregarding the sequence plan and the installation instructions may result in hazardous situations 
+creating a danger to life and limb.  
+无视顺序图和安装说明可能会导致危险情况，对生命和肢体造成危险。 
+The sequence of erection work is important and must be strictly observed! 
+安装工作顺序很重要，必须严格遵守！ 
+ 
+ 
+ 
+ 
+ 
+ WARNING 警告 
+ 
+Trapping and crushing 夹住与辗压 
+Limbs can be trapped or crushed during work. 作业中，肢体可能被夹住或辗压。 
+Do not place your hand below suspended loads! 不要将手放在悬吊载荷下方！ 
+a) Wear your personal protective equipment! 穿戴个人防护装备！ 
+b) Moving parts that are able to change position and thus have crushing or shearing points must 
+be secured in position with supporting bars or equivalent measures (e.g. lowering). 
+运转部件能够改变位置，因此具有挤压点或剪切点，必须使用支撑杆将其固定到位或
+采取等效措施（如放低）。 
+ 
+ 
+ 
+ 
+ 
+ DANGER 危险 
+ 
+Risk of accidents during erection work. 安装作业中的事故风险。 
+Danger of falling, stumbling, crushing and slipping 坠落、绊脚、辗压与滑倒危险。 
+All safety measures (barriers, etc.) must be continually applied during erection. 
+安装期间必须始终施加所有安全措施（屏障等）。 
+a) In all work areas, adequate lighting must be provided. 
+所有作业区内必须提供充足照明。 
+ 
+Requirements at installation site 安装现场要求 
+Electricity, water, and compressed air are available. 通电、通水、通压缩空气。 
+ 
+The following documentation must be available at the beginning of installation work:  
+在开始安装工作时，必须提供以下文件： 
+Field installation work sequence 现场安装作业顺序 
+– Foundation and arrangement drawings 地基图与布置图 
+– Assembly drawings and parts lists 装配图纸和部件清单 
+General 总则 
+Documentation 文件 
+
+===PAGE_27===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+27 / 68
+– Electrical, measurement and control equipment documents 电气、测量与控制设备文件 
+– Packing lists for each individual consignment 每批货物的装箱单 
+ 
+The foundation and foundation mountings are built according to the project-specific foundation 
+drawings, and the dimensioning must be checked before starting the installation work.  
+按照项目指定基础图纸进行基础和基础安装施工，开始安装作业前，必须进行尺寸检查。 
+4.5.1 
+Machine installation 设备安装 
+ 
+ 
+ 
+ 
+ WARNING 警告 
+ 
+Trapping and crushing 夹住与辗压 
+Limbs can be trapped or crushed during work. 作业中，肢体可能被夹住或辗压。 
+Do not place your hand below suspended loads!不要将手放在悬吊载荷下方！ 
+a) Wear your personal protective equipment!穿戴个人防护装备！ 
+b) Moving parts that are able to change position and thus have crushing or shearing points must 
+be secured in position with supporting bars or equivalent measures (e.g. lowering). 
+运转部件能够改变位置，因此具有挤压点或剪切点，必须使用支撑杆将其固定到位或
+采取等效措施（如放低）。 
+ 
+ 
+Continue erecting the machine according to the assembly drawings and the erection work sequence 
+diagram.  
+按照装配图纸和安装作业顺序图继续安装机器。 
+Prepare the foundation, position and adjust according to the arrangement and foundation drawings.  
+基础制备，按照布置和基础图纸进行定位和调整。 
+4.5.2 
+Installation of peripheral equipment 外围设备
+安装 
+Staircases and walkways 楼梯与走台 
+– Water pipes 水管 
+– Process pipes 工艺管 
+– Pneumatic and hydraulic equipment 气动和液压设备 
+– Central lubricating system 中央润滑系统 
+– Instrumentation, positioners and control units 仪表、定位器和控制单元 
+– Safety housing, protective covers, and warning signs 安全外壳、防护罩和警告标志 
+ 
+ 
+ 
+ 
+ CAUTION 小心 
+ 
+Pipework mounted incorrectly 管道工程的不正确 
+Errors in the installation of pipework and hoses may result in risks to life and limb and in damage 
+to the machine.  
+管道及软管安装错误可能会对生命及肢体造成危险并对机器造成损坏。 
+Mount all pipes stress-free and free of vibration!对所有管道进行无应力和无振动安装！ 
+Foundation 地基 
+ 
+
+===PAGE_28===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+28 / 68 
+Operation 运行 
+Rev. 0 版本：0
+a) The pipework must be mounted such that it does not stress the machine during operation (e.g. 
+by heat expansion of the pipes). 
+管道安装必须保证运行期间，不会对机器造成应力（如通过管道热膨胀）。 
+ 
+ 
+ 
+ 
+
+===PAGE_29===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+29 / 68
+4.6 
+Connect up 连接 
+ 
+All connections and connecting dimensions at the machine are shown in the arrangement drawing.  
+机器所有连接和连接尺寸见布置图。 
+ 
+The drainage pipe must discharge reliably into the drain to prevent any hot liquid from spraying 
+out and causing scalding injuries.  
+排水管必须可靠地排放到排水系统中，以防止任何高温液体喷出并造成烫伤。 
+ 
+ 
+ 
+ 
+ CAUTION 小心 
+ 
+Pipework mounted incorrectly 
+管道工程的不正确 
+Errors in the installation of pipework and hoses may result in risks to life and limb and in damage 
+to the machine.  
+管道及软管安装错误可能会对生命及肢体造成危险并对机器造成损坏。 
+Mount all pipes stress-free and free of vibration! 对所有管道进行无应力和无振动安装！ 
+a) The pipework must be mounted such that it does not stress the machine during operation (e.g. 
+by heat expansion of the pipes). 
+管道安装必须保证运行期间，不会对机器造成应力（如通过管道热膨胀）。 
+ 
+ 
+ 
+Sampling equipment 取样设备  
+Sampling equipment suitable for taking samples from pressurized pipes is to be provided in the 
+stock pipes.  
+在浆料管中应设置适合于从带压管道中提取样本的取样设备。 
+ 
+ 
+ 
+ 
+ WARNING 警告 
+ 
+Danger from hot liquids and vapors spraying out 存在高温液体和蒸汽喷出的危险 
+When taking samples, hot liquids or vapors may escape or there may be a risk of chemical burns 
+from the chemicals added during the process. 
+在取样时，存在高温液体或蒸汽可能会逸出或者在取样过程中添加的化学品可能会引起化
+学烧伤的风险。  
+Personal safety equipment, in particular eye protection and safety gloves, must be worn when tak-
+ing samples!  
+a) 取样时必须佩戴个人安全设备，特别是护目镜和安全手套！ 
+ 
+ 
+The following personal safety equipment must be worn when taking pulp or filtrate samples. 
+当提取纸浆或滤液样品时，必须佩戴以下个人安全设备。 
+Pipes 管 
+Drainage pipe 排水管 
+Sampling 取样 
+Personal protective 
+equipment 
+个人防护装备 
+
+===PAGE_30===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+30 / 68 
+Operation 运行 
+Rev. 0 版本：0
+ 
+ 
+Protective clothing to prevent the pulp 
+from coming into contact with the skin 
+防止纸浆与皮肤发生接触的防护服 
+Gloves to prevent hand injuries 
+防止手部受伤的手套 
+Eye protection to prevent eye injuries 
+眼部保护装置，防止眼睛受伤 
+Tab. 5: Safety equipment 表. 6：安全设备 
+ 
+ 
+ 
+ 
+ WARNING 警告 
+ 
+Contact with the fibre coating 与纤维涂层接触 
+Contact with the fibre coating can lead to skin damage and chemical burn injuries.  
+会导致皮肤损伤和化学品灼伤的接触。 
+Persons handling the fibre coating must not be allergic to it! 
+对纤维涂层过敏的人员不得处置纤维涂层！ 
+a) Wear personal protective equipment!穿戴个人防护装备！ 
+b) Clean and disinfect hands after working on the machine!在机器上工作后，洗手并消毒！ 
+ 
+ 
+Examples of sampling devices 取样装置的例子  
+Manually operated sampling fitting 手动操作的取样接头 
+ 
+Sampling vessel 取样容器 
+Tab. 7: Sampling equipment 表4：取样设备 
+ 
+The instrumentation (instruments, actuators and control devices) of the machine is to be installed 
+according to the flow sheet and the applicable standards.  
+应按照流量表和适用的标准安装机器仪表（仪表、执行器和控制装置）。 
+ 
+The complete electrical installations are to be set up and operated according to the applicable 
+standards.  
+应按照适用的标准设置和操作整套电气安装。 
+Instruments 仪表 
+Electrical equipment 
+电气设备 
+
+===PAGE_31===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+31 / 68
+4.7 
+Cold test (preparation for initial start-up) 冷测
+试（准备首次启动） 
+ 
+The cold test is to be carried out together with the customer's authorized representative.  
+冷测试将与客户的授权代表一起完成。 
+The work steps listed in the cold test certificate shall be carried out for the cold test, and docu-
+mented.  
+应为冷测试实施在冷试验证书中列出的工作步骤并记录在案。 
+ 
+The customer and the erection work supervisor shall conduct a final inspection of the installation 
+upon completion of the cold tests.  
+客户和安装工作主管应完成冷测试后对安装进行最后检验。 
+ 
+The following certificates are to be issued after completion of the cold test 
+在完成冷测试后，将签发以下证书。 
+Function test (cold test certificate) 功能测试（冷测试证书） 
+– Certificate of complete of installation work 安装工程完工证明。 
+ 
+ 
+Cold test 冷测试 
+Final inspection 
+最终检验 
+Certificatesa 证书 
+
+===PAGE_32===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+32 / 68 
+Operation 运行 
+Rev. 0 版本：0
+4.8 
+Disassembly and disposal 拆卸与处置 
+ 
+ 
+ 
+ 
+ DANGER 危险 
+ 
+Voltage 电压 
+The voltage at the machine constitutes a danger to life and limb.  
+设备上的电压对生命和肢体构成危险。 
+The machine must be disconnected from the power source and secured to prevent switching on 
+again before disassembly! 
+拆卸前，必须断开设备电源，并进行固定，防止再次开启！ 
+a) The machine may only be disassembled by qualified and authorized personnel. 
+只有合格的授权人员方可拆卸设备。 
+ 
+If the machine/plant is to be shut down, the following must be taken into account for subsequent 
+disposal:  
+如果要关闭机器/装置，必须考虑如下处理顺序： 
+ 
+The machine components must be disassembled according to the various materials, lubricant fill-
+ings, and various forms of contamination.  
+– 必须按照不同的材料、润滑剂填充以及不同类型的污染，拆卸设备部件。 
+– The materials must be disposed of in accordance with the applicable legislation on waste dis-
+posal.  
+– 必须按照适用的废料处置法规要求，处置物料。 
+– Proof must be brought of the properties and the disposal route of the various materials accord-
+ing to the applicable regulations on proof of recovery and disposal (e.g. statement and entry in 
+register). 
+– 必须按照适用的回收和处置证明法规（如声明和入库登记），提供各种物料的性质和
+处置途径证明。 
+– Compile the necessary documents before disposal and dispose of the materials according to 
+the regulations, observing the documents.  
+– 按照法规处置材料钱，编制必要的文件，并遵照执行。 
+ 
+ 
+ 
+ 
+ WARNING 警告 
+ 
+Flammable plastic parts 易燃塑料部件 
+Risk of fire and burns from burning plastic parts. 燃烧塑料部件会引起火灾和烧伤。 
+Observe the local fire protection regulations. When separating the materials, do not work with 
+welding devices or other equipment that generates sparks! 
+遵守当地消防条例。当分离材料时，不得使用焊接设备或其他产生火花的设备进行作
+业！ 
+ 
+ 
+Oil, utilities and cleaning agents must be disposed of according to the local provisions and in com-
+pliance with the appropriate manufacturer regulations.  
+– 润滑油、公共设施和清洁剂必须按照当地规定以及合适的制造商规定进行处置。 
+Other material groups to be separated are: 其他要分离的材料组是： 
+Surface-treated sheet steel, such as powder-coated or wet-painted doors, covers, etc.  
+– 经过表面处理的钢板，如粉末涂层或湿漆门、上盖等。 
+Machine parts 
+设备部件 
+Additives 
+添加剂 
+
+===PAGE_33===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+33 / 68
+– Surface-coated construction steel, such as rotating parts, gratings, bolts, etc.  
+– 表面涂层结构钢，如旋转部件、格栅、螺栓等。 
+– Copper (electrical grade copper or silver-coated electrical grade copper), such as busbars, con-
+necting straps, connections pieces, etc. 
+–  铜（电气级铜或银涂层电气等级铜），如母线、连接带、连接件等。 
+– Cables 电缆 
+– Built-in units, electrical components and components generating radiation (radio-active 
+probe), etc. 
+ 产生辐射的内置单元、电子元件和组件（放射性探头）等。 
+ 
+ 
+
+===PAGE_34===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+34 / 68 
+Operation 运行 
+Rev. 0 版本：0
+4.9 
+General 总则 
+This chapter describes the preparations and steps required for initial start-up of the machine.  
+本章介绍了初次启动设备所需的准备工作和步骤。 
+4.10 
+Safety regulations 安全条例 
+ 
+ 
+ 
+ 
+ DANGER 危险 
+ 
+Observe safety instructions 遵循安全指南 
+Disregarding the safety regulations can lead to dangerous situations.  
+未能遵循这些安全条例可导致危险情况。 
+All precautionary safety instructions in this section must be strictly observed! 
+必须严格遵守本章节中所有安全指南！ 
+ 
+ 
+All applicable accident prevention rules must be observed.  
+应当遵守各项事故预防规定。 
+Potential risks caused by gases and vapors forming must be analyzed in detail. The appropriate 
+safety measures must be implemented.  
+必须对气体及蒸汽形成的潜在风险进行详细分析。必须采取恰当的安全措施。 
+Do not exceed permissible crane loads and weights on lifting gear and ropes/shackles. Secure 
+loads against falling from a height.  
+不要超过起重机和钢丝绳/吊具允许的起重载荷和重量。固定载荷，防止其从高处坠落。 
+Do not step or walk below suspended loads! Standing below suspended loads can be fatal and is 
+thus strictly forbidden!  
+不要在悬吊的负荷下走动！站在悬吊的负荷下是非常危险的，因而严格禁止！ 
+Jolts must be avoided. This refers especially to the handling of pre-assembled machines. 
+必须避免颠簸，尤其是在搬运预装配的设备时。 
+ 
+Erection work may only be carried out by trained, skilled personnel.  
+只能由经过培训的熟练的人员进行安装工作。 
+ 
+ 
+ 
+ 
+NOTICE 注意 
+ 
+Safety equipment during start-up 启动期间安全设备 
+Due to systems still being checked, there is a risk that safety equipment is not yet functioning.  
+由于系统仍在检查中，所以存在安全设备尚未运行的风险。 
+These dangers must be pointed out during the safety training session! 
+安全培训课程中，必须指出这些危险！ 
+ 
+ 
+Personal safety equipment must be worn when working (>> Personal protective apparel [} 16]).  
+作业时必须穿戴个人安全装备（>> 个人防护装置 [} 16]）。 
+General safety regula-
+tions 基本安全条例 
+Qualification of per-
+sonnel assigned 
+指定人员的资质 
+Personal protective ap-
+parel 个人防护装备 
+
+===PAGE_35===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+35 / 68
+4.11 
+Prerequisites for start-up 启动前的准备工作 
+4.11.1 
+General prerequisites 一般前提条件 
+Before start-up, ensure that the following requirements are met:  
+启动前，确保满足如下要求： 
+Before start-up, ensure that all the necessary measures mentioned in the engineering documents 
+supplied with the equipment have been duly implemented. 
+– 启动前，请确保随机工程文件中提及的所有必要措施均已得到适当实施。 
+– Erection work completed. 已完成安装工作。 
+– Cold test completed. 已完成冷测试。 
+– Installation site has been cleared and cleaned. 安装现场无障碍，并清洁。 
+– All pipes must be cleaned. 所有管道必须清洗。 
+– First filling of lubricants (gear units, bearings, etc.) provided.  
+– 已提供初次填充润滑剂（齿轮箱、轴承等）。 
+– All safety guards mounted. 安装所有安全罩。 
+– All personnel know the location of the EMERGENCY STOP switch.  
+– 所有人员知道紧急停机开关的位置。 
+– The safety system has been tested and validated. 已经测试并验证安全系统。 
+– All electric interlocks and EMERGENCY STOP safety devices are functioning and have been 
+checked.  
+– 所有电气连锁和紧急停机安全装置均正常运行，并已经完成检查。 
+– All control circuits have been installed and tested. 已经安装并测试所有控制回路。 
+– Process control system has been installed and tested. 已经安装并测试工艺控制系统。 
+4.12 
+Start-up 启动 
+ 
+ 
+ 
+ 
+NOTICE 注意 
+ 
+Incorrect start-up procedure 不正确的启动步骤 
+Machine may be damaged if incorrect start-up procedures are used.  
+如果使用不正确步骤，可能损坏设备。 
+All electric interlocks must be functional and checked! 
+所有电气联锁装置必须工作并进行检查！ 
+ 
+Before start-up, the procedure must be defined together with ANDRITZ AG's start-up engineer. 
+The machine is to be started up according to the start-up protocol document.  
+在启动之前，必须与ANDRITZ AG 的开机工程师一起确定启动步骤。按照启动协议文件启
+动设备。 
+During start-up, practical training will also be provided on the machine. Participants must receive 
+instruction on the theory beforehand.  
+启动期间，应在设备上进行实践培训。参加人员必须事先接受理论指导。 
+After start-up, the machine will be handed over to the mill operating company in a complete, relia-
+ble condition and ready for operation.  
+启动后，将设备以完整、可靠和待运行的状态交付给磨机运营公司。 
+ 
+
+===PAGE_36===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+36 / 68 
+Operation 运行 
+Rev. 0 版本：0
+4.13 
+Certificates 证书 
+The following certificates must be completed and signed after start-up:  
+启动后，必须填写以下证书，并签字： 
+Start-up protocol 启动协议 
+Provisional acceptance certificate 临时验收证书 
+
+===PAGE_37===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+37 / 68
+Operation 运行 
+4.14 
+General 总则 
+This chapter describes the activities required for starting, operating and stopping the machine. Pos-
+sible malfunctions and troubleshooting methods are also presented.  
+本章节描述了设备启动、运行和停机所需的活动。同时还给出了可能发生故障及故障排除
+方法。 
+4.15 
+Safety regulations 安全条例 
+ 
+ 
+All applicable accident prevention rules must be observed.  
+应当遵守各项事故预防规定。 
+The machine/plant may only be operated with all the required safety devices.  
+只能使用所有必须的安全装置，操作设备/装置。 
+ 
+The equipment may only be operated by qualified personnel.  
+此台设备只能由合格人员操作。 
+Operating personnel must know how to use the EMERGENCY STOP switches and where the es-
+cape routes are located.  
+操作人员必须直到如何使用紧急停机开关以及逃生路线位置。 
+Operating personnel must be instructed in the function and possible failure of machine monitoring 
+equipment.  
+必须操作人员说明设备监控设备的功能和可能的故障。 
+ 
+It is essential to wear personal protective equipment/apparel when performing work on the ma-
+chine (e.g. troubleshooting) (>> Personal protective apparel [} 16]).  
+在设备上进行作业时，穿戴个人防护装备/装置是必不可少的（如故障排除）（>> 个人防护
+装置 [} 16]）。 
+4.16 
+Control via DCS 通过DCS 控制 
+The machine/plant can be started up entirely from the DCS. 
+本台机器/设备可以完全从DCS 启动。 
+The machine/plant and all auxiliary units are started and stopped with the group start and stop 
+function.  
+本台机器/设备和所有辅助单元，通过群组启动和停止功能，实现启动和停止。 
+ 
+ 
+General safety regula-
+tions 基本安全条例 
+Qualification of per-
+sonnel assigned 
+指定人员的资质 
+Personal protective ap-
+parel 个人防护装备 
+
+===PAGE_38===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+38 / 68 
+Operation 运行 
+Rev. 0 版本：0
+4.17 
+Cleaning 清理 
+ 
+ 
+ 
+ 
+ DANGER 危险 
+ 
+Machine not safe 机器不安全 
+Cleaning work on a machine that has not been rendered safe presents a danger to life and limb. 
+在不安全的机器上进行清理工作会对生命和肢体造成危险。 
+Always interlock the plant electrically before beginning any service work! 
+在开始任何维修工作之前，务必完成设备电气联锁！ 
+ 
+The tissue machine must be cleaned thoroughly before initial start-up and after each shutdown for 
+maintenance.  
+在初次启动前和每次停机维护后，必须彻底清洁卫生纸机。 
+>> see also all maintenance chapters of the machinery groups.  
+>>另请参见机械组的所有维护章节。 
+ 
+When cleaning the headbox, always take care not to damage any parts inside the headbox with 
+sharp instruments. Damage of this type will cause lumps to form. 
+当清洁流浆箱时，请小心不要使锋利的仪器损坏流浆箱内的任何部件。此种类型的损坏会
+导致形成结块。 
+Cleaning when machine is plugged 当机器堵塞时的清洁工作 
+If fiber lumps form in the headbox, which have a detrimental effect on the material web, the plant 
+must be shut down and the headbox cleaned without delay. 
+如果在流浆箱中形成纤维结块，会对材料幅产生不利影响，则必须关闭设备并立即清洁流
+浆箱。 
+ 
+Hose down wires, felts, rolls and Uhle boxes with fresh water. 
+– 用清水冲网、毯、辊子和U 型箱。 
+– Clean the inside and the slots of the Uhle box. 清洁U 型箱的内部和槽口。 
+– Remove any dirt from the Uhle box covers with a scraper. 用刮刀清除U 型箱盖上的污垢。 
+– Flush out the waste water trays. 冲洗废水盘。 
+– Check whether there are any foreign objects in the wire/felt. 检查网/毯中是否有异物。 
+– Clean any clogged shower nozzles. 清洁任何堵塞的淋浴喷头。 
+– Cleaning of the doctor blades. 清理刮刀片。 
+ 
+Clean holes in the suction press roll 清洁真空压榨辊上的孔 
+– Clean any clogged shower nozzles. 清洁任何堵塞的淋浴喷头 
+– Clean residual dust off the Yankee shell. 清除扬克烘缸外壳上的残留灰尘。 
+– Remove coating layer with cleaning doctor. 用清洁刮刀剥离涂层。 
+– Clean or replace doctor blades. 清洁或更换刮刀片。 
+– Clean nozzles at coating spray device 清洁涂布喷射装置处的喷嘴 
+ 
+ 
+Clean any dust residue from channels by blowing in air.  
+– 通过吹入空气清除通道中的任何残余灰尘。 
+– Clean off any dust deposits in the production area. 清除生产区域内的任何灰尘沉积。 
+Headbox 流浆箱 
+Wire and felt sections 
+网和毯部 
+Press section 压榨部分 
+Dryer section 干燥部 
+Transfer system 
+传输系统 
+
+===PAGE_39===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+39 / 68
+ 
+Clear rolls and reel spools. 清除各种辊子和卷纸辊。 
+CAUTION: The rolls and the machine must not be hosed down with water! Use compressed air! 
+小心：不得用水冲洗辊子和机器！必须使用压缩空气对其进行清洁！ 
+– Clean off any dust deposits in the production area. 清除生产区域内的任何灰尘沉积。 
+– Clean spreader roll.清洁延展辊。 
+ 
+ 
+ 
+Reel 卷纸机 
+
+===PAGE_40===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+40 / 68 
+Operation 运行 
+Rev. 0 版本：0
+4.18 
+Starting 启动 
+ 
+ 
+ 
+ 
+ DANGER 危险 
+ 
+Untrained operating personnel 未经培训的操作人员 
+Starting up the machine incorrectly may cause a risk to life and limb and damage to the machine or 
+its components.  
+机器不正确地启动可能会对生命和肢体造成风险并损坏机器或其组件。 
+The operating personnel must be trained for start-up. 必须对操作人员进行启动培训。 
+ 
+ 
+When using the group start, all necessary steps are carried out automatically from the DCS.  
+使用组启动时，DCS 将自动实现所有必要步骤。 
+Start-up with suspension 带纸浆悬浮液的启动 
+Initial start-up with suspension will be carried out together with our start-up personnel. 
+带纸浆悬浮液的初次启动将与我方启动人员一起进行。 
+ 
+All interlocks are functioning and have been tested. 所有联锁功能正在工作并通过测试。 
+– Lubrication system is functioning. 润滑系统正在工作。 
+– Auxiliaries, such as electricity, water, compressed air and vacuum, are available. 
+– 辅助设施，即水、电、压缩空气、真空都可用。 
+ 
+ 
+Set slice gap according to the planned volume flow.  根据计划的体积流量设置切片间隙。 
+– Direction of jet has been set. 设定了喷射方向。 
+– Balance out the nozzle pressure on the operator and drive sides with the recirculation valve. 
+– 利用带再循环阀，平衡操作侧以及传动侧的喷嘴压力。 
+– Check the influence of the recirculation valve (at Qmax and Qmin). 
+– 检查再循环阀（在Q 最大和Q 最低）的影响。 
+– If the basis weight is uneven, correct the C.D. profile using the adjusting devices so that the 
+basis weight is uniform again over the entire machine width. 
+– 如果定量不均匀，请使用调节装置校正C.D.剖面，使得在整个机器宽度上定量再次均
+匀。 
+– The final setting of the slice gap depends on: 
+– 切片间隙的最终设置取决于： 
+– Paper grade 纸种 
+– Basis weight 定量 
+– Machine speed 机械速度 
+– formation 成型  
+– Dewatering behavior, etc. 脱水行为等  
+NOTICE! Caution: Rash corrections should not be made to the cross-direction profile after the 
+tissue machine has been started up. Wait first of all until the consistency, jet speed, dewatering 
+behavior, etc., have stabilized. 
+注意！小心：纸巾机启动后，不应对横幅进行粗略校正。首先等待，直到浓度、喷射速
+度、脱水行为等稳定下来。 
+Before starting up with stock, the following functions must be checked: 
+Automatic starting 
+自动启动 
+Prerequisites 前提条件 
+Headbox 流浆箱 
+
+===PAGE_41===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+41 / 68
+在带浆料启动之前，必须检查以下功能：  
+The headbox (suspension jet direction) must be set correctly in relation to the forming and breast 
+roll and to the wire/felt 
+– 必须正确设置流浆箱相对于成型辊子和胸辊以及网/毯的方向（悬浮射流方向） 
+– A continuous supply of pulp must be guaranteed. 必须保证纸浆的连续供应 
+ 
+Wire and felt must be tensioned correctly. 网和毯必须正确张紧。 
+– The doctors are ready for operation and set. 刮刀已做好准备运行和设置。 
+– Showers are functional. 喷淋装置正在工作。 
+– The Uhle boxes are ready for operation. U 型箱已准备就绪。 
+  
+The suction press roll is ready for operation 真空压榨辊准备好运行 
+ 
+The Yankee has been heated and is at the correct temperature  
+– 扬克烘缸已经加热并处于正确的温度  
+ 
+First of all a narrow paper strip is fed through the press section and Yankee dryer section to the 
+transfer system. The strip is scraped off the Yankee using the creping doctor. This narrow strip is 
+then fed into the opening at the transfer tray, suspended with the air from air jets and transported 
+onwards. 
+– 首先，将窄纸带通过压榨部和扬克烘缸干燥部，送入传送系统。使用起皱刮刀将纸带
+从扬克烘缸上刮下。然后将这个窄带送入传输架的开口，利用空气喷嘴来的的空气悬
+浮并向前输送。  
+ 
+Vacuum at suction zone for edge feed strip is ready for operation. 
+– 边缘进料带用的真空区处的真空准备好运行。 
+– This narrow strip is then picked up by the edge feed strip on the reel drum. If the quality is 
+satisfactory, the paper web can be extended slowly to the full production width. 
+– 然后通过卷纸缸上的边缘进给带引入这个窄带。如果质量令人满意，纸幅可以缓慢延
+展到整个生产宽度上。 
+– The paper web is wound onto empty reel spools that are transported onward in the reel. At the 
+end of the reel, the full reel spools are lifted off. The paper roll is removed from the reel 
+spools, which are then returned to the beginning of the reel for winding a further full reel. 
+– 纸幅缠绕在空卷纸机上，空卷纸辊在卷纸机内向前传送。在卷纸机的末端，整个卷纸
+机抬起。纸卷离开卷纸辊，然后卷纸辊返回到卷纸机的开始端，以卷绕另一个满纸
+卷。 
+4.19 
+Shutdown 停机 
+ 
+When using the group stop, all necessary steps are carried out automatically by the DCS.  
+使用组停机时，DCS 自动实现所有必要步骤。 
+ 
+Manual shutdown is to be performed according to the description of process control and instru-
+mentation. 
+根据过程控制和仪表的描述执行手动停机。 
+ 
+4.20 
+Re-start after an EMERGENCY STOP 紧急停
+机后重新启动 
+ 
+Before starting up again after an EMERGENCY STOP, the reason for the stoppage must be found 
+and eliminated.  
+在紧急停机后再次启动之前，必须找到并消除紧急停机的原因。 
+ 
+The machine should be started up according to the section headed "Starting". 
+Crescent Former (wire 
+and felt section) 
+新月型成型器（网和毯
+部） 
+Press section 压榨部 
+Dryer section 干燥部 
+Transfer system 
+传输系统 
+Reel 卷纸机 
+Automatic shutdown
+自动停机 
+Manual shutdown 
+手动停机 
+Prerequisites for start-
+ing 启动前提条件 
+Starting 启动 
+
+===PAGE_42===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+42 / 68 
+Operation 运行 
+Rev. 0 版本：0
+应根据“启动”标题章节，启动机器。 
+ 
+4.21 
+Operating conditions 操作条件 
+The following operating conditions are the main criteria for a good production sequence: 
+以下操作条件是良好生产工序的主要标准： 
+ 
+Constant suspension quality in terms of consistency, pressure and flow rate. 
+– 保证悬浮液在浓度、压力和流速上稳定。 
+– Geometry between headbox, breast roll and forming roll. 
+– 流浆箱、胸辊和成型辊之间的几何形状。 
+– Dewatering at the forming roll. 成型辊处脱水。 
+– Uhle boxes functioning. 真空脱水箱运行。 
+– Angle of opening between wire and felt after the forming roll. 
+– 成型辊后网和毯之间的开口角度。（成型辊后毛布和网子的夹角） 
+– Good cleaning of the wire and felt by the showers. 喷淋器对网和毯的清洁效果良好。 
+– Correct wire and felt tension. 网和毯张力设置正确。 
+– Correct position of the wire and felt (controlled by a wire-felt guiding system). 
+– 网和毯的位置正确（由网-毛毯校正系统控制）。 
+ 
+Correct setting of the suction press roll. 真空压榨辊设置正确。 
+ 
+Yankee is evenly heated. 扬克烘缸均匀加热。 
+– Good condensate drainage. 冷凝水排放良好。 
+– Scraping off the coating layer. 刮掉保护保护涂层。 
+– Applying a new coating layer. 涂布新的涂层。 
+ 
+Good transfer of the pulp web to the reel drum. 浆幅至卷纸缸的传送良好。 
+– Continuous production sequence. 连续生产工序。 
+ 
+ 
+Wire and felt sections 
+网部和毛毯部分 
+Press section 压榨部分 
+Dryer section 干燥部 
+Reel 卷纸机 
+
+===PAGE_43===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+43 / 68
+4.22 
+Settings at the machine 机器设置 
+4.22.1 
+Headbox 流浆箱 
+The desired throughput and consistency of the suspension can be achieved using the following 
+settings:  
+使用以下设置可以实现所需的悬浮液产量和浓度： 
+Speed of stock pump 上浆泵转速  
+– Speed of fan pump  冲浆泵转速 
+– Altering the slice gap 改变唇板间隙  
+The jet direction is adjusted by our start-up personnel using the overall pivot and worm gear screw 
+jack, and is secured in position after optimization work. 
+喷射角由我方启动人员使用整个枢轴和蜗轮螺旋千斤顶进行调整，并在优化工作后固定在
+位置上。 
+Any other adjustments to the jet direction may only be made in the presence of our specialized 
+personnel.  
+喷射角的任何其他调整只能在我方专业人员在场的情况下进行。 
+The throughput may only be changed very carefully by trained staff or under instructions. The 
+wrong setting can have a negative effect on the quality and on fiber consumption. 
+只有经过培训的工作人员或在我方的指导下才能非常小心更改生产量。错误的设置会对质
+量和纤维消耗产生负面影响。 
+ 
+ 
+ 
+Fig. 3: Headbox – return flow correction 图4：流浆箱 - 回流校正 
+ 
+DS 
+Drive side 传动侧 
+B 
+Headbox – outlet side 流浆箱 - 出口侧 
+OS 
+Operator side 操作侧 
+Δ P Differential pressure measuring  
+差压测量 
+A 
+Headbox – inlet side 流浆箱 - 入口侧 
+R 
+Recirculation valve 回流阀 
+Headbox – return flow 
+correction 
+流浆箱 - 回流校正 
+
+===PAGE_44===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+44 / 68 
+Operation 运行 
+Rev. 0 版本：0
+ 
+P1: Nozzle pressure too high on operator side. Recirculation valve not open far enough. 
+P1：操作侧的喷嘴压力过高。回流阀开度不够。 
+P2: Nozzle pressure too low on operator side. Recirculation valve open too far. 
+P2：操作侧的喷嘴压力过低。回流阀开度太大。 
+ 
+ 
+
+===PAGE_45===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+45 / 68
+4.22.2 
+Setting the wire and felt guiding devices 网和
+毯校正装置的设置 
+ 
+Depending on the position of the wire tracking sensor (5a), a larger or smaller amount of air from 
+the feed pipe to the spring bellow higher up (control bellow) escapes through the control valve 
+(FCV2) into the open air. As a result, the pressure in the feed pipe to the shut-off valve (PV3) rises 
+or falls. This causes the control bellow to be filled or emptied. The regulating roll now pivots out 
+of its central position and centers the wire, moving it back to its original position. 
+根据网纠偏传感器（5a）的位置，从进浆管到向上的弹簧气囊（控制气囊），较大或较小
+量的压缩空气通过控制阀（FCV2）逸出到大气中。结果，到截断阀（PV3）的进浆管中的
+压力出现上升或下降。这导致控制波纹管填充或放空。调节辊现在从其中心位置旋转其中
+心位置，并使网居中，将其移回其原始位置。 
+ 
+Fig. 5: Control valve for the wire guiding system 图6：网校正系统控制阀 
+ 
+W 
+Wire, felt 网、毛毯 
+5a 
+Wire tracking sensor 网纠偏传感器 
+FCV2 Control valve 控制阀 
+5e 
+Universal joint 万向节 
+L 
+Air supply 空气供给 
+6 
+Regulating roll 调节辊 
+ 
+ 
+6a 
+Control bellow 控制气囊 
+ 
+Fig. 7: Pneumatic flow sheet 图8：气动系统流程图 
+Control valve FCV2 
+控制阀门FCV2 
+
+===PAGE_46===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+46 / 68 
+Operation 运行 
+Rev. 0 版本：0
+ 
+ 
+The force acting on the bottom spring bellow (bellow for weight compensation) changes depend-
+ing on the width of the wire and the slanting position of the regulating roll. It is essential to com-
+pensate this force in order to achieve efficient regulating.  
+作用在底部弹簧气囊（用于重量补偿的气囊）上的力的变化取决于网宽和调节辊的倾斜位
+置而变化。 为了实现有效的调节，必须对这个力进行补偿。 
+The weight compensation set using the air pressure is applied using the valve (PC1). The pre-set 
+pressure can be read off at the manometer (PI1).  
+通过阀门（PC1），施加使用空气压力设定的重量补偿。 可以在压力计（PI1）处读取预设
+压力。 
+ 
+The pressure for the control bellow is set using the valve (PC2) and read off at the manometer 
+(PI2).  
+控制气囊的压力使用阀门（PC2）设置，并在压力计（PI2）读取。 
+ 
+The air quantity is set using the one-way restrictor (FCV1). The pressure in the air pipe at any 
+given time can be read off at the manometer (PI3). On the one hand, this achieves more harmoni-
+ous actuating of the control bellow and on the other hand, pressure impulses are avoided when the 
+wire drifts very quickly in one direction or the other, and the control valve (FCV2) opens or closes 
+quickly. The pressure in the air pipe to the control valve at any given time can be read off at the 
+manometer (PI3). 
+使用单向限流器（FCV1）设定压缩空气量。 可以在压力计（PI3）处读取任何给定时间的
+空气管中的压力。 一方面，这实现了控制气囊的更协调的动作，另一方面，当网子在一个
+方向或另一个方向上非常快地偏移时，避免了压力脉冲，并且控制阀（FCV2）快速打开或
+关闭。 可以在压力计（PI3）处读取任何给定时间到控制阀的空气管中的压力。 
+ 
+The pressure regulator (XV1) is used to set the pressure for the entire control loop. Nominal set-
+ting is 5 bar. 
+压力调节器（XV1）用于设定整个控制回路的压力。标称设定值为5 巴。 
+The control pressure for the stop valves (PV2, weight compensation and PV3, control bellow) is 
+applied via the pneumatic sequence valve (PC3). The valve (PC3) does not open against the 
+spring force set until the pressure is greater than 3 bar. Thus, the valves (PV2 and PV3) are also 
+opened and the pipes to the two spring bellows are cleared for operation. 
+截断阀（PV2，用于重量补偿和PV3，控制波纹管）的控制压力通过气动顺序阀（PC3）
+施加。在设定弹簧力下，阀门（PC3）不会打开，直到压力超过3 巴。因此，阀门（PV2
+和PV3）也打开，且到两个弹簧气囊的管道清理干净，准备好运行。 
+The system cannot function below 3 bar so regulating is discontinued below this pressure! 
+由于系统无法在低于3 巴的压力下工作，因此，在此压力下，调节终止。 
+ 
+The pneumatic pressure at the valves (PC1) and (PC2) and the flow rate at the one-way restrictor 
+(FCV1) are to be set such that the regulating roll can reach both final positions of its swing angle. 
+设置阀门（PC1）和（PC2）的气动压力以及在单向限制器（FCV1）处的流量，因此调节
+辊可以到达其摆角的两个最终位置。 
+ 
+ 
+Weight compensation 
+重量补偿 
+Control pressure 
+控制压力 
+Filling and emptying 
+the control bellow 
+控制波纹管的充满和放
+空 
+System and control 
+pressure 
+系统和控制压力 
+Setting the valves 
+阀门设置 
+
+===PAGE_47===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+47 / 68
+ 
+ 
+ 
+Steps 步骤 
+Move the wire into the required position. 将网子移动到所需位置。 
+a) Close pressure control valves PC1 and PC2. 关闭压力控制阀PC1 和PC2。 
+b) Turn on the air supply with the valve HV1 and the filter controller XV1.  
+用阀门HV1 和过滤器控制器XV1 打开压缩空气供应。 
+c) Set filter controller XV1 to 5 bar. 将过滤器控制器XV1 设置为5 巴  
+ Valves PC3, PV2 and PV3 are actuated. Valve PC3 does not open until the pressure 
+reaches > 3 bar.  
+ 动作PC3、PV2 和PV3 阀门。阀门PC3 在压力达到>3 巴之前不会打开 
+d) Open pressure control valve PC1 (weight compensation) far enough to allow the transport 
+safety device (locking pin) between the spring bellows to be removed.  
+开启压力控制阀PC1（重量补偿）至足够大的开度，以便移除弹簧气囊之间的运输安
+全装置（锁定销）。 
+ The pressure is displayed at the pressure gauge PI1. The locking pin can only be removed 
+when the regulating roll is in its central position. This compensates the weight.  
+ 压力显示在压力表PI1 上。只有当调节辊处于其中心位置时才能移除锁定销。 这补
+偿了重量  
+e) Set pressure control valve PC2 to approx. 2 bar. 将压力控制阀PC2 设定为约 2 巴。 
+f) Increase setting of pressure control valve PC1 to approx. 4 bar.  
+将压力控制阀PC1 的设定值增加到约为 4 巴。 
+g) Open butterfly valve FCV1. ）打开蝶阀FCV1。  
+ The flow rate at the butterfly valve FCV1 must always be lower than the flow rate at con-
+trol valve FCV2. Otherwise the control bellow cannot be filled with air. 
+ 蝶阀FCV1 的流量必须始终低于控制阀FCV2 的流量，否则控制波纹管不能充满空
+气 
+h) Check the setting of the regulating roll by moving the feeler plate at control valve FCV2 in 
+both directions.  
+通过在两个方向上移动控制阀FCV2 上的探针板来检查调节辊的设置。 
+i) Position the tracking sensor in relation to the wire such that the tracking sensor lever is 
+roughly in a central position.  
+定位跟踪传感器相对于网子的位置，使得跟踪传感器杆大致处于中心位置。 
+A little air must escape continuously from the control valve (FCV2) during normal operation 
+when the regulating system is functioning properly. This is not a fault, but is necessary for 
+the control loop to remain balanced! 
+如果调节系统正常工作，则在正常运行期间，从控制阀（FCV2）必须连续逸出少量空
+气。 这不属于故障现象，是控制回路保持平衡所必需的！ 
+The position of the control valve (FCV2) is set using a universal joint. 
+使用万向节设定控制阀（FCV2）的位置。 
+CAUTION: The spacing between the point at which the wire runs up against the feeler plate and 
+the control valve (FCV2) (lever effect) alters the regulating speed. 
+小心：网子向上运行靠在探针板和控制阀（FCV2）（杠杆效应）改变调节速度点之间的间
+距。 
+Assumption: The magnitude of wire drift is the same in both cases described below: 
+假设：在下面描述的两种情况下，网子偏移的幅度是相同的： 
+If the distance between the point of contact and the control valve (FCV2) is increased, the regulat-
+ing system will react a little more slowly for the same degree of drift. 
+Setting the regulating 
+system 设定调节系统 
+
+===PAGE_48===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+48 / 68 
+Operation 运行 
+Rev. 0 版本：0
+– 如果接触点和控制阀（FCV2）之间的距离增加，则调节系统对相同的偏移程度反应会
+稍微慢一些  
+– If the distance between the point of contact and the control valve (FCV2) is reduced, the regu-
+lating system will react a little more swiftly for the same degree of drift. 
+– 如果接触点和控制阀（FCV2）之间的距离减小，则调节系统将对相同的偏移程度的反
+应会稍快一些。 
+ 
+ 
+
+===PAGE_49===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+49 / 68
+ 
+Direction of wire drift when regulating roll is slanted in a particular direction: 
+当校正辊在特定方向倾斜时，网子偏移方向： 
+ 
+ 
+ 
+ 
+Fig. 9: Wire drift 图10：网子偏移 
+ 
+Wdrift Wire drift 网子偏移 
+6 Regulating roll 校正辊 
+W Wire 网 
+WDir Wire running direction 网子运行方向 
+ 
+ 
+ 
+The diagram shows the pneumatic cabinet used for the wire guiding system: 
+本图显示的网子校正系统使用的气动柜： 
+ 
+ 
+Fig. 11: Pneumatic cabinet 图12：气动柜 
+Wire drift 网子偏移 
+Pneumatic cabinet 
+气动柜 
+网子偏移 
+网子偏移 
+网子运行方向 
+网子运行方向 
+
+===PAGE_50===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+50 / 68 
+Operation 运行 
+Rev. 0 版本：0
+ 
+ 
+There are two different applications: 有两种不同的应用情况： 
+The regulating roll is mounted free-standing above the air spring bellows. 
+– 调节辊独立安装在空气弹簧气囊上方。  
+– The regulating roll is suspended beneath the air spring bellows. 
+– 调节辊悬挂在空气弹簧气囊下方 
+Weight compensation is adjusted according to application and slanting position. 
+根据应用情况和倾斜位置，调整重量补偿。 
+ 
+ 
+Free-standing wire guiding device 
+无支撑网子校正装置 
+Suspended wire guiding device 
+悬挂网子校正装置 
+ 
+ 
+The pneumatic control system has two variants: 气动控制系统存在两种变型： 
+With stop valves PV2 and PV3 mounted at the spring bellows (as described above). 
+– 截止阀PV2 和PV3 安装在弹簧波纹管处（如上所述） 
+– Without stop valves at the spring bellows. The setting work must be performed as described 
+above, but without sequence valve PC3. 
+– 在弹簧气囊处无截止阀。必须按上文所述执行设置工作，但是不带顺序阀PC3。 
+ 
+Applications 应用 
+Variants 变型 
+
+===PAGE_51===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+51 / 68
+ 
+Fig. 13: Flow sheet 图14：流程图 
+ 
+ 
+ 
+ 
+Error 错误 
+Possible cause 可能原因 
+Remedy 处理方法 
+Controller does not move 
+控制器不移动 
+Supply air pressure at XV1 is 
+too low, 
+XV1 处的气体供应压力太低 
+Stop valves PV2 and PV3 do 
+not open, 
+截止阀PV2 和PV3 未打开 
+Pressure too low at PC1 and 
+PC2 
+PC1 和PC2 处压力太低 
+Set supply air at XV1 to > 3 
+bar, 
+将XV1 处的气体供应压力设
+置为大于3 巴 
+Check control line and valve 
+functioning at PV22, PV3 and 
+PC3 
+检查控制线路以及在PV22、
+PV3 和PC3 阀门工作 
+Increase pressure at PC1 and 
+PC2 
+增大PC1 和PC2 处的压力 
+Controller vibrates 
+控制器振动 
+Wire/felt drive 
+网子/毛毯驱动 
+Wire/felt tensioning unit 
+网子/毛毯张紧装置 
+Machine drive control 
+机器驱动控制 
+Change wire/felt tension 
+改变网子/毛毯张紧度 
+Troubleshooting 
+故障排除 
+
+===PAGE_52===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+52 / 68 
+Operation 运行 
+Rev. 0 版本：0
+Error 错误 
+Possible cause 可能原因 
+Remedy 处理方法 
+Controller is too slow 
+控制器太慢 
+Wire tracking sensor 
+网纠偏传感器 
+Reduce clearance between ful-
+crum point of feeler palm and 
+wire/felt 
+降低触针板支点和网子/毛毯
+之间的间隙 
+Controller too fast 
+控制器太快 
+Wire tracking sensor 
+网纠偏传感器 
+Increase clearance between ful-
+crum point of feeler palm and 
+wire/felt 
+增大触针板支点和网子/毛毯
+之间的间隙 
+Controller stroke too low 
+控制器行程太低 
+Throttle valve FCV1 open too 
+wide 
+节流阀FCV1 开度过大 
+Set throttle valve FCV1 and 
+correct pressures at PC1 and 
+PC2 
+设置节流阀FCV1 的开度并校
+正PC1 和PC2 处的压力 
+Check flow direction of the 
+throttle valve FCV1 
+检查节流阀FCV1 的流量方
+向。 
+Tab. 8: Fault repairs 表9：故障修理 
+ 
+ 
+ 
+
+===PAGE_53===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+53 / 68
+4.22.3 
+Suction box angle of suction press roll 真空压
+榨辊的真空箱角度 
+ 
+The suction box angle is set correctly when the felt at the second sealing strip of the suction couch 
+roll shell runs at an angle whereby no leak air (X) is sucked in. 
+当真空伏辊的第二密封条上的毛毯以没有漏气（X）的真空箱角度运行时，真空箱角设置
+正确。 
+ 
+Fig. 15: Setting the suction box angle (symbolic illustration) 图16：真空箱角度设定（符号图示） 
+ 
+1 
+Screws/bolts 螺钉/螺栓  
+C 
+Correct setting 校正设定 
+2 
+Cover 上盖 
+W 
+Wrong setting 错误设定 
+3 
+Square neck 方颈  
+S1 
+Sealing strip 1 密封条1 
+4 
+Scale 标尺 
+S2 
+Sealing strip 2 密封条2 
+5 
+Roll shell 辊壳 
+SZ 
+Suction zone 真空区 
+6 
+Felt 毛毯 
+X 
+Range in which leak air can be sucked in if angle is 
+set incorrectly. 
+如果角度设置不正确，漏气的范围 
+ 
+The suction box angle can be set as follows: 
+✓ 真空箱角度可以按如下方法设定： 
+ 
+Steps 步骤 
+Detach the screws (1) slightly at the cover (2) for the worm gear box.  
+稍微松开盖上（2）的蜗轮箱螺钉（1） 
+a) Turn the square neck (3) into the desired position. (The amount of twist can be read off a scale 
+(4).)  
+将方颈（3）转到所需位置。 （可以从可读尺（4）中读出扭曲量）。 
+b) Tighten the screws (1) again at the cover (2) for the worm gear box.  
+再次锁紧上盖（2）上的蜗轮箱螺钉（1） 
+The optimum operating point is reached when no leak air is sucked in at (X). The suction box an-
+gle can be set during operation. 
+在（X）处没有吸入泄漏空气时达到最佳操作点。 真空箱角度可在运行期间设定。 
+Correct setting 
+校正设定 
+Setting the suction box 
+angle  
+真空箱角度设定 
+
+===PAGE_54===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+54 / 68 
+Operation 运行 
+Rev. 0 版本：0
+4.23 
+Diagrams and characteristic curves 图表和特
+征曲线 
+4.23.1 
+Dynamic pressure diagram for headbox 流浆
+箱的动态压力图 
+The following diagram shows the characteristic data of the headbox in relation to pressure, slice 
+gap, and speed.  
+下图显示了流浆箱与压力、唇板间隙和速度有关的特征数据。 
+ 
+ 
+ 
+ 
+Fig. 17: Back-pressure diagram 图18： 背压图 
+Staudruck/喷射压力（巴） 
+Strahlgeschwindigkeit/喷射速度【米/分钟】 
+Lippenspalt/间隙【毫米】 
+
+===PAGE_55===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+55 / 68
+ 
+4.23.2 
+Heating sequence of the Yankee 扬克缸加热
+过程 
+The cylinder must be heated manually first of all and under constant supervision. 
+烘缸必须首先人工加热，并始终处在监督下。 
+In order to check the surface temperature of the shell, a contact thermometer with a scale extend-
+ing from 0 to at least 200°C should be used. 
+为了检查外壳的表面温度，应使用刻度为0 到至少200°C 的接触式温度计。 
+ 
+Steps 步骤 
+a) Set Yankee in operation at approx. 30 m/min (crawl speed). 
+将扬克缸设置在大约30 米/分钟速度运行（爬行速度）。 
+b) Start the heating process in the distributed control system or, if the paper machine is controlled 
+manually, open the steam valve according to the diagram and check the surface temperature as 
+described under Section 7.3.1. 
+在分散式控制系统内开始加热过程或如果造纸机是手动控制的，则按照图表打开蒸汽
+阀，并检查7.3.1 节所述的表面温度。 
+NOTICE! Too fast heating of the Yankee can lead to substantial differences in tempera-
+ture and thus to damage to the Yankee! Heating progress should not exceed a maximum 
+of 30°C/h! 
+注意！扬克缸温升过快会导致温度的差异过大，从而会损坏扬克缸！温升进度最大不
+应超过30°C/小时！ 
+c) The pressure boost takes place if the condensate temperature in the Yankee reaches 90 °C. The 
+pressure rises from 0 to 1 bar(g) in 1 hour. 
+如果扬克缸中的冷凝水温度达到90℃，就会发生升压。压力在1 小时内从0 上升到1
+巴（g）。 
+d) Once the pressure of 1 bar (g) is reached, it needs 0.5 hours to reach a pressure of 2 bar (g). 
+一旦达到1 巴（g）的压力，需要0.5 小时才能达到2 巴（g）的压力。 
+e) Once a steam pressure of 2 bar has been reached (which corresponds to a surface 
+temperature of approx. 120 °C), the Yankee is ready for operation. 
+当蒸汽压力达到2 巴时（约相当于表面温度120°C），扬克缸已经准备好操作了。 
+NOTICE! In order to confirm that the curve set in the control system is correct, the Yankee 
+must be heated manually and under constant supervision during the first repeat heating pro-
+cess! 
+注意！为了确认控制系统中设定的曲线是正确的，在第一次重复加热过程中，扬克缸必须
+在始终监督下手动加热！ 
+ 
+
+===PAGE_56===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+56 / 68 
+Operation 运行 
+Rev. 0 版本：0
+4.23.2.1 
+Heating curve 加热曲线 
+ 
+ 
+ 
+Fig. 19: Heating curve 图 20：加热曲线 
+ 
+
+===PAGE_57===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+57 / 68
+4.23.3 
+Characteristic curve for soda straw type siphon 
+– Steam pressure 3.5 bar 苏打虹吸管特性曲线-蒸汽压
+力3.5 巴 
+ 
+ 
+Fig. 21: Yankee characteristic curve-1112 m/min at 3.5 bar 图 22：扬克缸特征曲线-1112 m/min at 3.5 bar 
+干燥机蒸汽表压力3.5 巴 
+线速度1112 米/分钟 
+MK=冷凝水流量 
+VK=立管内的蒸汽-凝结水混合物的
+流速 
+K=冷凝水占比，以体积百分比表示 
+差压DP（巴） 
+闪蒸流速MD（千克/小时） 
+
+===PAGE_58===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+58 / 68 
+Operation 运行 
+Rev. 0 版本：0
+4.23.4 
+Characteristic curve for soda straw type siphon – Steam 
+pressure 4bar 苏打虹吸管特性曲线-蒸汽压力4 巴 
+ 
+ 
+Fig. 23: Yankee characteristic curve 4 bar - 1200 m/min 图 24：扬克缸特征曲线4 巴-1200 米/分钟 
+干燥机蒸汽表压力4 巴 
+线速度1200 米/分钟 
+MK=冷凝水流量 
+VK=立管内的蒸汽-凝结水混合物的
+流速 
+K=冷凝水占比，以体积百分比表示 
+差压DP（巴） 
+闪蒸流速MD（千克/小时） 
+
+===PAGE_59===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+59 / 68
+4.23.5 
+Characteristic curve for soda straw type siphon – Steam 
+pressure8.5 bar 苏打虹吸管特性曲线-蒸汽压力8.5 巴 
+ 
+ 
+Fig. 25: Yankee characteristic curve 8.5 bar - 1600m/min 图 26：扬克缸特征曲线8.5 巴-1600 米/分钟 
+干燥机蒸汽表压力8.5 巴 
+线速度1600 米/分钟 
+MK=冷凝水流量 
+VK=立管内的蒸汽-凝结水混合物的
+流速 
+K=冷凝水占比，以体积百分比表示 
+差压DP（巴） 
+闪蒸流速MD（千克/小时） 
+
+===PAGE_60===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+60 / 68 
+Operation 运行 
+Rev. 0 版本：0
+4.23.6 Characteristic curve for soda straw type siphon – Steam 
+pressure8.8 bar 苏打虹吸管特性曲线-蒸汽压力8.8 巴 
+ 
+ 
+Fig. 27: Yankee characteristic curve 8.8 bar - 1500m/min 图 28：扬克缸特征曲线8.8 巴-1500 米/分钟 
+干燥机蒸汽表压力8.8 巴 
+线速度1500 米/分钟 
+MK=冷凝水流量 
+VK=立管内的蒸汽-凝结水混合物的
+流速 
+K=冷凝水占比，以体积百分比表示 
+差压DP（巴） 
+闪蒸流速MD（千克/小时） 
+
+===PAGE_61===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+61 / 68
+4.23.7 Characteristic curve for soda straw type siphon – Steam pressure 
+9.5 bar 苏打虹吸管特性曲线-蒸汽压力9.5 巴 
+ 
+ 
+ 
+Fig. 29: Yankee characteristic curve 9.5 bar - 1538m/min 图 30：扬克缸特征曲线9.5 巴-1538 米/分钟 
+ 
+ 
+ 
+ 
+干燥机蒸汽表压力9.5 巴 
+线速度1538 米/分钟 
+MK=冷凝水流量 
+VK=立管内的蒸汽-凝结水混合物的
+流速 
+K=冷凝水占比，以体积百分比表示 
+差压DP（巴） 
+闪蒸流速MD（千克/小时） 
+
+===PAGE_62===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+62 / 68 
+Operation 运行 
+Rev. 0 版本：0
+4.24 
+Removing and mounting the core fixing unit 
+of the reel spool 拆装卷纸辊纸芯固定装置 
+The core fixing unit must be removed first of all in order to remove the paper roll from the reel 
+spool. The empty core is secured to the reel spool again by means of the core fixing unit. 
+首先必须拆除纸芯固定装置，以便从卷纸辊上拆下纸卷。空纸芯通过纸芯固定装置再次固
+定在卷纸辊上。 
+Removing the core fixing unit 拆下纸芯固定装置 
+ 
+Steps 步骤 
+Turn the two locks of the core fixing unit through 180° so that the straight edge is at the outer side 
+in each case.  
+将纸芯固定装置的两个卡锁转动180°，以便在各种情况下，直边处在在外侧。 
+a) Remove the core fixing unit from the reel spool. 从卷纸辊上拆除纸芯固定装置 
+ The core with the paper roll can now be removed. 现在可以拆除带卷纸的纸芯。 
+ 
+Fig. 31: Core fixing unit 图 32：纸芯固定装置 
+ 
+1 
+Core 纸芯 
+3 
+Interlock 连锁 
+2 
+Core fixing unit 纸芯固定装置 
+ 
+ 
+ 
+ 
+
+===PAGE_63===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+63 / 68
+4.25 
+Local operating panels 本地操作面板 
+>>See Control Panel. 查看控制面板文件。 
+ 
+ 
+ 
+
+===PAGE_64===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+64 / 68 
+Operation 运行 
+Rev. 0 版本：0
+4.26 
+Operating faults 操作故障 
+4.26.1 
+Headbox 流浆箱 
+ 
+Malfunction 故障 
+Cause 成因 
+Remedy 处理方法 
+Uneven web 纸幅不均匀 
+Uneven pressure distribution in header. 
+流浆箱内压力分布不均。 
+Set pressure distribution with the return 
+flow valve. 用回流阀设定压力分布。 
+Slice gap uneven over the machine 
+width. 
+机器宽度上的切片间隙不均匀的。 
+Correct C.D. profile with micro-adjusters. 
+用微调节器校正横幅。 
+Turbulence pipe clogged. 
+湍流管堵塞。 
+Open and clean headbox.  
+打开并清洁流浆箱。 
+Consistency fluctuating.浓度波动。 
+Check transmitter and calibrate. 
+检查传感器并校准。 
+Faulty pressure measurements. 
+压力测量有问题。 
+Clean pressure gauge. 清洁压力表。 
+Basis weight too high or too low 
+compared with set value.  
+与设定值相比，定量过高或过
+低。 
+Consistency control displays incorrect 
+data. 
+浓度控制显示不正确的数据。 
+Check consistency transmitter and re-cal-
+ibrate.  
+检查浓度传感器并重新校准。 
+Incorrect flow rate. 流量不正确。 
+Correct the flow rate. 修正流量。 
+Wrong machine speed.  
+机器速度错误。 
+Correct the machine speed.  
+纠正机器速度。 
+Wrong fiber direction.  
+纤维方向错误。 
+Wrong machine speed for flow rate. 
+错误的纸机速度造成的速比不对。 
+Correct the machine speed for the flow 
+rate. 
+校正实现流量的机器速度。 
+Tab. 10: Operating faults – headbox 表. 11：操作故障 – 流浆箱 
+4.26.2 
+Crescent Former (wire and felt section)新月型
+成型器（网和毯部） 
+ 
+Malfunction 故障 
+Cause 成因 
+Remedy 处理方法 
+Wire/felt running off center.  
+网子/毛毯偏离中心。 
+Wire/felt guiding unit faulty.  
+网子/毛毯校正装置故障。 
+Repair or replace. 修理或更换。 
+Wire/felt worn. 网子/毛毯磨损。 
+Replace wire/felt. 更换网子/毛毯。 
+Wrong wire/felt tension.  
+网子/毛毯张力错误。 
+Check wire/felt tensioning device.  
+检查网子/毛毯张紧装置。 
+Geometry of the rolls.  
+辊的几何形状。 
+Check geometry. 检查辊的几何形状。 
+Uneven web. 纸幅不均匀。 
+Doctor blades worn. 刮刀片磨损。 
+Level out doctor blades or replace if nec-
+essary.  
+磨平刮刀片或在必要时更换。 
+
+===PAGE_65===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+65 / 68
+Malfunction 故障 
+Cause 成因 
+Remedy 处理方法 
+Wrong machine speed.  
+机器速度错误。 
+Correct the machine speed.  
+纠正机器速度。 
+Geometry between forming roll and 
+breast roll.  
+成型辊与胸辊之间的几何形状。 
+Check geometry. 检查辊的几何形状。 
+Poor dewatering. 脱水效果差。 
+Wire not properly cleaned.  
+网子清洁方式不正确。 
+Check showers. 检查喷淋器。 
+Cleaning nozzles clogged.  
+清洁堵塞的喷嘴。 
+Clean the cleaning nozzles.  
+清洗清洁喷嘴。 
+Tab. 12: Operating faults – Crescent Former 表 13：操作故障 -新月型成型器 
+ 
+ 
+ 
+ 
+
+===PAGE_66===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+66 / 68 
+Operation 运行 
+Rev. 0 版本：0
+4.26.3 
+Press section 压榨部 
+ 
+Malfunction 故障 
+Cause 成因 
+Remedy 处理方法 
+Poor dewatering. 脱水效果差。 
+Uhle box defective.  
+U 型箱存在缺陷。 
+Repair Uhle box. 修理U 型箱。 
+Vacuum at the suction press roll.  
+在压榨辊处的真空。 
+Correct vacuum. 校正真空度。 
+Web not pressed down properly. 
+未正确压下纸幅。 
+Web too damp. 纸幅太湿。 
+Check Uhle box. 检查U 型箱。 
+Vacuum at the suction press roll.  
+在压榨辊处的真空。 
+Correct vacuum. 校正真空度。 
+Pressure gauge reading at suction 
+press roll shows "less" than the op-
+erating pressure.  
+真空压榨辊的压力表读数显示
+“小于”操作压力。 
+Wrong suction box angle.  
+真空箱角度不对。 
+Set the suction box angle.  
+真空箱角度设定。 
+Sealing strips worn. 密封条磨损。 
+Readjust or replace sealing strips.  
+调整或更换密封条。 
+Low pressure loading at sealing strips. 
+密封条处的加载压力低。 
+Check air connection. 检查空气连接。 
+Inadequate water lubrication.  
+水润滑不充分。 
+Check water supply. 检查供水情况。 
+Vacuum pump defective.  
+真空泵有问题。 
+Check vacuum pump. 检查真空泵。 
+Air tube defective. 风管有缺陷。 
+Replace air tube. 更换风管。 
+Wrong suction box angle.  
+真空箱角度不对。 
+Set the suction box angle. 
+真空箱角度设定。 
+Pressure gauge reading at suction 
+press roll shows "more" than the 
+operating pressure. 
+真空压榨辊的压力表读数显示出
+“高于”的操作压力。 
+Shell drill holes clogged.  
+外壳钻孔堵塞。 
+Clean shell drill holes. 清洁外壳钻孔。 
+Tab. 14: Operating faults – Press section 表 15：操作故障 - 压榨部 
+ 
+ 
+
+===PAGE_67===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+67 / 68
+4.26.4 
+Yankee – operating faults 扬克缸 – 操作故障 
+ 
+Malfunction 故障 
+Cause 成因 
+Remedy 处理方法 
+Web not adhering adequately to 
+Yankee.  
+纸幅未充分地依附于扬克缸上。 
+Web too damp 纸幅太湿。 
+Check Uhle box. 检查U 型箱。 
+ 
+Vacuum at the suction press roll.  
+在压榨辊处的真空。 
+Correct the vacuum. 校正真空度。 
+ 
+Geometry of the rolls 辊的几何形状 
+Check geometry.  
+– 检查辊的几何形状。 
+Poor coating 涂布不良 
+Clean shower nozzles.  
+– 清洁喷淋喷嘴。 
+Uneven web 纸幅不均匀 
+Doctor blades worn 刮刀片磨损。 
+Sharpen or replace doctor blades.  
+– 磨光或更换刮刀片。 
+Machine speed too high or too low 
+机器速度太高或太低 
+Correct the machine speed.  
+– 纠正机器速度。 
+Geometry of the rolls 辊的几何形状 
+Check geometry.  
+– 检查辊的几何形状。 
+Inadequate drying 干燥不充分 
+Yankee not at correct temperature 
+扬克缸没有达到正确的温度 
+Bring to correct temperature.  
+– 调整到正确温度。 
+Web too damp 纸幅太湿。 
+Check Uhle box. 检查U 型箱。 
+ 
+Poor condensate drainage 
+冷凝水排水不良 
+Check condensate drainage.  
+– 检查冷凝水排水。 
+Vacuum at the suction press roll 
+在压榨辊处的真空。 
+Correct the vacuum. 校正真空度。 
+ 
+The condensate can no longer be 
+drained off properly from the Yan-
+kee.  
+凝结水不能从扬克缸处正确排
+出。 
+Soda straws are clogged or there are 
+faulty seals in the soda straw system. 
+吸管堵塞或在苏打水吸管系统中密
+封损坏。 
+Carbon ring at the condensate joint 
+should be replaced in good time. Parts of 
+a worn carbon ring can block the soda 
+straws.  
+– 应及时更换凝结水接头处的碳环。
+磨损的碳环零件可以堵塞吸管。 
+– Blow air through to clear blocked 
+soda straws by increasing the differ-
+ential pressure.  
+– 通过增加压差，吹入空气，清除堵
+塞的苏打水吸管。 
+– Shut down and clean soda straws 
+manually.  
+– 停机并手动清洁吸管。 
+– Inspect Yankee and check for leaks.  
+– 检查扬克缸，检查泄漏情况。 
+Tab. 16: Operating malfunctions and troubleshooting 表 17：操作故障和故障排除 
+ 
+ 
+
+===PAGE_68===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+68 / 68 
+Operation 运行 
+Rev. 0 版本：0
+4.26.5 
+Yankee – what to do in the event of a power 
+failure 扬克缸 – 停电时该怎么办？ 
+ 
+Steps 步骤 
+Shut off steam supply 切断蒸汽供给。 
+a) Switch off burner in Yankee hood. 关闭扬克缸罩内的燃烧器。 
+b) Retract hood halves if possible. 如可能，收回护罩半体。 
+c) Shut down shower system. 停止喷淋系统。 
+d) Lift off doctor. 抬起刮刀。 
+e) When the Yankee has come to a stop, it must be rotated through one quarter revolution every 
+half hour. 当扬克缸停下来时，必须每半小时旋转1/4 圈。 
+4.26.6 
+Reel 卷纸机 
+ 
+Malfunction 故障 
+Cause 成因 
+Remedy 处理方法 
+Uneven reeling of the paper web. 
+纸幅不均匀卷绕。 
+Doctor blades worn. 刮刀片磨损。 
+Sharpen or replace doctor blades.  
+磨光或更换刮刀片。 
+Wrong machine speed.  
+机器速度错误。 
+Correct the machine speed.  
+纠正机器速度。 
+Geometry of reel drum to reel spool.  
+卷纸缸到卷纸辊的几何形状。 
+Check geometry. 检查辊的几何形状。 
+Swing device – primary arm.  
+摆动装置-一级压臂。 
+Check clamping mechanism.  
+检查夹紧机构。 
+Spreader bar not properly adjusted. 
+展纸棒未正确调整。 
+Set spreader bar. 设置展纸棒。 
+Slitter not properly adjusted.  
+断纸器未正确调整。 
+Check or re-adjust slitter.  
+检查或重新调整断纸器。 
+Loading and shifting device.  
+加载和移动装置。 
+Re-adjust loading and shifting device.  
+重新调整装载和移动装置。 
+Reel spool not mounted evenly.  
+卷纸辊安装不均匀。 
+Part-turn valve actuator not adjusted 
+properly.  
+部分转动阀门执行器未正确调整.。 
+Re-adjust part-turn valve actuator.  
+重新调整部分转动阀门执行器 
+Swing device – primary arm.  
+摆动装置-一级压臂。 
+Check clamping mechanism.  
+检查夹紧机构。 
+Geometry of reel drum to reel spool.  
+卷纸缸到卷纸辊的几何形状。 
+Check geometry. 检查辊的几何形状。 
+Paper strip not adhering properly 
+in suction zone for edge feed strip 
+when production begins. 
+当生产开始时，纸带在边缘给料
+带的真空区粘着不正确。 
+No suction at suction zone for edge 
+feed strip.  
+边缘进给带在真空区没有真空。 
+Check vacuum system. 检查真空系统。 
+Tab. 18: Operating faults – Press section 表. 19：操作故障 - 压榨部 
+ 
+

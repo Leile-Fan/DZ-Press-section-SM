@@ -1,0 +1,724 @@
+
+===PAGE_9===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Safety 安全 
+9 / 68
+2 
+Safety 安全 
+2.1 
+General safety regulations 基本安全条例 
+The chapter on SAFETY contains general safety regulations that must be observed when working 
+with/on the machine/plant.  
+安全一章包含基本安全条例，使用机器/设备或在机器/设备上作业时必须遵守该法规。 
+The regulations are supplemented by additional safety instructions for individual activities in the 
+relevant chapters of the manual. These instructions are highlighted in the text with special warning 
+signs.  
+手册中相关章节的每项活动都有附加安全指导，补充基本规定的内容。这些说明在文本中
+加上特殊的警告标志。 
+Safety instructions on components not supplied by ANDRITZ are contained in the respective sub-
+supplier documentation.  
+非安德里茨有限公司制造部件的安全指导包含在由分包商提供的文件中。 
+These safety instructions supplement the ANDRITZ operating instructions. 
+这类安全指导用作安德里茨有限公司的操作说明书的补充内容。 
+All safety instructions must be observed. Non-observance of the safety instructions can lead to 
+personal injury, damage to the environment, and/or material damage.  
+所有的安全指导都应当遵守。不遵守安全指导会导致人员受伤、环境破坏和/或材料 
+损坏。 
+ANDRITZ requires the operating company to provide the following:  
+安德里茨有限公司要求运营公司提供下列内容： 
+The operating company has compiled a comprehensive, general safety program. Anyone working 
+at or in the vicinity of the machine must have received training for working on plants of this type 
+and on the process running there, including where to mount barriers and markings.  
+运营公司已经制定了全面的基本安全计划。在设备及其周围工作的人员，都应当接受操作
+这类设备和运行工艺的培训，包括安装围栏、设置标志的场所。 
+2.2 
+Danger and warning signs 危险和警告标志 
+The entire SAFETY chapter is of extreme importance and relevant to safety. Thus, the information 
+in this chapter is not marked with special danger symbols.  
+整个《安全》章节的内容均与安全有关，因而非常重要。因此，这章的内容没有附加专用
+的危险符号。 
+The warnings given in the individual chapters are marked with a pictogram, signal word, and sig-
+nal colour as follows: 
+各个章节的警告内容都附加了下列象形符号、信号说明和信号颜色： 
+ 
+ 
+ 
+ 
+ DANGER 危险 
+ 
+This marking gives warning of imminent danger to life and limb.  
+这个标志表示直接威胁生命和肢体。 
+Non-observance can lead to serious or fatal injuries. 不遵守可能导致严重或致命的伤害。 
+ 
+
+===PAGE_10===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+10 / 68 
+Safety 安全 
+Rev. 0 版本：0
+ 
+ 
+ 
+ 
+ WARNING 警告 
+ 
+This marking gives warning of potential danger to life and limb.  
+这个标志表示可能威胁生命和肢体。 
+Non-observance can lead to serious or fatal injuries. 不遵守可能导致严重或致命的伤害。 
+ 
+ 
+ 
+ 
+ 
+ CAUTION 小心 
+ 
+This marking gives warning of an imminent health hazard.  
+这个标志表示直接影响健康。 
+Non-observance can lead to minor or slight injuries. 不遵守可能导致人员轻微受伤。 
+ 
+ 
+ 
+ 
+ 
+NOTICE 注意 
+ 
+This marking gives warning of possible damage to property.  
+这个标志表示可能会损坏财产。 
+Non-observance can lead to material damage. 不遵守可能导致物质损失。 
+ 
+Further symbols and pictograms used are described in the INTRODUCTION.  
+使用的其它符号和象形图描述见简介部分。 
+2.3 
+Intended use 指定用途 
+The machine should only be used according to the specifications forming part of the purchase or-
+der.  
+只能依据构成订单一部分的说明书中规定使用设备。 
+Using the machine/plant for other purposes is considered contrary to its designated use.  
+将本机器/设备用于其它用途，视为违反了其原定用途。 
+Any modifications to the scope of supply made without the agreement of ANDRITZ are consid-
+ered contrary to the designated use.  
+未经安德里茨有限公司许可擅自修改供货范围，视为违反了原定用途。 
+Observance of the Erection Work, Operating and Maintenance Instructions is part of the desig-
+nated use of the equipment.  
+遵守安装、操作和维护说明书是属于按指定用途使用设备的组成部分。 
+The machine is designed for installation in a non-explosive atmosphere. Designated use provides 
+for operation outside a zone according to ATEX directive 1999/92/EC.  
+设备应当安装在非爆炸环境中。其指定用途可用于ATEX 指令1999/92/EC 规定区域以外的
+场所。 
+The machine is intended for installation in a plant.  
+此台设备规定安装在厂房内。 
+
+===PAGE_11===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Safety 安全 
+11 / 68
+2.4 
+General remarks on machine safety 设备安全
+的基本说明 
+The machine/plant has been built in accordance with state-of-the-art standards and the recognized 
+safety rules. Nevertheless, its use may constitute a risk to life and limb of the user or of third par-
+ties, or cause damage to the machine/plant and to other material assets.  
+机械/设备是按照最先进的标准和公认的安全原则制造的。但是，使用设备有可能会使用户
+或第三方的生命和肢体面临危险，或者损坏机械/设备和各种有形资产。 
+The machine/plant may only be operated when in perfect condition and with due consideration to 
+safety and the risks involved. All protective devices as well as the EMERGENCY STOP equip-
+ment must be in place and fully functional.  
+机械/设备只能在完美的条件下运行，并应充分考虑到运行时的安全和风险。应当配备各种
+保护装置和紧急停机设备并保持正常运行。 
+Malfunctions and unforeseen changes to the machine/plant must be remedied immediately.  
+对机械/设备的故障和无法预料的变化，应当立即纠正。 
+2.5 
+Hazardous applications 危险应用情况 
+The machine was designed specially for the process specified in the sales contract. All changes to 
+this process must be checked and approved because ANDRITZ does not know in detail the chemi-
+cal and biological properties of the numerous materials that can be processed in this machine. The 
+machine as-sold is not suitable for safe processing of hazardous materials unless additional precau-
+tions are taken.  
+此台设备是专门设计用于销售合同中所规定的处理工艺。对此处理工艺所进行的任何改变
+都必须经过安德里茨有限公司的审查和批准，原因是安德里茨有限公司并不能详细了解可
+以在此台设备上进行处理的多种材料的化学和生物特性。除非采取额外的预防措施，否则
+售出的此台设备不适合用于危险物质的安全处理。 
+Before processing materials that are already combustible, explosive, toxic, or hazardous in other 
+ways or which can become hazardous in a reaction, the operating company must conduct a thor-
+ough hazard analysis and risk evaluation of the entire process. This includes drawing up of contin-
+gency plans for handling process errors and faults.  
+在处理已经是可燃、易爆、有毒或其他危险物质或在反应中可能变有害的材料之前，运营
+公司必须对整个处理过程进行全面的危险分析和风险评估，具体包括搬运过程错误和故障
+应急计划的编制 
+In particular, the following must be observed: 尤其必须要遵循以下几点： 
+If combustible or potentially explosive materials are to be processed, all electric motors, cabling 
+and operating elements must be explosion-proof. Furthermore, maintenance work on the plant 
+must be performed using non-sparking tools. Smoking is forbidden. 
+如果将要处理易燃易爆物品，所有电动机、电缆和操作元件都必须为防爆型。此外，
+设备维护工作必须使用无火花工具进行。禁止吸烟。 
+1. If the material processed is toxic, appropriate safety measures must be implemented. 
+如果处理的是有毒材料，必须采取适当的安全措施。 
+2.6 
+Operating company’s obligations 运营公司的
+责任 
+ 
+The operating company of the machine/plant is responsible for ensuring that the machine/plant is 
+not used for anything other than its intended purpose.  
+机械/设备的运营公司应当负责保证，不得将机械/设备用于原定用途以外的其它用途。 
+Intended use 指定用途 
+
+===PAGE_12===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+12 / 68 
+Safety 安全 
+Rev. 0 版本：0
+ 
+In addition to the operating instructions, the applicable legal regulations in the user countries and 
+other rules governing safety at work, health and environmental protection must be observed and 
+personnel instructed in these matters.  
+除操作说明书以外，还应当遵守用户所在国的适用法律规定，以及工作安全、健康和环境
+保护方面的规定，还应当让操作人员了解这些内容。 
+ 
+The machine/plant may only be operated, maintained, and serviced by authorized, skilled person-
+nel with hands-on training.  
+本机械/设备只能由经过授权的、技能合格的、且亲身经历培训的人员进行操作、维护和维
+修。 
+The minimum legal age must be taken into account.  
+应当注意最小法定年龄。 
+Any person undergoing training, in apprenticeship, or under instruction may only work on the ma-
+chine/plant after receiving instruction on the theory and only under the supervision of an experi-
+enced person.  
+任何正在接受培训的人员，或学徒，或依据指示操作的人员只能在接受理论说明后，或在
+有经验人员的监督下进行机器/设备作业。 
+ 
+The operating and maintenance personnel of the operating company must be instructed by quali-
+fied persons after completion of the installation work.  
+在完成安装工作后，运营公司的操作和维护人员将接受制造商的人员或其授权经销商的培
+训。 
+The user undertakes to have new, additional operating and maintenance personnel instructed in 
+machine/plant operation and maintenance to the same extent and applying the same care, and with 
+due consideration to the safety instructions.  
+用户承诺，按照同样的范围，使新的、额外的操作与维护人员接受机器/设备操作与维护方
+面的指导，以同样的方式严格遵守安全指导。 
+Workers entrusted with the transportation, erection work, operation, and maintenance of the ma-
+chine/system must have read and understood the operating instructions, especially the chapter on 
+SAFETY, the safety instructions concerning a certain activity, as well as the safety instructions 
+issued by sub-suppliers.  
+负责机器/设备的运输、装配工作、启动、操作及维护的工作人员，应当阅读并理解操作说
+明书的内容，特别是《安全》章节、各项活动相关的安全指导，以及分包商提供的安全指
+导。 
+ 
+The operating company is responsible for the following:  
+运营公司负责如下： 
+definition of the machine operator's responsibility and his right to give instructions,  
+– 确定设备操作人员的责任和指导权， 
+– definition of the contents and responsibility for keeping the records on functioning and any 
+failure of the monitoring equipment (log book).  
+– 保存监测设备正常工作和任何故障记录（日志本）的内容和责任的定义。 
+– personnel areas of responsibility in terms of operating, tooling, maintenance and upkeep. 
+– 按照操作、工具、维护和维修领域，划分人员责任。 
+ 
+The operating company must: 运营公司必须： 
+check at regular intervals whether the safety instructions and regulations governing work on the 
+machine/plant are observed.  
+– 定期检查机器/设备的安全指导和操作方面的规章制度是否得到遵守。 
+– carry out regular training to confirm the level of knowledge of the operating and maintenance 
+personnel.  
+– 实施定期培训以巩固操作与维护人员的专业知识。 
+Work instructions 
+操作说明 
+Qualification of per-
+sonnel assigned 
+指定人员的资质 
+Instructions 指导 
+Definition of areas of 
+responsibility 
+划分责任区 
+Inspections 检查 
+
+===PAGE_13===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Safety 安全 
+13 / 68
+ 
+The operating company shall ensure that all safety-relevant instructions are observed and that all 
+symbols and notices are attached in the production area in accordance with the local regulations.  
+运营公司应当检查安全方面的说明是否全部得到遵守，是否按照当地法规的要求，在生产
+场所设置各种符号和提示。 
+In addition, ANDRITZ recommends mounting the following devices, symbols and signs, in as far 
+as these are not already included in the local regulations.  
+另外，除当地法规已包含的要求以外，安德里茨有限公司还建议安装设置下列装置、符号
+和标志。 
+Markings on the floor for vehicle routes, protective fencing and danger areas (yellow)  
+– 车辆通道、保护围栏和危险场所的地面标志（黄色） 
+– Barriers and covers 屏障与盖板 
+– Handrails (foot, center and chest height) 栏杆（足部、中央和胸部高度） 
+– Emergency lighting 应急照明装置 
+– Lockable maintenance switch at the motors (shut-off device for power)  
+– 可以锁定的电机维护开关（用于切断电源的装置） 
+– Means of shutting off all auxiliaries (water, chemicals, compressed air, etc.)  
+– 所有辅助装置的切断措施（水、化学品、压缩空气等） 
+– Information signs – fire prevention equipment 提示标志 - 防火设备 
+– Information signs – emergency phone number 提示标志 – 应急电话号码 
+– Direction signs – exits 指示标志 – 出口 
+– Direction signs – escape routes 指示标志 – 逃生路线 
+– Information signs (first-aid post) 提示标志 – 急救站 
+– Fire-fighting equipment as required by national regulations 国家法律规定的消防设备 
+2.7 
+General obligations of personnel 人员的基本
+责任 
+To avoid personal injury and material damage, all persons working on the plant must observe the 
+following safety instructions:  
+为避免人员受伤和材料损坏，机械的全体工作人员都应当遵守下列安全指导： 
+Observe the safety regulations in the operating instructions and on the machine/plant.  
+– 遵守操作手册和机器/设备上的安全规程。 
+– In the event of a safety-relevant functional disorder, stop and secure the part of the plant af-
+fected. Report disorders and have them repaired immediately.  
+– 在某一项安全相关功能失效的情况下，停止设备运行并封闭设备受影响的部分。报告
+异常情况并马上修理。 
+– All safety-critical modes of operation are prohibited. 
+–  禁止操作中的各种安全临界模式。 
+– Use only the machine accesses, paths and passages intended for this purpose.  
+– 设备的通道、轨道和过道，只能用于这个用途。 
+– Do not touch moving and rotating parts and/or reach out beyond them.  
+– 切勿接触活动的和旋转的零件，和/或进入这类零件的活动范围。 
+– Keep the machine/plant and workplace clean and tidy. Do not lay tools or other items on the 
+machine.  
+– 保持机械和工作场所干净。切勿将工具或其它物品放在机械上。 
+Attachment of safety 
+features 安装安全装置 
+
+===PAGE_14===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+14 / 68 
+Safety 安全 
+Rev. 0 版本：0
+– Do not wear any garments/pieces of jewelry that might be caught on moving machine/plant 
+parts. This includes ties, scarves, rings, and necklaces.  
+– 不要穿戴任何可能被移动机器/设备部件夹住的衣服/珠宝首饰。包括领带、丝巾、戒指
+和项链等。 
+– Do not wear long hair loose.  
+– 切勿蓄留松散长发。 
+– Familiarize yourself with the function and any failure of monitoring equipment (log book) 
+before starting work.  
+– 开始工作之前熟悉设备监测设备（记录簿）的功能和任何故障情况。 
+– No smoking in the vicinity of the machine/plant.  
+– 切勿在机器/设备附近吸烟。 
+– Persons authorized to work on the machine/plant must not be under the influence of drugs or 
+alcohol.  
+– 经授权操作机器/设备的人员不得受毒品或酒精影响。 
+– Wear personal protective apparel when working on the machine/plant.  
+– 操作设备/设备时穿着个人防护装备。 
+ 
+ 
+ 
+
+===PAGE_15===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Safety 安全 
+15 / 68
+2.8 
+Safety devices 安全装置 
+The machine/plant must not be operated without effective safety equipment.  
+没有配备有效的安全设备，不得操作机器/设备。 
+Safety equipment must not be circumvented, dismantled or made unserviceable during operations. 
+The safety equipment is there to protect operating personnel.  
+在操作期间，不得改装、拆除、停止使用安全设备。安全设备是用来保护操作人员的。 
+Safety equipment and access thereto must be kept clear.  
+安全设备及接近安全设备的通道必须保持畅通无阻。 
+ 
+The keys for maintenance switches or operating mode switches for local machine settings must be 
+removed from these switches and retained by the operator to prevent the setting being changed by 
+any third parties, thus also preventing risks!  
+用于设置现场设备的维护开关或操作模式开关的钥匙，应当从开关上取下并由操作人员保
+管，防止第三方改变设置，从而预防风险！ 
+ 
+The operating company must provide an EMERGENCY STOP switch in the immediate vicinity of 
+the machine to guarantee that it can be shut down by immediately cutting off the power supply to 
+the drive elements of the machine.  
+运营公司应当在紧靠设备的附近安装紧急停机开关，保证开关能够立即切断设备驱动装置
+的电源，从而实现关机。 
+ 
+Fig. 1: Possible designs of the EMERGENCY STOP switch 
+图 2：关于紧急停机开关的可能设计方案 
+If a control panel is supplied with an EMERGENCY STOP switch installed by ANDRITZ, the 
+operating company need only wire and integrate the switch into the EMERGENCY STOP chain.  
+如果控制面板配有安德里茨有限公司安装的紧急停机开关，运营公司仅需通过接线，把开
+关集成到紧急停机链中。 
+ 
+Information, warning, and prohibiting signs must be observed. They must be checked regularly for 
+legibility and completeness, and they must not be removed or obstructed.  
+必须遵守信息、警告和禁止标志。必须定期检查它们的可读性和完整性，并且不得移除或
+阻挡它们。 
+2.8.1 
+Execution of the EMERGENCY STOP device
+执行紧急停机装置 
+The EMERGENCY STOP device must not be installed more than 15 m away from the machine. 
+紧急停机装置的安装位置距设备不得超过15 米。 
+The EMERGENCY STOP switch and further units included in the EMERGENCY STOP safety 
+equipment must be installed and implemented by the operator in accordance with the applicable 
+standards, particularly EN ISO 13850 and EN 60204-1 (stop category 0).  
+必须依据适用标准，尤其是EN ISO 13850 和EN 60204-1（停止类别0），安装紧急停机开
+关及紧急停机安全设备中所含的更多装置，并由操作员实施。 
+ 
+ 
+ 
+Lockable switches 
+可锁紧开关 
+EMERGENCY STOP 
+switch 紧急闭合开关 
+Indicative, warning 
+and prohibiting signs
+指示、警告和禁止标志 
+
+===PAGE_16===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+16 / 68 
+Safety 安全 
+Rev. 0 版本：0
+2.9 
+Personal protective apparel 个人防护装备 
+Use and always carry personal protective equipment in accordance with local regulations or those 
+of the plant operating company. It should be compulsory to wear hard-toed boots throughout the 
+entire premises.  
+按照当地法规或设备运营公司的规定，使用并始终随身携带个人防护装备。在整个场所
+内，都应当强制穿着硬头鞋。 
+In addition to the regulations applying, we recommend using the following safety equipment for 
+certain work.  
+除相关法规以外，我公司还建议在某些工作中使用下列安全设备。 
+ 
+Activity 活动 
+Safety equipment 安全装备 
+Time spent in the immediate vicinity of the machine while it is run-
+ning 
+在设备运转时，临近设备作业 
+ 
+ 
+ 
+Taking pulp samples 提取纸浆样品 
+ 
+ 
+ 
+Field installation and maintenance work for which parts of the ma-
+chine have to be removed 
+设备的部件需要拆卸下来以便进行现场安装和维护的作业 
+ 
+ 
+ 
+ 
+Tab. 1: Recommended safety equipment for certain work 表 2：为特定工作推荐的安全设备 
+ 
+ 
+Protective clothing to prevent the pulp from 
+coming into contact with the skin 
+防止纸浆与皮肤发生接触的防护服 
+ 
+Safety shoes as protection against foot injuries
+安全鞋，保护脚部免受伤害 
+ 
+Gloves to prevent hand injuries 
+防止手部受伤的手套 
+ 
+Ear protection to prevent damage to hearing 
+耳朵防护装置，防止造成听力损害 
+Eye protection to prevent eye injuries 
+眼部保护装置，防止眼睛受伤 
+ 
+Standard hard hat as protection against head in-
+juries 
+标准的硬纸安全帽，防止造成头部伤害 
+ 
+Safety belt to prevent falls. (During work con-
+ducted at a height, or where there is a risk of 
+falling or when entering a tank, etc.)  
+安全带防止跌落。（高空作业或有坠落危险
+或进入箱体等情况下使用） 
+ 
+Wear breathing apparatus if there is any risk 
+from vapors and gases that are dangerous or 
+damaging to health.  
+如果存在危害或损害健康的蒸汽和气体风
+险，则应佩戴呼吸防护装置。 
+Face shield to prevent facial injuries 
+防止面部受伤的防护面罩 
+ 
+ 
+Tab. 3: Purpose of the safety equipment 表 4：安全设备的用途 
+
+===PAGE_17===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Safety 安全 
+17 / 68
+2.10 
+Safety at the machine installation site 设备安
+装现场的安全 
+There is no permanent place of work at the machine. Working near the machine is only necessary 
+during inspection and maintenance work.  
+设备没有固定的工作地点。只有在检查和维护作业时，才须在设备附近工作。 
+A suitably large, clear, and unconfined working area must be created on all sides of the machine. 
+Pipework, ducting, etc. must be laid such as not to impede access to the machine.  
+设备的所有侧面都必须留有适当的大的、无障碍和无限制的工作区域。管道、导管等铺设
+不得妨碍通向设备的道路。 
+Maintenance access and inspection doors must be kept clear. Storing of any kind of material is 
+forbidden.  
+必须保持维护道路和检验门无障碍。禁止存放任何类型的材料。 
+All operating and maintenance areas of the machine must have adequate lighting and ventilation 
+(industrial lighting).  
+设备的所有操作区和维修区必须配备足够的照明和通风（工业照明）。 
+The foundation must be sized to withstand the loads caused by the machine.  
+基础必须估量，确保能够承受机械造成的荷载。 
+The area around the machine and the marked escapes are to be kept clear. The area around the ma-
+chine must be marked as a danger zone. It must be possible to enter and leave the operating area 
+unimpeded.  
+设备周围的场所和规定的逃生路线，都必须保持通畅无阻。设备周围的场所应当标记为危
+险区。必须能够畅通无阻地进入和离开操作区域。 
+Make sure machine and surrounding area are kept clean. In particular, oil and grease on the floor 
+and on machine elements may cause slipping. This is, therefore, a considerable source of injuries, 
+as are tools that have not been put down in a safe place. The operating area must be clear of waste 
+materials, tools and other extraneous objects.  
+确保保持设备和周围区域清洁。特别是地板和设备元件上的油和油脂会导致滑倒。因此，
+这是一个相当大的受伤源，还有那些没有放在安全地方的工具。必须保证运行区域不存在
+废料、工具和其它外来物体。 
+The floor in the area of the machine must be provided with a non-slip surface. 
+设备周围地板必须配备防滑表面。 
+In order to prevent any falls from or damage to the machine, it is forbidden to climb onto machine 
+elements or on the machine itself (except for the treading areas provided). Use ladders or similar 
+equipment in accordance with recognized standards.  
+为了防止从机械上跌落或对设备造成损坏，禁止爬到设备部件上或爬到机械上（所提供的
+踏面除外）。应按照公认的标准采用梯子或类似的设备。 
+Ramps, platforms, and lifts must be used to avoid injury or excessive physical effort.  
+必须使用坡道、平台和升降机，避免受伤或过度的体力劳动。 
+2.11 
+Temperature 温度 
+The following protective measures are required if the pulp used has a temperature higher than 
+73°C:  
+如果纸浆温度高于73°C，则需要采取以下保护措施： 
+The "Hot surface" warning sign must be mounted. 必须粘贴“高温表面”警告标志。 
+– It is compulsory to wear personal safety equipment in the immediate vicinity of the machine. 
+– 在机器附近时，必须穿戴个人安全设备。 
+
+===PAGE_18===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+18 / 68 
+Safety 安全 
+Rev. 0 版本：0
+– The operating company is responsible for informing newly assigned personnel about the risk 
+of burns when working on and in the vicinity of the machine and for implementing further 
+protective measures, such as insulation, safety barriers to maintain distance, and access re-
+strictions. 
+– 运营公司负责向新指派的人员告知在机器上和机器附近作业时的烧伤危险，并采取进
+一步的保护措施，例如：隔热措施以及保持距离的安全栅和准入限制。 
+No maintenance work should be carried out until the hot surface has cooled down.  
+在热表面冷却之前，不得开展维护作业。 
+2.12 
+Noise 噪音 
+The total noise emissions from all machines in the production room can restrict spoken communi-
+cation and impair hearing.  
+在生产车间内所有设备产生的总噪声会限制口语交流并造成听力损伤。 
+The machine is designed such that no operating personnel is required in the immediate vicinity of 
+the machine during normal operation. Appropriate hearing protection should be worn throughout 
+maintenance and adjusting work while the machine is running. 
+按照设备的设计，设备在正常运行期间，不需要操作人员停留在设备附近。在设备运行
+时，应在整个维护和调整工作中佩戴合适的听力保护装置。 
+2.13 
+Electrical equipment 电气设备 
+All work on the electrical equipment, without exception, must be carried out by skilled electri-
+cians.  
+电气设备的所有作业毫无例外，必须由熟练的电工进行。 
+Any form of contact with electrical equipment may cause fatal injuries. Damage to electrical com-
+ponents and insulations must be repaired immediately.  
+与电气设备的任何形式的接触均可能有丧生危险。必须立即修复损坏的电气部件和绝缘材
+料。 
+Before beginning any maintenance or repair work, the operating company must disconnect the 
+electric power supply to all drives securely. This can be achieved with a lockable maintenance 
+switch, lockable racks in the MCC, or with other suitable measures that comply with the safety 
+regulations applying.  
+在维护或修理工作开始之前，运营公司应当安全地断开所有驱动装置的电源。这项措施可
+以使用能够锁定的维护开关、MCC 的可锁定支架实现，或者按照相关安全条例的要求，采
+取各种适当措施。 
+If any work is necessary on live parts, it is essential to proceed according to the applicable stand-
+ards.  
+对带电零件作业时，必需按照相关标准的要求进行操作。 
+Users of medical electronic equipment (e.g. pacemakers) must not enter the electric danger zone.  
+使用医疗电子设备（例如心脏起博器）的人员，不得进入电气危险区。 
+The machine/system must be grounded to avoid electrostatic loading or contact voltage. Machine, 
+gears, motors and local equipment (tanks, control panel, etc.) must be connected to the grounding 
+system.  
+必须将设备/系统接地，避免静电负荷或接触电压。设备、齿轮、电机和现场设备（油箱、
+控制台等），都应当连至接地系统。 
+Do not bring an excessive amount of water or other liquids into the vicinity of electrical equip-
+ment.  
+请勿将过量的水或其它液体带入电气设备附近。 
+
+===PAGE_19===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Safety 安全 
+19 / 68
+2.14 
+Hydraulic and pneumatic equipment 液压设备
+与气动设备 
+Hydraulic and pneumatic systems operate at high pressure. Malfunctions in the hydraulic system 
+may cause hazards to operating personnel, damage to property and environmental pollution.  
+液压与气动系统在高压下运行。液压系统故障可能给操作人员带来危险，造成财产损失及
+环境污染。 
+The specified operating data and the prescribed revision and maintenance intervals must be ob-
+served at all times.  
+必须始终遵守指定的运行资料、规定的修订本与维护间隔。 
+Systems must be de-pressurized before carrying out maintenance work. 
+执行维修作业前系统必须卸压。 
+Work on hydraulic and pneumatic equipment must not be carried out other than by skilled erection 
+personnel with special training and experience in handling hydraulic and pneumatic equipment. 
+除受过特别训练、具有液压设备与气动设备操作经验的熟练安装人员外，其它人员不得操
+作液压设备与气动设备。 
+In order to avoid injuries (e.g. caused by whiplash), all pressurized flexible hoses and pipes must 
+be tied or held together.  
+所有承压软管与管道必须扎在一起或固定在一起，以免损伤（如由鞭打造成）。 
+ 
+2.15 
+Welding work 焊接作业 
+In general, welding work is only permitted after consulting ANDRITZ. Any welding work that is 
+described in detail in the maintenance instructions is excluded from this ruling. The relevant safety 
+regulations must be observed for welding work.  
+通常情况下，只有在咨询安德里茨有限公司后，才能批准焊接作业。在维护说明中具体列
+出的任何焊接作业，不受这条规定的限制。焊接作业应当遵守相关的安全条例。 
+All motors should be disconnected before carrying out electric welding work.  
+开展电焊作业前，所有电机均应断电。 
+During arc welding work, the ground should never be allowed to run over the rolling bearings. A 
+grounding cable is to be connected up in the immediate vicinity of the welding area.  
+电弧焊作业期间，辊轴支承不得辗过地面。在焊接区域附近连接接地电缆。 
+Danger of fire and explosions 火灾或爆炸危险 
+There is a considerable risk of fire or explosion during welding work.  
+焊接作业很可能引发火灾或爆炸。 
+Hot work permit required! 需要动火作业许可证！ 
+– Always take the appropriate fire precautions before beginning work, e.g. keep fire extinguish-
+ers at the ready!  
+– 开始工作之前，始终采取适当的防火预防措施，例如准备好灭火器！ 
+2.16 
+Fluids, (liquids, gases, vapor, or smoke) 流体
+（液体、气体、蒸汽或烟气） 
+Unintended chemical reactions may take place in media (fiber pulps, sludge, etc.) during a pro-
+longed standstill and hazardous fumes may be produced.  
+
+===PAGE_20===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+20 / 68 
+Safety 安全 
+Rev. 0 版本：0
+在长期停机期间，可能会在介质（纤维浆、污泥等）中发生意外的化学反应，并可能产生
+有害烟雾。 
+The machine must be thoroughly cleaned after prolonged stoppages.  
+设备长期搁置后，必须彻底清洗。 
+The area must be adequately ventilated.  
+此区域必须充分通风。 
+Before beginning work on the machine, ensure that no liquids, gases, vapors or smoke can enter 
+the working area from inlet pipes, discharge pipes or shafts.  
+开始操作设备前，确保无液体、气体、蒸汽或烟气可经入口管、排水管或轴进入作业区。 
+If it is not possible to exclude reliably the risk of liquids, gases, vapors or smoke flowing in, all 
+persons working in the danger zone must be equipped with a safety harness and a safety rope. 
+Each worker must be monitored by a second person outside the danger zone. 
+如不能可靠排除液体、气体、蒸汽或烟气流入风险，所有在危险区内作业的人员必须配戴
+安全带和安全绳。每名工作人员必须由危险区外的第二个人监护。 
+It must always be possible to evacuate a worker from the danger zone without delay.  
+必须始终能够使工作人员毫不迟延地从危险区撤离。 
+Due to the high temperatures and humidity, people wearing glasses may find that their glasses 
+steam up, thus exposing the wearer to a risk of injury (e.g. wearer may trip).  
+由于高温、高湿度，戴眼镜的人员可能发现他们的眼镜起雾，以此使配戴者面临损伤风险
+（如配戴者可能绊脚）。 
+2.17 
+Oils and greases 油与油脂 
+The safety instructions for the products concerned must be observed when handling oil, grease, 
+and other chemical substances.  
+在处理油，油脂和其他化学物质时，应当遵守产品的安全指导书。 
+Suitable skin protection is required when handling aggressive media. See manufacturers' infor-
+mation for the type of skin protection required.  
+在处理腐蚀介质时，应当采取适当的皮肤保护措施。有关所需的皮肤保护措施类型，参见
+制造商的文献。 
+Also observe the relevant requirements for disposal.  
+还要遵守处理方面的相关要求。
+
+===PAGE_21===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+21 / 68
+3 
+Technical data 技术数据 
+Production data 
+Tissue machine type 纸机型号 
+PrimeLine Compact M1600 
+Capacity (design)设计产能 
+93.8 ADMT/d 
+Paper types 纸种 
+Toilet, Napkin, Handkerchief, Facial 
+厕纸、餐巾纸、手帕纸、面巾纸 
+Paper quality 成纸品种 
+Conventional 
+传统型 
+Basic weight 定量 
+11-30 g/m² 
+Dryness (at reel)干度（卷纸） 
+93 % 
+Design data 
+Drive side 传动侧 
+Right (TM1) Left (TM2) 
+右侧（1 号机） 左侧（2 号机） 
+Design speed 设计车速 
+1700 m/min 
+1500 m/min (Reel) 
+Drive speed 传动车速 
+1650 m/min 
+1450 m/min (Reel) 
+Max operating speed (design) 最大操作速度 
+1650 m/min 
+Headbox pond width 流浆箱唇口宽度 
+3596 mm 
+Wire width 网宽 
+3541 mm 
+Felt width 毛毯宽 
+3800 mm 
+Sheet width on reel 卷纸机纸幅宽 
+3500 mm 
+ 
+ 
+ 
+ 

@@ -1,0 +1,1219 @@
+================================================================================
+HEADBOX PRIMEFLOW — ENHANCED BILINGUAL CONTENT WITH IMAGE MAPPING
+Machine: C&S Paper (Jiangsu) Co., Ltd.
+Order: C-14-855551-716 TM4, C-14-855552-716 TM3
+================================================================================
+
+================================================================================
+1. COMPONENT DETAILS (Sections 3.2.1 – 3.2.11) — Pages 13–23
+================================================================================
+
+// ============================================================================
+// SECTION: 3.2.1 Stock feed/Spreader (1) — Page 13
+// ============================================================================
+// IMAGES:
+//   Page 13: images-headbox/page13-img01.jpeg — Fig. 3: Distributor with supporting structure 分配器+支撑结构
+//   Page 13: images-headbox/page13-img02.jpeg — (component detail)
+//   Page 13: images-headbox/page13-img03.jpeg — (component detail)
+
+SECTION_3_2_1 = {
+  title: { en: "Stock feed/Spreader (1)", zh: "原悬液进料/涂布器（1）" },
+  page: 13,
+
+  function: {
+    en: "The distributor is used to distribute and feed the stock over the entire machine working width.",
+    zh: "分配器馈送原悬液并将原悬液均匀分布在设备的整个宽度上。"
+  },
+
+  design: {
+    en: [
+      "Welded steel structure, polished on the inside.",
+      "In order to guarantee even distribution of pressure and volume, the distribution pipes (1a) have a tapered cross-section that narrows in flow direction (conical).",
+      "The return flow is provided on the outlet side of the distribution pipe.",
+      "Expansion joints (1b) are mounted on the feed side for length compensation."
+    ],
+    zh: [
+      "焊接钢制结构，内部抛光。",
+      "为了保证压力、体积分布均匀，分配管道（1a）采用锥形截面，沿着流动方向逐渐缩小（呈锥形）。",
+      "通过分配管道一侧的出口实现回流。",
+      "伸缩接头（1b）安装在送料端，用于容纳纵向膨胀。"
+    ]
+  },
+
+  images: [
+    { page: 13, file: "images-headbox/page13-img01.jpeg", caption: "Fig. 3: Distributor with supporting structure 图 3：分配器+支撑结构" },
+    { page: 13, file: "images-headbox/page13-img02.jpeg", caption: "Component detail — distributor" },
+    { page: 13, file: "images-headbox/page13-img03.jpeg", caption: "Component detail — distributor" }
+  ]
+};
+
+// ============================================================================
+// SECTION: 3.2.2 Pivoting device (2) — Page 14
+// ============================================================================
+// IMAGES:
+//   Page 14: images-headbox/page14-img01.jpeg — Fig. 4: Pivoting device 摆动装置
+//   Page 14: images-headbox/page14-img02.jpeg — (component detail)
+
+SECTION_3_2_2 = {
+  title: { en: "Pivoting device (2)", zh: "摆动装置（2）" },
+  page: 14,
+
+  function: {
+    en: "This device is used to swing the complete headbox out for cleaning purposes and in order to change the lamella. In addition to the operating position, a further 2 positions are available:",
+    zh: "这套装置用于摇摆流浆箱总成，用于清理、更换飘片。除工作位置以外，还有另外两个位置："
+  },
+
+  positions: [
+    { en: "Wire changing position", zh: "电线更换位置" },
+    { en: "Roll changing position/cleaning position", zh: "辊轴更换位置/清理位置" }
+  ],
+
+  design: {
+    en: "Pivoting device (2a) for swinging the Headbox manually. The position can be adjusted on the run using the pivoting device.",
+    zh: "摆动装置（2a）用于摆动流浆箱。用摆动装置可以调节流浆箱的位置。"
+  },
+
+  references: [
+    { en: ">> MAINTENANCE", zh: ">> 维护" },
+    { en: ">> SUB-SUPPLIER DOCUMENTATION", zh: ">> 分包商文件" }
+  ],
+
+  images: [
+    { page: 14, file: "images-headbox/page14-img01.jpeg", caption: "Fig. 4: Pivoting device 图 4：摆动装置" },
+    { page: 14, file: "images-headbox/page14-img02.jpeg", caption: "Component detail — pivoting device" }
+  ]
+};
+
+// ============================================================================
+// SECTION: 3.2.3 Locking device (3) — Page 15
+// ============================================================================
+// IMAGES:
+//   Page 15: images-headbox/page15-img01.jpeg — Fig. 5: Locking device 锁定装置
+//   Page 15: images-headbox/page15-img02.jpeg — (component detail)
+
+SECTION_3_2_3 = {
+  title: { en: "Locking device (3)", zh: "锁定装置（3）" },
+  page: 15,
+
+  function: {
+    en: "The locking device is used to hold the entire headbox in the desired position.",
+    zh: "锁定装置用于将整个流浆箱固定在期望位置。"
+  },
+
+  design: {
+    en: "The Welding structure of stop device supports the whole Headbox. It can be adjusted in horizontal position, integrate pivoting adjusting ability for Header.",
+    zh: "停止装置的焊接结构支撑整个流浆箱。它可以在水平位置调整，旋转调整流浆箱的能力。"
+  },
+
+  images: [
+    { page: 15, file: "images-headbox/page15-img01.jpeg", caption: "Fig. 5: Locking device 图 5：锁定装置" },
+    { page: 15, file: "images-headbox/page15-img02.jpeg", caption: "Component detail — locking device" }
+  ]
+};
+
+// ============================================================================
+// SECTION: 3.2.4 Micro-adjusters (4) — Page 16
+// ============================================================================
+// IMAGES:
+//   Page 16: images-headbox/page16-img01.jpeg — Fig. 6: Micro-adjusters 微调装置
+//   Page 16: images-headbox/page16-img02.jpeg — (detail)
+//   Page 16: images-headbox/page16-img03.jpeg — (detail)
+//   Page 16: images-headbox/page16-img04.jpeg — (detail)
+
+SECTION_3_2_4 = {
+  title: { en: "Micro-adjusters (4)", zh: "微调装置（4）" },
+  page: 16,
+
+  function: {
+    en: "The micro-adjusters can be used to make manual readjustments to local unevenness in the slice gap over the entire working width. This is achieved by making corrections to the vertical position of the slice lip.",
+    zh: "微调装置可以通过手动调节方式让浆片均匀分布在整个作业宽度上。将浆片唇缘调整到正确的垂直位置即可实现这个功能。"
+  },
+
+  design: {
+    en: "The threaded spindles (4a) arranged at equal distances over the working width are set with zero backlash. Each spindle can be set individually by means of an adjusting screw (4b) with an appropriate scale (4c). The stop screw (4e) prevents the pointer (4d) from overrunning. The position of the pointer (4d) is set by the manufacturer and secured by means of a threaded pin (4f). The threaded pin (4f) must not be removed!",
+    zh: "螺杆（4a）等距分布在整个作业宽度上，反冲设定为零。可以通过螺钉（4b）和相应的刻度盘（4c）单独调节轴杆。止动螺钉（4e）防止指针过度指针（4d）的位置由厂家和用户自行设置用螺纹销(4f)固定。螺纹销(4f)不能拆卸!"
+  },
+
+  notice: {
+    en: [
+      "Deformations due to wrong adjustments",
+      "Danger of permanent deformation of the slice lip.",
+      "The following maximum differences in the adjusting path must be observed:",
+      "From spindle to spindle: 0.25 mm",
+      "over the entire width: 0.5 mm"
+    ],
+    zh: [
+      "调节不当导致的变形",
+      "浆片唇缘有发生永久变形的危险。",
+      "应当遵守下列最大调节差异：",
+      "从轴杆到轴杆：0.25 毫米",
+      "跨越整个宽度：0.5 毫米"
+    ]
+  },
+
+  components: [
+    { label: "4a", en: "Threaded spindles", zh: "螺杆" },
+    { label: "4b", en: "Adjusting screw", zh: "螺钉" },
+    { label: "4c", en: "Scale", zh: "刻度盘" },
+    { label: "4d", en: "Pointer", zh: "指针" },
+    { label: "4e", en: "Stop screw", zh: "止动螺钉" },
+    { label: "4f", en: "Threaded pin (do not remove)", zh: "螺纹销（不能拆卸）" }
+  ],
+
+  images: [
+    { page: 16, file: "images-headbox/page16-img01.jpeg", caption: "Fig. 6: Micro-adjusters 图 6：微调装置" },
+    { page: 16, file: "images-headbox/page16-img02.jpeg", caption: "Micro-adjuster detail" },
+    { page: 16, file: "images-headbox/page16-img03.jpeg", caption: "Micro-adjuster detail" },
+    { page: 16, file: "images-headbox/page16-img04.jpeg", caption: "Micro-adjuster detail" }
+  ]
+};
+
+// ============================================================================
+// SECTION: 3.2.5 Step diffuser block (5) — Page 17
+// ============================================================================
+// IMAGES:
+//   Page 17: images-headbox/page17-img01.jpeg — Fig. 7: Outlet side 出口侧
+//   Page 17: images-headbox/page17-img02.jpeg — Fig. 8: Inlet side 入口侧
+//   Page 17: images-headbox/page17-img03.jpeg — (detail)
+
+SECTION_3_2_5 = {
+  title: { en: "Step diffuser block (5)", zh: "阶梯扩散器（5）" },
+  page: 17,
+
+  function: {
+    en: "In the step diffuser block, turbulence energy is applied to the stock by increasing the cross-section of the diffuser tubes (5a). This is why the diffuser block is also referred to as the 'turbulence block' or 'turbulence generator'.",
+    zh: "增加扩散管（5a）的截面积，将紊流能量施加在阶梯扩散器上。这也是扩散器称作'紊流块'、'紊流发生器'的原因。"
+  },
+
+  design: {
+    en: "Welded structure with individual diffuser tubes mounted in an offset arrangement one above the other and secured in perforated plates (5b). Plastic bushes (5c) are inserted from the inlet side. These can be replaced if operating conditions change. The tubes have a round cross-section at the inlet and a pentagonal cross-section at the outlet.",
+    zh: "焊接结构配备相对安装的扩散管，用穿孔板固定。塑料套管（5c）从入口侧插入。如果工作条件变更，可以更换套管。入口处的套管截面为圆形，出口处的截面为五边形。"
+  },
+
+  components: [
+    { label: "5a", en: "Diffuser tubes", zh: "扩散管" },
+    { label: "5b", en: "Perforated plates", zh: "穿孔板" },
+    { label: "5c", en: "Plastic bushes (replaceable inserts)", zh: "塑料套管（可更换插件）" }
+  ],
+
+  images: [
+    { page: 17, file: "images-headbox/page17-img01.jpeg", caption: "Fig. 7: Outlet side 图 7：出口侧" },
+    { page: 17, file: "images-headbox/page17-img02.jpeg", caption: "Fig. 8: Inlet side 图 8：入口侧" },
+    { page: 17, file: "images-headbox/page17-img03.jpeg", caption: "Diffuser block detail" }
+  ]
+};
+
+// ============================================================================
+// SECTION: 3.2.6 Indicating device (6) — Page 18
+// ============================================================================
+// IMAGES:
+//   Page 18: images-headbox/page18-img01.jpeg — Fig. 9: Gap scale 唇口刻度盘
+//   Page 18: images-headbox/page18-img02.jpeg — (detail)
+
+SECTION_3_2_6 = {
+  title: { en: "Indicating device (6)", zh: "指示装置（6）" },
+  page: 18,
+
+  function: {
+    en: "Indicates the slice gap.",
+    zh: "显示浆片唇口。"
+  },
+
+  design: {
+    en: "The indicator has a connection to the eccentric shaft and rotates with the shaft. The scale is calibrated to show the actual slice opening.",
+    zh: "该指示器与偏心轴连接，随偏心轴转动，刻度被校准以显示实际的切片开口。"
+  },
+
+  images: [
+    { page: 18, file: "images-headbox/page18-img01.jpeg", caption: "Fig. 9: Headbox – Gap scale 图 9：流浆箱–唇口刻度盘" },
+    { page: 18, file: "images-headbox/page18-img02.jpeg", caption: "Indicating device detail" }
+  ]
+};
+
+// ============================================================================
+// SECTION: 3.2.7 Gap measuring (7) — Page 19
+// ============================================================================
+// IMAGES:
+//   Page 19: images-headbox/page19-img01.jpeg — Fig. 10: Gap measuring 间隙测量
+//   Page 19: images-headbox/page19-img02.jpeg — (detail)
+
+SECTION_3_2_7 = {
+  title: { en: "Gap measuring (7)", zh: "间隙测量（7）" },
+  page: 19,
+
+  function: {
+    en: "Gap measuring where the stock is discharged from the nozzle.",
+    zh: "清空喷嘴中的物料之后，测量唇口。"
+  },
+
+  design: {
+    en: "A profiled plate (7b) that fits around the linear transducer (7c) and is fixed to a bearing support on the front wall (7a). The change in position of the transducer relative to the plate is displayed as the slice opening.",
+    zh: "一种适合于线性传感器(7c)周围的压型板(7b) 固定在前墙(7a)上的轴承支架上。传感器相对于板的位置变化显示为切片开口。"
+  },
+
+  references: [
+    { en: "Linear position encoder: >> SUPPLIER DOCUMENTATION", zh: "线性位置编码器：>> 供应商文件" }
+  ],
+
+  components: [
+    { label: "7a", en: "Front wall (bearing support)", zh: "前墙（轴承支架）" },
+    { label: "7b", en: "Profiled plate", zh: "压型板" },
+    { label: "7c", en: "Linear transducer", zh: "线性传感器" }
+  ],
+
+  images: [
+    { page: 19, file: "images-headbox/page19-img01.jpeg", caption: "Fig. 10: Gap measuring 图 10：间隙测量" },
+    { page: 19, file: "images-headbox/page19-img02.jpeg", caption: "Gap measuring detail" }
+  ]
+};
+
+// ============================================================================
+// SECTION: 3.2.8 Adjusting device (8) — Page 20
+// ============================================================================
+// IMAGES:
+//   Page 20: images-headbox/page20-img01.jpeg — Fig. 11: Adjusting device 调节装置
+//   Page 20: images-headbox/page20-img02.jpeg through page20-img06.jpeg — (details)
+
+SECTION_3_2_8 = {
+  title: { en: "Adjusting device (8)", zh: "调节装置（8）" },
+  page: 20,
+
+  function: {
+    en: "The slice body is adjusted using the adjusting device, thus the height of the slice gap is set over the entire working width. The eccentricity of the eccentric shaft prevents damage to the headbox by means of maximum deflection.",
+    zh: "利用调节装置调整浆片体，在整个作业宽度上调整浆片高度。偏心轴的偏心防止轴在最大偏转下破坏流浆箱。"
+  },
+
+  design: {
+    en: "The slice lip (11) is connected via swivel joints (8a) and an eccentric shaft (8b) to the diffuser block. The eccentric shaft is rotated via actuator drives (8c) and planetary gears (8d). The top slice body is raised or lowered via the eccentric shaft. The slice gap is adjusted by the tilting movement of the slice body (X).",
+    zh: "通过回转接头（8a）和偏心轴（8b）将浆片唇缘（11）接入扩散器。偏心轴在执行器（8c）和行星齿轮（8d）的驱动下放置。浆片体顶部借助偏心轴升降。通过浆片体（X）的倾斜运动调整浆片唇口。"
+  },
+
+  references: [
+    { en: "Planetary gear and servo drives: >> SUPPLIER DOCUMENTATION", zh: "行星齿轮和伺服驱动装置：>> 供应商文件" }
+  ],
+
+  components: [
+    { label: "8a", en: "Swivel joints", zh: "回转接头" },
+    { label: "8b", en: "Eccentric shaft", zh: "偏心轴" },
+    { label: "8c", en: "Actuator drives", zh: "执行器" },
+    { label: "8d", en: "Planetary gears", zh: "行星齿轮" },
+    { label: "11", en: "Slice lip", zh: "浆片唇缘" },
+    { label: "X", en: "Tilting movement", zh: "倾斜运动" }
+  ],
+
+  images: [
+    { page: 20, file: "images-headbox/page20-img01.jpeg", caption: "Fig. 11: Adjusting device 图 11：调节装置" },
+    { page: 20, file: "images-headbox/page20-img02.jpeg", caption: "Adjusting device detail" },
+    { page: 20, file: "images-headbox/page20-img03.jpeg", caption: "Adjusting device detail" },
+    { page: 20, file: "images-headbox/page20-img04.jpeg", caption: "Adjusting device detail" },
+    { page: 20, file: "images-headbox/page20-img05.jpeg", caption: "Adjusting device detail" },
+    { page: 20, file: "images-headbox/page20-img06.jpeg", caption: "Adjusting device detail" }
+  ]
+};
+
+// ============================================================================
+// SECTION: 3.2.9 Nozzle chamber (9) — Page 21
+// ============================================================================
+// IMAGES:
+//   Page 21: images-headbox/page21-img01.jpeg — Fig. 12: Nozzle chamber 喷嘴腔
+//   Page 21: images-headbox/page21-img02.jpeg — (detail)
+//   Page 21: images-headbox/page21-img03.jpeg — (detail)
+
+SECTION_3_2_9 = {
+  title: { en: "Nozzle chamber (9)", zh: "喷嘴腔（9）" },
+  page: 21,
+
+  function: {
+    en: "In the nozzle chamber, the individual stock flows from the step diffuser block (6) are merged to a single flow and homogenized. This is where the pressure energy is converted into speed energy.",
+    zh: "喷嘴腔内的物料穿过阶梯扩散器（6）形成均匀的单个流体。压力能在这里转换成速度能。"
+  },
+
+  design: {
+    en: "The nozzle chamber is formed by the slice lip (11) and the apron lip (12), the turbulence block (5), the pond sides (9a). In the nozzle chamber the cross-sectional area is narrowed continuously by the slice lip (11) and the apron lip (12). The slice gap is set using the adjusting device (8).",
+    zh: "喷嘴腔由浆片唇缘（11）、裙缘（12）、扩散器（5）、侧板（9a）构成。喷嘴腔的横截面积在浆片唇缘（11）、裙缘（12）的作用下逐渐缩小。可以将浆片唇口用作微调装置（8）。"
+  },
+
+  pressureMeasurement: {
+    en: "The pressure is measured on the operator-side nozzle wall for measuring the differential pressure. Measuring transducers are connected to a differential pressure transmitter via capillary pipes and determine the differential pressure in the nozzle between the individual layers. A very small amount of water flows continuously from the transmitter into the nozzle chamber so that the measuring membrane does not become clogged with fibers. This pipe is laid on an incline so that no air bubbles can form as this would falsify the measurement.",
+    zh: "在操作侧的喷嘴壁上测量压力，用于测量压差。测量转换器通过空管连接压差变送器，测定喷嘴内部各层之间的压差。有极少量的水从变送器连续流入喷嘴腔，防止纤维堵塞膜片。这条管道倾斜铺设以免产生气泡、干扰测量。"
+  },
+
+  components: [
+    { label: "5", en: "Turbulence block (diffuser block)", zh: "扩散器" },
+    { label: "9a", en: "Pond sides", zh: "侧板" },
+    { label: "9", en: "Nozzle chamber", zh: "喷嘴腔" },
+    { label: "11", en: "Slice lip", zh: "浆片唇缘" },
+    { label: "12", en: "Apron lip", zh: "裙缘" },
+    { label: "8", en: "Adjusting device", zh: "调节装置" }
+  ],
+
+  images: [
+    { page: 21, file: "images-headbox/page21-img01.jpeg", caption: "Fig. 12: Nozzle chamber 图 12：喷嘴腔" },
+    { page: 21, file: "images-headbox/page21-img02.jpeg", caption: "Nozzle chamber detail" },
+    { page: 21, file: "images-headbox/page21-img03.jpeg", caption: "Nozzle chamber detail" }
+  ]
+};
+
+// ============================================================================
+// SECTION: 3.2.10 Slice and apron lips (11, 12) — Page 22
+// ============================================================================
+// IMAGES:
+//   Page 22: images-headbox/page22-img01.jpeg — Slice/apron lips
+
+SECTION_3_2_10 = {
+  title: { en: "Slice and apron lips (11, 12)", zh: "浆片和裙缘（11，12）" },
+  page: 22,
+
+  function: {
+    en: "The slice and apron lips together with the lamella element (if two layer headbox) form the nozzle chamber of the headbox.",
+    zh: "浆片、裙缘元件一起构成流浆箱的喷嘴腔。"
+  },
+
+  design: {
+    en: "The slice bodies are deflection-resistant, stainless steel welded structures. The slice and apron lips are bolted to them. Each of the slice bodies are supported in a hinged strip.",
+    zh: "浆片体采用不易扭曲的不锈钢焊接结构。通过螺栓固定浆片和裙缘。浆片体都支撑在铰链固定的钢板上。"
+  },
+
+  images: [
+    { page: 22, file: "images-headbox/page22-img01.jpeg", caption: "Slice and apron lips 浆片和裙缘" }
+  ]
+};
+
+// ============================================================================
+// SECTION: 3.2.11 Suction pipe (15) — Page 23
+// ============================================================================
+// IMAGES:
+//   Page 23: images-headbox/page23-img01.jpeg — Fig. 13: Suction pipe 抽吸装置
+//   Page 23: images-headbox/page23-img02.jpeg — (detail)
+
+SECTION_3_2_11 = {
+  title: { en: "Suction pipe (15)", zh: "用于清理喷淋器的抽吸装置（15）" },
+  page: 23,
+
+  function: {
+    en: "Extracting shower water from the cleaning shower by suction.",
+    zh: "通过抽吸作用抽水，清理喷淋器。"
+  },
+
+  design: {
+    en: "Welded stainless steel structure.",
+    zh: "不锈钢焊接结构。"
+  },
+
+  images: [
+    { page: 23, file: "images-headbox/page23-img01.jpeg", caption: "Fig. 13: Suction pipe 图 13：用于清理喷淋器的抽吸装置" },
+    { page: 23, file: "images-headbox/page23-img02.jpeg", caption: "Suction pipe detail" }
+  ]
+};
+
+
+================================================================================
+2. TECHNICAL DESCRIPTION (Section 3.3) — Pages 24–26
+================================================================================
+
+// IMAGES:
+//   Page 24: images-headbox/page24-img01.jpeg — Fig. 14: Function sequence 功能顺序
+//   Page 24: images-headbox/page24-img02.jpeg — (detail)
+//   Page 25: images-headbox/page25-img01.jpeg — Flow diagrams
+//   Page 26: images-headbox/page26-img01.jpeg — Operating conditions overview
+
+TECHNICAL_DESCRIPTION_3_3 = {
+  overview: {
+    en: "The headbox receives the stock at a defined consistency from the approach system and feeds it to the wire section spread evenly over the entire wire width and at a constant consistency.",
+    zh: "流浆箱按照规定的浓稠度接受接近系统的物料，以恒定的浓稠度将物料送入网部并均匀摊开在整个宽度上。"
+  },
+
+  purpose: {
+    en: [
+      "The headbox also has considerable influence on the sheet quality.",
+      "Uneven flow is eliminated in the headbox and turbulence is generated to prevent the fibers from fully flocculating and to destroy the existing flocs.",
+      "This ensures that an even basis weight and uniform consistency are achieved over the entire working width of the wire section.",
+      "If the stock coming from the headbox does not have an even basis weight and/or profile, this will result in thinner patches forming in the web, which can lead to web breaks and poor quality of paper."
+    ],
+    zh: [
+      "流浆箱也会影响纸张的质量。",
+      "流浆箱保证流量均匀，产生紊流以防止纤维完全絮凝，消除纸浆中的团块，从而在网部的整个作业宽度上保证均匀的基本重量和统一的浓稠度。",
+      "如果流浆箱输出的物料的外形和基本重量不够均匀，会导致网部的纸张变薄，降低纸张的质量甚至导致纸张破裂。"
+    ]
+  },
+
+  phases: [
+    { phase: "A", en: "Stock feed/Inlet", zh: "原悬液进料/入口" },
+    { phase: "D", en: "Turbulence block (Diffuser block)", zh: "扩散器" },
+    { phase: "E", en: "Nozzle chamber", zh: "喷嘴腔" },
+    { phase: "F", en: "Stock feed (distribution)", zh: "原悬液进料（分配）" },
+    { phase: "G", en: "Forming roll", zh: "成型辊" }
+  ],
+
+  // --- 3.3.1 Stock feed, inlet (A) ---
+  section_3_3_1: {
+    title: { en: "Stock feed, inlet (A)", zh: "原悬液进料，入口（A）" },
+    page: 25,
+    en: "The inlet is designed as a cross-flow distributor and deflects the stock through 90 degrees towards the distribution slot. The distribution slot extends over the entire working width and feeds stock suspension to the diffuser block. To guarantee an even distribution of pressure and quantities, the inlet is linear in shape with a narrowing cross-section (conical).",
+    zh: "入口用作错流分配器，将物料向着分配槽口偏转90°。分配槽口延伸到整个作业宽度，将原悬液送入扩散器。为了保证压力和数量的均匀分布，入口横截面的形状呈线性缩小（锥形）。"
+  },
+
+  // --- 3.3.2 Diffuser block (D) ---
+  section_3_3_2: {
+    title: { en: "Diffuser block (D)", zh: "扩散器（D）" },
+    page: 25,
+    en: "The stock suspension pressed through the distribution slot enters the diffuser block, which is made up of many individual thin tubes. As a result, the stock suspension is guided in a defined direction and obtains a desired degree of turbulence, which is necessary to tear apart any fiber bundles. The ends of the diffuser tubes are pentagonal in order to obtain even flow into the nozzle chamber.",
+    zh: "原悬液通过分配槽口进入扩散器，滑块由若干独立的细管构成。于是原悬液被引导到规定的方向，形成规定程度的紊流，防止纤维束分离。扩散管的两端为五边形以保证物料均匀流入喷嘴腔。"
+  },
+
+  // --- 3.3.3 Nozzle chamber (E) ---
+  section_3_3_3: {
+    title: { en: "Nozzle chamber (E)", zh: "喷嘴腔（E）" },
+    page: 25,
+    en: "In the nozzle chamber the pressure energy of the stock suspension is converted into the desired machine speed. The pressure differential between nozzle inlet and outlet and the geometry of the nozzle chamber are important criteria in obtaining an even jet speed.",
+    zh: "原悬液的压力能在喷嘴腔中转换成期望的机械速度。喷嘴入口与出口之间的压差，喷嘴腔的几何形状，都是获得均匀喷射速度的重要参数。"
+  },
+
+  // --- 3.3.4 Stock distribution (F) ---
+  section_3_3_4: {
+    title: { en: "Stock distribution (F)", zh: "物料分配（F）" },
+    page: 25,
+    en: "The stock is spread onto the wire at the slice gap. The lamella is secured to the front end of the partition wall. It is a wear part and can be replaced. In order to avoid deformation, the differential pressure between the nozzle chambers should not exceed a maximum of 0.5 bar.",
+    zh: "物料通过浆片唇口喷入网站。飘片安装在隔断壁前端。飘片是耐磨零件，可以更换。喷嘴腔之间的压差不得超过0.5bar 的最大值以免发生变形。"
+  },
+
+  // --- 3.3.5 Forming roll (G) ---
+  section_3_3_5: {
+    title: { en: "Forming roll (G)", zh: "成型辊 (G)" },
+    page: 25,
+    en: "This roll is used to form the stock suspension into a web. The pulp suspension is fed through the headbox into the gap between the wires at the forming roll. The wire is deflected there, and the excess water is discharged through the wire. Steel structure with rubber coating.",
+    zh: "该辊用于将原悬液形成纸幅。浆料悬浮液通过流浆箱送入成型辊丝网之间的间隙。丝网在此处偏转，多余的水通过丝网排出。橡胶包胶钢结构。"
+  },
+
+  // --- 3.4 Operating conditions ---
+  section_3_4: {
+    title: { en: "Operating conditions", zh: "工作条件" },
+    page: 26,
+    en: "In addition to even stock feed in terms of composition, pressure and quantity, the overall geometry of the hydraulic section up to the stock discharge at the end of the nozzles is an important criteria for good paper quality.",
+    zh: "液压部从物料排放到喷嘴末端的整体形状，是保证物料成份、压力和数量均匀的重要因素，会严重影响纸张的质量。"
+  },
+
+  qualityParameters: [
+    { en: "Shape of the cross-flow distributor", zh: "错流分配器的形状" },
+    { en: "Cross-section, shape and length of the diffuser block", zh: "扩散器的形状、长度和截面" },
+    { en: "Cross-section conditions in the nozzle chamber", zh: "喷嘴腔的截面条件" },
+    { en: "Geometry of the suspension jet to the forming and breast roll", zh: "成形辊和胸辊的悬浮喷头的几何形状" }
+  ],
+
+  images: [
+    { page: 24, file: "images-headbox/page24-img01.jpeg", caption: "Fig. 14: Function sequence 图 14：功能顺序" },
+    { page: 24, file: "images-headbox/page24-img02.jpeg", caption: "Function sequence detail" },
+    { page: 25, file: "images-headbox/page25-img01.jpeg", caption: "Flow diagrams / technical description" },
+    { page: 26, file: "images-headbox/page26-img01.jpeg", caption: "Operating conditions overview" }
+  ]
+};
+
+
+================================================================================
+3. CLEANING (Section 4.7) — Pages 35–38
+================================================================================
+
+// IMAGES:
+//   Page 35: images-headbox/page35-img01.jpeg, page35-img02.jpeg — Overview/important instructions
+//   Page 36: images-headbox/page36-img01.jpeg — Activities before cleaning
+//   Page 37: images-headbox/page37-img01.jpeg, page37-img02.jpeg — Tube bank cleaning procedure
+//   Page 38: images-headbox/page38-img01.jpeg — Cleaning (continued)
+
+CLEANING_4_7 = {
+  title: { en: "Cleaning", zh: "清理" },
+
+  // --- 4.7.1 Overview and important instructions ---
+  section_4_7_1: {
+    title: { en: "Overview and important instructions", zh: "概览与重要指示" },
+    page: 35,
+
+    warnings: [
+      {
+        type: "WARNING 警告",
+        en: [
+          "Danger from the improper use of chemical cleaning agents!",
+          "Contact with the cleaning agents may cause skin damage and burning."
+        ],
+        zh: [
+          "错误使用化学清洁剂会导致危险！",
+          "接触清洁剂有可能导致皮肤破损、烧伤。"
+        ],
+        actions: [
+          { en: "Personal protective apparel must be worn!", zh: "应当佩戴个人防护装备！" },
+          { en: "The safety regulations from the appropriate cleaning agent supplier must be observed!", zh: "应当遵守清洁剂供应商提供的安全条例！" }
+        ]
+      }
+    ],
+
+    notices: [
+      {
+        en: [
+          "Incorrect cleaning",
+          "Damage due to incorrect cleaning agents.",
+          "Only permissible cleaning agents may be used for cleaning!",
+          "For electrical machine parts prevent any ingress of water, steam or other cleaning agents!",
+          "Do not use high-pressure cleaning equipment for cleaning the surface of painted parts as this may lead to chipping in the paint coat and ultimately to corrosion!"
+        ],
+        zh: [
+          "清理不当",
+          "错误使用清洁剂导致的破坏。",
+          "只能使用规定的清洁剂！",
+          "防止设备的电气零件浸水、渗透蒸汽和各种清洁剂！",
+          "切勿用高压力设备清理涂装表面以免涂层破损、导致腐蚀！"
+        ]
+      }
+    ],
+
+    timeAndMethod: {
+      en: "When the machine is shut down, the headbox must be cleaned thoroughly so that the stock does not dry on. This prevents fermentation processes and bacteriological activity.",
+      zh: "设备停机以后，应当彻底清理流浆箱以免物料干结。这样能够防止发酵、滋生细菌。"
+    },
+
+    cleaningWorkSteps: [
+      { en: "Flush out with fresh water and cleaning agent.", zh: "用清水和清洁剂冲洗。" },
+      { en: "Hose down tube bank and nozzle chamber.", zh: "用软管连接管束和喷嘴腔。" },
+      { en: "Hose down stock feed (spreader).", zh: "用软管连接输料器（涂布器）。" },
+      { en: "Flush out entire headbox.", zh: "冲洗整个流浆箱。" }
+    ],
+
+    processMaterials: {
+      en: "Fresh water must be used to clean all parts of the machine.",
+      zh: "应当用清水清理设备的各个部件。"
+    },
+
+    // Cleaning agents table
+    cleaningAgents: [
+      {
+        agent: { en: "HCl (hydrochloric acid)", zh: "HCl（盐酸）" },
+        concentration: "2-5%",
+        temperature: { en: "up to 60 degrees C", zh: "最高60°C" }
+      },
+      {
+        agent: { en: "NaOH (caustic soda)", zh: "NaOH（苛性钠）" },
+        concentration: "2-5%",
+        temperature: { en: "up to 60 degrees C", zh: "最高60°C" }
+      },
+      {
+        agent: { en: "Sulfamic acid", zh: "硫酸" },
+        concentration: "0.45%",
+        temperature: { en: "up to 60 degrees C", zh: "最高60°C" }
+      }
+    ],
+
+    polishedSurfaces: [
+      { en: "Do not use sharp objects!", zh: "切勿使用尖锐物体！" },
+      { en: "Use only cleaning rags, fresh water, and permitted chemical cleaning agents!", zh: "只能使用干净的抹布、清水和允许使用的化学清洁剂！" }
+    ]
+  },
+
+  // --- 4.7.2 Activities before cleaning ---
+  section_4_7_2: {
+    title: { en: "Activities before cleaning", zh: "清理之前的活动" },
+    page: 36,
+
+    steps: [
+      { en: "Shut down stock feed.", zh: "停止送料。" },
+      { en: "Leave the water loop running for approximately 15 minutes to clean the system after the stock feed has been shut down.", zh: "停止送料之后，让水路继续运行15分钟左右，清理系统。" },
+      { en: "Open the slice gap wide.", zh: "打开浆片唇口。" },
+      { en: "Swing headbox and breast roll upwards.", zh: "摆动流浆箱和胸辊。" },
+      { en: ">> SWINGING THE HEADBOX", zh: ">> 摆动流浆箱" }
+    ]
+  },
+
+  // --- 4.7.3 Cleaning the tube bank with nozzle chamber and stock feed ---
+  section_4_7_3: {
+    title: { en: "Cleaning the tube bank with nozzle chamber and stock feed", zh: "用喷嘴腔和物料清理管束" },
+    page: 37,
+
+    keyNotices: [
+      {
+        en: "Always allow the slice bodies and tube bank to cool down before cleaning or use warm water to avoid deformations. Never hose down the warm tube bank with cold water. Sudden changes in temperature can damage the headbox.",
+        zh: "清理人员用热水清理之前，一定要让管束和浆片体冷却，防止变形。切勿将冷水软管接入高温管束。温度的突然变化有可能损坏流浆箱。"
+      },
+      {
+        en: "Never use sharp objects to clean surfaces coming into contact with the stock. Avoid damage to the nozzle chamber and tube bank. Never flush out the tube bank with pressures above 40 bar.",
+        zh: "切勿使用尖锐物体清除表面堆积的物料。防止损坏喷嘴腔和管束。切勿用40 bar以上的压力冲洗管束。"
+      }
+    ],
+
+    cleaningSteps: [
+      {
+        id: "a",
+        en: "Shut down the stock feed (>> ACTIVITIES BEFORE CLEANING).",
+        zh: "停止送料（>>清理之前的活动）。"
+      },
+      {
+        id: "b",
+        en: "If chemical cleaning agents are used: Add cleaning agent to the water loop. >> OVERVIEW AND IMPORTANT INFORMATION",
+        zh: "如果使用了化学清洁剂：将清洁剂添加到水环路中。>> 概览与重要信息"
+      },
+      {
+        id: "c",
+        en: "Open the water loop and flush the system out for approximately 15 minutes.",
+        zh: "打开水环路，冲洗系统15分钟左右。"
+      },
+      {
+        id: "d",
+        en: "Swing the operator side and drive side covers of the pond side out of the way.",
+        zh: "摆动到操作侧，打开侧板传动侧的盖板。"
+      },
+      {
+        id: "e",
+        en: "Hose down tube bank and nozzle chamber from the outlet side with fresh water. Max. cleaning pressure for tube bank at outlet side: 40 bar",
+        zh: "将清水软管接入管束和喷嘴腔的出口。管束出口端的最大清理压力：40 bar"
+      },
+      {
+        id: "f",
+        en: "Swing the headbox and breast roll into the cleaning position (see SWINGING THE HEADBOX).",
+        zh: "将流浆箱和胸辊摆动到清理位置（参见摆动流浆箱）。"
+      },
+      {
+        id: "g",
+        en: "Hose down the tube bank with fresh water from the inlet side.",
+        zh: "将清水软管接入管束入口。"
+      },
+      {
+        id: "h",
+        en: "If necessary, clean the discharge elements of the headbox with a cleaning lance covered with a soft protection sleeve.",
+        zh: "必要时，用柔软保护套包裹的长杆清理流浆箱的排放元件。"
+      },
+      {
+        id: "i",
+        en: "Hose down the stock feed (header) with fresh water as well if necessary.",
+        zh: "必要时将清水软管清理流浆箱中的物料。"
+      }
+    ]
+  },
+
+  images: [
+    { page: 35, file: "images-headbox/page35-img01.jpeg", caption: "Cleaning — overview and important instructions" },
+    { page: 35, file: "images-headbox/page35-img02.jpeg", caption: "Cleaning — overview (continued)" },
+    { page: 36, file: "images-headbox/page36-img01.jpeg", caption: "Activities before cleaning" },
+    { page: 37, file: "images-headbox/page37-img01.jpeg", caption: "Cleaning tube bank — procedure" },
+    { page: 37, file: "images-headbox/page37-img02.jpeg", caption: "Cleaning tube bank — detail" },
+    { page: 38, file: "images-headbox/page38-img01.jpeg", caption: "Cleaning — stock feed hose down (continued)" }
+  ]
+};
+
+
+================================================================================
+4. SWINGING THE HEADBOX (Section 4.9) — Pages 41–47
+================================================================================
+
+// IMAGES:
+//   Page 41: images-headbox/page41-img01.jpeg, page41-img02.jpeg, page41-img03.jpeg — Crane/lifting warnings
+//   Page 42: images-headbox/page42-img01.jpeg, page42-img02.jpeg, page42-img03.jpeg — Fig. 17: Raising breast roll
+//   Page 43: images-headbox/page43-img01.jpeg through page43-img05.jpeg — Fig. 18: Felt changing position
+//   Page 44: images-headbox/page44-img01.jpeg, page44-img02.jpeg — Cleaning position (beginning)
+//   Page 45: images-headbox/page45-img01.jpeg through page45-img04.jpeg — Fig. 19: Cleaning and roll changing position
+//   Page 46: images-headbox/page46-img01.jpeg, page46-img02.jpeg — Forming roll changing position
+//   Page 47: images-headbox/page47-img01.jpeg through page47-img03.jpeg — Operating position
+
+SWINGING_4_9 = {
+  title: { en: "Swinging the headbox", zh: "摆动流浆箱" },
+  page: 41,
+
+  generalWarnings: [
+    {
+      type: "crane",
+      en: "The Headbox designed with moving and lifting with workshop crane. The crane loading capacity and safety status must be careful check for each time! The operator must be well trained!",
+      zh: "流浆箱采用车间起重机移动升降设计。每次必须仔细检查起重机的装载能力和安全状态!操作员必须训练有素!"
+    },
+    {
+      type: "multipleLifting",
+      en: "Lifting a load with two or more cranes or hoists on a single crane requires greater attention to planning and supervision than lifting with one crane, because the effects of the relative motion between the cranes may induce additional loadings on the cranes, the load and the lifting gear. Because of this and the difficulty in monitoring these additional loads, multiple lifting shall only be used when the physical dimensions, characteristics, mass or required movement of the load prevent the operation being carried out by a single crane.",
+      zh: "使用两台或两台以上的起重机或一台起重机上的起重机吊装一件货物，比使用一台起重机吊装需要更多的计划和监督，因为两台起重机之间的相对运动可能会导致起重机、货物和吊装装置上增加额外的货物。由于这一点以及监测这些额外的负载的困难，只有当负载的物理尺寸、特性、质量或所需的移动不能由一台起重机进行操作时，才能使用多次起吊。"
+    },
+    {
+      type: "liftingLug",
+      en: "The lifting lug (Pos a) status must be carefully check before each use! The lifting lug is critical parts for lifting and machine safety!",
+      zh: "每次使用前必须仔细检查吊耳的状态! 吊耳是起重和机器安全的关键部件!"
+    },
+    {
+      type: "chainHoist",
+      en: "When using multiple chain hoist systems, each individual hoist unit should be rated to a capacity of at least 100% of the load.",
+      zh: "当使用多个手动葫芦系统时，每个单独的提升单元的额定能力应至少达到负载的100%。"
+    }
+  ],
+
+  // --- 4.9.1 Control panel ---
+  section_4_9_1: {
+    title: { en: "Control panel – headbox and former", zh: "操纵台 – 流浆箱和成形器" },
+    page: 42,
+    en: ">> See Control Panel.",
+    zh: ">> 查看控制面板文件。"
+  },
+
+  // --- 4.9.2 Relieving tension on top wire ---
+  section_4_9_2: {
+    title: { en: "Relieving the tension on the top wire", zh: "释放丝网顶部的张力" },
+    page: 42,
+    en: "Turn the key-operated switch at the control panel from 'OPERATION' to 'SERVICE' and relieve the tension on the tensioning roll by means of the touch panel.",
+    zh: "将操纵台上的钥匙开关从'OPERATION（操作）'旋转到'SERVICE（服务）'，通过触摸屏释放张力辊的张力。"
+  },
+
+  // --- 4.9.3 Raising the breast roll ---
+  section_4_9_3: {
+    title: { en: "Raising the breast roll", zh: "提升胸辊" },
+    page: 42,
+
+    steps: [
+      {
+        id: "a",
+        en: "Secure the breast roll at the lifting lugs (3) to the crane.",
+        zh: "将吊耳(3)处的胸辊固定在起重机上。"
+      },
+      {
+        id: "b",
+        en: "Detach the eye bolts (1) on the operator side and drive side and swing down.",
+        zh: "将吊环螺栓（1）摆动到操作侧和传动侧。"
+      },
+      {
+        id: "c",
+        en: "Confirm that the eye bolts have been swung down before the breast roll is run upwards electrically.",
+        zh: "用电动机提升胸辊之前，检查吊环螺栓是否降下。"
+      },
+      {
+        id: "d",
+        en: "Swing the breast roll into the 'Service Position' via the touch panel and secure in position with the retention pins (2) on the operator side and drive side.",
+        zh: "通过触摸屏将胸辊摆动到'服务位置'，用操作侧和传动侧的限位销（2）固定。"
+      }
+    ],
+
+    components: [
+      { label: "1", en: "Eye bolts", zh: "吊环螺栓" },
+      { label: "2", en: "Retention pins", zh: "限位销" },
+      { label: "3", en: "Lifting lugs", zh: "吊耳" }
+    ],
+
+    fig: "Fig. 17: Raising the breast roll 图 17：提升胸辊"
+  },
+
+  // --- 4.9.4 Felt changing position ---
+  section_4_9_4: {
+    title: { en: "Swinging the headbox into the felt changing position", zh: "将流浆箱摆动到毛毯更换位置" },
+    page: 43,
+
+    danger: {
+      en: "Danger of crushing when swinging the headbox. Moving machine components can create mortal danger.",
+      zh: "流浆箱摆动期间会产生夹持危险。活动的设备部件会产生严重危险。"
+    },
+
+    notice: {
+      en: "Before swinging upwards or downwards, always check whether the front part of the headbox can move freely. Risk of damage to machine or one of its components. Stop immediately if the swing movement is obstructed. Maintenance work on the headbox is only permitted when locking devices are in use.",
+      zh: "上下摆动之前，始终检查流浆箱的前端是否可以自由移动。机械设备及其组件有可能导致危险。如果摆动受到阻碍，立即停止摆动。只能在使用锁定装置的情况下实施流浆箱的维护作业。"
+    },
+
+    steps: [
+      {
+        id: "a",
+        en: "Breast roll retracted (swivelled up)",
+        zh: "胸辊回收（向上旋转）"
+      },
+      {
+        id: "b",
+        en: "Eye bolts M30 open (1*OS and 1*DS)",
+        zh: "打开有眼螺栓M30（1*操作侧和1*传动侧）"
+      },
+      {
+        id: "c",
+        en: "Swing the headbox CW with ratchet until sidewall hits the stop bolt OS+DS",
+        zh: "用棘轮顺时针摆动流浆箱直到侧壁碰到定位销"
+      }
+    ],
+
+    fig: "Fig. 18: Felt changing position 图 18：毛毯变更位置"
+  },
+
+  // --- 4.9.5 Cleaning position ---
+  section_4_9_5: {
+    title: { en: "Swinging the headbox into the cleaning position", zh: "将流浆箱摆动到清洁位置" },
+    page: 44,
+
+    danger: {
+      en: "Danger of crushing when swinging the headbox. Moving machine components can create mortal danger.",
+      zh: "流浆箱摆动期间会产生夹持危险。活动的设备部件会产生严重危险。"
+    },
+
+    dangerSupport: {
+      en: "Supports (3) are not mounted. Risk to life and limb and risk of damaging the machine or one of its components. Maintenance work on the headbox is only permitted with the safety supports mounted.",
+      zh: "支撑（3）没有安装。机械设备或其某个组件有可能危及生命、夹持肢体。只能在安全支撑安装完毕的情况下实施流浆箱的维护作业。"
+    },
+
+    steps: [
+      {
+        id: "a",
+        en: "Disconnect compensator from header (look at DRW.703604284)",
+        zh: "从流浆箱断开补偿器",
+        subSteps: [
+          { id: "1", en: "Open 8*bolt connection", zh: "打开8*螺栓连接" },
+          { id: "2", en: "Squeeze compensator 5mm and rest pipe of recirculation on holding plate", zh: "在托板上挤压补偿器5mm和再循环休息管" },
+          { id: "3", en: "Loosen 20*nuts of eye bolts<10mm", zh: "拧松20*螺母的带眼螺栓<10mm" },
+          { id: "4", en: "Screw back intermediate piece with M36 nuts 5mm", zh: "用5mm的M36螺母将中间件旋回" },
+          { id: "5", en: "Fix intermediate piece with screws M30", zh: "用M30螺丝固定中间件" },
+          { id: "6", en: "Swing back 20*eye bolts", zh: "旋回20*有眼螺栓" },
+          { id: "7", en: "Remove 2*taper pins", zh: "移走2*锥形销" }
+        ]
+      },
+      {
+        id: "b",
+        en: "Connect header with 3to shackle and 3to rope with house crane",
+        zh: "连接流浆箱用3to锚和3to绳子的起重机"
+      },
+      {
+        id: "c",
+        en: "Open header eye bolts M20 (38*over the whole width on the top) ... (38*over the whole width on the bottom)",
+        zh: "打开流浆箱M20有眼螺栓 (38*在整个宽度上，顶部) ... (38*在整个宽度上，底部)"
+      },
+      {
+        id: "d",
+        en: "Remove retention pins OS+DS",
+        zh: "拆卸定位销"
+      },
+      {
+        id: "e",
+        en: "Lift header with house crane until the pointers align (only OS)",
+        zh: "用起重机吊起流浆箱直到指针对齐"
+      },
+      {
+        id: "f",
+        en: "Secure header with retention pins OS+DS",
+        zh: "使用定位销保护流浆箱"
+      },
+      {
+        id: "g",
+        en: "Close in reverse direction",
+        zh: "反向关闭"
+      }
+    ],
+
+    fig: "Fig. 19: Cleaning and roll changing position 图 19：清理、变更辊轴的位置"
+  },
+
+  // --- 4.9.6 Forming roll changing position ---
+  section_4_9_6: {
+    title: { en: "Swinging the headbox into the forming roll changing position", zh: "将流浆箱摆动到更换成型辊位置" },
+    page: 46,
+
+    danger: {
+      en: "Danger of crushing when swinging the headbox. Moving machine components can create mortal danger.",
+      zh: "流浆箱摆动期间会产生夹持危险。活动的设备部件会产生严重危险。"
+    },
+
+    dangerSupport: {
+      en: "If the supports are not mounted (3) Risk to life and limb and risk of damaging the machine or one of its components. Maintenance work on the headbox is only permitted with the safety supports mounted.",
+      zh: "如果未安装支架（3），存在对生命和肢体的风险及损害机器和部件风险。只有在安装了安全支架的情况下，才允许对流浆箱进行维护工作。"
+    },
+
+    steps: [
+      {
+        id: "a",
+        en: "Breast roll retracted (swivelled up)",
+        zh: "胸辊回收（向上旋转）"
+      },
+      {
+        id: "b",
+        en: "Disconnect compensator",
+        zh: "断开补偿器"
+      },
+      {
+        id: "c",
+        en: "Dismount adjusting block and loosen fixing screws",
+        zh: "拆卸调节块，松开固定螺丝"
+      },
+      {
+        id: "d",
+        en: "Fix headbox with eyebolt M30-OS+DS",
+        zh: "用有眼螺栓M30固定流浆箱 操作侧+传动侧"
+      },
+      {
+        id: "e",
+        en: "Lift complete headbox with house crane and move 575 mm in dryend direction - use 4*delivered lifting lugs JDT TP17 as shown in drw. 703603372",
+        zh: "用起重机吊起整个流浆箱，向干部方向移动575mm - 用图703603372中的4个起重吊耳"
+      },
+      {
+        id: "f",
+        en: "Fix headbox with 4 screws M20 OS+DS",
+        zh: "用螺栓M20固定流浆箱 操作侧+传动侧"
+      },
+      {
+        id: "note",
+        en: "!!Take care for cables on drive side!!!",
+        zh: "注意驱动侧的电缆"
+      }
+    ]
+  },
+
+  // --- 4.9.7 Operating position ---
+  section_4_9_7: {
+    title: { en: "Swinging the headbox into the operating position", zh: "将流浆箱摆动到工作位置" },
+    page: 47,
+
+    en: [
+      "The headbox is swung back into the operating position by performing the actions described above in reverse order.",
+      "The headbox is swung down using the touch panel."
+    ],
+    zh: [
+      "按照上文介绍的相反步骤，将流浆箱摆动到工作位置。",
+      "通过触摸屏摆动流浆箱。"
+    ],
+
+    notice: {
+      en: "The machine may be damaged by mechanical interlocking devices when swinging downwards. The supports must be removed before swinging downwards.",
+      zh: "向下摆动时，设备内部的锁定装置有可能损坏机械设备。向下摆动之前应当拆除支撑。"
+    },
+
+    finalStep: {
+      en: "After swinging into the operating position, all screws must be swung back into position and mounted with the correct tightening torque.",
+      zh: "摇摆动到工作位置之后，应当将全部螺钉放回原位并用正确的力矩拧紧。"
+    }
+  },
+
+  images: [
+    // Page 41 — Crane/lifting warnings
+    { page: 41, file: "images-headbox/page41-img01.jpeg", caption: "Crane lifting warning / 吊车吊装警告" },
+    { page: 41, file: "images-headbox/page41-img02.jpeg", caption: "Lifting lug detail / 吊耳细节" },
+    { page: 41, file: "images-headbox/page41-img03.jpeg", caption: "Multiple lifting warning / 多次起吊警告" },
+    // Page 42 — Control panel + breast roll
+    { page: 42, file: "images-headbox/page42-img01.jpeg", caption: "Fig. 17: Raising the breast roll 图 17：提升胸辊" },
+    { page: 42, file: "images-headbox/page42-img02.jpeg", caption: "Control panel detail / 控制面板" },
+    { page: 42, file: "images-headbox/page42-img03.jpeg", caption: "Breast roll detail / 胸辊细节" },
+    // Page 43 — Felt changing position
+    { page: 43, file: "images-headbox/page43-img01.jpeg", caption: "Fig. 18: Felt changing position 图 18：毛毯变更位置" },
+    { page: 43, file: "images-headbox/page43-img02.jpeg", caption: "Felt changing position detail" },
+    { page: 43, file: "images-headbox/page43-img03.jpeg", caption: "Felt changing position detail" },
+    { page: 43, file: "images-headbox/page43-img04.jpeg", caption: "Felt changing position detail" },
+    { page: 43, file: "images-headbox/page43-img05.jpeg", caption: "Felt changing position detail" },
+    // Page 44 — Cleaning position (beginning)
+    { page: 44, file: "images-headbox/page44-img01.jpeg", caption: "Cleaning position — compensator disconnect" },
+    { page: 44, file: "images-headbox/page44-img02.jpeg", caption: "Cleaning position detail" },
+    // Page 45 — Cleaning and roll changing position
+    { page: 45, file: "images-headbox/page45-img01.jpeg", caption: "Fig. 19: Cleaning and roll changing position 图 19：清理、变更辊轴的位置" },
+    { page: 45, file: "images-headbox/page45-img02.jpeg", caption: "Cleaning/roll changing position detail" },
+    { page: 45, file: "images-headbox/page45-img03.jpeg", caption: "Cleaning/roll changing position detail" },
+    { page: 45, file: "images-headbox/page45-img04.jpeg", caption: "Cleaning/roll changing position detail" },
+    // Page 46 — Forming roll changing position
+    { page: 46, file: "images-headbox/page46-img01.jpeg", caption: "Forming roll changing position / 更换成型辊位置" },
+    { page: 46, file: "images-headbox/page46-img02.jpeg", caption: "Forming roll changing position detail" },
+    // Page 47 — Operating position
+    { page: 47, file: "images-headbox/page47-img01.jpeg", caption: "Swinging to operating position / 摆动到工作位置" },
+    { page: 47, file: "images-headbox/page47-img02.jpeg", caption: "Operating position detail" },
+    { page: 47, file: "images-headbox/page47-img03.jpeg", caption: "Operating position detail" }
+  ]
+};
+
+
+================================================================================
+5. CHANGING THE INSERTS (Section 4.10) — Page 48
+================================================================================
+
+// IMAGES:
+//   Page 48: images-headbox/page48-img01.jpeg — Fig. 20: Removing the inserts 取出插件
+//   Page 48: images-headbox/page48-img02.jpeg — (detail)
+//   Page 48: images-headbox/page48-img03.jpeg — Fig. 21: Installing the inserts 安装插件
+//   Page 48: images-headbox/page48-img04.jpeg — (detail)
+
+CHANGING_INSERTS_4_10 = {
+  title: { en: "Changing the inserts", zh: "更换插件" },
+  page: 48,
+
+  preparation: {
+    title: { en: "Preparation", zh: "准备" },
+    steps: [
+      { en: "Clean the machine.", zh: "清理设备。" },
+      { en: "Shut down machine and secure against accidental start.", zh: "设备停机、销定以防意外启动。" },
+      { en: "Dismount the lamellas.", zh: "拆除飘片。" },
+      { en: "Open mixing chamber cover.", zh: "打开腔盖。" }
+    ]
+  },
+
+  removingInserts: {
+    title: { en: "Removing the inserts", zh: "取出插件" },
+    steps: [
+      {
+        id: "a",
+        en: "Check the apron lip for damage with a top layer or a rubber mat (A).",
+        zh: "检查裙缘的顶层和橡胶垫（A）是否受损。"
+      },
+      {
+        id: "b",
+        en: "Push the plastic rod (B) into the tubes (5a) of the diffuser block and knock the inserts (5c) until they come out.",
+        zh: "将塑料棒（B）插入扩散器的管道（5a）并完全推出插件（5c）。"
+      }
+    ],
+    fig: "Fig. 20: Removing the inserts 图 20：取出插件"
+  },
+
+  installingInserts: {
+    title: { en: "Installing the inserts", zh: "安装插件" },
+    steps: [
+      {
+        id: "a",
+        en: "Push the inserts (5c) into the diffuser block (5) and knock right in carefully with a rubber mallet.",
+        zh: "将插件（5c）推入扩散器（5），用橡胶垫仔细固定。"
+      },
+      {
+        id: "b",
+        en: "Grind off the inserts (5c) with a belt sander (C) (grain size 240) until they are flush with the diffuser block (5).",
+        zh: "用240号砂纸（C）打磨插件（5c），直到插件与扩散器（5）齐平。"
+      }
+    ],
+    fig: "Fig. 21: Installing the inserts 图 21：安装插件"
+  },
+
+  images: [
+    { page: 48, file: "images-headbox/page48-img01.jpeg", caption: "Fig. 20: Removing the inserts 图 20：取出插件" },
+    { page: 48, file: "images-headbox/page48-img02.jpeg", caption: "Removing inserts detail / 取出插件细节" },
+    { page: 48, file: "images-headbox/page48-img03.jpeg", caption: "Fig. 21: Installing the inserts 图 21：安装插件" },
+    { page: 48, file: "images-headbox/page48-img04.jpeg", caption: "Installing inserts detail / 安装插件细节" }
+  ]
+};
+
+
+================================================================================
+6. SETTING THE SLICE LIP (Section 4.11) — Pages 49–50
+================================================================================
+
+// IMAGES:
+//   Page 49: images-headbox/page49-img01.jpeg — (setting procedure)
+//   Page 49: images-headbox/page49-img02.jpeg — (detail)
+//   Page 50: images-headbox/page50-img01.jpeg — Fig. 22: Setting spindle 设定轴杆
+//   Page 50: images-headbox/page50-img02.jpeg through page50-img04.jpeg — (details)
+
+SETTING_SLICE_LIP_4_11 = {
+  title: { en: "Setting the slice lip", zh: "设定浆片唇口" },
+
+  caution: {
+    en: "The adjusting spindle is preset at the factory. If it is necessary to set a spindle, we recommend having this work performed by service personnel from ANDRITZ.",
+    zh: "小心！轴杆是在工厂预先设定的。如果需要设置轴杆，建议由安德里茨有限公司的服务人员完成这项工作。"
+  },
+
+  function: {
+    en: [
+      "The micro-adjusters can be used to make manual readjustments to local unevenness in the slice gap over the entire working width.",
+      "This is done by setting the slice lip (vertical position)."
+    ],
+    zh: [
+      "微调节器可用于手动调整整个工作宽度上的上墙体唇口的局部不均匀性。",
+      "这是通过设置上墙体唇口(垂直位置)来完成的。"
+    ]
+  },
+
+  design: {
+    en: "The threaded spindles (12a) arranged at equal distances over the working width are set with zero backlash. Each spindle can be set individually by means of an adjusting screw (12b) with an appropriate scale (12c). The scale of movement can be read directly from the spindle.",
+    zh: "螺纹主轴(12a)在工作宽度上布置相等的距离，设置为零隙。每个主轴可以通过调节螺丝(12b)和适当的刻度(12c)单独设置。运动的刻度可以直接从主轴读取。"
+  },
+
+  notice: {
+    en: [
+      "Deformations due to wrong adjustments",
+      "Danger of permanent deformation of the slice blade!",
+      "The following maximum difference in the adjusting path must be observed:"
+    ],
+    zh: [
+      "调节不当导致的变形",
+      "浆片叶片永久变形的危险！",
+      "应当遵守下列最大调节幅度："
+    ],
+    limits: [
+      { en: "from spindle to spindle: 0.25 mm", zh: "从轴杆到轴杆：0.25 毫米" },
+      { en: "over the entire width: 0.5 mm", zh: "整个宽度：0.5mm" }
+    ]
+  },
+
+  components: [
+    { label: "12a", en: "Threaded spindles", zh: "螺纹主轴" },
+    { label: "12b", en: "Adjusting screw", zh: "调节螺丝" },
+    { label: "12c", en: "Scale", zh: "刻度" }
+  ],
+
+  images: [
+    { page: 49, file: "images-headbox/page49-img01.jpeg", caption: "Setting slice lip — procedure / 设定浆片唇口" },
+    { page: 49, file: "images-headbox/page49-img02.jpeg", caption: "Setting slice lip — detail / 浆片唇口设定细节" },
+    { page: 50, file: "images-headbox/page50-img01.jpeg", caption: "Fig. 22: Setting spindle 图 22：设定轴杆" },
+    { page: 50, file: "images-headbox/page50-img02.jpeg", caption: "Setting spindle detail / 设定轴杆细节" },
+    { page: 50, file: "images-headbox/page50-img03.jpeg", caption: "Setting spindle detail / 设定轴杆细节" },
+    { page: 50, file: "images-headbox/page50-img04.jpeg", caption: "Setting spindle detail / 设定轴杆细节" }
+  ]
+};
+
+
+================================================================================
+COMPLETE IMAGE INVENTORY (all images mapped to document pages)
+================================================================================
+
+IMAGE_MAP = [
+  // Title pages
+  { page: 1,  files: ["images-headbox/page01-img01.jpeg", "images-headbox/page01-img02.jpeg"], section: "Title page / 扉页" },
+  { page: 2,  files: ["images-headbox/page02-img01.jpeg"], section: "Title page / 扉页" },
+  { page: 3,  files: ["images-headbox/page03-img01.jpeg"], section: "Table of contents / 目录" },
+  { page: 4,  files: ["images-headbox/page04-img01.jpeg"], section: "Table of contents / 目录" },
+
+  // Introduction
+  { page: 5,  files: ["images-headbox/page05-img01.jpeg"], section: "1.1-1.2 Introduction / 简介" },
+  { page: 6,  files: ["images-headbox/page06-img01.jpeg", "images-headbox/page06-img02.jpeg"], section: "1.3-1.4 Standards, Use of manual / 标准与导则，手册使用" },
+  { page: 7,  files: ["images-headbox/page07-img01.jpeg"], section: "1.4 Pictograms, work steps / 象形图，工作步骤" },
+  { page: 8,  files: ["images-headbox/page08-img01.jpeg"], section: "1.5-1.7 Warranty, Service, Copyright / 保证和担保，服务地址，版权" },
+
+  // Technical data
+  { page: 9,  files: ["images-headbox/page09-img01.jpeg"], section: "2 Technical data / 技术参数" },
+
+  // Description
+  { page: 10, files: ["images-headbox/page10-img01.jpeg", "images-headbox/page10-img02.jpeg"], section: "3.1 Field of application, Fig. 1: Headbox / 应用领域，图1：流浆箱" },
+  { page: 11, files: ["images-headbox/page11-img01.jpeg", "images-headbox/page11-img02.jpeg", "images-headbox/page11-img03.jpeg", "images-headbox/page11-img04.jpeg", "images-headbox/page11-img05.jpeg", "images-headbox/page11-img06.jpeg", "images-headbox/page11-img07.jpeg"], section: "3.2 Main components overview / 主要部件概览" },
+  { page: 12, files: ["images-headbox/page12-img01.jpeg"], section: "Fig. 2: Main components labeled / 流浆箱主要部件图" },
+
+  // 3.2 Component details
+  { page: 13, files: ["images-headbox/page13-img01.jpeg", "images-headbox/page13-img02.jpeg", "images-headbox/page13-img03.jpeg"], section: "3.2.1 Stock feed/Spreader / 原悬液进料/涂布器" },
+  { page: 14, files: ["images-headbox/page14-img01.jpeg", "images-headbox/page14-img02.jpeg"], section: "3.2.2 Pivoting device / 摆动装置" },
+  { page: 15, files: ["images-headbox/page15-img01.jpeg", "images-headbox/page15-img02.jpeg"], section: "3.2.3 Locking device / 锁定装置" },
+  { page: 16, files: ["images-headbox/page16-img01.jpeg", "images-headbox/page16-img02.jpeg", "images-headbox/page16-img03.jpeg", "images-headbox/page16-img04.jpeg"], section: "3.2.4 Micro-adjusters / 微调装置" },
+  { page: 17, files: ["images-headbox/page17-img01.jpeg", "images-headbox/page17-img02.jpeg", "images-headbox/page17-img03.jpeg"], section: "3.2.5 Step diffuser block / 阶梯扩散器" },
+  { page: 18, files: ["images-headbox/page18-img01.jpeg", "images-headbox/page18-img02.jpeg"], section: "3.2.6 Indicating device / 指示装置" },
+  { page: 19, files: ["images-headbox/page19-img01.jpeg", "images-headbox/page19-img02.jpeg"], section: "3.2.7 Gap measuring / 间隙测量" },
+  { page: 20, files: ["images-headbox/page20-img01.jpeg", "images-headbox/page20-img02.jpeg", "images-headbox/page20-img03.jpeg", "images-headbox/page20-img04.jpeg", "images-headbox/page20-img05.jpeg", "images-headbox/page20-img06.jpeg"], section: "3.2.8 Adjusting device / 调节装置" },
+  { page: 21, files: ["images-headbox/page21-img01.jpeg", "images-headbox/page21-img02.jpeg", "images-headbox/page21-img03.jpeg"], section: "3.2.9 Nozzle chamber / 喷嘴腔" },
+  { page: 22, files: ["images-headbox/page22-img01.jpeg"], section: "3.2.10 Slice and apron lips / 浆片和裙缘" },
+  { page: 23, files: ["images-headbox/page23-img01.jpeg", "images-headbox/page23-img02.jpeg"], section: "3.2.11 Suction pipe / 抽吸装置" },
+
+  // 3.3 Technical description
+  { page: 24, files: ["images-headbox/page24-img01.jpeg", "images-headbox/page24-img02.jpeg"], section: "3.3 Fig. 14: Function sequence / 功能顺序" },
+  { page: 25, files: ["images-headbox/page25-img01.jpeg"], section: "3.3.1-3.3.5 Stock feed, Diffuser, Nozzle, Distribution, Forming roll" },
+  { page: 26, files: ["images-headbox/page26-img01.jpeg"], section: "3.4 Operating conditions / 工作条件" },
+
+  // 4 Maintenance
+  { page: 27, files: ["images-headbox/page27-img01.jpeg"], section: "4.1-4.2 General, Safety regulations / 总则，安全条例" },
+  { page: 28, files: ["images-headbox/page28-img01.jpeg"], section: "4.2.1-4.2.2 Showers, Doctors / 喷淋器，刮刀" },
+  { page: 29, files: ["images-headbox/page29-img01.jpeg"], section: "4.3 General machine check / 一般设备检查" },
+  { page: 30, files: ["images-headbox/page30-img01.jpeg"], section: "4.4 Maintenance schedule / 维护计划" },
+  { page: 31, files: ["images-headbox/page31-img01.jpeg"], section: "4.5 Fasteners / 紧固件" },
+  { page: 32, files: ["images-headbox/page32-img01.jpeg"], section: "4.5 Fasteners (continued) / 紧固件" },
+  { page: 33, files: ["images-headbox/page33-img01.jpeg", "images-headbox/page33-img02.jpeg", "images-headbox/page33-img03.jpeg", "images-headbox/page33-img04.jpeg"], section: "4.5.1 Special tightening torques / 规定的拧紧扭矩" },
+  { page: 34, files: ["images-headbox/page34-img01.jpeg"], section: "4.6 Spare parts / 备件" },
+
+  // 4.7 Cleaning
+  { page: 35, files: ["images-headbox/page35-img01.jpeg", "images-headbox/page35-img02.jpeg"], section: "4.7.1 Overview and important instructions / 概览与重要指示" },
+  { page: 36, files: ["images-headbox/page36-img01.jpeg"], section: "4.7.2 Activities before cleaning / 清理之前的活动" },
+  { page: 37, files: ["images-headbox/page37-img01.jpeg", "images-headbox/page37-img02.jpeg"], section: "4.7.3 Cleaning tube bank / 清理管束" },
+  { page: 38, files: ["images-headbox/page38-img01.jpeg"], section: "4.7.3 Cleaning tube bank (continued) / 清理管束（续）" },
+
+  // 4.8 Lubrication
+  { page: 39, files: ["images-headbox/page39-img01.jpeg", "images-headbox/page39-img02.jpeg"], section: "4.8 Lubrication / 润滑" },
+  { page: 40, files: ["images-headbox/page40-img01.jpeg", "images-headbox/page40-img02.jpeg", "images-headbox/page40-img03.jpeg"], section: "4.8.1 Lubrication schedule / 润滑计划表" },
+
+  // 4.9 Swinging the headbox
+  { page: 41, files: ["images-headbox/page41-img01.jpeg", "images-headbox/page41-img02.jpeg", "images-headbox/page41-img03.jpeg"], section: "4.9 Swinging headbox — crane/lifting warnings / 摆动流浆箱 — 吊装警告" },
+  { page: 42, files: ["images-headbox/page42-img01.jpeg", "images-headbox/page42-img02.jpeg", "images-headbox/page42-img03.jpeg"], section: "4.9.1-4.9.3 Control panel, Top wire, Breast roll / 操纵台，丝网张力，胸辊" },
+  { page: 43, files: ["images-headbox/page43-img01.jpeg", "images-headbox/page43-img02.jpeg", "images-headbox/page43-img03.jpeg", "images-headbox/page43-img04.jpeg", "images-headbox/page43-img05.jpeg"], section: "4.9.4 Felt changing position / 毛毯更换位置" },
+  { page: 44, files: ["images-headbox/page44-img01.jpeg", "images-headbox/page44-img02.jpeg"], section: "4.9.5 Cleaning position / 清洁位置" },
+  { page: 45, files: ["images-headbox/page45-img01.jpeg", "images-headbox/page45-img02.jpeg", "images-headbox/page45-img03.jpeg", "images-headbox/page45-img04.jpeg"], section: "4.9.5 Cleaning and roll changing position / 清理和变更辊轴位置" },
+  { page: 46, files: ["images-headbox/page46-img01.jpeg", "images-headbox/page46-img02.jpeg"], section: "4.9.6 Forming roll changing position / 更换成型辊位置" },
+  { page: 47, files: ["images-headbox/page47-img01.jpeg", "images-headbox/page47-img02.jpeg", "images-headbox/page47-img03.jpeg"], section: "4.9.7 Operating position / 工作位置" },
+
+  // 4.10 Changing inserts
+  { page: 48, files: ["images-headbox/page48-img01.jpeg", "images-headbox/page48-img02.jpeg", "images-headbox/page48-img03.jpeg", "images-headbox/page48-img04.jpeg"], section: "4.10 Changing the inserts / 更换插件" },
+
+  // 4.11 Setting slice lip
+  { page: 49, files: ["images-headbox/page49-img01.jpeg", "images-headbox/page49-img02.jpeg"], section: "4.11 Setting the slice lip / 设定浆片唇口" },
+  { page: 50, files: ["images-headbox/page50-img01.jpeg", "images-headbox/page50-img02.jpeg", "images-headbox/page50-img03.jpeg", "images-headbox/page50-img04.jpeg"], section: "4.11 Fig. 22: Setting spindle / 图22：设定轴杆" }
+];

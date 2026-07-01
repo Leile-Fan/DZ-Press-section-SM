@@ -1,0 +1,728 @@
+
+===PAGE_22===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+22 / 68 
+Operation 运行 
+Rev. 0 版本：0
+ 
+4 
+Installation 安装 
+4.1 
+General 总则 
+This chapter describes certain steps for transport, storage and installation of the machine, which 
+may be the responsibility of the operating company.  
+本章介绍了设备的运输、储存和安装步骤，这类工作都由运营公司负责。 
+Activities which are carried out by ANDRITZ, including works assembly by the manufacturer, are 
+not the subject of this description.  
+由安德里茨有限公司进行的活动，包括工程装配不是本说明的主题。 
+4.2 
+Safety regulations 安全条例 
+ 
+All applicable accident prevention rules must be observed.  
+应当遵守各项事故预防规定。 
+Potential risks caused by gases and vapours forming must be analysed in detail. The appropriate 
+safety measures must be implemented.  
+应当详细分析气体和蒸汽构成的潜在风险。应当实施适当的安全措施。 
+Do not exceed permissible crane loads and weights on lifting gear and ropes/shackles. Secure 
+loads against falling from a height.  
+不要超过起重机和钢丝绳/吊具允许的起重载荷和重量。固定载荷，防止其从高处坠落。 
+Do not stand or walk below suspended loads! Standing below suspended loads can result in life-
+threatening injuries and is thus strictly forbidden! 
+切勿在悬吊的负荷下方站立或行走！由于站在悬吊的负荷下方可能导致危及生命的伤害，
+因此严格禁止站立在悬吊的负荷下方！ 
+Jolts must be avoided. This refers especially to the handling of pre-assembled machines.  
+必须避免颠簸，尤其是在搬运预装配的设备时。 
+ 
+Transport and unloading is to be carried out by personnel specially familiar with such work. 
+应由熟悉此类工作的人员进行运输和卸料。 
+Workers entrusted with lifting and conveying equipment must have the national qualifications re-
+quired.  
+负责吊装、搬运设备的工作人员，应当获得国家级资格证书。 
+Erection work may only be carried out by trained, skilled personnel.  
+只能由经过培训的熟练的人员进行安装工作。 
+ 
+Personal safety equipment must be worn when working (>> --- MISSING LINK ---). 
+作业时必须穿戴个人安全装备。（>>  ---缺少链接---） 
+） 
+ 
+ 
+ 
+ WARNING 警告 
+ 
+Non-observance of the installation work sequence 不遵守安装工作顺序 
+Disregarding the sequence plan and the installation instructions may result in hazardous situations 
+creating a danger to life and limb.  
+无视顺序图和安装说明可能会导致危险情况，对生命和肢体造成危险。 
+The sequence of erection work is important and must be strictly observed! 
+General safety regula-
+tions 基本安全条例 
+Qualification of per-
+sonnel assigned 
+指定人员的资质 
+Personal protective ap-
+parel 个人防护装备 
+
+===PAGE_23===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+23 / 68
+安装工作顺序很重要，必须严格遵守！ 
+ 
+ 
+4.3 
+Transport 运输 
+ 
+ 
+ 
+ 
+ DANGER 危险 
+ 
+Falling machine parts 下降的设备部件 
+During transport or loading/unloading there is a risk to life and limb due to the risk of machine 
+parts falling from a height.  
+运输或装料/卸料期间，由于设备部件从高处下落，存在危害生命和肢体的风险。 
+Do not lift machine and transport crates except at the points marked for lifting by crane or forklift! 
+除了使用吊车或叉车升降的标记点外，禁止升降设备和运输板条箱！ 
+a) If the entire machine is lifted and there are several different types of lifting lug available, per-
+sonnel should only use suitable lugs (according to the transport sketch) for the work in hand. 
+如果设备是整台吊起，且有几个不同类型的吊耳可用，则人员应只使用适合于当前工
+作的合适吊耳（根据运输示意图）。 
+b) Do not step or walk below suspended loads!不要在悬吊的负荷下走动！ 
+c) Wear your personal protective equipment!穿戴个人防护装备！ 
+ 
+ 
+ 
+ 
+ 
+NOTICE 注意 
+ 
+Damage to painted surfaces 涂漆表面的损坏 
+Corrosion due to damaged paintwork. 油漆损坏而导致的腐蚀 
+Do not use steel cables when lifting painted machine parts!  
+当吊装带涂层机械零件时，切勿使用钢丝绳吊装！ 
+ 
+ 
+The machine/system is supplied pre-assembled. The machine components and auxiliary materials 
+are packed in crates.  
+设备/系统按预装配状态供货。用柳条箱包装设备部件和辅助物料。 
+Transport sizes and weights are stated in the shipping documents.  
+运输单据上注明运输尺寸和重量。 
+Largest supply weights: >> Technical data 
+最大供货重量： >>技术参数 
+ 
+Check against shipping documents and packing lists whether the supply is complete and in perfect 
+condition.  
+按照装运单据和装箱单，检查到货是否齐全且完好无损。 
+Do not accept the goods in the event of transport damage or short supply, and notify the forwarder 
+and the ANDRITZ shipping department accordingly. 
+如果发现运输损坏或货物短缺，请勿收货，并请通知货运代理和安德里茨有限公司运输部
+门。 
+Delivery 交付 
+Acceptance 验收 
+
+===PAGE_24===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+24 / 68 
+Operation 运行 
+Rev. 0 版本：0
+4.3.1 
+Lifting the rolls 吊装辊子 
+Rolls should be lifted at the journals.辊子应在轴颈处吊装。 
+When lifting a roll at the coated surface, use broad, padded slings. 
+当在带涂层表面上吊装辊子时，请使用较宽的带衬垫吊索。 
+ 
+ 
+Roll suspended at the journals 
+在轴颈处悬吊的辊子 
+Suspending from the coated roll body 
+在带涂层的辊轴体处悬吊的辊子 
+ 
+ 
+ 
+ 
+ 
+NOTICE 注意 
+ 
+Lifting the roll out carefully 小心地吊出辊子 
+The roll coating may be damaged when lifting the roll out of the crate. 
+将辊子从板条箱中吊出时，可能会损坏辊轴涂层。 
+Open crate carefully and remove wood splinters and nails!  
+小心打开板条箱，去掉木屑和钉子！ 
+a) Do not remove cover paper! 不要取出封盖纸！ 
+b) When lifting the roll out, rope lashing must not touch the end faces of the roll body!  
+当辊子吊出时，绳索绑扎不得接触辊体的端面！ 
+c) Protect roll ends with squared timber! 用木方保护辊子端面！ 
+ 
+ 
+4.4 
+Safekeeping 安全保管 
+The following instructions for storage must be observed if assembly work is not to be performed 
+immediately:  
+如果系统不能立即安装，则必须遵守以下说明： 
+Please inform the ANDRITZ shipping department.  
+– 请通知安德里茨有限公司运输部。 
+– Provide weather protection for machine components stored. In particular, avoid wide varia-
+tions in temperature and ensure that the equipment is kept clean.  
+– 为储放的设备部件提供天气保护。尤其是避免温度发生大幅变化，确保设备保持清
+洁。 
+– Small parts should be protected against damage and unauthorized withdrawal by storing them 
+in lockable rooms.  
+– 将小型零件存放在带锁的房间内，防止其受损或被未授权的人员取走。 
+– Packing should not be removed until erection work begins.  
+
+===PAGE_25===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+25 / 68
+– 在现场安装工作开始之前，不得拆除包装。 
+4.4.1 
+Safekeeping of rubberised rolls 安全存放施胶
+辊筒 
+ 
+Rubber-covered rolls should always be stored indoors, in their shipping crates. Rolls must be 
+stored in an environment at temperatures above freezing point. 
+施胶辊筒应始终存放在其运输包装内，室内保存。各种辊子必须在零度以上温度保存。 
+A very cold roll should not be installed and put into service right away. It must be brought to the 
+temperature at the installation location one or two days beforehand. 
+温度非常低的辊子不得立即投入使用。必须提前一天或两天使其达到安装地点的温度。 
+If rolls are to be stored for a longer period, the roll and the bearings should be rotated once a 
+month to prevent the roll body from sagging and damage being caused to the bearings. 
+如果辊子将要长时间存放，则应每月转动一次辊子和轴承，以防止辊体下垂并对轴承造成
+损坏。 
+Also observe the maintenance instructions of the rubberizing company! 
+另请遵守施胶公司的维护说明！ 
+ 
+ 
+Rubber-covered rolls 
+施胶辊筒 
+
+===PAGE_26===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+26 / 68 
+Operation 运行 
+Rev. 0 版本：0
+4.5 
+Installation 安装 
+ 
+Completion of the various steps must be documented in the certificate of completion of erection 
+work.  
+各步骤的完成必须记录在安装工程完工证书中。 
+ 
+ 
+ 
+ 
+ WARNING 警告 
+ 
+Non-observance of the installation work sequence 不遵守安装工作顺序 
+Disregarding the sequence plan and the installation instructions may result in hazardous situations 
+creating a danger to life and limb.  
+无视顺序图和安装说明可能会导致危险情况，对生命和肢体造成危险。 
+The sequence of erection work is important and must be strictly observed! 
+安装工作顺序很重要，必须严格遵守！ 
+ 
+ 
+ 
+ 
+ 
+ WARNING 警告 
+ 
+Trapping and crushing 夹住与辗压 
+Limbs can be trapped or crushed during work. 作业中，肢体可能被夹住或辗压。 
+Do not place your hand below suspended loads! 不要将手放在悬吊载荷下方！ 
+a) Wear your personal protective equipment! 穿戴个人防护装备！ 
+b) Moving parts that are able to change position and thus have crushing or shearing points must 
+be secured in position with supporting bars or equivalent measures (e.g. lowering). 
+运转部件能够改变位置，因此具有挤压点或剪切点，必须使用支撑杆将其固定到位或
+采取等效措施（如放低）。 
+ 
+ 
+ 
+ 
+ 
+ DANGER 危险 
+ 
+Risk of accidents during erection work. 安装作业中的事故风险。 
+Danger of falling, stumbling, crushing and slipping 坠落、绊脚、辗压与滑倒危险。 
+All safety measures (barriers, etc.) must be continually applied during erection. 
+安装期间必须始终施加所有安全措施（屏障等）。 
+a) In all work areas, adequate lighting must be provided. 
+所有作业区内必须提供充足照明。 
+ 
+Requirements at installation site 安装现场要求 
+Electricity, water, and compressed air are available. 通电、通水、通压缩空气。 
+ 
+The following documentation must be available at the beginning of installation work:  
+在开始安装工作时，必须提供以下文件： 
+Field installation work sequence 现场安装作业顺序 
+– Foundation and arrangement drawings 地基图与布置图 
+– Assembly drawings and parts lists 装配图纸和部件清单 
+General 总则 
+Documentation 文件 
+
+===PAGE_27===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+27 / 68
+– Electrical, measurement and control equipment documents 电气、测量与控制设备文件 
+– Packing lists for each individual consignment 每批货物的装箱单 
+ 
+The foundation and foundation mountings are built according to the project-specific foundation 
+drawings, and the dimensioning must be checked before starting the installation work.  
+按照项目指定基础图纸进行基础和基础安装施工，开始安装作业前，必须进行尺寸检查。 
+4.5.1 
+Machine installation 设备安装 
+ 
+ 
+ 
+ 
+ WARNING 警告 
+ 
+Trapping and crushing 夹住与辗压 
+Limbs can be trapped or crushed during work. 作业中，肢体可能被夹住或辗压。 
+Do not place your hand below suspended loads!不要将手放在悬吊载荷下方！ 
+a) Wear your personal protective equipment!穿戴个人防护装备！ 
+b) Moving parts that are able to change position and thus have crushing or shearing points must 
+be secured in position with supporting bars or equivalent measures (e.g. lowering). 
+运转部件能够改变位置，因此具有挤压点或剪切点，必须使用支撑杆将其固定到位或
+采取等效措施（如放低）。 
+ 
+ 
+Continue erecting the machine according to the assembly drawings and the erection work sequence 
+diagram.  
+按照装配图纸和安装作业顺序图继续安装机器。 
+Prepare the foundation, position and adjust according to the arrangement and foundation drawings.  
+基础制备，按照布置和基础图纸进行定位和调整。 
+4.5.2 
+Installation of peripheral equipment 外围设备
+安装 
+Staircases and walkways 楼梯与走台 
+– Water pipes 水管 
+– Process pipes 工艺管 
+– Pneumatic and hydraulic equipment 气动和液压设备 
+– Central lubricating system 中央润滑系统 
+– Instrumentation, positioners and control units 仪表、定位器和控制单元 
+– Safety housing, protective covers, and warning signs 安全外壳、防护罩和警告标志 
+ 
+ 
+ 
+ 
+ CAUTION 小心 
+ 
+Pipework mounted incorrectly 管道工程的不正确 
+Errors in the installation of pipework and hoses may result in risks to life and limb and in damage 
+to the machine.  
+管道及软管安装错误可能会对生命及肢体造成危险并对机器造成损坏。 
+Mount all pipes stress-free and free of vibration!对所有管道进行无应力和无振动安装！ 
+Foundation 地基 
+ 
+
+===PAGE_28===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+28 / 68 
+Operation 运行 
+Rev. 0 版本：0
+a) The pipework must be mounted such that it does not stress the machine during operation (e.g. 
+by heat expansion of the pipes). 
+管道安装必须保证运行期间，不会对机器造成应力（如通过管道热膨胀）。 
+ 
+ 
+ 
+ 
+
+===PAGE_29===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+29 / 68
+4.6 
+Connect up 连接 
+ 
+All connections and connecting dimensions at the machine are shown in the arrangement drawing.  
+机器所有连接和连接尺寸见布置图。 
+ 
+The drainage pipe must discharge reliably into the drain to prevent any hot liquid from spraying 
+out and causing scalding injuries.  
+排水管必须可靠地排放到排水系统中，以防止任何高温液体喷出并造成烫伤。 
+ 
+ 
+ 
+ 
+ CAUTION 小心 
+ 
+Pipework mounted incorrectly 
+管道工程的不正确 
+Errors in the installation of pipework and hoses may result in risks to life and limb and in damage 
+to the machine.  
+管道及软管安装错误可能会对生命及肢体造成危险并对机器造成损坏。 
+Mount all pipes stress-free and free of vibration! 对所有管道进行无应力和无振动安装！ 
+a) The pipework must be mounted such that it does not stress the machine during operation (e.g. 
+by heat expansion of the pipes). 
+管道安装必须保证运行期间，不会对机器造成应力（如通过管道热膨胀）。 
+ 
+ 
+ 
+Sampling equipment 取样设备  
+Sampling equipment suitable for taking samples from pressurized pipes is to be provided in the 
+stock pipes.  
+在浆料管中应设置适合于从带压管道中提取样本的取样设备。 
+ 
+ 
+ 
+ 
+ WARNING 警告 
+ 
+Danger from hot liquids and vapors spraying out 存在高温液体和蒸汽喷出的危险 
+When taking samples, hot liquids or vapors may escape or there may be a risk of chemical burns 
+from the chemicals added during the process. 
+在取样时，存在高温液体或蒸汽可能会逸出或者在取样过程中添加的化学品可能会引起化
+学烧伤的风险。  
+Personal safety equipment, in particular eye protection and safety gloves, must be worn when tak-
+ing samples!  
+a) 取样时必须佩戴个人安全设备，特别是护目镜和安全手套！ 
+ 
+ 
+The following personal safety equipment must be worn when taking pulp or filtrate samples. 
+当提取纸浆或滤液样品时，必须佩戴以下个人安全设备。 
+Pipes 管 
+Drainage pipe 排水管 
+Sampling 取样 
+Personal protective 
+equipment 
+个人防护装备 
+
+===PAGE_30===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+30 / 68 
+Operation 运行 
+Rev. 0 版本：0
+ 
+ 
+Protective clothing to prevent the pulp 
+from coming into contact with the skin 
+防止纸浆与皮肤发生接触的防护服 
+Gloves to prevent hand injuries 
+防止手部受伤的手套 
+Eye protection to prevent eye injuries 
+眼部保护装置，防止眼睛受伤 
+Tab. 5: Safety equipment 表. 6：安全设备 
+ 
+ 
+ 
+ 
+ WARNING 警告 
+ 
+Contact with the fibre coating 与纤维涂层接触 
+Contact with the fibre coating can lead to skin damage and chemical burn injuries.  
+会导致皮肤损伤和化学品灼伤的接触。 
+Persons handling the fibre coating must not be allergic to it! 
+对纤维涂层过敏的人员不得处置纤维涂层！ 
+a) Wear personal protective equipment!穿戴个人防护装备！ 
+b) Clean and disinfect hands after working on the machine!在机器上工作后，洗手并消毒！ 
+ 
+ 
+Examples of sampling devices 取样装置的例子  
+Manually operated sampling fitting 手动操作的取样接头 
+ 
+Sampling vessel 取样容器 
+Tab. 7: Sampling equipment 表4：取样设备 
+ 
+The instrumentation (instruments, actuators and control devices) of the machine is to be installed 
+according to the flow sheet and the applicable standards.  
+应按照流量表和适用的标准安装机器仪表（仪表、执行器和控制装置）。 
+ 
+The complete electrical installations are to be set up and operated according to the applicable 
+standards.  
+应按照适用的标准设置和操作整套电气安装。 
+Instruments 仪表 
+Electrical equipment 
+电气设备 
+
+===PAGE_31===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+31 / 68
+4.7 
+Cold test (preparation for initial start-up) 冷测
+试（准备首次启动） 
+ 
+The cold test is to be carried out together with the customer's authorized representative.  
+冷测试将与客户的授权代表一起完成。 
+The work steps listed in the cold test certificate shall be carried out for the cold test, and docu-
+mented.  
+应为冷测试实施在冷试验证书中列出的工作步骤并记录在案。 
+ 
+The customer and the erection work supervisor shall conduct a final inspection of the installation 
+upon completion of the cold tests.  
+客户和安装工作主管应完成冷测试后对安装进行最后检验。 
+ 
+The following certificates are to be issued after completion of the cold test 
+在完成冷测试后，将签发以下证书。 
+Function test (cold test certificate) 功能测试（冷测试证书） 
+– Certificate of complete of installation work 安装工程完工证明。 
+ 
+ 
+Cold test 冷测试 
+Final inspection 
+最终检验 
+Certificatesa 证书 
+
+===PAGE_32===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+32 / 68 
+Operation 运行 
+Rev. 0 版本：0
+4.8 
+Disassembly and disposal 拆卸与处置 
+ 
+ 
+ 
+ 
+ DANGER 危险 
+ 
+Voltage 电压 
+The voltage at the machine constitutes a danger to life and limb.  
+设备上的电压对生命和肢体构成危险。 
+The machine must be disconnected from the power source and secured to prevent switching on 
+again before disassembly! 
+拆卸前，必须断开设备电源，并进行固定，防止再次开启！ 
+a) The machine may only be disassembled by qualified and authorized personnel. 
+只有合格的授权人员方可拆卸设备。 
+ 
+If the machine/plant is to be shut down, the following must be taken into account for subsequent 
+disposal:  
+如果要关闭机器/装置，必须考虑如下处理顺序： 
+ 
+The machine components must be disassembled according to the various materials, lubricant fill-
+ings, and various forms of contamination.  
+– 必须按照不同的材料、润滑剂填充以及不同类型的污染，拆卸设备部件。 
+– The materials must be disposed of in accordance with the applicable legislation on waste dis-
+posal.  
+– 必须按照适用的废料处置法规要求，处置物料。 
+– Proof must be brought of the properties and the disposal route of the various materials accord-
+ing to the applicable regulations on proof of recovery and disposal (e.g. statement and entry in 
+register). 
+– 必须按照适用的回收和处置证明法规（如声明和入库登记），提供各种物料的性质和
+处置途径证明。 
+– Compile the necessary documents before disposal and dispose of the materials according to 
+the regulations, observing the documents.  
+– 按照法规处置材料钱，编制必要的文件，并遵照执行。 
+ 
+ 
+ 
+ 
+ WARNING 警告 
+ 
+Flammable plastic parts 易燃塑料部件 
+Risk of fire and burns from burning plastic parts. 燃烧塑料部件会引起火灾和烧伤。 
+Observe the local fire protection regulations. When separating the materials, do not work with 
+welding devices or other equipment that generates sparks! 
+遵守当地消防条例。当分离材料时，不得使用焊接设备或其他产生火花的设备进行作
+业！ 
+ 
+ 
+Oil, utilities and cleaning agents must be disposed of according to the local provisions and in com-
+pliance with the appropriate manufacturer regulations.  
+– 润滑油、公共设施和清洁剂必须按照当地规定以及合适的制造商规定进行处置。 
+Other material groups to be separated are: 其他要分离的材料组是： 
+Surface-treated sheet steel, such as powder-coated or wet-painted doors, covers, etc.  
+– 经过表面处理的钢板，如粉末涂层或湿漆门、上盖等。 
+Machine parts 
+设备部件 
+Additives 
+添加剂 
+
+===PAGE_33===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+33 / 68
+– Surface-coated construction steel, such as rotating parts, gratings, bolts, etc.  
+– 表面涂层结构钢，如旋转部件、格栅、螺栓等。 
+– Copper (electrical grade copper or silver-coated electrical grade copper), such as busbars, con-
+necting straps, connections pieces, etc. 
+–  铜（电气级铜或银涂层电气等级铜），如母线、连接带、连接件等。 
+– Cables 电缆 
+– Built-in units, electrical components and components generating radiation (radio-active 
+probe), etc. 
+ 产生辐射的内置单元、电子元件和组件（放射性探头）等。 
+ 
+ 
+
+===PAGE_34===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+34 / 68 
+Operation 运行 
+Rev. 0 版本：0
+4.9 
+General 总则 
+This chapter describes the preparations and steps required for initial start-up of the machine.  
+本章介绍了初次启动设备所需的准备工作和步骤。 
+4.10 
+Safety regulations 安全条例 
+ 
+ 
+ 
+ 
+ DANGER 危险 
+ 
+Observe safety instructions 遵循安全指南 
+Disregarding the safety regulations can lead to dangerous situations.  
+未能遵循这些安全条例可导致危险情况。 
+All precautionary safety instructions in this section must be strictly observed! 
+必须严格遵守本章节中所有安全指南！ 
+ 
+ 
+All applicable accident prevention rules must be observed.  
+应当遵守各项事故预防规定。 
+Potential risks caused by gases and vapors forming must be analyzed in detail. The appropriate 
+safety measures must be implemented.  
+必须对气体及蒸汽形成的潜在风险进行详细分析。必须采取恰当的安全措施。 
+Do not exceed permissible crane loads and weights on lifting gear and ropes/shackles. Secure 
+loads against falling from a height.  
+不要超过起重机和钢丝绳/吊具允许的起重载荷和重量。固定载荷，防止其从高处坠落。 
+Do not step or walk below suspended loads! Standing below suspended loads can be fatal and is 
+thus strictly forbidden!  
+不要在悬吊的负荷下走动！站在悬吊的负荷下是非常危险的，因而严格禁止！ 
+Jolts must be avoided. This refers especially to the handling of pre-assembled machines. 
+必须避免颠簸，尤其是在搬运预装配的设备时。 
+ 
+Erection work may only be carried out by trained, skilled personnel.  
+只能由经过培训的熟练的人员进行安装工作。 
+ 
+ 
+ 
+ 
+NOTICE 注意 
+ 
+Safety equipment during start-up 启动期间安全设备 
+Due to systems still being checked, there is a risk that safety equipment is not yet functioning.  
+由于系统仍在检查中，所以存在安全设备尚未运行的风险。 
+These dangers must be pointed out during the safety training session! 
+安全培训课程中，必须指出这些危险！ 
+ 
+ 
+Personal safety equipment must be worn when working (>> Personal protective apparel [} 16]).  
+作业时必须穿戴个人安全装备（>> 个人防护装置 [} 16]）。 
+General safety regula-
+tions 基本安全条例 
+Qualification of per-
+sonnel assigned 
+指定人员的资质 
+Personal protective ap-
+parel 个人防护装备 
+
+===PAGE_35===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+Rev. 0 版本：0 
+Operation 运行 
+35 / 68
+4.11 
+Prerequisites for start-up 启动前的准备工作 
+4.11.1 
+General prerequisites 一般前提条件 
+Before start-up, ensure that the following requirements are met:  
+启动前，确保满足如下要求： 
+Before start-up, ensure that all the necessary measures mentioned in the engineering documents 
+supplied with the equipment have been duly implemented. 
+– 启动前，请确保随机工程文件中提及的所有必要措施均已得到适当实施。 
+– Erection work completed. 已完成安装工作。 
+– Cold test completed. 已完成冷测试。 
+– Installation site has been cleared and cleaned. 安装现场无障碍，并清洁。 
+– All pipes must be cleaned. 所有管道必须清洗。 
+– First filling of lubricants (gear units, bearings, etc.) provided.  
+– 已提供初次填充润滑剂（齿轮箱、轴承等）。 
+– All safety guards mounted. 安装所有安全罩。 
+– All personnel know the location of the EMERGENCY STOP switch.  
+– 所有人员知道紧急停机开关的位置。 
+– The safety system has been tested and validated. 已经测试并验证安全系统。 
+– All electric interlocks and EMERGENCY STOP safety devices are functioning and have been 
+checked.  
+– 所有电气连锁和紧急停机安全装置均正常运行，并已经完成检查。 
+– All control circuits have been installed and tested. 已经安装并测试所有控制回路。 
+– Process control system has been installed and tested. 已经安装并测试工艺控制系统。 
+4.12 
+Start-up 启动 
+ 
+ 
+ 
+ 
+NOTICE 注意 
+ 
+Incorrect start-up procedure 不正确的启动步骤 
+Machine may be damaged if incorrect start-up procedures are used.  
+如果使用不正确步骤，可能损坏设备。 
+All electric interlocks must be functional and checked! 
+所有电气联锁装置必须工作并进行检查！ 
+ 
+Before start-up, the procedure must be defined together with ANDRITZ AG's start-up engineer. 
+The machine is to be started up according to the start-up protocol document.  
+在启动之前，必须与ANDRITZ AG 的开机工程师一起确定启动步骤。按照启动协议文件启
+动设备。 
+During start-up, practical training will also be provided on the machine. Participants must receive 
+instruction on the theory beforehand.  
+启动期间，应在设备上进行实践培训。参加人员必须事先接受理论指导。 
+After start-up, the machine will be handed over to the mill operating company in a complete, relia-
+ble condition and ready for operation.  
+启动后，将设备以完整、可靠和待运行的状态交付给磨机运营公司。 
+ 
+
+===PAGE_36===
+ 
+ 
+Tissue Machine 卫生纸机 
+C&S Paper (Jiangsu) Co., Ltd., C-14-855551-716, C-14-855552-716 
+36 / 68 
+Operation 运行 
+Rev. 0 版本：0
+4.13 
+Certificates 证书 
+The following certificates must be completed and signed after start-up:  
+启动后，必须填写以下证书，并签字： 
+Start-up protocol 启动协议 
+Provisional acceptance certificate 临时验收证书 

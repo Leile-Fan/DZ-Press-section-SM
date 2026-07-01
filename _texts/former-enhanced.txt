@@ -1,0 +1,1095 @@
+================================================================================
+CRESCENT FORMER - PrimeForm / 新月型成型器 - PrimeForm
+ENHANCED BILINGUAL CONTENT EXTRACTION WITH IMAGE MAP
+================================================================================
+Machine: C&S PAPER (JIANGSU) CO., LTD.
+Order: C-14-855551-716 TM4, C-14-855552-716 TM3
+Year: 2025 | Rev. 0 | Issued: PTP/Liang Xiaoqing, PTP/Yang Kun, 04.2026
+================================================================================
+
+================================================================================
+SECTION 1: COMPONENT DETAILS (3.2.1 - 3.2.15) | Pages 13-24
+================================================================================
+
+--- 3.2.1 Headbox (1) / 流浆箱（1）--- [Page 13]
+Operating instructions >> TISSUE MACHINE/HEADBOX
+操作指引>>卫生纸机/流浆箱
+
+IMAGES: page13-img01.jpeg, page13-img02.png
+
+--- 3.2.2 Breast roll (2) and swing device / 胸辊（2）和摆动装置 --- [Page 13]
+FUNCTION: The raising/lowering device is used to swing the breast roll (2) upwards.
+功能：升降装置用于将胸辊（2）向上摆动。
+
+A swing device can be used to raise the roll for the following purposes:
+摆动装置可用于升起胸辊，以实现以下目的：
+- Cleaning the headbox / 清洗流浆箱
+- For roll changing / 用于换辊
+- For felt changing / 用于换毯
+
+DESIGN: The swing device consists of one welded pivoting lever (2a) each on the operator side and the drive side. The pivoting levers are supported on the frame and secured in operating position with eye bolts (2b).
+设计：摆动装置由分别位于操作侧和传动侧的旋转臂（2a）组成。旋转臂支撑在机架上，并用活节螺栓（2b）固定在操作位置。
+
+The breast roll is swung down and up using a crane and the provided lifting lugs (2c). In the lifted position, the breast roll is locked with the pawl (2d).
+胸辊是通过使用起重机和提供的吊耳（2c）向下和向上摆动。在抬起位置，用固定销（2e）将胸辊定位。
+
+IMAGES: page13-img01.jpeg, page13-img02.png (Fig. 4: Breast roll and swing device)
+
+--- 3.2.3 Frame (3) / 机架（3）--- [Pages 14-15]
+FUNCTION: The frame houses the machine components of the Crescent Former.
+功能：机架承托着将新月型成型器所有部件。
+
+DESIGN: Welded structure made of steel, modular design. The main components are the longitudinal and cross beams that are bolted together to form a frame.
+设计：焊接结构采用钢结构模块化设计。主要部件是纵梁和横梁，纵梁和横梁用螺栓连接在一起，构成了机架。
+
+The frame has a cantilever device for fast wire changing.
+机架设有用于快速换网的悬臂装置。
+
+CANTILEVER DEVICE / 悬臂装置:
+FUNCTION: The cantilever equipment allows the wire and felt to be changed quickly and easily. The frame is opened for removing and threading in the wire and felt.
+功能：悬臂设备促使网毯更换快速和便利。机架可以被打开，用于拉出和更换网、毯。
+
+DESIGN: The frame is connected to the foundation on the drive side via cantilever beams (3a) and tie rods (3b). The tie rods can support the cantilevered frame during wire changing.
+设计：机架通过悬臂梁（3a）和横拉杆（3b）安装到传动侧的基础上。在换网过程中，横拉杆可以支撑悬臂。
+
+By detaching the eye bolts (3c), the intermediate pieces (3d) can be removed and the frame cantilevered. The beams are raised slightly with the aid of hydraulic cylinders before the spacers are removed.
+松开活节螺栓（3c），可以去除中间抽拉块儿（3d），机架被悬起。可以借助液压装置轻微的将横梁撑起，便于抽出中间抽拉块儿。
+
+IMAGES: page14-img01.jpeg, page14-img02.png (Fig. 5: Cantilever device - operator side)
+        page15-img01.jpeg, page15-img02.png (Fig. 6: Cantilever device - drive side)
+
+--- 3.2.4 Uhle box (4) / 吸水箱（4）--- [Page 16]
+FUNCTION: Cleaning the felt with suction.
+功能：利用真空吸引清洁毛毯。
+
+DESIGN: Welded suction boxes made of acid-proof stainless steel. The suction boxes have cleaning ports and connections for the vacuum indicator. Suction strips (dovetailed) with a ceramic surface are mounted on the suction box.
+设计：真空箱由耐酸不锈钢焊接而成。真空箱设有清洁口和用于安装真空指示器的接口。真空箱上安装有陶瓷条的陶瓷面板。
+
+Uhle box >> SUPPLIER DOCUMENTATION / 吸水箱>>供应商文件
+
+IMAGES: page16-img01.png, page16-img02.png (Fig. 7: Uhle box)
+
+--- 3.2.5 Wire guiding system (5) / 网校正系统（5）--- [Page 17]
+FUNCTION: The wire guiding system prevents the wire from running off center. If the wire drifts away from the center, it is returned to this position by a pneumatic rocker-type adjusting device and a regulating roll.
+功能：网校正系统防止网偏离中心。如果网偏离中心，那么气动摇杆调节装置和校正辊，将会使其再回到中心位置。
+
+DESIGN:
+- Regulating roll (2.4) / 网校正辊（2.4）
+- Pneumatic rocker-type adjusting device (5a) / 气动摇臂式调节装置（5a）
+- Control unit (5b) with sensor lever (5c) / 带有检测杆（5c）的控制器（5b）
+
+If the wire runs off track, the sensor lever operates the control unit (control valve). As a result, a larger or smaller amount of air is fed to the spring bellows in order to center the wire again.
+如果网跑偏，检测杆检测到并反馈给控制器（控制阀）。再将一定量的空气充入气囊致使网回到中心。
+
+Detailed description of settings and functions >> TISSUE MACHINE/OPERATION
+关于设置和功能的详细说明>>参见卫生纸机/操作
+
+IMAGES: page17-img01.png, page17-img02.png (Fig. 8: Wire guiding device)
+
+--- 3.2.6 Wire and felt rolls (6) / 网和毛毯辊（6）--- [Page 18]
+FUNCTION: Guiding and deflecting the wire and the felt. The felt roll (13) is driven.
+功能：用于对网和毛毯导向及偏转。毛毯辊（13）是驱动辊。
+
+DESIGN: Steel structure with rubber coating. / 钢结构+橡胶包覆。
+The drive unit for the felt drive roll (13) consists of:
+毛毯驱动辊（13）的驱动装置包括：
+- Cardan shaft / 万向轴
+- Spur gear / 正齿轮
+- Motor (customer supply) / 电机（客户供应）
+
+Gear unit and cardan shaft >> SUPPLIER DOCUMENTATION / 齿轮装置和万向轴>>供应商文件
+List of rolls >> TECHNICAL DATA / 辊清单>>技术参数
+
+IMAGES: page18-img01.jpeg, page18-img02.png
+
+--- 3.2.7 Showers (7) / 喷淋管（7）--- [Page 18]
+FUNCTION: Showers are used to clean, lubricate, or knock off residual stock.
+功能：喷淋是用来清洁、润滑或去除残余浆料。
+
+DESIGN: Stainless steel shower with needle jet or flat jet nozzles.
+设计：带有针型或扇形喷嘴的喷淋管。
+
+Data on individual showers >> WATER CONSUMPTION LIST / 单个喷淋管数据>>耗水量表
+Details on the showers >> SUPPLIER DOCUMENTATION / 喷淋管详细信息>>供应商文件
+
+IMAGES: page18-img01.jpeg, page18-img02.png (Fig. 9: Showers)
+
+--- 3.2.8 Felt guiding device (8) / 毛毯校正装置（8）--- [Page 19]
+FUNCTION: The felt guiding system prevents the felt from running off center. If the felt drifts away from the center, it is returned to this position by a pneumatic rocker-type adjusting device and a regulating roll (2.10).
+功能：如果毛毯偏离中心，那么气动摇杆调节装置和校正辊（2.10），将会使其再回到中心位置。
+
+>> WIRE GUIDING SYSTEM (5) / 导网系统（5）
+
+IMAGES: page19-img01.jpeg, page19-img02.png (Fig. 10: Felt guiding system)
+
+--- 3.2.9 Felt tensioning unit (9) / 毛毯张紧装置（9）--- [Page 20]
+FUNCTION: Tensioning and relieving tension on the felt.
+功能：张紧和松开毛毯的张力。
+
+DESIGN: The felt is tensioned by two worm gear screw jacks (9a) which act on the roll (2.8). The worm gear screw jacks are connected to one another via a transverse shaft (9b) and driven by a servo drive (9c). The roll is moved in linear direction by means of a roller guide.
+设计：毛毯由作用于辊（2.8）上的两个涡轮蜗杆千斤顶（9a）张紧。涡轮蜗杆千斤顶通过横轴（9b）相互连接，并由伺服电机（9c）驱动。张紧辊通过辊子导轨，在直线方向移动。
+
+Drive >> SUPPLIER DOCUMENTATION / 驱动>>供应商文件
+
+IMAGES: page20-img01.jpeg, page20-img02.png (Fig. 11: Felt tensioning device)
+
+--- 3.2.10 Wire tensioning system (10) / 网张紧系统（10）--- [Page 21]
+FUNCTION: Tensioning and relieving tension on the wire.
+功能：张紧和松开网上张力。
+
+DESIGN: The tension roll (2.3) is swung by two worm gear screw jacks (10a) acting on the swing lever (10b). The worm gear screw jacks are connected to one another via a transverse shaft and driven by a servo drive (10c).
+设计：张紧辊（2.3）随两个摆动杆（10b）被两个涡轮蜗杆千斤顶（10a）摆动。涡轮蜗杆千斤顶通过横轴相互连接，并由伺服驱动器（10c）驱动。
+
+A removable splash guard (10d) is mounted on the swing levers. During wire changing the splash guard can be run out with the rollers mounted (10e).
+可拆卸的挡泥板（10d）是安装在摆动杆上的。在换网过程中，挡泥板可以在同被安装的辊子（10e）一起拆卸。
+
+Drive >> SUPPLIER DOCUMENTATION / 驱动>>供应商文件
+
+IMAGES: page21-img01.jpeg, page21-img02.png (Fig. 12: Wire tensioning system)
+
+--- 3.2.11 Forming roll (11) / 成形辊（11）--- [Page 22]
+FUNCTION: This roll is used to form the stock suspension into a web. The headbox feeds the stock suspension into the gap between the wire and the felt. Here, the wire and felt are deflected and the excess water is discharged through the wires.
+功能：成形辊是用来将悬浮的浆料成形为纸页。流浆箱将浆料送入到网和毛毯之间的间隙中。此时，纸页从网毯结合点发生偏转，多余的水通过网排出。
+
+DESIGN: Steel structure with rubber coating. / 钢结构+橡胶包覆。
+
+IMAGES: page22-img01.jpeg, page22-img02.png
+
+--- 3.2.12 White water channel (12) / 白水通道（12）--- [Page 22]
+FUNCTION: The white water and shower water generated is collected and drained off by means of white water channels and shower water plates.
+功能：成形过程中产生的白水和喷淋水通过白水通道和喷淋挡板收集和排出。
+
+DESIGN: Welded, stainless steel structures. / 不锈钢焊接结构。
+
+IMAGES: page22-img01.jpeg, page22-img02.png
+
+--- 3.2.13 Walkways and safety covers (14) / 走台和安全罩（14）--- [Page 22]
+FUNCTION: Walkways (14a) for maintenance and inspection purposes and to protect individuals and machine parts. The safety covers (14b) prevent anyone from reaching into the machine.
+功能：走台（14a）起到维修和检查以及保护个人和机器部件的目的。安全罩（14b）防止任何人进入机器。
+
+DESIGN: Walkways and cross walkways with railings and stairways, partly stainless or made of aluminum.
+设计：带护栏和走梯的走台和横向走台，由不锈钢以及铝合金材质制成。
+
+IMAGES: page22-img01.jpeg, page22-img02.png (Fig. 13: Walkways and safety covers)
+
+--- 3.2.14 Doctors (16) / 刮刀（16）--- [Page 23]
+FUNCTION: The doctors are used to clean the rolls.
+功能：刮刀是用来清洁辊辘的。
+
+DESIGN: Compact doctor system comprising doctor beam (16a), doctor holder (16b) and doctor blade (16c). The doctor beam has either an open design with doctor tray or a closed design. The angle position is set using a turnbuckle (16d). The doctor can be swung away with the lever mounted on the operator side.
+设计：紧凑型刮刀系统，包括刮刀梁（16a）、刮刀夹具（16b）和刮刀片（16c）组成。刮刀梁亦可以采用附带水盘的开放设计。刮刀的角度位置可以通过旋转扣（16d）设置。刮刀可以用安装在操作侧的摆臂，从辊辘摆离。
+
+The doctors at rolls 2.4 and 2.10 are pressed onto the roll shell pneumatically.
+2.4辊和2.10辊的刮刀采用气囊加压方式贴紧辊子。
+
+When this happens, the doctor blade is raised pneumatically by means of air tubes (16e) and set in position. The doctors oscillate electro-mechanically and are driven by gear motors (16f).
+当需要时，刮刀片通过气囊（16e）加压在适当的位置。电动机械的刮刀摆动器由齿轮马达驱动（16f）。
+
+More detailed information >> Supplier documentation / 更多详细信息>>供应商文件
+
+IMAGES: page23-img01.jpeg, page23-img02.png (Fig. 14: Doctor system)
+
+--- 3.2.15 Tail cutter (19) / 引纸水针（19）--- [Page 24]
+FUNCTION: The tail cutter cuts a narrow strip from the web, which is then fed to the horizontal reel.
+功能：引纸水针将即将进入卷纸区域的纸页切出一条缝隙。
+
+DESIGN: The shower nozzles of the tail cutter move across the machine width with a traversing carriage.
+设计：引纸水针的喷嘴通过一个移动装置，在机器宽度方向上横向移动。
+
+Tail cutter >> SUPPLIER DOCUMENTATION / 引纸水针>>供应商文件
+
+IMAGES: page24-img01.png, page24-img02.png (Fig. 15: Tail cutter)
+
+
+================================================================================
+SECTION 2: TECHNICAL DESCRIPTION (3.3) | Pages 25-26
+================================================================================
+
+--- 3.3.1 Definition / 定义 --- [Page 25]
+The Crescent Former is used to distribute the stock, and to deflect, dewater, and transport the paper web.
+新月型成型器用来分配浆料，并对纸幅进行偏转、脱水和传送纸页。
+
+IMAGES: page25-img01.jpeg, page25-img02.png (Fig. 16: Function sequence)
+
+--- 3.3.2 Stock feed / 进浆 --- [Page 25]
+The headbox (1) distributes the stock continuously between the forming roll (2.1) and the breast roll (2.5). At the forming roll, the wire (w) and the felt (f) run one above the other at a wrap angle of approximately 180 degrees. The stock suspension is fed in between the wire and the felt over the entire machine width.
+流浆箱（1）在成形辊（2.1）和胸辊（2.5）之间连续地布浆。在成形辊上，网（w）和毛毯（f）以约180度的包角，贴在一起运行。在整个机器的宽度上，浆料被送入到网和毛毯之间。
+
+--- 3.3.3 Dewatering / 脱水 --- [Page 25]
+The excess water is pressed through the wire and then recycled back to the process. The fibers remain between wire and felt, clinging to the felt.
+多余的水透过网孔被压出，然后再循环到工艺中。网和毛毯之间留下的纤维，附着在毛毯上。
+
+--- 3.3.4 Web transfer / 纸页传送 --- [Page 25]
+The fibers adhering to the underside of the felt have now formed a thin mat and are conveyed onwards over the entire web width. At the end of the former, the web is transferred to the suction couch roll.
+纤维附着在毛毯底部成形为纸幅，在整个横幅宽度向前传送。在成型器的末端，纸页被传送到真空压榨辊上。
+
+--- 3.3.5 Wire and felt cleaning / 网和毛毯清洁 --- [Pages 25-26]
+In the course of the cycle, residual fibers are cleaned off the felt and wire by high-pressure and low-pressure showers. The Uhle boxes (4) remove the shower water by suction and thus clean the felt.
+在循环过程中，通过高压和低压喷淋管清洗掉毛毯和网上的残余纤维。吸水箱（4）通过真空，清除喷淋水，从而清洁毛毯。
+
+--- 3.3.6 Roll cleaning / 辊清洁 --- [Page 26]
+The doctors scrape the surface of the rolls to prevent any fibers being left there. The doctors are lubricated by lubricating showers.
+刮刀刮除辊面，以防止纤维遗留在辊面上。刮刀通过润滑水喷淋管润滑。
+
+IMAGES: page26-img01.png
+
+
+================================================================================
+SECTION 3: CLEANING (4.7) | Pages 34-36
+================================================================================
+
+--- 4.7.1 Overview and important instructions / 概览与重要指示 --- [Page 34]
+
+WARNING: Danger from the improper use of chemical cleaning agents! Contact with the cleaning agents may cause skin damage and burning.
+警告：错误使用化学清洁剂会导致危险！接触清洁剂有可能导致皮肤破损、烧伤。
+a) Personal protective apparel must be worn! / 应当佩戴个人防护装备！
+b) The safety regulations from the appropriate cleaning agent supplier must be observed! / 应当遵守清洁剂供应商提供的安全条例！
+
+NOTICE: Incorrect cleaning - Damage due to incorrect cleaning agents.
+注意：清理不当 - 错误使用清洁剂导致的破坏。
+a) Only permissible cleaning agents may be used for cleaning! / 只能使用规定的清洁剂！
+b) For electrical machine parts prevent any ingress of water, steam or other cleaning agents! / 防止设备的电气零件浸水、渗透蒸汽和各种清洁剂！
+c) Do not use high-pressure cleaning equipment for cleaning the surface of painted parts as this may lead to chipping in the paint coat and ultimately to corrosion! / 切勿用高压清洁设备清理喷漆零件表面以免涂层破损、导致腐蚀！
+
+--- 4.7.1.1 Time and method / 时间与方法 --- [Page 34]
+When the machine is shut down, the headbox must be cleaned thoroughly so that the stock does not dry on.
+设备停机以后，应当彻底清理流浆箱以免物料干结。
+This prevents fermentation processes and bacteriological activity.
+这样能够防止发酵、滋生细菌。
+
+--- 4.7.1.2 Cleaning work / 清理作业 --- [Page 34]
+- Flush out with fresh water and cleaning agent. / 用清水和清洁剂冲洗。
+- Flush out the entire machine. / 冲洗整个机器。
+
+--- 4.7.1.3 Process materials / 工艺材料 --- [Page 34]
+Fresh water must be used to clean all parts of the machine.
+应当用清水清理设备的各个部件。
+
+--- 4.7.1.4 Suitable cleaning agents / 适用的清洁剂 --- [Pages 34-35]
+The headbox should only be cleaned with the following cleaning agents:
+应当用下列清洁剂清理流浆箱：
+
+Permitted cleaning agents / 允许使用的清洁剂:
+- HCl (hydrochloric acid) / 盐酸: 2-5%, up to 60 deg C / 最高60度
+- NaOH (caustic soda) / 苛性钠: 2-5%, up to 60 deg C / 最高60度
+- Sulfamic acid / 硫酸: 0.45%, up to 60 deg C / 最高60度
+
+--- 4.7.1.5 Clean polished surfaces / 清理抛光表面 --- [Page 35]
+Please observe the following when cleaning polished surfaces:
+清理抛光表面的时候注意下列事项：
+- Do not use sharp objects! / 切勿使用尖锐物体！
+- Use only cleaning rags, fresh water, and permitted chemical cleaning agents! / 只能使用干净的抹布、清水和允许使用的化学清洁剂！
+
+--- 4.7.2 Activities before cleaning / 清理之前的活动 --- [Page 35]
+- Shut down stock feed. / 停止送料。
+- Shut down machine/plant. / 停止机器/设备。
+- Leave the water loop running for approximately 15 minutes to clean the system after the stock feed has been shut down. / 停止送料之后，让水路继续运行15分钟左右，清理系统。
+
+--- 4.7.3 Cleaning / 清理 --- [Page 35]
+Machine must be cleaned as follows before carrying out any maintenance work:
+在进行任何维修工作前，必须按以下方式清洁机器：
+- Thorough cleaning of the felt and the rolls. / 彻底清洁毛毯和辊。
+- Any dirt or residue on the felt or rolls must always be removed. / 必须清除毛毯或辊上的任何污垢或残留物。
+- The tension on the felt must always be relieved if there is a longer shutdown. / 如果长时间停机，必须释放毛毯上的张力。
+- Thorough cleaning of the doctor blades. / 彻底清洗刮刀片。
+- Clean any clogged shower nozzles. / 清洁任何堵塞的喷嘴。
+
+WARNING: Contact with the fibre coating can lead to skin damage and chemical burn injuries.
+警告：与纤维涂层接触会导致皮肤损伤和化学品灼伤的接触。
+a) Persons handling the fibre coating must not be allergic to it! / 对纤维涂层过敏的人员不得处理纤维涂层！
+b) Wear personal protective equipment! / 穿戴个人防护装备！
+c) Clean and disinfect hands after working on the machine! / 在机器上工作后，洗手并消毒！
+
+NOTICE! Dirt and residue on the felt and rolls impair the paper quality. These parts should therefore be thoroughly cleaned before re-starting the equipment. Personal protective apparel must be worn!
+注意！毛毯和辊上的污垢和残渣会影响纸张的质量。因此，在重新启动设备之前，应彻底清洗这些部件。必须穿个人防护服装！
+
+NOTICE! The felt can be damaged as a result of uneven tensioning. The felt tension must be relieved at each longer shutdown period.
+注意！受到不均匀的张紧力，会造成毛毯损坏。如果需要长时间停机，必须解除毛毯张力。
+
+NOTICE! Worn doctor blades impair regular roll cleaning during operation. Level off doctor blades in good time or replace.
+注意！磨损的刮刀叶片在操作过程中会影响辊的清洁效果。及时调平刮刀片或更换。
+
+--- 4.7.4 Flushing out / 冲洗 --- [Page 36]
+Steps / 步骤:
+a) Shut down stock feed. / 停止送料。
+b) If chemical cleaning agents are used: Add cleaning agent to the water loop. / 如果使用了化学清洁剂：将清洁剂添加到水环路中。
+   >> OVERVIEW AND IMPORTANT INFORMATION / >>概览与重要信息
+c) Open the water loop and flush the system out for approximately 15 minutes. / 打开水环路，冲洗系统15分钟左右。
+
+NOTICE! Cleaning agents should not attack plastics and must also contain additives to combat fungal or bacterial growth. It is essential to observe the safety regulations provided by the cleaning agent supplier. Personal protective apparel must be worn!
+注意！清洁剂不应腐蚀塑料，还必须含有抑制真菌或细菌生长的添加剂。必须遵守清洁剂供应商给出的安全条例。应当佩戴个人防护装备！
+
+DANGER! Open drainage channels in the floor. Risk to life and limb and risk of damaging the machine or one of its components. Drainage channels must be covered again after cleaning in order to eliminate any danger of tripping or falling!
+危险！地面上打开的排水沟。危及生命和肢体、损坏机器或其部件的危险。清洗后必须重新覆盖排水沟，以消除任何绊倒或跌倒的危险！
+
+IMAGES: page34-img01.png, page34-img02.png, page35-img01.png, page36-img01.png, page36-img02.png
+
+
+================================================================================
+SECTION 4: LUBRICATION (4.8) | Pages 37-42
+================================================================================
+
+--- 4.8 General / 润滑总则 --- [Page 37]
+Before start-up, check whether all lubrication points, in particular the bearings and gears, have been filled with the appropriate lubricants.
+在启动之前，检查所有润滑点（特别是轴承和齿轮）是否都添加了合适的润滑剂。
+
+Details on lubrication are also included in the descriptions from component suppliers.
+关于润滑的具体规定同时还包含在零部件供应商的说明中。
+>> Supplier documentation / >>供应商文件
+
+Please also observe maintenance instructions on the maintenance signs and rating plates attached to the machine and components.
+请同时遵守设备和部件上的维护标志和铭牌上的维护说明。
+
+NOTICE: Incorrect disposal of lubricants endangers our environment.
+注意：润滑剂处置错误会污染我们的环境。
+a) Collect leaking oil and dispose of properly without causing environmental pollution! / 收集漏油，妥善处理，不会造成环境污染！
+b) Oil containing plant-based raw materials should always be collected and disposed of separately! / 包含植物基原油的润滑油应分开进行收集和处置！
+
+--- 4.8.1 Lubricating schedule for slewing devices / 回转装置的润滑时间表 --- [Pages 38-39]
+
+Lubrication Points:
+| No | Group assembly/Designation | 组件装配/名称 | Lubricant Type | First filling | Refill | Refill Interval | Change |
+|----|---------------------------|--------------|----------------|---------------|--------|-----------------|--------|
+| 1 | Wire tensioning device - fulcrum bearing / 网张紧装置-关节轴承 (2 pts) | Mobilith SHC PM460 | - | 2 g | 2000 h | - |
+| 3 | Worm gear screw jack Weingrill 15 / 蜗轮蜗杆千斤顶 (1 pt) | NLGI Grade 1 DIN 51818 (Mobilux EP1) | 1500 g | 75 g | Monthly / 每月一次 | 8000 h |
+| 4 | Felt guiding device - fulcrum bearing / 毛毯校正装置-关节轴承 (1 pt) | Mobilith SHC PM460 | - | 2 g | 150 h | - |
+| 5 | Gear motor for felt tensioning unit SEW RF47 DRN100LC4 / 毛毯张紧装置用齿轮电机 (1 pt) | CLP 220 | 0.65 l | - | every 6 months / 每6个月一次 | every 3 years / 每3年一次 |
+| 6 | Worm gear screw jack Weingrill 15 / 蜗轮蜗杆千斤顶 (2 pts) | NLGI Grade 1 DIN 51818 (Mobilux EP1) | 1500 g | 75 g | Monthly / 每月一次 | 8000 h |
+| 7 | Felt tensioning unit - rolls / 毛毯张紧装置-辊子 (14 pts) | Mobilith SHC PM460 | - | 1-2 g | 2000 h | - |
+| 8 | Wire tensioning device - fulcrum bearing / 网张紧装置-关节轴承 (2 pts) | Mobilith SHC PM460 | - | 2 g | 2000 h | - |
+| 9 | Wire guiding device - fulcrum bearing / 网校正装置-关节轴承 (1 pt) | Mobilith SHC PM460 | - | 2 g | 150 h | - |
+| 10 | Swing device for breast roll - fulcrum bearing / 胸辊用摆动装置-关节轴承 (2 pts) | Mobilith SHC PM460 | - | 2 g | 2000 h | - |
+| 11 | Tail cutter gear motor / 引纸水针齿轮电机 (1 pt) | >> SUPPLIER DOCUMENTATION | - | - | - | - |
+
+IMAGES: page37-img01.png, page37-img02.png, page38-img01.png, page38-img02.jpeg (Fig. 17: Lubrication points), page39-img01.png
+
+--- 4.8.2 Lubricating schedule for rolls and doctors / 辊和刮刀润滑时间表 --- [Pages 40-42]
+
+All rolls use Mobilith SHC PM460 grease:
+
+| Item | Group assembly / 名称 | Qty | First filling / 首次加注 | Refill / 再次加注 | Refill Interval | Change |
+|------|----------------------|-----|--------------------------|-------------------|-----------------|--------|
+| 2.1 | Forming roll / 成形辊 | 2 | Continue until grease pushed out / 持续加注直到油脂流出 | 90 g | 150 h | at least every 2 years / 至少每两年一次 |
+| 2.2 | Wire roll / 网辊 | 2 | Continue until grease pushed out | 70 g | 150 h | at least every 2 years |
+| 2.3 | Wire tension roll / 网张紧辊 | 2 | Continue until grease pushed out | 70 g | 150 h | at least every 2 years |
+| 2.4 | Regulating roll / 校正辊 | 2 | Continue until grease pushed out | 70 g | 150 h | at least every 2 years |
+| 2.5 | Breast roll / 胸辊 | 2 | Continue until grease pushed out | 70 g | 150 h | at least every 2 years |
+| 2.6 | Felt guide roll / 毛毯辊 | 2 | Continue until grease pushed out | 70 g | 150 h | at least every 2 years |
+| 2.7 | Felt guide roll / 毛毯辊 | 2 | Continue until grease pushed out | 70 g | 150 h | at least every 2 years |
+| 2.8 | Felt tension roll / 毛毯张紧辊 | 2 | Continue until grease pushed out | 70 g | 150 h | at least every 2 years |
+| 2.9 | Felt drive roll / 毛毯驱动辊 | 2 | Continue until grease pushed out | 70 g | 150 h | at least every 2 years |
+| 2.10 | Regulating roll / 校正辊 | 2 | Continue until grease pushed out | 70 g | 150 h | at least every 2 years |
+| 2.1,2.2,2.5,2.9,2.10 | Doctors / 刮刀 | 2 | 2-3 g or until clean grease pressed out / 2-3克或直至清洁油脂压出 | - | 150-300 hrs | - |
+
+IMAGES: page40-img01.jpeg, page40-img02.png (Fig. 18: Lubrication points), page41-img01.png, page42-img01.png, page42-img02.png
+
+--- 4.8.3 Lubricating schedule - showers / 润滑计划表-喷淋管 --- [Page 42]
+
+Lubricant: Lithium soap grease / 锂基润滑脂
+
+| Item | Structural component / 结构部件 | Designation / 名称 | Refilling / 再次加注 | Interval / 时间间隔 |
+|------|-------------------------------|-------------------|----------------------|---------------------|
+| 1.1 / 21.1 | Oscillating shower with cleaning device / 带有清洁装置的摆动喷淋管 | Cleaning device / 清洁装置 | 1-2 g | 300 h |
+| | | Bearing bushes / 轴承套 | 3-4 g | 150 h |
+| | | Plain bearing pedestal / 滑动轴承座 | 3-4 g | 150 h |
+| 11 / 33 | Oscillating shower with cleaning device (Chemicals shower) / 带有清洁装置的摆动喷淋管（化学品喷淋管） | Cleaning device / 清洁装置 | 1-2 g | 300 h |
+| 3 / 24.1,25.1,25.2 | Shower with cleaning device / 带清洁装置的喷淋管 | Cleaning device / 清洁装置 | 1-2 g | 300 h |
+
+IMAGES: page42-img01.png, page42-img02.png (Fig. 19: Lubrication points)
+
+
+================================================================================
+SECTION 5: BLADE CHANGE AT THE DOCTOR (4.9) | Page 43
+================================================================================
+
+Steps / 步骤:
+a) Raise the doctor from the respective roll. / 从对应辊升起刮刀。
+b) Wear protective gloves to pull the doctor blade out of the holder and place it next to the machine. / 戴上防护手套，将刮刀片从刮刀夹具上拔出，并将其放置在机器旁边。
+c) Wear safety gloves to insert a new doctor blade into the doctor holder and secure. / 戴上安全手套，将新的刮刀片插入刮刀夹具并加以固定。
+d) Set the doctor blade in operating position to the roll. / 将刮刀片设置在相对于辊的操作位置。
+
+NOTICE! Worn doctor blades have a negative effect on the cleanness of the reel drum. Level off doctor blades in good time or replace.
+注意！磨损的刮刀叶片对卷纸缸的清洁有负面影响。及时将刮刀片调平或更换。
+
+DANGER! Injuries during doctor changing. Risk to life and limb and risk of damaging the machine or one of its components. Doctor blades can swing out or fall into the pulper. Since doctor blades can cause cut wounds, ensure that there is no-one else in the immediate vicinity when changing the blade.
+危险！更换刮刀时受伤危险。存在危及生命和肢体的风险以及损坏机器或其部件的风险。刮刀片可以摆出或掉进碎浆机内。因为刮刀片会造成割伤，所以当更换刀片时，确保附近没有其他人。
+
+IMAGES: page43-img01.png, page43-img02.png
+
+
+================================================================================
+SECTION 6: SWINGING THE HEADBOX, BREAST ROLL AND TENSION ROLLS (4.10) | Pages 43-49
+================================================================================
+
+--- 4.10.1 Control panel - headbox / 控制面板-流浆箱 --- [Page 43]
+Turn the key-operated switch (G) at the control panel from "OPERATION" to "SERVICE" and relieve the tension on the tensioning roll by pushing the button (F).
+在控制面板上将操作开关（G）从"操作"转到"服务"，并按下按钮（F），以松开张紧辊上的张力。
+
+--- 4.10.2 Relieve tension on felt / 松开毛毯张力 --- [Page 43]
+Turn the key-operated switch (G) at the control panel from "OPERATION" to "SERVICE" and relieve the tension on the tensioning roll by pushing the button (N).
+在控制面板上将操作开关（G）从"操作"转到"服务"，并按下按钮（N），以松开张紧辊上的张力。
+
+--- 4.10.3 Raising the breast roll / 提升胸辊 --- [Page 44]
+Steps / 步骤:
+a) Detach the eye bolts (1) on the operator side and drive side and swing down. / 将操作侧和传动侧的活节螺栓（1）分别拧开并摆动下来。
+b) Push the button (A) before raising the breast roll electrically. This confirms that the eye bolts have been swung down. / 在电动升起胸辊前，按下按钮（A）。这确认了活节螺栓已摆动下来。
+c) Swing the breast roll by pushing the button (B), swing into the "Service position" and secure in place with the retention pins (2) on the operator and drive sides. / 通过按下按钮（B）来摆动胸辊，摆动到"服务位置"，并利用操作侧和传动侧固定销（2）定位。
+
+IMAGES: page44-img01.png, page44-img02.png, page44-img03.jpeg (Fig. 20: Raising the breast roll)
+
+--- 4.10.4 Swinging the headbox into the felt changing position / 将流浆箱摆动到换毯位置 --- [Page 45]
+
+DANGER: Danger of crushing when swinging the headbox. Moving machine components can create mortal danger.
+危险：流浆箱摆动期间会产生挤压危险。活动的设备部件会产生严重危险。
+a) Always make sure that there is no-one in the danger zone! / 保证危险区内部没有人员！
+
+NOTICE! Before swinging upwards or downwards, always check whether the front part of the headbox can move freely. Risk of damage to machine or one of its components. Stop immediately if the swing movement is obstructed (K). Maintenance work on the headbox is only permitted when locking devices are in use.
+注意！上下摆动之前，始终要检查流浆箱的前端是否可以自由移动。机械设备及其部件有损坏危险。如果摆动受到阻碍（K），立即停止摆动。只能在使用锁定装置的情况下方可进行流浆箱的维护作业。
+
+Steps / 步骤:
+a) Breast roll retracted (swivelled up) / 胸辊回收（向上旋转）
+b) Eye bolts M30 open (1*OS and 1*DS) / 打开有眼螺栓M30（1*操作侧和1*传动侧）
+c) Swing the headbox CW with ratchet until sidewall hits the stop bolt OS+DS / 用棘轮顺时针摆动流浆箱直到侧壁碰到定位销
+
+IMAGES: page45-img01.png, page45-img02.png, page45-img03.png (Fig. 21: Felt changing position)
+
+--- 4.10.5 Swing headbox into cleaning position (header and turbulence banks) / 将流浆箱摆入清洁位置（收集器和湍流发生器）--- [Pages 46-47]
+
+DANGER: Danger of crushing when swinging the headbox. Moving machine components can create mortal danger.
+危险：流浆箱摆动期间会产生夹持危险。活动的设备部件会产生严重危险。
+a) Always make sure that there is no-one in the danger zone! / 保证危险区内部没有人员！
+
+NOTICE! Before swinging upwards or downwards, always check whether the front part of the headbox can move freely. Risk of damage to the machine or one of its components. Stop immediately if the swing movement is obstructed.
+注意！上下摆动之前，始终检查流浆箱的前端是否可以自由移动。机械设备及其部件有可能导致危险。如果摆动受到阻碍，立即停止摆动。
+
+DANGER! If the supports are not mounted Risk to life and limb and risk of damaging the machine or one of its components. Maintenance work on the headbox is only permitted with the safety supports mounted.
+危险！如果未安装支架，存在对生命和肢体的风险及损害机器和部件风险。只有在安装了安全支架的情况下，才允许对流浆箱进行维护工作。
+
+Steps / 步骤:
+a) Disconnect compensator from header (look at DRW.703604284) / 从流浆箱断开补偿器
+   1. Open 8*bolt connection / 打开8*螺栓连接
+   2. Squeeze compensator 5mm and rest pipe of recirculation on holding plate / 在托板上挤压补偿器5mm和再循环休息管
+   3. Loosen 20*nuts of eye bolts <10mm / 拧松20*螺母的带眼螺栓<10mm
+   4. Screw back intermediate piece with M36 nuts 5mm / 用5mm的M36螺母将中间件旋回
+   5. Fix intermediate piece with screws M30 / 用M30螺丝固定中间件
+   6. Swing back 20*eye bolts / 旋回20*有眼螺栓
+   7. Remove 2*taper pins / 移走2*锥形销
+b) Connect header with 3to shackle and 3to rope with house crane / 用起重机连接流浆箱
+c) Open header eye bolts M20 (38*over the whole width on the top) / 打开流浆箱M20有眼螺栓（顶部全宽38个）
+   Open header eye bolts M20 (38*over the whole width on the bottom) / 打开流浆箱M20有眼螺栓（底部全宽38个）
+d) Remove retention pins OS+DS / 拆卸定位销操作侧+传动侧
+e) Lift header with house crane until the pointers align (only OS) / 用起重机吊起流浆箱直到指针对齐（仅操作侧）
+f) Secure header with retention pins OS+DS / 使用定位销保护流浆箱操作侧+传动侧
+g) Close in reverse direction / 反向关闭
+
+IMAGES: page46-img01.png, page46-img02.png, page47-img01.png, page47-img02.png (Fig. 3/4: Cleaning position)
+
+--- 4.10.6 Swinging the headbox into forming roll change position / 将流浆箱摆动到更换成型辊位置 --- [Page 48]
+
+DANGER: Danger of crushing when swinging the headbox. Moving machine components can create mortal danger.
+危险：流浆箱摆动期间会产生夹持危险。活动的设备部件会产生严重危险。
+a) Always make sure that there is no-one in the danger zone! / 保证危险区内部没有人员！
+
+NOTICE! Before swinging upwards or downwards, always check whether the front part of the headbox can move freely.
+注意！上下摆动之前，始终检查流浆箱的前端是否可以自由移动。
+
+DANGER! If the supports are not mounted Risk to life and limb. Maintenance work on the headbox is only permitted with the safety supports mounted.
+危险！如果未安装支架，存在对生命和肢体的风险。只有在安装了安全支架的情况下，才允许对流浆箱进行维护工作。
+
+Steps / 步骤:
+a) Breast roll retracted (swivelled up) / 胸辊回收（向上旋转）
+b) Disconnect compensator / 断开补偿器
+c) Dismount adjusting block and loosen fixing screws / 拆卸调节块，松开固定螺丝
+d) Fix headbox with eyebolt M30-OS+DS / 用有眼螺栓M30固定流浆箱操作侧+传动侧
+e) Lift complete headbox with house crane and move 575 mm in dryend direction - use 4*delivered lifting lugs JDT TP17 as shown in drw. 703603372 / 用起重机吊起整个流浆箱，向干部方向移动575mm - 用图703603372中的4个起重吊耳
+f) Fix headbox with 4 screws M20 OS+DS / 用螺栓M20固定流浆箱操作侧+传动侧
+!!Take care for cables on drive side!!! / 注意驱动侧的电缆
+
+IMAGES: page48-img01.png, page48-img02.png (Fig. 5: Forming roll change position)
+
+--- 4.10.7 Swinging the headbox into the operating position / 将流浆箱摆动到工作位置 --- [Page 49]
+The headbox is swung back into the operating position by performing the actions described above in reverse order.
+按照上文介绍的相反步骤，将流浆箱摆动到工作位置。
+
+NOTICE! The machine may be damaged by mechanical interlocking devices when swinging downwards. The supports must be removed before swinging downwards.
+注意！向下摆动时，设备内部的锁定装置有可能损坏机械设备。向下摆动之前应当拆除支撑。
+
+After swinging into the operating position, all screws must be swung back into position and mounted with the correct tightening torque.
+摆动到工作位置之后，应当将全部螺钉放回原位并用正确的力矩拧紧。
+
+IMAGES: page49-img01.png, page49-img02.jpeg
+
+
+================================================================================
+SECTION 7: CHANGING THE MACHINE CLOTHING (4.11) | Pages 50-64
+================================================================================
+
+--- 4.11 General / 总则 --- [Page 50]
+PREPARATION / 准备:
+The following parts must be prepared before starting to change the machine clothing:
+在开始更换设备器材之前，必须准备以下工具：
+- Tools / 工具
+- Lifting devices / 提升装置
+- Wires, ropes / 网，绳
+- Components for changing the machine clothing / 更换设备器材用的部件
+- Machine clothing / 设备器材
+
+GENERAL / 总则:
+The following items are to be cleaned and checked at each change of machine clothing:
+每次更换设备器材时，应清洗和检查下列物品：
+- Clean Uhle boxes, showers, rolls, doctors and frame. / 清洁吸水箱、喷淋管、辊、刮刀和机架。
+- Remove operator-side blank flanges from Uhle box, clean the inside of the box and flush it out. / 从吸水箱上拆除操作侧的盲法兰，清洁吸水箱内部并冲洗干净。
+- Clean suction box linings. / 清洁真空箱衬里。
+- Clean and flush out waste water trays. / 清洗和冲洗废水盘。
+- Check shower nozzles and clean showers using cleaning device. / 使用清洁设备，检查喷淋喷嘴和清洁喷淋管。
+- Check all doctor and scraper blades, and clean if necessary. / 检查所有刮刀和刮刀片，并在必要时进行清洁。
+- Rotate the suction box for the suction press roll back and forth to prevent any dirt from drying on. / 旋转真空箱，以实现真空压榨辊前后移动，防止任何污垢干燥在压榨辊上。
+- Check all roll covers. / 检查所有辊护罩。
+- Check the holes in the suction press roll and clean with a high-pressure shower if necessary. / 检查真空压榨辊上的各个孔，必要时用高压喷淋管进行清洗。
+
+WARNING: Trapping and crushing - Limbs can be trapped or crushed during work.
+警告：夹住与辗压 - 作业中，肢体可能被夹住或辗压。
+a) Do not place your hand below suspended loads! / 不得将手放在悬挂负载下方！
+b) Wear your personal protective equipment! / 穿戴个人防护装备！
+c) Moving parts that are able to change position and thus have crushing or shearing points must be secured in position with supporting bars or equivalent measures (e.g. lowering). / 运转部件能够改变位置，因此具有挤压点或剪切点，必须使用支撑杆将其固定到位或采取等效措施（如放低）。
+
+IMAGES: page50-img01.png
+
+--- [Page 51] ---
+DANGER: Falls when working - Mortal danger due to falls when working.
+危险：作业时坠落 - 作业时坠落而造成死亡危险。
+- Greater risk of accidents because some gratings, walkway railings, protective devices, etc. have to be removed or swung out of position. / 因为一些格栅、走台栏杆、保护装置等必须移走或摆出其位置，存在重大事故风险。
+a) Use stable ladders and platforms! / 使用稳定的梯子和平台！
+b) Wear your personal protective equipment! / 穿戴个人防护装备！
+
+DANGER! When climbing onto the forming roll. Use stable ladders and platforms. Secure cross-walkway provided above the forming roll.
+危险！当爬上成形辊时，使用稳定的梯子和平台。在成形辊上方设置稳固的十字型走台。
+
+NOTICE! Protruding machine parts with sharp edges can damage the new wire or felt. Cover such parts with old felts.
+注意！带锋利边缘的凸出机械零件可能损坏新的网或毛毯。用旧毛毯盖住这样的零件。
+
+IMAGES: page51-img01.png
+
+--- 4.11.1 Changing the wire / 更换网 --- [Pages 52-58]
+
+--- 4.11.1.1 Relieve wire tension / 松开网张力 --- [Page 52]
+Steps:
+a) Run tension roll (2.3) right in. See >> Relieve tension on the wire and felt / 向内运行张紧辊（2.3），参见>松开网和毛毯张力。
+
+IMAGES: page52-img01.png, page52-img02.png, page52-img03.jpeg (Fig. 7/8: Relieve wire tension)
+
+--- 4.11.1.2 Run breast roll and headbox upwards / 向上运行胸辊和流浆箱 --- [Page 53]
+Steps:
+a) To run breast roll upwards, please refer to >> Raising the breast roll. / 若要向上运行胸辊，请参阅>升起胸辊。
+b) To swing the headbox into the wire changing position, please refer to >> Swinging the headbox into the wire changing position. / 若要将流浆箱摆动到换网位置，请参阅>将流浆箱摆动到换网位置。
+
+IMAGES: page53-img01.png, page53-img02.png
+
+--- 4.11.1.3 Starting position / 开始位置 --- [Page 54]
+IMAGES: page54-img01.png, page54-img02.png, page54-img03.png (Fig. 9/10: Before wire changing)
+
+--- 4.11.1.4 Changing the wire / 更换网 --- [Pages 55-57]
+(Steps illustrated via diagrams - wire removal and installation sequence)
+IMAGES: page55-img01.png, page55-img02.png, page55-img03.png, page56-img01.png, page56-img02.png, page56-img03.png, page57-img01.png, page57-img02.png, page57-img03.png
+
+--- 4.11.1.5 Preparing the wire for operation / 运行前网的准备工作 --- [Page 58]
+Steps:
+a) Carry out the steps described for wire changing in reverse order to prepare the wire for operation. / 按换网的相反顺序，执行步骤，以便为操作准备网。
+b) Move the breast roll (2.5) into the operating position. Carry out the steps described for wire changing in reverse order to prepare the wire for operation. / 将胸辊（2.5）移动到操作位置。按换网的相反顺序，执行步骤，以便为操作准备网。
+c) Tension wire and check wire run. / 张紧网并检查网的运行。
+
+IMAGES: page58-img01.png, page58-img02.png
+
+--- 4.11.2 Felt changing / 毛毯更换 --- [Pages 59-64]
+
+--- 4.11.2.1 Starting position / 开始位置 --- [Page 59]
+IMAGES: page59-img01.png, page59-img02.png, page59-img03.png
+
+--- 4.11.2.2 (not numbered in source) --- [Page 60]
+IMAGES: page60-img01.png, page60-img02.png, page60-img03.png
+
+--- 4.11.2.3 Changing the felt / 更换毛毯 --- [Pages 60-64]
+(Steps illustrated via diagrams - felt removal and installation sequence)
+IMAGES: page60-img01.png, page60-img02.png, page60-img03.png, page61-img01.png, page61-img02.png, page61-img03.png, page62-img01.png, page62-img02.png, page62-img03.png, page63-img01.png, page63-img02.png, page63-img03.png, page64-img01.png, page64-img02.png
+
+
+================================================================================
+SECTION 8: ROLL CHANGE (4.12) | Pages 65-81
+================================================================================
+
+--- 4.12 General / 总则 --- [Page 65]
+PREPARATION / 准备:
+The following parts must be prepared before starting to change the rolls:
+在开始更换辊之前，必须准备下列零件：
+- Tools / 工具
+- Lifting devices / 提升装置
+- Wires, ropes / 网，绳
+- Roll changing parts / 辊更换零件
+- Rolls / 辊子
+
+The machine must be thoroughly cleaned before carrying out any maintenance work.
+进行任何维护作业前，必须将设备彻底清洁。
+
+REQUIREMENTS / 要求:
+- Cranes, if possible with two trolleys / 起重机，如果可能的话，带两个小车
+- ANDRITZ special tools / 安德里茨有限公司专用工具
+- at least 2 persons for roll change / 至少安排2人完成辊的更换
+
+WARNING: Trapping and crushing - Limbs can be trapped or crushed during work.
+警告：夹住与辗压 - 作业中，肢体可能被夹住或辗压。
+a) Do not place your hand below suspended loads! / 不要将手放在悬吊载荷下方！
+b) Wear your personal protective equipment! / 穿戴个人防护装备！
+c) Moving parts that are able to change position and thus have crushing or shearing points must be secured in position with supporting bars or equivalent measures (e.g. lowering). / 能够改变位置从而具有破碎点或剪切点的运动部件，必须用支撑杆或类似措施(例如降低)固定在相应位置。
+
+WARNING: Removed protection devices during roll change - There is a greater risk of accidents when changing the rolls because some gratings, walkway railings, safety devices, etc., have to be removed or moved out of position.
+警告：换辊时拆下保护装置 - 由于在更换辊期间，一些格栅、走台栏杆、安全装置等必须移走或移出位置，因此存在更高的事故风险。
+a) Use stable ladders and platforms! / 使用稳定的梯子和平台！
+b) Wear your personal protective equipment! / 穿戴个人防护装备！
+
+IMAGES: page65-img01.png
+
+--- [Page 66] ---
+CAUTION: Incorrect roll installation - Machine damage may be caused by incorrect roll installation.
+小心：不正确的辊安装 - 不正确的辊安装可能导致机器损坏。
+a) When tightening the screws after roll changing, make sure that the roll bearing housings rest against the appropriate limit stops. / 换辊后拧紧螺钉时，确保辊子的轴承座支撑在正确限定的位置。
+b) When installing a roll, check that the fixed bearing is always on the drive side of the machine. / 安装辊时，检查固定轴承是否总是处在机器的传动侧。
+
+CAUTION: Risk of crushing - Risk of crushing due to swivelling rolls.
+小心：挤压风险 - 由于旋转辊存在挤压风险。
+a) On machine drive side a 2nd person must observe the movements of the machine! / 在机器驱动端，必须指派第二人，观察机器的运动！
+b) There must be a voice connection between operator and assistants (walky-talky)! / 在操作员和助手之间必须有语音沟通（对讲机）！
+
+IMAGES: page66-img01.png, page66-img02.png
+
+--- 4.12.1 Starting position / 开始位置 --- [Page 66]
+Steps:
+a) Clean the machine. / 清洗设备
+b) When changing the rolls 2.2, 2.3, 2.4 and 2.5, remove the wire. / 更换2.2、2.3、2.4及2.5辊时，拆除网。
+c) When changing rolls 2.1, 2.6, 2.7, 2.8, 2.9 and 2.10 remove the felt. / 更换2.1、2.6、2.7、2.8、2.9和2.10辊时，拆除毛毯。
+d) When changing rolls 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9 and 2.10 mount one slip-on tube each on the operator side and the drive side. / 更换2.2、2.3、2.4、2.5、2.6、2.7、2.8、2.9和2.10辊时，在操作侧和传动侧各安装一个滑动管。
+e) When changing rolls 2.2, 2.3, 2.6, 2.7, 2.10, mount the run-out rails. / 当更换2.2、2.3、2.6、2.7、2.10辊时，安装移出轨道。
+f) Detach all lines connected up (lubrication, etc.) at the respective roll. / 断开对应辊上连接的所有管线（润滑等）。
+g) Raise the doctor from the respective roll. / 从对应辊升起刮刀。
+h) Remove railings and protective gratings as far as necessary. / 在有需要时尽量拆除栏杆及护栏。
+
+IMAGES: page66-img01.png, page66-img02.png
+
+--- 4.12.2 Mounting the slip-on tubes / 安装滑动管 --- [Page 67]
+Steps:
+a) Remove the bolts (1) and dismount the safety cover (2). / 拆除螺栓（1）并卸下安全罩（2）。
+b) Push the slip-on tube (3) onto the shaft (5) as far as the limit stop (4). / 将滑动管（3）推到轴（5）上，直至极限点（4）。
+c) Secure the slip-on tube by tightening the headless pins (6). / 通过拧紧无头销（6），固定滑动管。
+
+IMAGES: page67-img01.png, page67-img02.png, page67-img03.jpeg (Fig. 11/12: Mounting the slip-on tubes)
+
+--- 4.12.3 Mounting the run-out rails / 安装移出轨道 --- [Page 68]
+Steps:
+a) Push the auxiliary rail (1) into the frame under the respective roll. The holding angles (2) on the underside of the auxiliary rail must lock into the support (3). / 将辅助轨（1）推入相应辊下的机架中。辅助轨底面的支撑角（2）必须锁定在支撑（3）中。
+b) Lift the run-out rails (4) into place in front of the auxiliary rail using the machine room crane. / 使用设备间起重机，将移出轨道（4）吊到辅助轨前面。
+c) Push the run-out rail into the frame by means of the auxiliary rail using the machine room crane or a fork lift truck. / 使用设备间起重机或叉车，依靠辅助钢轨，将移出轨推入机架中。
+
+IMAGES: page68-img01.png, page68-img02.png, page68-img03.jpeg (Fig. 13/14: Mounting the run-out rails)
+
+--- 4.12.4 Changing the forming roll 2.1 / 更换成形辊2.1 --- [Pages 68-69]
+Steps:
+a) Swing headbox (2) into roll changing position. The breast roll (2.5) remains in the top position. >> Swinging the headbox into the cleaning position / 将流浆箱（2）摆入换辊位置。胸辊（2.5）保持在顶部位置。>>将流浆箱摆动到清理位置
+b) Relieve wire tension. / 松开网张力。
+c) Dismount cardan shaft. / 拆除万向轴。
+d) Lift off doctor (3). / 抬起刮刀（3）。
+e) Remove breast roll support (4) on the operator side. / 拆除操作侧的胸辊支架（4）。
+f) Suspend the roll from the machine room crane with one belt each at the operator-side and drive-side bearing covers (5). / 在操作侧和传动侧轴承盖（5）处各用一根吊带，从设备间起重机悬吊起辊。
+g) Detach the operator-side and drive-side fastening screws of the bearing housings. / 松开操作侧和传动侧的轴承座紧固螺钉。
+h) Slightly raise the forming roll and lift it out of the machine towards the operator side. / 稍微提升成形辊，并将其向操作侧抬出机器。
+
+IMAGES: page68-img01.png, page68-img02.png, page68-img03.jpeg, page69-img01.png, page69-img02.png, page69-img03.jpeg (Fig. 15-18: Changing the forming roll 2.1)
+
+--- 4.12.5 Changing the wire roll 2.2 / 更换网辊2.2 --- [Pages 70-71]
+Steps:
+a) Move the run-out rail (1) into position. / 将移出轨（1）移动到位置。
+b) Swing the doctor away using the lever (2) attached at the operator side. / 使用连接在操作侧的摆臂（2），摆开刮刀。
+c) Mount one slip-on tube each on the operator side and the drive side. / 在辊操作侧和传动侧各安装一个滑动管。
+d) Suspend the roll from the machine room crane with one belt each at the operator side and drive side. / 利用在操作侧和传动侧各一根吊带，从设备室起重机中吊起辊。
+e) Detach the operator-side and drive-side fastening screws (3) of the bearing housings. / 松开操作侧和传动侧轴承座的紧固螺钉（3）。
+f) Place the roll on the run-out carriage (1). Remove the drive-side belt. Pull the roll out of the frame by approximately 2/3 with the operator-side belt. / 将辊放在移出架（1）上。拆除传动侧吊带。用操作侧吊带，将辊拉出机架约为2/3。
+g) Lift roll with belts round the center of the roll and lift out of the machine. / 在辊子中心附近穿上吊带，抬起辊，并将其抬出机器。
+
+IMAGES: page70-img01.png, page70-img02.png, page71-img01.png, page71-img02.png, page71-img03.png (Fig. 19/20: Changing the bottom wire guide roll 2.2)
+
+--- 4.12.6 Changing the wire tension roll 2.3 / 更换网张紧辊2.3 --- [Pages 72-73]
+Steps:
+a) Run tension roll (2.3) right in. See >> Relieve tension on the wire and felt / 运行张紧辊（2.3）右旋松开张力。参见>>松开网和毛毯上的张力
+b) Unscrew splash guard (1) and roll out of the way. / 松开防飞溅护罩（1），并吊开。
+c) Swing the doctor away using the lever (2) attached at the operator side. / 使用连接在操作侧的摆臂（2），摆开刮刀。
+d) Mount one slip-on tube each on the operator side and the drive side. / 在操作侧和传动侧各安装一个滑动管。
+e) Suspend the roll from the machine room crane with one belt each at the operator side and drive side. / 利用在操作侧和传动侧各一根吊带，从设备室起重机中吊起辊。
+f) Detach the operator-side and drive-side fastening screws (3) of the bearing housings. / 松开操作侧和传动侧轴承座的紧固螺钉（3）。
+g) Slightly raise the roll using the crane and lift it out of the machine on the operator side. / 使用起重机轻微地升起辊，并将其从操作侧抬出机器。
+
+IMAGES: page72-img01.png, page72-img02.png, page72-img03.png, page72-img04.png, page73-img01.png, page73-img02.png, page73-img03.png, page73-img04.png (Fig. 21/22: Changing the wire tension roll 2.3)
+
+--- 4.12.7 Changing the regulating roll 2.4 / 更换校正辊2.4 --- [Page 74]
+Steps:
+a) Dismount the splash guard (1). / 拆除防飞溅护罩（1）。
+b) Relieve the pressure on the doctor. / 降低刮刀上的压力。
+c) Mount one slip-on tube each on the operator side and the drive side. / 在操作侧和传动侧各安装一个滑动管。
+d) Suspend the roll from the machine room crane with one belt each at the operator side and drive side. / 利用在操作侧和传动侧各一根吊带，从设备室起重机中吊起辊。
+e) Detach the operator-side and drive-side fastening screws (3) of the bearing housings. / 松开操作侧和传动侧轴承座的紧固螺钉（3）。
+f) Slightly raise the roll using the crane and lift it out of the machine on the operator side. / 使用起重机轻微地升起辊，并将其从操作侧抬出机器。
+
+IMAGES: page74-img01.png, page74-img02.png, page74-img03.png (Fig. 23/24: Changing the regulating roll 2.4)
+
+--- 4.12.8 Changing the breast roll 2.5 / 更换胸辊2.5 --- [Page 75]
+Steps:
+a) Swing breast roll (2.5) upwards. >> Raising the breast roll / 向上升起动胸辊（2.5）。>>升起胸辊
+b) Swing the doctor away using the lever (1) attached at the operator side. / 使用连接在操作侧的摆臂（1），摆开刮刀。
+c) Remove the safety cover. / 拆除安全护罩。
+d) Mount one slip-on tube each on the operator side and the drive side. / 在操作侧和传动侧各安装一个滑动管。
+e) Suspend the roll from the machine room crane with one belt each at the operator side and drive side. / 利用在操作侧和传动侧各一根吊带，从设备室起重机中吊起辊。
+f) Detach the operator-side and drive-side fastening screws (3) of the bearing housings. / 松开操作侧和传动侧轴承座的紧固螺钉（3）。
+g) Slightly raise the roll using the crane and lift it out of the machine on the operator side. / 使用起重机轻微地升起辊，并将其从操作侧抬出机器。
+
+IMAGES: page75-img01.png, page75-img02.png, page75-img03.png (Fig. 25/26: Changing the breast roll 2.5)
+
+--- 4.12.9 Changing the felt guide roll 2.6, 2.7 / 换毯辊2.6、2.7 --- [Pages 76-77]
+Steps:
+a) Move the run-out rail (1) into position. / 将移出轨（1）移动到位置。
+b) Mount one slip-on tube each on the operator side and the drive side. / 在操作侧和传动侧各安装一个滑动管。
+c) Wire roll 2.6: Suspend the roll from the machine room crane with a belt at the operator-side slip-on tube. Suspend the roll from a chain hoist with a belt at the drive-side slip-on tube. / 网辊2.6：在操作侧滑动管处，穿上吊带，用设备间的起重机，吊起辊。在传动侧滑动管处，穿上吊带，用葫芦，吊起辊。
+   Wire roll 2.7: Suspend the roll from the machine room crane with one belt each at the operator side and drive side. / 网辊2.7：利用在操作侧和传动侧各一根吊带，从设备室起重机中吊起辊。
+d) Detach the operator-side and drive-side fastening screws (2) of the bearing housings. / 松开操作侧和传动侧轴承座的紧固螺钉（2）。
+e) Place the roll on the run-out carriage (1). Remove the drive-side chain hoist. Pull the roll out of the frame by approximately 2/3 with the operator-side belt. / 将辊放置在移出架（1）上。拆除传动侧葫芦。用操作侧吊带，将辊拉出机架约为2/3。
+f) Lift roll with belts round the center of the roll and lift out of the machine. / 在辊子中心附近穿上吊带，抬起辊，并将其抬出机器。
+
+IMAGES: page76-img01.png, page76-img02.png, page76-img03.png, page76-img04.png, page76-img05.png, page77-img01.png, page77-img02.png, page77-img03.png, page77-img04.png (Fig. 27/28: Changing the felt guide rolls 2.6, 2.7)
+
+--- 4.12.10 Changing the felt tension roll 2.8 / 换毯张紧辊2.8 --- [Page 78]
+Steps:
+a) Remove bolts (1) and remove splash guard (2). / 拆除螺栓（1）和拆除防飞溅护罩（2）。
+b) Remove bolts and detach shower (3). / 拆卸螺栓和拆除喷淋管（3）。
+c) Mount one slip-on tube each on the operator side and the drive side. / 在操作侧和传动侧各安装一个滑动管。
+d) Suspend the roll from the machine room crane with one belt each at the operator side and drive side. / 利用在操作侧和传动侧各一根吊带，从设备室起重机中吊起辊。
+e) Detach the operator-side and drive-side fastening screws (4) of the bearing housings. / 松开操作侧和传动侧轴承座的紧固螺钉（4）。
+f) Raise the roll using the crane and lift it out of the machine on the operator side. / 使用起重机轻微地升起辊，并将其从操作侧抬出机器。
+
+IMAGES: page78-img01.png, page78-img02.png, page78-img03.png, page78-img04.png, page78-img05.png, page78-img06.png (Fig. 29/30: Changing the felt tension roll 2.8)
+
+--- 4.12.11 Changing the felt drive roll 2.9 / 换毯驱动辊2.9 --- [Pages 79-80]
+Steps:
+a) Dismount cardan shaft. / 拆除万向轴。
+b) Swing the doctor away using the lever (1) attached at the operator side. / 使用连接在操作侧的摆臂（1），摆开刮刀。
+c) Remove the safety cover. / 拆除安全护罩。
+d) Mount one slip-on tube each on the operator side and the drive side. / 在操作侧和传动侧各安装一个滑动管。
+e) Suspend the roll from the machine room crane with one belt each at the operator side and drive side. / 利用在操作侧和传动侧各一根吊带，从设备室起重机中吊起辊。
+f) Detach the operator-side and drive-side fastening screws (2) of the bearing housings. / 松开操作侧和传动侧轴承座的紧固螺钉（2）。
+g) Slightly raise the roll using the crane and lift it out of the machine on the operator side. / 使用起重机轻微地升起辊，并将其从操作侧抬出机器。
+
+IMAGES: page79-img01.png, page79-img02.png, page80-img01.png, page80-img02.png, page80-img03.png, page80-img04.png (Fig. 31/32: Changing the felt drive roll 2.9)
+
+--- 4.12.12 Changing the regulating roll 2.10 / 更换校正辊2.10 --- [Page 81]
+Steps:
+a) Move the run-out rail (1) into position. / 将移出轨（1）移动到位置。
+b) Relieve the pressure on the doctor (2). / 降低刮刀上的压力（2）。
+c) Mount one slip-on tube each on the operator side and the drive side. / 在操作侧和传动侧各安装一个滑动管。
+d) Suspend the roll from the machine room crane with one belt each at the operator side and drive side. / 利用在操作侧和传动侧各一根吊带，从设备室起重机中吊起辊。
+e) Detach the operator-side and drive-side fastening screws (3) of the bearing housings. / 松开操作侧和传动侧轴承座的紧固螺钉（3）。
+f) Place the roll on the run-out carriage (1). Remove the drive-side belt. Pull the roll out of the frame by approximately 2/3 with the operator-side belt. / 将辊放在移出架（1）上。拆除传动侧吊带。用操作侧吊带，将辊拉出机架约为2/3。
+g) Lift roll with belts round the center of the roll and lift out of the machine. / 在辊子中心附近穿上吊带，抬起辊，并将其抬出机器。
+
+IMAGES: page81-img01.png, page81-img02.png, page81-img03.png, page81-img04.png, page81-img05.png (Fig. 33/34: Changing the regulating roll 2.10)
+
+
+================================================================================
+SECTION 9: CHANGING OF ROLL BEARINGS (4.13) | Pages 82-86
+================================================================================
+
+--- 4.13.1 General information and preparations / 一般资料和准备工作 --- [Page 82]
+
+--- 4.13.1.1 Changing the bearings / 更换轴承 ---
+In order to avoid bearing damage, it is essential to observe the lubricating intervals stated in the lubricating schedule and to use the recommended lubricants or a suitable equivalent.
+为了避免轴承损坏，必须遵守润滑表中规定的润滑间隔，并使用推荐的润滑剂或合适的等效润滑剂。
+
+When changing the rolls and bearings, make sure that the fixed bearing is always on the drive side of the machine!
+更换辊和轴承时，请确保固定轴承始终位于机器的传动侧！
+
+For detailed information on installing, removing and maintaining anti-friction bearings, see:
+关于耐磨轴承安装、拆卸和维护的详细信息，请参阅：
+>> /ANNEX/Maintenance, installation and removal of anti-friction bearings / >> /附件/耐磨轴承的维护、安装和拆卸
+
+The bearings are changed after the appropriate roll has been removed.
+更换轴承应在拆除对应的辊之后。
+
+--- 4.13.1.2 Safety instructions / 安全指导 ---
+WARNING: Trapping and crushing - Limbs can be trapped or crushed during work.
+警告：夹住与辗压 - 作业中，肢体可能被夹住或辗压。
+a) Do not place your hand below suspended loads! / 不要将手放在悬吊载荷下方！
+b) Wear your personal protective equipment! / 穿戴个人防护装备！
+c) Moving parts that are able to change position and thus have crushing or shearing points must be secured in position with supporting bars or equivalent measures (e.g. lowering). / 能够改变位置从而具有破碎点或剪切点的运动部件，必须用支撑杆或类似措施(例如降低)固定在相应位置。
+
+NOTICE! The bearing play must be set using the hydraulic nut, bearing play: C3. Always observe the installation instructions issued by the bearing manufacturer.
+注意！轴承间隙必须用液压螺母设定，轴承游隙：C3。始终遵守轴承制造商给出安装说明书。
+
+NOTICE! All parts must be cleaned, and all bright-finish parts and fits must be greased before assembling. Always inspect seals, sealing surfaces and fits for wear before they are assembled.
+注意！必须清洗所有零件，所有抛光零件和配合必须在装配前进行润滑。在装配之前，一定要检查密封件、密封表面和装配的磨损。
+
+IMAGES: page82-img01.png
+
+--- 4.13.2 Bearing change - Wire and felt guide rolls without drive / 轴承更换-不带驱动装置的网和毛毯辊 --- [Page 83]
+
+--- 4.13.2.1 Disassembly / 拆卸 ---
+Steps:
+a) Remove the bolts (1) and dismount the safety cover (2). / 拆除螺栓（1）并卸下安全罩（2）。
+b) Detach screws (3) and remove the outer bearing cover (4). / 松开螺钉（3），拆除外轴承盖（4）。
+c) Remove protection plate (5). / 拆除保护板（5）。
+d) Loosen the shaft nuts (6) by 2 to 3 turns. / 松开轴锁紧螺母（6）2至3圈。
+e) Connect up a hydraulic hand pump to the forcing bore (7) and push bearing (8) off. / 将液压手动泵连接到压力孔（7），并将轴承（8）推开。
+f) Dismount hydraulic hand pump, close off forcing bore in roll journal with the screw plug. / 拆除液压手动泵，用螺塞堵上轴颈中的压力孔。
+g) Dismount the bearing housing (9) with the labyrinth ring (10). / 将迷宫环（10）与轴承座（9）一起拆除。
+
+Anti-friction bearing type: 22319 CCK/W33 C3
+Bearing assembly: Wire and felt guide rolls / 网和毛毯辊
+
+IMAGES: page83-img01.png, page83-img02.png, page83-img03.jpeg (Fig. 35/36: Operating side and drive side - fixed bearing)
+
+--- 4.13.3 Bearing change - felt drive roll / 轴承更换-毛毯驱动辊 --- [Page 84]
+
+--- 4.13.3.1 Disassembly / 拆卸 ---
+Steps:
+a) Remove the protective cover (1) and dismount the V-ring (2). / 拆下保护罩（1），拆除V形环（2）。
+b) Detach screws (3) and remove the outer bearing cover (4). / 松开螺钉（3），拆除外轴承盖（4）。
+c) Remove protection plate (5). / 拆除保护板（5）。
+d) Loosen the shaft nuts (6) by 2 to 3 turns. / 松开轴锁紧螺母（6）2至3圈。
+e) Connect up a hydraulic hand pump to the forcing bore (7) and push off the self-aligning roller bearing (8). / 将液压手动泵连接到孔压力（7），并推开自调心滚子轴承（8）。
+f) Dismount hydraulic hand pump, close off forcing bore in roll journal with the screw plug. / 拆除液压手动泵，用螺塞堵上轴颈中的压力孔。
+g) Dismount the bearing housing (9) with the labyrinth ring (10). / 将迷宫环（10）与轴承座（9）一起拆除。
+
+IMAGES: page84-img01.png, page84-img02.png, page84-img03.jpeg (Fig. 37/38: Operating side and drive side - fixed bearing)
+
+--- 4.13.4 Bearing change - forming roll / 轴承更换-成形辊 --- [Page 85]
+
+--- 4.13.4.1 Disassembly / 拆卸 ---
+Steps:
+a) Remove the bolts (1) and dismount the safety cover (2). / 拆除螺栓（1）并卸下安全罩（2）。
+b) Detach screws (3) and remove the outer bearing cover (4). / 松开螺钉（3），拆除外轴承盖（4）。
+c) Remove splash ring (5). / 拆除防飞溅环（5）。
+d) Remove protection plate (6). / 拆除保护板（6）。
+e) Loosen the shaft nuts (7) by 2 to 3 turns. / 松开轴锁紧螺母（7）2至3圈。
+f) Connect up a hydraulic hand pump to the forcing bore (8) and push bearing (9) off. / 将液压手动泵连接到压力孔（8），并将轴承（9）推开。
+g) Dismount hydraulic hand pump, close off forcing bore in roll journal with the screw plug. / 拆除液压手动泵，用螺塞堵上轴颈中的压力孔。
+h) Dismount the bearing housing (10) with the labyrinth ring (11). / 将迷宫环（11）与轴承座（10）一起拆除。
+
+Anti-friction bearing type: 22330 CCK/W33 C3
+Bearing assembly: Forming roll / 成形辊
+
+--- 4.13.4.2 Installation / 安装 ---
+Re-assemble in reverse order. >> MOUNTING THE BEARINGS / 按反向顺序重新组装。>>安装轴承
+Check all seals and replace if necessary. / 检查所有密封件，必要时进行更换。
+
+IMAGES: page85-img01.png, page85-img02.png, page85-img03.png (Fig. 39/40: Operating side and drive side - fixed bearing)
+
+--- 4.13.5 Mounting the bearings / 安装轴承 --- [Page 86]
+Steps:
+a) Apply a light coat of low-viscosity oil to all sliding surfaces. / 在所有滑动表面，涂上一层低粘度润滑油。
+b) Move bearing into the starting position by pumping oil into the hydraulic nut. / 通过将油泵入液压螺母中，将轴承移至开始位置。
+c) Oil pressure for starting position (Pstart): see table / 开始位置的油压（P启动）：见表
+d) Set the dial gauge to "0". / 将刻度表设置为"0"。
+e) Push bearing further onto the shaft using the hydraulic nut until the required value for the axial displacement (Ss) according to the table is obtained. / 使用液压螺母将轴承进一步推到轴上，直到获得表中给出的所需轴向位移（SS）值。
+
+--- 4.13.5.1 Starting pressure and displacement path / 启动压力和位移路径 ---
+
+Bearing Assembly / 轴承总成          | Type / 型号         | Pstart / P开始 | Displacement path "SS" / 位移路径"SS"
+Wire and felt guide rolls / 网和毛毯辊 | 22319 CCK/W33 C3    | 3.02 MPa       | 0.59 mm
+Forming roll / 成形辊                  | 22330 CCK/W33 C3    | 5.28 MPa       | 0.9 mm
+
+IMAGES: page86-img01.png, page86-img02.png, page86-img03.jpeg (Fig. 41/42: Mounting the bearing)
+
+
+================================================================================
+COMPLETE IMAGE MAP (images-former/ to sections)
+================================================================================
+
+This is a JS-compatible mapping of every image file to its corresponding section and page.
+
+const IMAGE_MAP = {
+  // Title & TOC (pages 1-5)
+  "page01": { section: "title", imgs: ["page01-img01.png","page01-img02.png","page01-img03.png","page01-img04.jpeg"] },
+  "page02": { section: "title", imgs: ["page02-img01.png"] },
+  "page03": { section: "toc", imgs: ["page03-img01.png"] },
+  "page04": { section: "toc", imgs: ["page04-img01.png"] },
+  "page05": { section: "introduction", imgs: ["page05-img01.png"] },
+  "page06": { section: "introduction", imgs: ["page06-img01.png","page06-img02.png"] },
+  "page07": { section: "introduction", imgs: ["page07-img01.png"] },
+  "page08": { section: "warranty", imgs: ["page08-img01.png"] },
+
+  // Technical Data (pages 9-10)
+  "page09": { section: "technical-data", imgs: ["page09-img01.png"] },
+  "page10": { section: "rolls-table", imgs: ["page10-img01.jpeg","page10-img02.png"], desc: "Fig. 1: Rolls" },
+
+  // Description (pages 11-12)
+  "page11": { section: "description-overview", imgs: ["page11-img01.jpeg","page11-img02.png"], desc: "Fig. 2: Crescent Former" },
+  "page12": { section: "main-components", imgs: ["page12-img01.jpeg","page12-img02.png"], desc: "Fig. 3: Main components" },
+
+  // Component Details 3.2.1-3.2.15 (pages 13-24)
+  "page13": { section: "3.2.1-3.2.2_headbox_breast-roll", imgs: ["page13-img01.jpeg","page13-img02.png"], desc: "Fig. 4: Breast roll and swing device" },
+  "page14": { section: "3.2.3_frame", imgs: ["page14-img01.jpeg","page14-img02.png"], desc: "Fig. 5: Cantilever device - operator side" },
+  "page15": { section: "3.2.3_frame", imgs: ["page15-img01.jpeg","page15-img02.png"], desc: "Fig. 6: Cantilever device - drive side" },
+  "page16": { section: "3.2.4_uhle-box", imgs: ["page16-img01.png","page16-img02.png"], desc: "Fig. 7: Uhle box" },
+  "page17": { section: "3.2.5_wire-guiding", imgs: ["page17-img01.png","page17-img02.png"], desc: "Fig. 8: Wire guiding device" },
+  "page18": { section: "3.2.6-3.2.7_rolls-showers", imgs: ["page18-img01.jpeg","page18-img02.png"], desc: "Fig. 9: Showers" },
+  "page19": { section: "3.2.8_felt-guiding", imgs: ["page19-img01.jpeg","page19-img02.png"], desc: "Fig. 10: Felt guiding system" },
+  "page20": { section: "3.2.9_felt-tensioning", imgs: ["page20-img01.jpeg","page20-img02.png"], desc: "Fig. 11: Felt tensioning device" },
+  "page21": { section: "3.2.10_wire-tensioning", imgs: ["page21-img01.jpeg","page21-img02.png"], desc: "Fig. 12: Wire tensioning system" },
+  "page22": { section: "3.2.11-3.2.13_forming-roll_white-water_walkways", imgs: ["page22-img01.jpeg","page22-img02.png"], desc: "Fig. 13: Walkways and safety covers" },
+  "page23": { section: "3.2.14_doctors", imgs: ["page23-img01.jpeg","page23-img02.png"], desc: "Fig. 14: Doctor system" },
+  "page24": { section: "3.2.15_tail-cutter", imgs: ["page24-img01.png","page24-img02.png"], desc: "Fig. 15: Tail cutter" },
+
+  // Technical Description 3.3 (pages 25-26)
+  "page25": { section: "3.3_tech-description", imgs: ["page25-img01.jpeg","page25-img02.png"], desc: "Fig. 16: Function sequence" },
+  "page26": { section: "3.3_tech-description", imgs: ["page26-img01.png"] },
+
+  // Maintenance (pages 27-33)
+  "page27": { section: "4.1-4.2_maintenance-safety", imgs: ["page27-img01.png"] },
+  "page28": { section: "4.2_safety-showers-doctors", imgs: ["page28-img01.png"] },
+  "page29": { section: "4.3_machine-check", imgs: ["page29-img01.png"] },
+  "page30": { section: "4.4_maintenance-schedule", imgs: ["page30-img01.png"] },
+  "page31": { section: "4.5_fasteners", imgs: ["page31-img01.png"] },
+  "page32": { section: "4.5-4.6_fasteners-spare-parts", imgs: ["page32-img01.png"] },
+  "page33": { section: "4.6_spare-parts", imgs: ["page33-img01.png"] },
+
+  // Cleaning 4.7 (pages 34-36)
+  "page34": { section: "4.7.1_cleaning-overview", imgs: ["page34-img01.png","page34-img02.png"] },
+  "page35": { section: "4.7.1-4.7.3_cleaning-agents-procedure", imgs: ["page35-img01.png"] },
+  "page36": { section: "4.7.3-4.7.4_cleaning-flushing", imgs: ["page36-img01.png","page36-img02.png"] },
+
+  // Lubrication 4.8 (pages 37-42)
+  "page37": { section: "4.8_lubrication-general", imgs: ["page37-img01.png","page37-img02.png"] },
+  "page38": { section: "4.8.1_slewing-devices-schedule", imgs: ["page38-img01.png","page38-img02.jpeg"], desc: "Fig. 17: Lubrication points - slewing devices" },
+  "page39": { section: "4.8.1_slewing-devices-schedule", imgs: ["page39-img01.png"] },
+  "page40": { section: "4.8.2_rolls-doctors-schedule", imgs: ["page40-img01.jpeg","page40-img02.png"], desc: "Fig. 18: Lubrication points - rolls and doctors" },
+  "page41": { section: "4.8.2_rolls-doctors-schedule", imgs: ["page41-img01.png"] },
+  "page42": { section: "4.8.2-4.8.3_lubrication-showers", imgs: ["page42-img01.png","page42-img02.png"], desc: "Fig. 19: Lubrication points - showers" },
+
+  // Blade Change 4.9 + Swinging 4.10 (pages 43-49)
+  "page43": { section: "4.9_blade-change_4.10.1-4.10.2_control-panel", imgs: ["page43-img01.png","page43-img02.png"] },
+  "page44": { section: "4.10.3_raising-breast-roll", imgs: ["page44-img01.png","page44-img02.png","page44-img03.jpeg"], desc: "Fig. 20: Raising the breast roll" },
+  "page45": { section: "4.10.4_felt-changing-position", imgs: ["page45-img01.png","page45-img02.png","page45-img03.png"], desc: "Fig. 21: Felt changing position" },
+  "page46": { section: "4.10.5_cleaning-position", imgs: ["page46-img01.png","page46-img02.png"] },
+  "page47": { section: "4.10.5_cleaning-position", imgs: ["page47-img01.png","page47-img02.png"], desc: "Fig. 3/4: Cleaning position" },
+  "page48": { section: "4.10.6_forming-roll-change-position", imgs: ["page48-img01.png","page48-img02.png"], desc: "Fig. 5/6: Forming roll change position" },
+  "page49": { section: "4.10.7_operating-position", imgs: ["page49-img01.png","page49-img02.jpeg"] },
+
+  // Machine Clothing Change 4.11 (pages 50-64)
+  "page50": { section: "4.11_clothing-change-general", imgs: ["page50-img01.png"] },
+  "page51": { section: "4.11_clothing-change-safety", imgs: ["page51-img01.png"] },
+  "page52": { section: "4.11.1.1_relieve-wire-tension", imgs: ["page52-img01.png","page52-img02.png","page52-img03.jpeg"], desc: "Fig. 7/8: Relieve wire tension" },
+  "page53": { section: "4.11.1.2_run-breast-roll-headbox-up", imgs: ["page53-img01.png","page53-img02.png"] },
+  "page54": { section: "4.11.1.3_wire-starting-position", imgs: ["page54-img01.png","page54-img02.png","page54-img03.png"], desc: "Fig. 9/10: Before wire changing" },
+  "page55": { section: "4.11.1.4_changing-wire", imgs: ["page55-img01.png","page55-img02.png","page55-img03.png"] },
+  "page56": { section: "4.11.1.4_changing-wire", imgs: ["page56-img01.png","page56-img02.png","page56-img03.png"] },
+  "page57": { section: "4.11.1.4_changing-wire", imgs: ["page57-img01.png","page57-img02.png","page57-img03.png"] },
+  "page58": { section: "4.11.1.5_preparing-wire", imgs: ["page58-img01.png","page58-img02.png"] },
+  "page59": { section: "4.11.2.1_felt-starting-position", imgs: ["page59-img01.png","page59-img02.png","page59-img03.png"] },
+  "page60": { section: "4.11.2.3_changing-felt", imgs: ["page60-img01.png","page60-img02.png","page60-img03.png"] },
+  "page61": { section: "4.11.2.3_changing-felt", imgs: ["page61-img01.png","page61-img02.png","page61-img03.png"] },
+  "page62": { section: "4.11.2.3_changing-felt", imgs: ["page62-img01.png","page62-img02.png","page62-img03.png"] },
+  "page63": { section: "4.11.2.3_changing-felt", imgs: ["page63-img01.png","page63-img02.png","page63-img03.png"] },
+  "page64": { section: "4.11.2.3_changing-felt", imgs: ["page64-img01.png","page64-img02.png"] },
+
+  // Roll Change 4.12 (pages 65-81)
+  "page65": { section: "4.12_roll-change-general", imgs: ["page65-img01.png"] },
+  "page66": { section: "4.12-4.12.1_roll-change-safety-start", imgs: ["page66-img01.png","page66-img02.png"] },
+  "page67": { section: "4.12.2_mounting-slip-on-tubes", imgs: ["page67-img01.png","page67-img02.png","page67-img03.jpeg"], desc: "Fig. 11/12: Mounting slip-on tubes" },
+  "page68": { section: "4.12.3-4.12.4_run-out-rails_forming-roll", imgs: ["page68-img01.png","page68-img02.png","page68-img03.jpeg"], desc: "Fig. 13/14: Run-out rails" },
+  "page69": { section: "4.12.4_forming-roll-2.1", imgs: ["page69-img01.png","page69-img02.png","page69-img03.jpeg"], desc: "Fig. 15-18: Changing forming roll 2.1" },
+  "page70": { section: "4.12.5_wire-roll-2.2", imgs: ["page70-img01.png","page70-img02.png"] },
+  "page71": { section: "4.12.5_wire-roll-2.2", imgs: ["page71-img01.png","page71-img02.png","page71-img03.png"], desc: "Fig. 19/20: Changing wire roll 2.2" },
+  "page72": { section: "4.12.6_wire-tension-roll-2.3", imgs: ["page72-img01.png","page72-img02.png","page72-img03.png","page72-img04.png"], desc: "Fig. 21/22: Changing wire tension roll 2.3" },
+  "page73": { section: "4.12.6_wire-tension-roll-2.3", imgs: ["page73-img01.png","page73-img02.png","page73-img03.png","page73-img04.png"] },
+  "page74": { section: "4.12.7_regulating-roll-2.4", imgs: ["page74-img01.png","page74-img02.png","page74-img03.png"], desc: "Fig. 23/24: Changing regulating roll 2.4" },
+  "page75": { section: "4.12.8_breast-roll-2.5", imgs: ["page75-img01.png","page75-img02.png","page75-img03.png"], desc: "Fig. 25/26: Changing breast roll 2.5" },
+  "page76": { section: "4.12.9_felt-guide-roll-2.6-2.7", imgs: ["page76-img01.png","page76-img02.png","page76-img03.png","page76-img04.png","page76-img05.png"] },
+  "page77": { section: "4.12.9_felt-guide-roll-2.6-2.7", imgs: ["page77-img01.png","page77-img02.png","page77-img03.png","page77-img04.png"], desc: "Fig. 27/28: Changing felt guide rolls 2.6, 2.7" },
+  "page78": { section: "4.12.10_felt-tension-roll-2.8", imgs: ["page78-img01.png","page78-img02.png","page78-img03.png","page78-img04.png","page78-img05.png","page78-img06.png"], desc: "Fig. 29/30: Changing felt tension roll 2.8" },
+  "page79": { section: "4.12.11_felt-drive-roll-2.9", imgs: ["page79-img01.png","page79-img02.png"] },
+  "page80": { section: "4.12.11_felt-drive-roll-2.9", imgs: ["page80-img01.png","page80-img02.png","page80-img03.png","page80-img04.png"], desc: "Fig. 31/32: Changing felt drive roll 2.9" },
+  "page81": { section: "4.12.12_regulating-roll-2.10", imgs: ["page81-img01.png","page81-img02.png","page81-img03.png","page81-img04.png","page81-img05.png"], desc: "Fig. 33/34: Changing regulating roll 2.10" },
+
+  // Bearing Change 4.13 (pages 82-86)
+  "page82": { section: "4.13.1_bearing-general", imgs: ["page82-img01.png"] },
+  "page83": { section: "4.13.2_bearing-wire-felt-guide-rolls", imgs: ["page83-img01.png","page83-img02.png","page83-img03.jpeg"], desc: "Fig. 35/36: Wire/felt guide rolls - fixed bearing" },
+  "page84": { section: "4.13.3_bearing-felt-drive-roll", imgs: ["page84-img01.png","page84-img02.png","page84-img03.jpeg"], desc: "Fig. 37/38: Felt drive roll - fixed bearing" },
+  "page85": { section: "4.13.4_bearing-forming-roll", imgs: ["page85-img01.png","page85-img02.png","page85-img03.png"], desc: "Fig. 39/40: Forming roll - fixed bearing" },
+  "page86": { section: "4.13.5_mounting-bearings", imgs: ["page86-img01.png","page86-img02.png","page86-img03.jpeg"], desc: "Fig. 41/42: Mounting the bearing" }
+};
+
+// Helper: get images for a section by section key
+function getImagesForSection(sectionKey) {
+  var results = [];
+  for (var page in IMAGE_MAP) {
+    if (IMAGE_MAP[page].section.indexOf(sectionKey) !== -1) {
+      results.push({ page: page, imgs: IMAGE_MAP[page].imgs, desc: IMAGE_MAP[page].desc });
+    }
+  }
+  return results;
+}
+
+// Helper: get all images for a page
+function getImagesForPage(pageNum) {
+  var key = "page" + String(pageNum);
+  return IMAGE_MAP[key] ? IMAGE_MAP[key].imgs : [];
+}
+
+================================================================================
+TECHNICAL DATA SUMMARY
+================================================================================
+
+--- Machine Data ---
+Design: Cantilever design / 悬臂设计
+Wire width: 3541 mm
+Wire length: 14547 - 15070 mm
+Max. wire tension: 10 N/mm
+Felt width: 3800 mm
+Felt length: 34350 - 36750 mm
+Max. felt tension: 6 N/mm
+
+--- Rolls Table ---
+| No. | Name | Name (CN) | Diameter | Face Length | Drive | Cover | Weight |
+| 2.1 | Forming roll | 成形辊 | 1500 mm | 4115 mm | Yes | Rubber | 7500 kg |
+| 2.2 | Wire roll | 网辊 | 520 mm | 4115 mm | No | Rubber | 1800 kg |
+| 2.3 | Wire tension roll | 网张紧辊 | 520 mm | 4115 mm | No | Rubber | 1800 kg |
+| 2.4 | Regulating roll | 网校正辊 | 520 mm | 4115 mm | No | Rubber | 1800 kg |
+| 2.5 | Breast roll | 胸辊 | 520 mm | 4115 mm | No | Rubber | 1800 kg |
+| 2.6 | Felt guide roll | 毯导辊 | 520 mm | 4115 mm | No | Rubber | 1800 kg |
+| 2.7 | Felt guide roll | 毯导辊 | 520 mm | 4115 mm | No | Rubber | 1800 kg |
+| 2.8 | Felt tension roll | 毯张紧辊 | 520 mm | 4115 mm | No | Rubber | 1800 kg |
+| 2.9 | Felt drive roll | 毯驱动辊 | 520 mm | 4115 mm | Yes | Rubber | 1800 kg |
+| 2.10| Regulating roll | 毯校正辊 | 520 mm | 4115 mm | No | Rubber | 1800 kg |
+
+--- Fastener Torque Reference (most common, mu=0.125, dry/oiled) ---
+M8: 17 Nm (8.8), 12 Nm (A4-70)
+M10: 34 Nm (8.8), 24 Nm (A4-70)
+M12: 58 Nm (8.8), 41 Nm (A4-70)
+M16: 140 Nm (8.8), 99 Nm (A4-70)
+M20: 275 Nm (8.8), 193 Nm (A4-70)
+M24: 474 Nm (8.8), 333 Nm (A4-70)
+M30: 945 Nm (8.8)
+M36: 1637 Nm (8.8)
+
+--- Cleaning Agents ---
+HCl (hydrochloric acid): 2-5%, up to 60 deg C
+NaOH (caustic soda): 2-5%, up to 60 deg C
+Sulfamic acid: 0.45%, up to 60 deg C
+
+--- Bearing Types ---
+Wire and felt guide rolls (without drive): 22319 CCK/W33 C3 | Pstart: 3.02 MPa | SS: 0.59 mm
+Felt drive roll: self-aligning roller bearing (same procedure)
+Forming roll: 22330 CCK/W33 C3 | Pstart: 5.28 MPa | SS: 0.9 mm
+
+--- Primary Lubricants ---
+Bearings/rolls: Mobilith SHC PM460
+Worm gear screw jacks (Weingrill 15): NLGI Grade 1 DIN 51818 (Mobilux EP1)
+Gear motor (SEW): CLP 220
+Shower cleaning devices: Lithium soap grease / 锂基润滑脂
+
+================================================================================
+END OF ENHANCED EXTRACTION
+================================================================================

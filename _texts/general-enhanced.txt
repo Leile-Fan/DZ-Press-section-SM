@@ -1,0 +1,1817 @@
+// ============================================================================
+// Tissue Machine (General) - Bilingual Enhanced Content Extraction
+// Source: general.txt (68 pages of Operating and Maintenance Instructions)
+// Machine: PrimeLine Compact M1600 Tissue Machine
+// Client: C&S Paper (Jiangsu) Co., Ltd.
+// Orders: C-14-855551-716 TM4, C-14-855552-716 TM3
+// ============================================================================
+
+// ============================================================================
+// SECTION 1: SAFETY (Sections 2.1 - 2.17, Pages 9-20)
+// ============================================================================
+
+const SAFETY = {
+  sectionTitle: { cn: "安全", en: "Safety" },
+  sectionNumber: "2",
+  pageRange: "9-20",
+  images: [
+    {
+      image: "images-general/page15-img01.png",
+      imageCaption: { cn: "紧急停机开关的可能设计方案", en: "Possible designs of the EMERGENCY STOP switch" },
+      figureRef: "Fig. 1"
+    },
+    {
+      image: "images-general/page15-img02.jpeg",
+      imageCaption: { cn: "紧急停机开关", en: "EMERGENCY STOP switch" },
+      figureRef: "Fig. 2"
+    },
+    {
+      image: "images-general/page16-img01.png",
+      imageCaption: { cn: "安全设备建议表（第1部分）", en: "Recommended safety equipment table (part 1)" }
+    },
+    {
+      image: "images-general/page16-img02.jpeg",
+      imageCaption: { cn: "安全装备示例", en: "Safety equipment examples" }
+    },
+    {
+      image: "images-general/page16-img03.jpeg",
+      imageCaption: { cn: "安全装备示例", en: "Safety equipment examples" }
+    },
+    {
+      image: "images-general/page16-img04.jpeg",
+      imageCaption: { cn: "安全装备示例", en: "Safety equipment examples" }
+    },
+    {
+      image: "images-general/page16-img05.png",
+      imageCaption: { cn: "EMERGENCY STOP 标志", en: "EMERGENCY STOP signs" }
+    },
+    {
+      image: "images-general/page16-img06.jpeg",
+      imageCaption: { cn: "安全装备示例", en: "Safety equipment examples" }
+    },
+    {
+      image: "images-general/page16-img07.jpeg",
+      imageCaption: { cn: "安全装备示例", en: "Safety equipment examples" }
+    },
+    {
+      image: "images-general/page16-img08.jpeg",
+      imageCaption: { cn: "安全装备示例", en: "Safety equipment examples" }
+    },
+    {
+      image: "images-general/page16-img09.jpeg",
+      imageCaption: { cn: "安全装备示例", en: "Safety equipment examples" }
+    },
+    {
+      image: "images-general/page16-img10.jpeg",
+      imageCaption: { cn: "安全装备示例", en: "Safety equipment examples" }
+    }
+  ],
+  subsections: [
+    // --- 2.1 ---
+    {
+      title: { cn: "2.1 基本安全条例", en: "2.1 General safety regulations" },
+      paragraphs: [
+        {
+          cn: "安全一章包含基本安全条例，使用机器/设备或在机器/设备上作业时必须遵守该法规。",
+          en: "The chapter on SAFETY contains general safety regulations that must be observed when working with/on the machine/plant."
+        },
+        {
+          cn: "手册中相关章节的每项活动都有附加安全指导，补充基本规定的内容。这些说明在文本中加上特殊的警告标志。",
+          en: "The regulations are supplemented by additional safety instructions for individual activities in the relevant chapters of the manual. These instructions are highlighted in the text with special warning signs."
+        },
+        {
+          cn: "非安德里茨有限公司制造部件的安全指导包含在由分包商提供的文件中。",
+          en: "Safety instructions on components not supplied by ANDRITZ are contained in the respective sub-supplier documentation."
+        },
+        {
+          cn: "这类安全指导用作安德里茨有限公司的操作说明书的补充内容。",
+          en: "These safety instructions supplement the ANDRITZ operating instructions."
+        },
+        {
+          cn: "所有的安全指导都应当遵守。不遵守安全指导会导致人员受伤、环境破坏和/或材料损坏。",
+          en: "All safety instructions must be observed. Non-observance of the safety instructions can lead to personal injury, damage to the environment, and/or material damage."
+        },
+        {
+          cn: "安德里茨有限公司要求运营公司提供下列内容：",
+          en: "ANDRITZ requires the operating company to provide the following:"
+        },
+        {
+          cn: "运营公司已经制定了全面的基本安全计划。在设备及其周围工作的人员，都应当接受操作这类设备和运行工艺的培训，包括安装围栏、设置标志的场所。",
+          en: "The operating company has compiled a comprehensive, general safety program. Anyone working at or in the vicinity of the machine must have received training for working on plants of this type and on the process running there, including where to mount barriers and markings."
+        }
+      ]
+    },
+    // --- 2.2 ---
+    {
+      title: { cn: "2.2 危险和警告标志", en: "2.2 Danger and warning signs" },
+      paragraphs: [
+        {
+          cn: "整个《安全》章节的内容均与安全有关，因而非常重要。因此，这章的内容没有附加专用的危险符号。",
+          en: "The entire SAFETY chapter is of extreme importance and relevant to safety. Thus, the information in this chapter is not marked with special danger symbols."
+        },
+        {
+          cn: "各个章节的警告内容都附加了下列象形符号、信号说明和信号颜色：",
+          en: "The warnings given in the individual chapters are marked with a pictogram, signal word, and signal colour as follows:"
+        }
+      ],
+      warningLevels: [
+        {
+          level: "DANGER",
+          cn: "危险",
+          signalColor: { cn: "红色", en: "Red" },
+          description: {
+            cn: "这个标志表示直接威胁生命和肢体。不遵守可能导致严重或致命的伤害。",
+            en: "This marking gives warning of imminent danger to life and limb. Non-observance can lead to serious or fatal injuries."
+          }
+        },
+        {
+          level: "WARNING",
+          cn: "警告",
+          signalColor: { cn: "橙色", en: "Orange" },
+          description: {
+            cn: "这个标志表示可能威胁生命和肢体。不遵守可能导致严重或致命的伤害。",
+            en: "This marking gives warning of potential danger to life and limb. Non-observance can lead to serious or fatal injuries."
+          }
+        },
+        {
+          level: "CAUTION",
+          cn: "小心",
+          signalColor: { cn: "黄色", en: "Yellow" },
+          description: {
+            cn: "这个标志表示直接影响健康。不遵守可能导致人员轻微受伤。",
+            en: "This marking gives warning of an imminent health hazard. Non-observance can lead to minor or slight injuries."
+          }
+        },
+        {
+          level: "NOTICE",
+          cn: "注意",
+          signalColor: { cn: "蓝色", en: "Blue" },
+          description: {
+            cn: "这个标志表示可能会损坏财产。不遵守可能导致物质损失。",
+            en: "This marking gives warning of possible damage to property. Non-observance can lead to material damage."
+          }
+        }
+      ],
+      additionalParagraphs: [
+        {
+          cn: "使用的其它符号和象形图描述见简介部分。",
+          en: "Further symbols and pictograms used are described in the INTRODUCTION."
+        }
+      ]
+    },
+    // --- 2.3 ---
+    {
+      title: { cn: "2.3 指定用途", en: "2.3 Intended use" },
+      paragraphs: [
+        {
+          cn: "只能依据构成订单一部分的说明书中规定使用设备。",
+          en: "The machine should only be used according to the specifications forming part of the purchase order."
+        },
+        {
+          cn: "将本机器/设备用于其它用途，视为违反了其原定用途。",
+          en: "Using the machine/plant for other purposes is considered contrary to its designated use."
+        },
+        {
+          cn: "未经安德里茨有限公司许可擅自修改供货范围，视为违反了原定用途。",
+          en: "Any modifications to the scope of supply made without the agreement of ANDRITZ are considered contrary to the designated use."
+        },
+        {
+          cn: "遵守安装、操作和维护说明书是属于按指定用途使用设备的组成部分。",
+          en: "Observance of the Erection Work, Operating and Maintenance Instructions is part of the designated use of the equipment."
+        },
+        {
+          cn: "设备应当安装在非爆炸环境中。其指定用途可用于ATEX 指令1999/92/EC 规定区域以外的场所。",
+          en: "The machine is designed for installation in a non-explosive atmosphere. Designated use provides for operation outside a zone according to ATEX directive 1999/92/EC."
+        },
+        {
+          cn: "此台设备规定安装在厂房内。",
+          en: "The machine is intended for installation in a plant."
+        }
+      ]
+    },
+    // --- 2.4 ---
+    {
+      title: { cn: "2.4 设备安全的基本说明", en: "2.4 General remarks on machine safety" },
+      paragraphs: [
+        {
+          cn: "机械/设备是按照最先进的标准和公认的安全原则制造的。但是，使用设备有可能会使用户或第三方的生命和肢体面临危险，或者损坏机械/设备和各种有形资产。",
+          en: "The machine/plant has been built in accordance with state-of-the-art standards and the recognized safety rules. Nevertheless, its use may constitute a risk to life and limb of the user or of third parties, or cause damage to the machine/plant and to other material assets."
+        },
+        {
+          cn: "机械/设备只能在完美的条件下运行，并应充分考虑到运行时的安全和风险。应当配备各种保护装置和紧急停机设备并保持正常运行。",
+          en: "The machine/plant may only be operated when in perfect condition and with due consideration to safety and the risks involved. All protective devices as well as the EMERGENCY STOP equipment must be in place and fully functional."
+        },
+        {
+          cn: "对机械/设备的故障和无法预料的变化，应当立即纠正。",
+          en: "Malfunctions and unforeseen changes to the machine/plant must be remedied immediately."
+        }
+      ]
+    },
+    // --- 2.5 ---
+    {
+      title: { cn: "2.5 危险应用情况", en: "2.5 Hazardous applications" },
+      paragraphs: [
+        {
+          cn: "此台设备是专门设计用于销售合同中所规定的处理工艺。对此处理工艺所进行的任何改变都必须经过安德里茨有限公司的审查和批准，原因是安德里茨有限公司并不能详细了解可以在此台设备上进行处理的多种材料的化学和生物特性。除非采取额外的预防措施，否则售出的此台设备不适合用于危险物质的安全处理。",
+          en: "The machine was designed specially for the process specified in the sales contract. All changes to this process must be checked and approved because ANDRITZ does not know in detail the chemical and biological properties of the numerous materials that can be processed in this machine. The machine as-sold is not suitable for safe processing of hazardous materials unless additional precautions are taken."
+        },
+        {
+          cn: "在处理已经是可燃、易爆、有毒或其他危险物质或在反应中可能变有害的材料之前，运营公司必须对整个处理过程进行全面的危险分析和风险评估，具体包括搬运过程错误和故障应急计划的编制",
+          en: "Before processing materials that are already combustible, explosive, toxic, or hazardous in other ways or which can become hazardous in a reaction, the operating company must conduct a thorough hazard analysis and risk evaluation of the entire process. This includes drawing up of contingency plans for handling process errors and faults."
+        },
+        {
+          cn: "尤其必须要遵循以下几点：",
+          en: "In particular, the following must be observed:"
+        },
+        {
+          cn: "1. 如果将要处理易燃易爆物品，所有电动机、电缆和操作元件都必须为防爆型。此外，设备维护工作必须使用无火花工具进行。禁止吸烟。",
+          en: "1. If combustible or potentially explosive materials are to be processed, all electric motors, cabling and operating elements must be explosion-proof. Furthermore, maintenance work on the plant must be performed using non-sparking tools. Smoking is forbidden."
+        },
+        {
+          cn: "2. 如果处理的是有毒材料，必须采取适当的安全措施。",
+          en: "2. If the material processed is toxic, appropriate safety measures must be implemented."
+        }
+      ]
+    },
+    // --- 2.6 ---
+    {
+      title: { cn: "2.6 运营公司的责任", en: "2.6 Operating company's obligations" },
+      paragraphs: [
+        {
+          cn: "机械/设备的运营公司应当负责保证，不得将机械/设备用于原定用途以外的其它用途。",
+          en: "The operating company of the machine/plant is responsible for ensuring that the machine/plant is not used for anything other than its intended purpose."
+        },
+        {
+          cn: "除操作说明书以外，还应当遵守用户所在国的适用法律规定，以及工作安全、健康和环境 保护方面的规定，还应当让操作人员了解这些内容。",
+          en: "In addition to the operating instructions, the applicable legal regulations in the user countries and other rules governing safety at work, health and environmental protection must be observed and personnel instructed in these matters."
+        },
+        {
+          cn: "本机械/设备只能由经过授权的、技能合格的、且亲身经历培训的人员进行操作、维护和维修。应当注意最小法定年龄。任何正在接受培训的人员，或学徒，或依据指示操作的人员只能在接受理论说明后，或在有经验人员的监督下进行机器/设备作业。",
+          en: "The machine/plant may only be operated, maintained, and serviced by authorized, skilled personnel with hands-on training. The minimum legal age must be taken into account. Any person undergoing training, in apprenticeship, or under instruction may only work on the machine/plant after receiving instruction on the theory and only under the supervision of an experienced person."
+        },
+        {
+          cn: "在完成安装工作后，运营公司的操作和维护人员将接受制造商的人员或其授权经销商的培训。",
+          en: "The operating and maintenance personnel of the operating company must be instructed by qualified persons after completion of the installation work."
+        },
+        {
+          cn: "用户承诺，按照同样的范围，使新的、额外的操作与维护人员接受机器/设备操作与维护方面的指导，以同样的方式严格遵守安全指导。",
+          en: "The user undertakes to have new, additional operating and maintenance personnel instructed in machine/plant operation and maintenance to the same extent and applying the same care, and with due consideration to the safety instructions."
+        },
+        {
+          cn: "负责机器/设备的运输、装配工作、启动、操作及维护的工作人员，应当阅读并理解操作说明书的内容，特别是《安全》章节、各项活动相关的安全指导，以及分包商提供的安全指导。",
+          en: "Workers entrusted with the transportation, erection work, operation, and maintenance of the machine/system must have read and understood the operating instructions, especially the chapter on SAFETY, the safety instructions concerning a certain activity, as well as the safety instructions issued by sub-suppliers."
+        },
+        {
+          cn: "运营公司负责如下：",
+          en: "The operating company is responsible for the following:"
+        },
+        {
+          cn: "- 确定设备操作人员的责任和指导权，",
+          en: "- definition of the machine operator's responsibility and his right to give instructions,"
+        },
+        {
+          cn: "- 保存监测设备正常工作和任何故障记录（日志本）的内容和责任的定义。",
+          en: "- definition of the contents and responsibility for keeping the records on functioning and any failure of the monitoring equipment (log book)."
+        },
+        {
+          cn: "- 按照操作、工具、维护和维修领域，划分人员责任。",
+          en: "- personnel areas of responsibility in terms of operating, tooling, maintenance and upkeep."
+        },
+        {
+          cn: "运营公司必须：",
+          en: "The operating company must:"
+        },
+        {
+          cn: "- 定期检查机器/设备的安全指导和操作方面的规章制度是否得到遵守。",
+          en: "- check at regular intervals whether the safety instructions and regulations governing work on the machine/plant are observed."
+        },
+        {
+          cn: "- 实施定期培训以巩固操作与维护人员的专业知识。",
+          en: "- carry out regular training to confirm the level of knowledge of the operating and maintenance personnel."
+        },
+        {
+          cn: "运营公司应当检查安全方面的说明是否全部得到遵守，是否按照当地法规的要求，在生产场所设置各种符号和提示。",
+          en: "The operating company shall ensure that all safety-relevant instructions are observed and that all symbols and notices are attached in the production area in accordance with the local regulations."
+        },
+        {
+          cn: "另外，除当地法规已包含的要求以外，安德里茨有限公司还建议安装设置下列装置、符号和标志。",
+          en: "In addition, ANDRITZ recommends mounting the following devices, symbols and signs, in as far as these are not already included in the local regulations."
+        },
+        {
+          cn: "- 车辆通道、保护围栏和危险场所的地面标志（黄色）",
+          en: "- Markings on the floor for vehicle routes, protective fencing and danger areas (yellow)"
+        },
+        {
+          cn: "- 屏障与盖板",
+          en: "- Barriers and covers"
+        },
+        {
+          cn: "- 栏杆（足部、中央和胸部高度）",
+          en: "- Handrails (foot, center and chest height)"
+        },
+        {
+          cn: "- 应急照明装置",
+          en: "- Emergency lighting"
+        },
+        {
+          cn: "- 可以锁定的电机维护开关（用于切断电源的装置）",
+          en: "- Lockable maintenance switch at the motors (shut-off device for power)"
+        },
+        {
+          cn: "- 所有辅助装置的切断措施（水、化学品、压缩空气等）",
+          en: "- Means of shutting off all auxiliaries (water, chemicals, compressed air, etc.)"
+        },
+        {
+          cn: "- 提示标志 - 防火设备",
+          en: "- Information signs - fire prevention equipment"
+        },
+        {
+          cn: "- 提示标志 - 应急电话号码",
+          en: "- Information signs - emergency phone number"
+        },
+        {
+          cn: "- 指示标志 - 出口",
+          en: "- Direction signs - exits"
+        },
+        {
+          cn: "- 指示标志 - 逃生路线",
+          en: "- Direction signs - escape routes"
+        },
+        {
+          cn: "- 提示标志 - 急救站",
+          en: "- Information signs (first-aid post)"
+        },
+        {
+          cn: "- 国家法律规定的消防设备",
+          en: "- Fire-fighting equipment as required by national regulations"
+        }
+      ]
+    },
+    // --- 2.7 ---
+    {
+      title: { cn: "2.7 人员的基本责任", en: "2.7 General obligations of personnel" },
+      paragraphs: [
+        {
+          cn: "为避免人员受伤和材料损坏，机械的全体工作人员都应当遵守下列安全指导：",
+          en: "To avoid personal injury and material damage, all persons working on the plant must observe the following safety instructions:"
+        },
+        {
+          cn: "- 遵守操作手册和机器/设备上的安全规程。",
+          en: "- Observe the safety regulations in the operating instructions and on the machine/plant."
+        },
+        {
+          cn: "- 在某一项安全相关功能失效的情况下，停止设备运行并封闭设备受影响的部分。报告异常情况并马上修理。",
+          en: "- In the event of a safety-relevant functional disorder, stop and secure the part of the plant affected. Report disorders and have them repaired immediately."
+        },
+        {
+          cn: "- 禁止操作中的各种安全临界模式。",
+          en: "- All safety-critical modes of operation are prohibited."
+        },
+        {
+          cn: "- 设备的通道、轨道和过道，只能用于这个用途。",
+          en: "- Use only the machine accesses, paths and passages intended for this purpose."
+        },
+        {
+          cn: "- 切勿接触活动的和旋转的零件，和/或进入这类零件的活动范围。",
+          en: "- Do not touch moving and rotating parts and/or reach out beyond them."
+        },
+        {
+          cn: "- 保持机械和工作场所干净。切勿将工具或其它物品放在机械上。",
+          en: "- Keep the machine/plant and workplace clean and tidy. Do not lay tools or other items on the machine."
+        },
+        {
+          cn: "- 不要穿戴任何可能被移动机器/设备部件夹住的衣服/珠宝首饰。包括领带、丝巾、戒指和项链等。",
+          en: "- Do not wear any garments/pieces of jewelry that might be caught on moving machine/plant parts. This includes ties, scarves, rings, and necklaces."
+        },
+        {
+          cn: "- 切勿蓄留松散长发。",
+          en: "- Do not wear long hair loose."
+        },
+        {
+          cn: "- 开始工作之前熟悉设备监测设备（记录簿）的功能和任何故障情况。",
+          en: "- Familiarize yourself with the function and any failure of monitoring equipment (log book) before starting work."
+        },
+        {
+          cn: "- 切勿在机器/设备附近吸烟。",
+          en: "- No smoking in the vicinity of the machine/plant."
+        },
+        {
+          cn: "- 经授权操作机器/设备的人员不得受毒品或酒精影响。",
+          en: "- Persons authorized to work on the machine/plant must not be under the influence of drugs or alcohol."
+        },
+        {
+          cn: "- 操作设备/设备时穿着个人防护装备。",
+          en: "- Wear personal protective apparel when working on the machine/plant."
+        }
+      ]
+    },
+    // --- 2.8 ---
+    {
+      title: { cn: "2.8 安全装置", en: "2.8 Safety devices" },
+      paragraphs: [
+        {
+          cn: "没有配备有效的安全设备，不得操作机器/设备。",
+          en: "The machine/plant must not be operated without effective safety equipment."
+        },
+        {
+          cn: "在操作期间，不得改装、拆除、停止使用安全设备。安全设备是用来保护操作人员的。",
+          en: "Safety equipment must not be circumvented, dismantled or made unserviceable during operations. The safety equipment is there to protect operating personnel."
+        },
+        {
+          cn: "安全设备及接近安全设备的通道必须保持畅通无阻。",
+          en: "Safety equipment and access thereto must be kept clear."
+        },
+        {
+          cn: "用于设置现场设备的维护开关或操作模式开关的钥匙，应当从开关上取下并由操作人员保管，防止第三方改变设置，从而预防风险！",
+          en: "The keys for maintenance switches or operating mode switches for local machine settings must be removed from these switches and retained by the operator to prevent the setting being changed by any third parties, thus also preventing risks!"
+        },
+        {
+          cn: "运营公司应当在紧靠设备的附近安装紧急停机开关，保证开关能够立即切断设备驱动装置的电源，从而实现关机。",
+          en: "The operating company must provide an EMERGENCY STOP switch in the immediate vicinity of the machine to guarantee that it can be shut down by immediately cutting off the power supply to the drive elements of the machine."
+        },
+        {
+          cn: "如果控制面板配有安德里茨有限公司安装的紧急停机开关，运营公司仅需通过接线，把开关集成到紧急停机链中。",
+          en: "If a control panel is supplied with an EMERGENCY STOP switch installed by ANDRITZ, the operating company need only wire and integrate the switch into the EMERGENCY STOP chain."
+        },
+        {
+          cn: "必须遵守信息、警告和禁止标志。必须定期检查它们的可读性和完整性，并且不得移除或阻挡它们。",
+          en: "Information, warning, and prohibiting signs must be observed. They must be checked regularly for legibility and completeness, and they must not be removed or obstructed."
+        }
+      ],
+      subSubsections: [
+        {
+          title: { cn: "2.8.1 执行紧急停机装置", en: "2.8.1 Execution of the EMERGENCY STOP device" },
+          paragraphs: [
+            {
+              cn: "紧急停机装置的安装位置距设备不得超过15 米。",
+              en: "The EMERGENCY STOP device must not be installed more than 15 m away from the machine."
+            },
+            {
+              cn: "必须依据适用标准，尤其是EN ISO 13850 和EN 60204-1（停止类别0），安装紧急停机开关及紧急停机安全设备中所含的更多装置，并由操作员实施。",
+              en: "The EMERGENCY STOP switch and further units included in the EMERGENCY STOP safety equipment must be installed and implemented by the operator in accordance with the applicable standards, particularly EN ISO 13850 and EN 60204-1 (stop category 0)."
+            }
+          ]
+        }
+      ]
+    },
+    // --- 2.9 ---
+    {
+      title: { cn: "2.9 个人防护装备", en: "2.9 Personal protective apparel" },
+      paragraphs: [
+        {
+          cn: "按照当地法规或设备运营公司的规定，使用并始终随身携带个人防护装备。在整个场所内，都应当强制穿着硬头鞋。",
+          en: "Use and always carry personal protective equipment in accordance with local regulations or those of the plant operating company. It should be compulsory to wear hard-toed boots throughout the entire premises."
+        },
+        {
+          cn: "除相关法规以外，我公司还建议在某些工作中使用下列安全设备。",
+          en: "In addition to the regulations applying, we recommend using the following safety equipment for certain work."
+        }
+      ],
+      ppeTable: {
+        caption: { cn: "表 2：为特定工作推荐的安全设备", en: "Tab. 1: Recommended safety equipment for certain work" },
+        rows: [
+          {
+            activity: { cn: "在设备运转时，临近设备作业", en: "Time spent in the immediate vicinity of the machine while it is running" },
+            equipment: [
+              { cn: "防止纸浆与皮肤发生接触的防护服", en: "Protective clothing to prevent the pulp from coming into contact with the skin" },
+              { cn: "安全鞋，保护脚部免受伤害", en: "Safety shoes as protection against foot injuries" },
+              { cn: "防止手部受伤的手套", en: "Gloves to prevent hand injuries" },
+              { cn: "耳朵防护装置，防止造成听力损害", en: "Ear protection to prevent damage to hearing" },
+              { cn: "眼部保护装置，防止眼睛受伤", en: "Eye protection to prevent eye injuries" }
+            ]
+          },
+          {
+            activity: { cn: "提取纸浆样品", en: "Taking pulp samples" },
+            equipment: [
+              { cn: "防止纸浆与皮肤发生接触的防护服", en: "Protective clothing to prevent the pulp from coming into contact with the skin" },
+              { cn: "安全鞋，保护脚部免受伤害", en: "Safety shoes as protection against foot injuries" },
+              { cn: "防止手部受伤的手套", en: "Gloves to prevent hand injuries" },
+              { cn: "眼部保护装置，防止眼睛受伤", en: "Eye protection to prevent eye injuries" }
+            ]
+          },
+          {
+            activity: { cn: "设备的部件需要拆卸下来以便进行现场安装和维护的作业", en: "Field installation and maintenance work for which parts of the machine have to be removed" },
+            equipment: [
+              { cn: "标准的硬纸安全帽，防止造成头部伤害", en: "Standard hard hat as protection against head injuries" },
+              { cn: "安全鞋，保护脚部免受伤害", en: "Safety shoes as protection against foot injuries" },
+              { cn: "防止手部受伤的手套", en: "Gloves to prevent hand injuries" },
+              { cn: "安全带防止跌落。（高空作业或有坠落危险或进入箱体等情况下使用）", en: "Safety belt to prevent falls. (During work conducted at a height, or where there is a risk of falling or when entering a tank, etc.)" },
+              { cn: "如果存在危害或损害健康的蒸汽和气体风险，则应佩戴呼吸防护装置。", en: "Wear breathing apparatus if there is any risk from vapors and gases that are dangerous or damaging to health." },
+              { cn: "防止面部受伤的防护面罩", en: "Face shield to prevent facial injuries" }
+            ]
+          }
+        ]
+      },
+      ppePurposeTable: {
+        caption: { cn: "表 4：安全设备的用途", en: "Tab. 3: Purpose of the safety equipment" },
+        items: [
+          { cn: "防护服 - 防止纸浆与皮肤发生接触", en: "Protective clothing - to prevent the pulp from coming into contact with the skin" },
+          { cn: "安全鞋 - 保护脚部免受伤害", en: "Safety shoes - as protection against foot injuries" },
+          { cn: "手套 - 防止手部受伤", en: "Gloves - to prevent hand injuries" },
+          { cn: "耳朵防护装置 - 防止造成听力损害", en: "Ear protection - to prevent damage to hearing" },
+          { cn: "眼部保护装置 - 防止眼睛受伤", en: "Eye protection - to prevent eye injuries" },
+          { cn: "标准硬纸安全帽 - 防止造成头部伤害", en: "Standard hard hat - as protection against head injuries" },
+          { cn: "安全带 - 防止跌落（高空作业或有坠落危险或进入箱体等情况下使用）", en: "Safety belt - to prevent falls (During work conducted at a height, or where there is a risk of falling or when entering a tank, etc.)" },
+          { cn: "呼吸装置 - 如果存在危害或损害健康的蒸汽和气体风险则应佩戴", en: "Breathing apparatus - if there is any risk from vapors and gases that are dangerous or damaging to health" },
+          { cn: "防护面罩 - 防止面部受伤", en: "Face shield - to prevent facial injuries" }
+        ]
+      }
+    },
+    // --- 2.10 ---
+    {
+      title: { cn: "2.10 设备安装现场的安全", en: "2.10 Safety at the machine installation site" },
+      paragraphs: [
+        {
+          cn: "设备没有固定的工作地点。只有在检查和维护作业时，才须在设备附近工作。",
+          en: "There is no permanent place of work at the machine. Working near the machine is only necessary during inspection and maintenance work."
+        },
+        {
+          cn: "设备的所有侧面都必须留有适当的大的、无障碍和无限制的工作区域。管道、导管等铺设不得妨碍通向设备的道路。",
+          en: "A suitably large, clear, and unconfined working area must be created on all sides of the machine. Pipework, ducting, etc. must be laid such as not to impede access to the machine."
+        },
+        {
+          cn: "必须保持维护道路和检验门无障碍。禁止存放任何类型的材料。",
+          en: "Maintenance access and inspection doors must be kept clear. Storing of any kind of material is forbidden."
+        },
+        {
+          cn: "设备的所有操作区和维修区必须配备足够的照明和通风（工业照明）。",
+          en: "All operating and maintenance areas of the machine must have adequate lighting and ventilation (industrial lighting)."
+        },
+        {
+          cn: "基础必须估量，确保能够承受机械造成的荷载。",
+          en: "The foundation must be sized to withstand the loads caused by the machine."
+        },
+        {
+          cn: "设备周围的场所和规定的逃生路线，都必须保持通畅无阻。设备周围的场所应当标记为危险区。必须能够畅通无阻地进入和离开操作区域。",
+          en: "The area around the machine and the marked escapes are to be kept clear. The area around the machine must be marked as a danger zone. It must be possible to enter and leave the operating area unimpeded."
+        },
+        {
+          cn: "确保保持设备和周围区域清洁。特别是地板和设备元件上的油和油脂会导致滑倒。因此，这是一个相当大的受伤源，还有那些没有放在安全地方的工具。必须保证运行区域不存在废料、工具和其它外来物体。",
+          en: "Make sure machine and surrounding area are kept clean. In particular, oil and grease on the floor and on machine elements may cause slipping. This is, therefore, a considerable source of injuries, as are tools that have not been put down in a safe place. The operating area must be clear of waste materials, tools and other extraneous objects."
+        },
+        {
+          cn: "设备周围地板必须配备防滑表面。",
+          en: "The floor in the area of the machine must be provided with a non-slip surface."
+        },
+        {
+          cn: "为了防止从机械上跌落或对设备造成损坏，禁止爬到设备部件上或爬到机械上（所提供的踏面除外）。应按照公认的标准采用梯子或类似的设备。",
+          en: "In order to prevent any falls from or damage to the machine, it is forbidden to climb onto machine elements or on the machine itself (except for the treading areas provided). Use ladders or similar equipment in accordance with recognized standards."
+        },
+        {
+          cn: "必须使用坡道、平台和升降机，避免受伤或过度的体力劳动。",
+          en: "Ramps, platforms, and lifts must be used to avoid injury or excessive physical effort."
+        }
+      ]
+    },
+    // --- 2.11 ---
+    {
+      title: { cn: "2.11 温度", en: "2.11 Temperature" },
+      paragraphs: [
+        {
+          cn: "如果纸浆温度高于73°C，则需要采取以下保护措施：",
+          en: "The following protective measures are required if the pulp used has a temperature higher than 73°C:"
+        },
+        {
+          cn: "- 必须粘贴"高温表面"警告标志。",
+          en: "- The \"Hot surface\" warning sign must be mounted."
+        },
+        {
+          cn: "- 在机器附近时，必须穿戴个人安全设备。",
+          en: "- It is compulsory to wear personal safety equipment in the immediate vicinity of the machine."
+        },
+        {
+          cn: "- 运营公司负责向新指派的人员告知在机器上和机器附近作业时的烧伤危险，并采取进一步的保护措施，例如：隔热措施以及保持距离的安全栅和准入限制。",
+          en: "- The operating company is responsible for informing newly assigned personnel about the risk of burns when working on and in the vicinity of the machine and for implementing further protective measures, such as insulation, safety barriers to maintain distance, and access restrictions."
+        },
+        {
+          cn: "在热表面冷却之前，不得开展维护作业。",
+          en: "No maintenance work should be carried out until the hot surface has cooled down."
+        }
+      ]
+    },
+    // --- 2.12 ---
+    {
+      title: { cn: "2.12 噪音", en: "2.12 Noise" },
+      paragraphs: [
+        {
+          cn: "在生产车间内所有设备产生的总噪声会限制口语交流并造成听力损伤。",
+          en: "The total noise emissions from all machines in the production room can restrict spoken communication and impair hearing."
+        },
+        {
+          cn: "按照设备的设计，设备在正常运行期间，不需要操作人员停留在设备附近。在设备运行时，应在整个维护和调整工作中佩戴合适的听力保护装置。",
+          en: "The machine is designed such that no operating personnel is required in the immediate vicinity of the machine during normal operation. Appropriate hearing protection should be worn throughout maintenance and adjusting work while the machine is running."
+        }
+      ]
+    },
+    // --- 2.13 ---
+    {
+      title: { cn: "2.13 电气设备", en: "2.13 Electrical equipment" },
+      paragraphs: [
+        {
+          cn: "电气设备的所有作业毫无例外，必须由熟练的电工进行。",
+          en: "All work on the electrical equipment, without exception, must be carried out by skilled electricians."
+        },
+        {
+          cn: "与电气设备的任何形式的接触均可能有丧生危险。必须立即修复损坏的电气部件和绝缘材料。",
+          en: "Any form of contact with electrical equipment may cause fatal injuries. Damage to electrical components and insulations must be repaired immediately."
+        },
+        {
+          cn: "在维护或修理工作开始之前，运营公司应当安全地断开所有驱动装置的电源。这项措施可以使用能够锁定的维护开关、MCC 的可锁定支架实现，或者按照相关安全条例的要求，采取各种适当措施。",
+          en: "Before beginning any maintenance or repair work, the operating company must disconnect the electric power supply to all drives securely. This can be achieved with a lockable maintenance switch, lockable racks in the MCC, or with other suitable measures that comply with the safety regulations applying."
+        },
+        {
+          cn: "对带电零件作业时，必需按照相关标准的要求进行操作。",
+          en: "If any work is necessary on live parts, it is essential to proceed according to the applicable standards."
+        },
+        {
+          cn: "使用医疗电子设备（例如心脏起博器）的人员，不得进入电气危险区。",
+          en: "Users of medical electronic equipment (e.g. pacemakers) must not enter the electric danger zone."
+        },
+        {
+          cn: "必须将设备/系统接地，避免静电负荷或接触电压。设备、齿轮、电机和现场设备（油箱、控制台等），都应当连至接地系统。",
+          en: "The machine/system must be grounded to avoid electrostatic loading or contact voltage. Machine, gears, motors and local equipment (tanks, control panel, etc.) must be connected to the grounding system."
+        },
+        {
+          cn: "请勿将过量的水或其它液体带入电气设备附近。",
+          en: "Do not bring an excessive amount of water or other liquids into the vicinity of electrical equipment."
+        }
+      ]
+    },
+    // --- 2.14 ---
+    {
+      title: { cn: "2.14 液压设备与气动设备", en: "2.14 Hydraulic and pneumatic equipment" },
+      paragraphs: [
+        {
+          cn: "液压与气动系统在高压下运行。液压系统故障可能给操作人员带来危险，造成财产损失及环境污染。",
+          en: "Hydraulic and pneumatic systems operate at high pressure. Malfunctions in the hydraulic system may cause hazards to operating personnel, damage to property and environmental pollution."
+        },
+        {
+          cn: "必须始终遵守指定的运行资料、规定的修订本与维护间隔。",
+          en: "The specified operating data and the prescribed revision and maintenance intervals must be observed at all times."
+        },
+        {
+          cn: "执行维修作业前系统必须卸压。",
+          en: "Systems must be de-pressurized before carrying out maintenance work."
+        },
+        {
+          cn: "除受过特别训练、具有液压设备与气动设备操作经验的熟练安装人员外，其它人员不得操作液压设备与气动设备。",
+          en: "Work on hydraulic and pneumatic equipment must not be carried out other than by skilled erection personnel with special training and experience in handling hydraulic and pneumatic equipment."
+        },
+        {
+          cn: "所有承压软管与管道必须扎在一起或固定在一起，以免损伤（如由鞭打造成）。",
+          en: "In order to avoid injuries (e.g. caused by whiplash), all pressurized flexible hoses and pipes must be tied or held together."
+        }
+      ]
+    },
+    // --- 2.15 ---
+    {
+      title: { cn: "2.15 焊接作业", en: "2.15 Welding work" },
+      paragraphs: [
+        {
+          cn: "通常情况下，只有在咨询安德里茨有限公司后，才能批准焊接作业。在维护说明中具体列出的任何焊接作业，不受这条规定的限制。焊接作业应当遵守相关的安全条例。",
+          en: "In general, welding work is only permitted after consulting ANDRITZ. Any welding work that is described in detail in the maintenance instructions is excluded from this ruling. The relevant safety regulations must be observed for welding work."
+        },
+        {
+          cn: "开展电焊作业前，所有电机均应断电。",
+          en: "All motors should be disconnected before carrying out electric welding work."
+        },
+        {
+          cn: "电弧焊作业期间，辊轴支承不得辗过地面。在焊接区域附近连接接地电缆。",
+          en: "During arc welding work, the ground should never be allowed to run over the rolling bearings. A grounding cable is to be connected up in the immediate vicinity of the welding area."
+        },
+        {
+          cn: "火灾或爆炸危险",
+          en: "Danger of fire and explosions"
+        },
+        {
+          cn: "焊接作业很可能引发火灾或爆炸。",
+          en: "There is a considerable risk of fire or explosion during welding work."
+        },
+        {
+          cn: "需要动火作业许可证！- 开始工作之前，始终采取适当的防火预防措施，例如准备好灭火器！",
+          en: "Hot work permit required! - Always take the appropriate fire precautions before beginning work, e.g. keep fire extinguishers at the ready!"
+        }
+      ]
+    },
+    // --- 2.16 ---
+    {
+      title: { cn: "2.16 流体（液体、气体、蒸汽或烟气）", en: "2.16 Fluids, (liquids, gases, vapor, or smoke)" },
+      paragraphs: [
+        {
+          cn: "在长期停机期间，可能会在介质（纤维浆、污泥等）中发生意外的化学反应，并可能产生有害烟雾。",
+          en: "Unintended chemical reactions may take place in media (fiber pulps, sludge, etc.) during a prolonged standstill and hazardous fumes may be produced."
+        },
+        {
+          cn: "设备长期搁置后，必须彻底清洗。",
+          en: "The machine must be thoroughly cleaned after prolonged stoppages."
+        },
+        {
+          cn: "此区域必须充分通风。",
+          en: "The area must be adequately ventilated."
+        },
+        {
+          cn: "开始操作设备前，确保无液体、气体、蒸汽或烟气可经入口管、排水管或轴进入作业区。",
+          en: "Before beginning work on the machine, ensure that no liquids, gases, vapors or smoke can enter the working area from inlet pipes, discharge pipes or shafts."
+        },
+        {
+          cn: "如不能可靠排除液体、气体、蒸汽或烟气流入风险，所有在危险区内作业的人员必须配戴安全带和安全绳。每名工作人员必须由危险区外的第二个人监护。",
+          en: "If it is not possible to exclude reliably the risk of liquids, gases, vapors or smoke flowing in, all persons working in the danger zone must be equipped with a safety harness and a safety rope. Each worker must be monitored by a second person outside the danger zone."
+        },
+        {
+          cn: "必须始终能够使工作人员毫不迟延地从危险区撤离。",
+          en: "It must always be possible to evacuate a worker from the danger zone without delay."
+        },
+        {
+          cn: "由于高温、高湿度，戴眼镜的人员可能发现他们的眼镜起雾，以此使配戴者面临损伤风险（如配戴者可能绊脚）。",
+          en: "Due to the high temperatures and humidity, people wearing glasses may find that their glasses steam up, thus exposing the wearer to a risk of injury (e.g. wearer may trip)."
+        }
+      ]
+    },
+    // --- 2.17 ---
+    {
+      title: { cn: "2.17 油与油脂", en: "2.17 Oils and greases" },
+      paragraphs: [
+        {
+          cn: "在处理油，油脂和其他化学物质时，应当遵守产品的安全指导书。",
+          en: "The safety instructions for the products concerned must be observed when handling oil, grease, and other chemical substances."
+        },
+        {
+          cn: "在处理腐蚀介质时，应当采取适当的皮肤保护措施。有关所需的皮肤保护措施类型，参见制造商的文献。",
+          en: "Suitable skin protection is required when handling aggressive media. See manufacturers' information for the type of skin protection required."
+        },
+        {
+          cn: "还要遵守处理方面的相关要求。",
+          en: "Also observe the relevant requirements for disposal."
+        }
+      ]
+    }
+  ]
+};
+
+// ============================================================================
+// SECTION 2: INSTALLATION (Sections 4.3 - 4.12, Pages 23-36)
+// ============================================================================
+
+const INSTALLATION = {
+  sectionTitle: { cn: "安装", en: "Installation" },
+  sectionNumber: "4",
+  pageRange: "23-36",
+  note: {
+    cn: "涵盖运输、安全保管、安装步骤、连接、冷测试、启动前准备、启动和证书。4.1总则和4.2安全条例作为背景包含。",
+    en: "Covers transport, safekeeping, installation steps, connect up, cold test, start-up prerequisites, start-up, and certificates. 4.1 General and 4.2 Safety regulations included for context."
+  },
+  images: [
+    {
+      image: "images-general/page24-img01.png",
+      imageCaption: { cn: "在轴颈处悬吊的辊子", en: "Roll suspended at the journals" },
+      figureRef: null
+    },
+    {
+      image: "images-general/page24-img02.jpeg",
+      imageCaption: { cn: "在带涂层的辊轴体处悬吊的辊子", en: "Suspending from the coated roll body" },
+      figureRef: null
+    },
+    {
+      image: "images-general/page24-img03.jpeg",
+      imageCaption: { cn: "吊装辊子示意图", en: "Lifting the roll illustration" },
+      figureRef: null
+    },
+    {
+      image: "images-general/page24-img04.png",
+      imageCaption: { cn: "吊装辊子安全说明", en: "Lifting roll safety notes" },
+      figureRef: null
+    },
+    {
+      image: "images-general/page30-img01.png",
+      imageCaption: { cn: "取样装置：手动操作的取样接头", en: "Sampling devices: Manually operated sampling fitting" },
+      figureRef: null
+    },
+    {
+      image: "images-general/page30-img02.jpeg",
+      imageCaption: { cn: "取样容器", en: "Sampling vessel" },
+      figureRef: null
+    },
+    {
+      image: "images-general/page30-img03.jpeg",
+      imageCaption: { cn: "取样装置示例", en: "Sampling equipment examples" },
+      figureRef: null
+    },
+    {
+      image: "images-general/page30-img04.png",
+      imageCaption: { cn: "取样安全设备表", en: "Sampling safety equipment table" },
+      figureRef: null
+    },
+    {
+      image: "images-general/page30-img05.jpeg",
+      imageCaption: { cn: "取样设备", en: "Sampling equipment" },
+      figureRef: null
+    },
+    {
+      image: "images-general/page30-img06.jpeg",
+      imageCaption: { cn: "取样设备", en: "Sampling equipment" },
+      figureRef: null
+    }
+  ],
+  subsections: [
+    // --- 4.3 Transport ---
+    {
+      title: { cn: "4.3 运输", en: "4.3 Transport" },
+      warnings: [
+        {
+          level: "DANGER",
+          cn: "危险",
+          heading: { cn: "下降的设备部件", en: "Falling machine parts" },
+          text: {
+            cn: "运输或装料/卸料期间，由于设备部件从高处下落，存在危害生命和肢体的风险。",
+            en: "During transport or loading/unloading there is a risk to life and limb due to the risk of machine parts falling from a height."
+          },
+          instructions: [
+            { cn: "a) 除了使用吊车或叉车升降的标记点外，禁止升降设备和运输板条箱！", en: "a) Do not lift machine and transport crates except at the points marked for lifting by crane or forklift!" },
+            { cn: "b) 如果设备是整台吊起，且有几个不同类型的吊耳可用，则人员应只使用适合于当前工作的合适吊耳（根据运输示意图）。", en: "b) If the entire machine is lifted and there are several different types of lifting lug available, personnel should only use suitable lugs (according to the transport sketch) for the work in hand." },
+            { cn: "c) 不要在悬吊的负荷下走动！", en: "c) Do not step or walk below suspended loads!" },
+            { cn: "d) 穿戴个人防护装备！", en: "d) Wear your personal protective equipment!" }
+          ]
+        },
+        {
+          level: "NOTICE",
+          cn: "注意",
+          heading: { cn: "涂漆表面的损坏", en: "Damage to painted surfaces" },
+          text: {
+            cn: "油漆损坏而导致的腐蚀。当吊装带涂层机械零件时，切勿使用钢丝绳吊装！",
+            en: "Corrosion due to damaged paintwork. Do not use steel cables when lifting painted machine parts!"
+          }
+        }
+      ],
+      paragraphs: [
+        {
+          cn: "设备/系统按预装配状态供货。用柳条箱包装设备部件和辅助物料。运输单据上注明运输尺寸和重量。最大供货重量：>>技术参数",
+          en: "The machine/system is supplied pre-assembled. The machine components and auxiliary materials are packed in crates. Transport sizes and weights are stated in the shipping documents. Largest supply weights: >> Technical data"
+        },
+        {
+          cn: "按照装运单据和装箱单，检查到货是否齐全且完好无损。如果发现运输损坏或货物短缺，请勿收货，并请通知货运代理和安德里茨有限公司运输部门。",
+          en: "Check against shipping documents and packing lists whether the supply is complete and in perfect condition. Do not accept the goods in the event of transport damage or short supply, and notify the forwarder and the ANDRITZ shipping department accordingly."
+        }
+      ],
+      subSubsections: [
+        {
+          title: { cn: "4.3.1 吊装辊子", en: "4.3.1 Lifting the rolls" },
+          paragraphs: [
+            {
+              cn: "辊子应在轴颈处吊装。当在带涂层表面上吊装辊子时，请使用较宽的带衬垫吊索。",
+              en: "Rolls should be lifted at the journals. When lifting a roll at the coated surface, use broad, padded slings."
+            }
+          ],
+          warnings: [
+            {
+              level: "NOTICE",
+              cn: "注意",
+              heading: { cn: "小心地吊出辊子", en: "Lifting the roll out carefully" },
+              text: {
+                cn: "将辊子从板条箱中吊出时，可能会损坏辊轴涂层。",
+                en: "The roll coating may be damaged when lifting the roll out of the crate."
+              },
+              instructions: [
+                { cn: "a) 小心打开板条箱，去掉木屑和钉子！", en: "a) Open crate carefully and remove wood splinters and nails!" },
+                { cn: "b) 不要取出封盖纸！", en: "b) Do not remove cover paper!" },
+                { cn: "c) 当辊子吊出时，绳索绑扎不得接触辊体的端面！", en: "c) When lifting the roll out, rope lashing must not touch the end faces of the roll body!" },
+                { cn: "d) 用木方保护辊子端面！", en: "d) Protect roll ends with squared timber!" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    // --- 4.4 Safekeeping ---
+    {
+      title: { cn: "4.4 安全保管", en: "4.4 Safekeeping" },
+      paragraphs: [
+        {
+          cn: "如果系统不能立即安装，则必须遵守以下说明：",
+          en: "The following instructions for storage must be observed if assembly work is not to be performed immediately:"
+        },
+        {
+          cn: "- 请通知安德里茨有限公司运输部。",
+          en: "- Please inform the ANDRITZ shipping department."
+        },
+        {
+          cn: "- 为储放的设备部件提供天气保护。尤其是避免温度发生大幅变化，确保设备保持清洁。",
+          en: "- Provide weather protection for machine components stored. In particular, avoid wide variations in temperature and ensure that the equipment is kept clean."
+        },
+        {
+          cn: "- 将小型零件存放在带锁的房间内，防止其受损或被未授权的人员取走。",
+          en: "- Small parts should be protected against damage and unauthorized withdrawal by storing them in lockable rooms."
+        },
+        {
+          cn: "- 在现场安装工作开始之前，不得拆除包装。",
+          en: "- Packing should not be removed until erection work begins."
+        }
+      ],
+      subSubsections: [
+        {
+          title: { cn: "4.4.1 安全存放施胶辊筒", en: "4.4.1 Safekeeping of rubberised rolls" },
+          paragraphs: [
+            {
+              cn: "施胶辊筒应始终存放在其运输包装内，室内保存。各种辊子必须在零度以上温度保存。",
+              en: "Rubber-covered rolls should always be stored indoors, in their shipping crates. Rolls must be stored in an environment at temperatures above freezing point."
+            },
+            {
+              cn: "温度非常低的辊子不得立即投入使用。必须提前一天或两天使其达到安装地点的温度。",
+              en: "A very cold roll should not be installed and put into service right away. It must be brought to the temperature at the installation location one or two days beforehand."
+            },
+            {
+              cn: "如果辊子将要长时间存放，则应每月转动一次辊子和轴承，以防止辊体下垂并对轴承造成损坏。",
+              en: "If rolls are to be stored for a longer period, the roll and the bearings should be rotated once a month to prevent the roll body from sagging and damage being caused to the bearings."
+            },
+            {
+              cn: "另请遵守施胶公司的维护说明！",
+              en: "Also observe the maintenance instructions of the rubberizing company!"
+            }
+          ]
+        }
+      ]
+    },
+    // --- 4.5 Installation ---
+    {
+      title: { cn: "4.5 安装", en: "4.5 Installation" },
+      paragraphs: [
+        {
+          cn: "各步骤的完成必须记录在安装工程完工证书中。",
+          en: "Completion of the various steps must be documented in the certificate of completion of erection work."
+        }
+      ],
+      warnings: [
+        {
+          level: "WARNING",
+          cn: "警告",
+          heading: { cn: "不遵守安装工作顺序", en: "Non-observance of the installation work sequence" },
+          text: {
+            cn: "无视顺序图和安装说明可能会导致危险情况，对生命和肢体造成危险。安装工作顺序很重要，必须严格遵守！",
+            en: "Disregarding the sequence plan and the installation instructions may result in hazardous situations creating a danger to life and limb. The sequence of erection work is important and must be strictly observed!"
+          }
+        },
+        {
+          level: "WARNING",
+          cn: "警告",
+          heading: { cn: "夹住与辗压", en: "Trapping and crushing" },
+          text: {
+            cn: "作业中，肢体可能被夹住或辗压。",
+            en: "Limbs can be trapped or crushed during work."
+          },
+          instructions: [
+            { cn: "a) 不要将手放在悬吊载荷下方！", en: "a) Do not place your hand below suspended loads!" },
+            { cn: "b) 穿戴个人防护装备！", en: "b) Wear your personal protective equipment!" },
+            { cn: "c) 运转部件能够改变位置，因此具有挤压点或剪切点，必须使用支撑杆将其固定到位或采取等效措施（如放低）。", en: "c) Moving parts that are able to change position and thus have crushing or shearing points must be secured in position with supporting bars or equivalent measures (e.g. lowering)." }
+          ]
+        },
+        {
+          level: "DANGER",
+          cn: "危险",
+          heading: { cn: "安装作业中的事故风险", en: "Risk of accidents during erection work" },
+          text: {
+            cn: "坠落、绊脚、辗压与滑倒危险。安装期间必须始终施加所有安全措施（屏障等）。所有作业区内必须提供充足照明。",
+            en: "Danger of falling, stumbling, crushing and slipping. All safety measures (barriers, etc.) must be continually applied during erection. In all work areas, adequate lighting must be provided."
+          }
+        }
+      ],
+      requirements: {
+        heading: { cn: "安装现场要求", en: "Requirements at installation site" },
+        items: [
+          { cn: "通电、通水、通压缩空气。", en: "Electricity, water, and compressed air are available." }
+        ]
+      },
+      documentation: {
+        heading: { cn: "文件", en: "Documentation" },
+        text: { cn: "在开始安装工作时，必须提供以下文件：", en: "The following documentation must be available at the beginning of installation work:" },
+        items: [
+          { cn: "现场安装作业顺序", en: "Field installation work sequence" },
+          { cn: "地基图与布置图", en: "Foundation and arrangement drawings" },
+          { cn: "装配图纸和部件清单", en: "Assembly drawings and parts lists" },
+          { cn: "电气、测量与控制设备文件", en: "Electrical, measurement and control equipment documents" },
+          { cn: "每批货物的装箱单", en: "Packing lists for each individual consignment" }
+        ]
+      },
+      foundation: {
+        cn: "按照项目指定基础图纸进行基础和基础安装施工，开始安装作业前，必须进行尺寸检查。",
+        en: "The foundation and foundation mountings are built according to the project-specific foundation drawings, and the dimensioning must be checked before starting the installation work."
+      },
+      subSubsections: [
+        {
+          title: { cn: "4.5.1 设备安装", en: "4.5.1 Machine installation" },
+          paragraphs: [
+            {
+              cn: "按照装配图纸和安装作业顺序图继续安装机器。基础制备，按照布置和基础图纸进行定位和调整。",
+              en: "Continue erecting the machine according to the assembly drawings and the erection work sequence diagram. Prepare the foundation, position and adjust according to the arrangement and foundation drawings."
+            }
+          ]
+        },
+        {
+          title: { cn: "4.5.2 外围设备安装", en: "4.5.2 Installation of peripheral equipment" },
+          items: [
+            { cn: "楼梯与走台", en: "Staircases and walkways" },
+            { cn: "水管", en: "Water pipes" },
+            { cn: "工艺管", en: "Process pipes" },
+            { cn: "气动和液压设备", en: "Pneumatic and hydraulic equipment" },
+            { cn: "中央润滑系统", en: "Central lubricating system" },
+            { cn: "仪表、定位器和控制单元", en: "Instrumentation, positioners and control units" },
+            { cn: "安全外壳、防护罩和警告标志", en: "Safety housing, protective covers, and warning signs" }
+          ],
+          warnings: [
+            {
+              level: "CAUTION",
+              cn: "小心",
+              heading: { cn: "管道工程的不正确", en: "Pipework mounted incorrectly" },
+              text: {
+                cn: "管道及软管安装错误可能会对生命及肢体造成危险并对机器造成损坏。对所有管道进行无应力和无振动安装！管道安装必须保证运行期间，不会对机器造成应力（如通过管道热膨胀）。",
+                en: "Errors in the installation of pipework and hoses may result in risks to life and limb and in damage to the machine. Mount all pipes stress-free and free of vibration! The pipework must be mounted such that it does not stress the machine during operation (e.g. by heat expansion of the pipes)."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    // --- 4.6 Connect up ---
+    {
+      title: { cn: "4.6 连接", en: "4.6 Connect up" },
+      paragraphs: [
+        {
+          cn: "机器所有连接和连接尺寸见布置图。",
+          en: "All connections and connecting dimensions at the machine are shown in the arrangement drawing."
+        },
+        {
+          cn: "排水管必须可靠地排放到排水系统中，以防止任何高温液体喷出并造成烫伤。",
+          en: "The drainage pipe must discharge reliably into the drain to prevent any hot liquid from spraying out and causing scalding injuries."
+        }
+      ],
+      warnings: [
+        {
+          level: "CAUTION",
+          cn: "小心",
+          heading: { cn: "管道工程的不正确", en: "Pipework mounted incorrectly" },
+          text: {
+            cn: "管道及软管安装错误可能会对生命及肢体造成危险并对机器造成损坏。对所有管道进行无应力和无振动安装！管道安装必须保证运行期间，不会对机器造成应力（如通过管道热膨胀）。",
+            en: "Errors in the installation of pipework and hoses may result in risks to life and limb and in damage to the machine. Mount all pipes stress-free and free of vibration! The pipework must be mounted such that it does not stress the machine during operation (e.g. by heat expansion of the pipes)."
+          }
+        }
+      ],
+      sampling: {
+        heading: { cn: "取样设备", en: "Sampling equipment" },
+        text: {
+          cn: "在浆料管中应设置适合于从带压管道中提取样本的取样设备。",
+          en: "Sampling equipment suitable for taking samples from pressurized pipes is to be provided in the stock pipes."
+        },
+        warnings: [
+          {
+            level: "WARNING",
+            cn: "警告",
+            heading: { cn: "存在高温液体和蒸汽喷出的危险", en: "Danger from hot liquids and vapors spraying out" },
+            text: {
+              cn: "在取样时，存在高温液体或蒸汽可能会逸出或者在取样过程中添加的化学品可能会引起化学烧伤的风险。取样时必须佩戴个人安全设备，特别是护目镜和安全手套！",
+              en: "When taking samples, hot liquids or vapors may escape or there may be a risk of chemical burns from the chemicals added during the process. Personal safety equipment, in particular eye protection and safety gloves, must be worn when taking samples!"
+            }
+          }
+        ],
+        ppeRequired: [
+          { cn: "防止纸浆与皮肤发生接触的防护服", en: "Protective clothing to prevent the pulp from coming into contact with the skin" },
+          { cn: "防止手部受伤的手套", en: "Gloves to prevent hand injuries" },
+          { cn: "眼部保护装置，防止眼睛受伤", en: "Eye protection to prevent eye injuries" }
+        ],
+        ppeTableRef: { cn: "表. 6：安全设备", en: "Tab. 5: Safety equipment" }
+      },
+      fiberCoatingWarning: {
+        level: "WARNING",
+        cn: "警告",
+        heading: { cn: "与纤维涂层接触", en: "Contact with the fibre coating" },
+        text: {
+          cn: "会导致皮肤损伤和化学品灼伤的接触。对纤维涂层过敏的人员不得处置纤维涂层！穿戴个人防护装备！在机器上工作后，洗手并消毒！",
+          en: "Contact with the fibre coating can lead to skin damage and chemical burn injuries. Persons handling the fibre coating must not be allergic to it! Wear personal protective equipment! Clean and disinfect hands after working on the machine!"
+        }
+      },
+      instruments: {
+        cn: "应按照流量表和适用的标准安装机器仪表（仪表、执行器和控制装置）。",
+        en: "The instrumentation (instruments, actuators and control devices) of the machine is to be installed according to the flow sheet and the applicable standards."
+      },
+      electrical: {
+        cn: "应按照适用的标准设置和操作整套电气安装。",
+        en: "The complete electrical installations are to be set up and operated according to the applicable standards."
+      }
+    },
+    // --- 4.7 Cold test ---
+    {
+      title: { cn: "4.7 冷测试（准备首次启动）", en: "4.7 Cold test (preparation for initial start-up)" },
+      paragraphs: [
+        {
+          cn: "冷测试将与客户的授权代表一起完成。应为冷测试实施在冷试验证书中列出的工作步骤并记录在案。",
+          en: "The cold test is to be carried out together with the customer's authorized representative. The work steps listed in the cold test certificate shall be carried out for the cold test, and documented."
+        },
+        {
+          cn: "客户和安装工作主管应完成冷测试后对安装进行最后检验。",
+          en: "The customer and the erection work supervisor shall conduct a final inspection of the installation upon completion of the cold tests."
+        },
+        {
+          cn: "在完成冷测试后，将签发以下证书：",
+          en: "The following certificates are to be issued after completion of the cold test:"
+        },
+        {
+          cn: "- 功能测试（冷测试证书）",
+          en: "- Function test (cold test certificate)"
+        },
+        {
+          cn: "- 安装工程完工证明。",
+          en: "- Certificate of complete of installation work"
+        }
+      ]
+    },
+    // --- 4.8 Disassembly and disposal ---
+    {
+      title: { cn: "4.8 拆卸与处置", en: "4.8 Disassembly and disposal" },
+      warnings: [
+        {
+          level: "DANGER",
+          cn: "危险",
+          heading: { cn: "电压", en: "Voltage" },
+          text: {
+            cn: "设备上的电压对生命和肢体构成危险。拆卸前，必须断开设备电源，并进行固定，防止再次开启！只有合格的授权人员方可拆卸设备。",
+            en: "The voltage at the machine constitutes a danger to life and limb. The machine must be disconnected from the power source and secured to prevent switching on again before disassembly! The machine may only be disassembled by qualified and authorized personnel."
+          }
+        }
+      ],
+      paragraphs: [
+        {
+          cn: "如果要关闭机器/装置，必须考虑如下处理顺序：",
+          en: "If the machine/plant is to be shut down, the following must be taken into account for subsequent disposal:"
+        },
+        {
+          cn: "- 必须按照不同的材料、润滑剂填充以及不同类型的污染，拆卸设备部件。",
+          en: "- The machine components must be disassembled according to the various materials, lubricant fillings, and various forms of contamination."
+        },
+        {
+          cn: "- 必须按照适用的废料处置法规要求，处置物料。",
+          en: "- The materials must be disposed of in accordance with the applicable legislation on waste disposal."
+        },
+        {
+          cn: "- 必须按照适用的回收和处置证明法规（如声明和入库登记），提供各种物料的性质和处置途径证明。",
+          en: "- Proof must be brought of the properties and the disposal route of the various materials according to the applicable regulations on proof of recovery and disposal (e.g. statement and entry in register)."
+        },
+        {
+          cn: "- 按照法规处置材料前，编制必要的文件，并遵照执行。",
+          en: "- Compile the necessary documents before disposal and dispose of the materials according to the regulations, observing the documents."
+        }
+      ],
+      plasticWarning: {
+        level: "WARNING",
+        cn: "警告",
+        heading: { cn: "易燃塑料部件", en: "Flammable plastic parts" },
+        text: {
+          cn: "燃烧塑料部件会引起火灾和烧伤。遵守当地消防条例。当分离材料时，不得使用焊接设备或其他产生火花的设备进行作业！",
+          en: "Risk of fire and burns from burning plastic parts. Observe the local fire protection regulations. When separating the materials, do not work with welding devices or other equipment that generates sparks!"
+        }
+      },
+      disposalItems: [
+        { cn: "润滑油、公共设施和清洁剂必须按照当地规定以及合适的制造商规定进行处置。", en: "Oil, utilities and cleaning agents must be disposed of according to the local provisions and in compliance with the appropriate manufacturer regulations." },
+        { cn: "其他要分离的材料组是：", en: "Other material groups to be separated are:" },
+        { cn: "- 经过表面处理的钢板，如粉末涂层或湿漆门、上盖等。", en: "- Surface-treated sheet steel, such as powder-coated or wet-painted doors, covers, etc." },
+        { cn: "- 表面涂层结构钢，如旋转部件、格栅、螺栓等。", en: "- Surface-coated construction steel, such as rotating parts, gratings, bolts, etc." },
+        { cn: "- 铜（电气级铜或银涂层电气等级铜），如母线、连接带、连接件等。", en: "- Copper (electrical grade copper or silver-coated electrical grade copper), such as busbars, connecting straps, connections pieces, etc." },
+        { cn: "- 电缆", en: "- Cables" },
+        { cn: "- 产生辐射的内置单元、电子元件和组件（放射性探头）等。", en: "- Built-in units, electrical components and components generating radiation (radio-active probe), etc." }
+      ]
+    },
+    // --- 4.9 General ---
+    {
+      title: { cn: "4.9 总则", en: "4.9 General" },
+      paragraphs: [
+        {
+          cn: "本章介绍了初次启动设备所需的准备工作和步骤。",
+          en: "This chapter describes the preparations and steps required for initial start-up of the machine."
+        }
+      ]
+    },
+    // --- 4.10 Safety regulations ---
+    {
+      title: { cn: "4.10 安全条例", en: "4.10 Safety regulations" },
+      warnings: [
+        {
+          level: "DANGER",
+          cn: "危险",
+          heading: { cn: "遵循安全指南", en: "Observe safety instructions" },
+          text: {
+            cn: "未能遵循这些安全条例可导致危险情况。必须严格遵守本章节中所有安全指南！",
+            en: "Disregarding the safety regulations can lead to dangerous situations. All precautionary safety instructions in this section must be strictly observed!"
+          }
+        }
+      ],
+      paragraphs: [
+        {
+          cn: "应当遵守各项事故预防规定。必须对气体及蒸汽形成的潜在风险进行详细分析。必须采取恰当的安全措施。",
+          en: "All applicable accident prevention rules must be observed. Potential risks caused by gases and vapors forming must be analyzed in detail. The appropriate safety measures must be implemented."
+        },
+        {
+          cn: "不要超过起重机和钢丝绳/吊具允许的起重载荷和重量。固定载荷，防止其从高处坠落。不要在悬吊的负荷下走动！站在悬吊的负荷下是非常危险的，因而严格禁止！必须避免颠簸，尤其是在搬运预装配的设备时。",
+          en: "Do not exceed permissible crane loads and weights on lifting gear and ropes/shackles. Secure loads against falling from a height. Do not step or walk below suspended loads! Standing below suspended loads can be fatal and is thus strictly forbidden! Jolts must be avoided. This refers especially to the handling of pre-assembled machines."
+        },
+        {
+          cn: "只能由经过培训的熟练的人员进行安装工作。",
+          en: "Erection work may only be carried out by trained, skilled personnel."
+        }
+      ],
+      startUpNotice: {
+        level: "NOTICE",
+        cn: "注意",
+        heading: { cn: "启动期间安全设备", en: "Safety equipment during start-up" },
+        text: {
+          cn: "由于系统仍在检查中，所以存在安全设备尚未运行的风险。安全培训课程中，必须指出这些危险！",
+          en: "Due to systems still being checked, there is a risk that safety equipment is not yet functioning. These dangers must be pointed out during the safety training session!"
+        }
+      },
+      ppe: {
+        cn: "作业时必须穿戴个人安全装备（>> 个人防护装置 [} 16]）。",
+        en: "Personal safety equipment must be worn when working (>> Personal protective apparel [} 16])."
+      }
+    },
+    // --- 4.11 Prerequisites for start-up ---
+    {
+      title: { cn: "4.11 启动前的准备工作", en: "4.11 Prerequisites for start-up" },
+      subSubsections: [
+        {
+          title: { cn: "4.11.1 一般前提条件", en: "4.11.1 General prerequisites" },
+          paragraphs: [
+            {
+              cn: "启动前，确保满足如下要求：",
+              en: "Before start-up, ensure that the following requirements are met:"
+            },
+            {
+              cn: "- 启动前，请确保随机工程文件中提及的所有必要措施均已得到适当实施。",
+              en: "- Before start-up, ensure that all the necessary measures mentioned in the engineering documents supplied with the equipment have been duly implemented."
+            },
+            {
+              cn: "- 已完成安装工作。",
+              en: "- Erection work completed."
+            },
+            {
+              cn: "- 已完成冷测试。",
+              en: "- Cold test completed."
+            },
+            {
+              cn: "- 安装现场无障碍，并清洁。",
+              en: "- Installation site has been cleared and cleaned."
+            },
+            {
+              cn: "- 所有管道必须清洗。",
+              en: "- All pipes must be cleaned."
+            },
+            {
+              cn: "- 已提供初次填充润滑剂（齿轮箱、轴承等）。",
+              en: "- First filling of lubricants (gear units, bearings, etc.) provided."
+            },
+            {
+              cn: "- 安装所有安全罩。",
+              en: "- All safety guards mounted."
+            },
+            {
+              cn: "- 所有人员知道紧急停机开关的位置。",
+              en: "- All personnel know the location of the EMERGENCY STOP switch."
+            },
+            {
+              cn: "- 已经测试并验证安全系统。",
+              en: "- The safety system has been tested and validated."
+            },
+            {
+              cn: "- 所有电气连锁和紧急停机安全装置均正常运行，并已经完成检查。",
+              en: "- All electric interlocks and EMERGENCY STOP safety devices are functioning and have been checked."
+            },
+            {
+              cn: "- 已经安装并测试所有控制回路。",
+              en: "- All control circuits have been installed and tested."
+            },
+            {
+              cn: "- 已经安装并测试工艺控制系统。",
+              en: "- Process control system has been installed and tested."
+            }
+          ]
+        }
+      ]
+    },
+    // --- 4.12 Start-up ---
+    {
+      title: { cn: "4.12 启动", en: "4.12 Start-up" },
+      warnings: [
+        {
+          level: "NOTICE",
+          cn: "注意",
+          heading: { cn: "不正确的启动步骤", en: "Incorrect start-up procedure" },
+          text: {
+            cn: "如果使用不正确步骤，可能损坏设备。所有电气联锁装置必须工作并进行检查！",
+            en: "Machine may be damaged if incorrect start-up procedures are used. All electric interlocks must be functional and checked!"
+          }
+        }
+      ],
+      paragraphs: [
+        {
+          cn: "在启动之前，必须与ANDRITZ AG 的开机工程师一起确定启动步骤。按照启动协议文件启动设备。",
+          en: "Before start-up, the procedure must be defined together with ANDRITZ AG's start-up engineer. The machine is to be started up according to the start-up protocol document."
+        },
+        {
+          cn: "启动期间，应在设备上进行实践培训。参加人员必须事先接受理论指导。",
+          en: "During start-up, practical training will also be provided on the machine. Participants must receive instruction on the theory beforehand."
+        },
+        {
+          cn: "启动后，将设备以完整、可靠和待运行的状态交付给磨机运营公司。",
+          en: "After start-up, the machine will be handed over to the mill operating company in a complete, reliable condition and ready for operation."
+        }
+      ]
+    },
+    // --- 4.13 Certificates ---
+    {
+      title: { cn: "4.13 证书", en: "4.13 Certificates" },
+      paragraphs: [
+        {
+          cn: "启动后，必须填写以下证书，并签字：",
+          en: "The following certificates must be completed and signed after start-up:"
+        },
+        {
+          cn: "- 启动协议",
+          en: "- Start-up protocol"
+        },
+        {
+          cn: "- 临时验收证书",
+          en: "- Provisional acceptance certificate"
+        }
+      ]
+    }
+  ]
+};
+
+// ============================================================================
+// SECTION 3: WIRE/FELT GUIDING (Section 4.22.2, Pages 45-53)
+// ============================================================================
+
+const WIRE_FELT_GUIDING = {
+  sectionTitle: { cn: "4.22.2 网和毯校正装置的设置", en: "4.22.2 Setting the wire and felt guiding devices" },
+  sectionNumber: "4.22.2",
+  pageRange: "45-53",
+  images: [
+    {
+      image: "images-general/page45-img01.png",
+      imageCaption: { cn: "图6：网校正系统控制阀", en: "Fig. 5: Control valve for the wire guiding system" },
+      figureRef: "Fig. 5 / 图6"
+    },
+    {
+      image: "images-general/page45-img02.jpeg",
+      imageCaption: { cn: "图8：气动系统流程图", en: "Fig. 7: Pneumatic flow sheet" },
+      figureRef: "Fig. 7 / 图8"
+    },
+    {
+      image: "images-general/page45-img03.jpeg",
+      imageCaption: { cn: "控制阀门FCV2", en: "Control valve FCV2" },
+      figureRef: null
+    },
+    {
+      image: "images-general/page49-img01.png",
+      imageCaption: { cn: "图10：网子偏移", en: "Fig. 9: Wire drift" },
+      figureRef: "Fig. 9 / 图10"
+    },
+    {
+      image: "images-general/page49-img02.png",
+      imageCaption: { cn: "图12：气动柜", en: "Fig. 11: Pneumatic cabinet" },
+      figureRef: "Fig. 11 / 图12"
+    },
+    {
+      image: "images-general/page49-img03.jpeg",
+      imageCaption: { cn: "气动柜实物", en: "Pneumatic cabinet photo" },
+      figureRef: null
+    },
+    {
+      image: "images-general/page50-img01.png",
+      imageCaption: { cn: "无支撑网子校正装置", en: "Free-standing wire guiding device" },
+      figureRef: null
+    },
+    {
+      image: "images-general/page50-img02.jpeg",
+      imageCaption: { cn: "悬挂网子校正装置", en: "Suspended wire guiding device" },
+      figureRef: null
+    },
+    {
+      image: "images-general/page50-img03.jpeg",
+      imageCaption: { cn: "校正装置实物", en: "Guiding device photo" },
+      figureRef: null
+    },
+    {
+      image: "images-general/page51-img01.png",
+      imageCaption: { cn: "图14：流程图", en: "Fig. 13: Flow sheet" },
+      figureRef: "Fig. 13 / 图14"
+    },
+    {
+      image: "images-general/page51-img02.jpeg",
+      imageCaption: { cn: "流程图实物", en: "Flow sheet photo" },
+      figureRef: null
+    },
+    {
+      image: "images-general/page52-img01.png",
+      imageCaption: { cn: "表9：故障修理", en: "Tab. 8: Fault repairs" },
+      figureRef: null
+    },
+    {
+      image: "images-general/page53-img01.png",
+      imageCaption: { cn: "图16：真空箱角度设定（符号图示）", en: "Fig. 15: Setting the suction box angle (symbolic illustration)" },
+      figureRef: "Fig. 15 / 图16"
+    },
+    {
+      image: "images-general/page53-img02.jpeg",
+      imageCaption: { cn: "真空箱角度设定实物", en: "Suction box angle setting photo" },
+      figureRef: null
+    },
+    {
+      image: "images-general/page53-img03.png",
+      imageCaption: { cn: "真空箱角度设定步骤", en: "Suction box angle setting steps" },
+      figureRef: null
+    }
+  ],
+  paragraphs: [
+    {
+      cn: "根据网纠偏传感器（5a）的位置，从进浆管到向上的弹簧气囊（控制气囊），较大或较小量的压缩空气通过控制阀（FCV2）逸出到大气中。结果，到截断阀（PV3）的进浆管中的压力出现上升或下降。这导致控制波纹管填充或放空。调节辊现在从其中心位置旋转其中心位置，并使网居中，将其移回其原始位置。",
+      en: "Depending on the position of the wire tracking sensor (5a), a larger or smaller amount of air from the feed pipe to the spring bellow higher up (control bellow) escapes through the control valve (FCV2) into the open air. As a result, the pressure in the feed pipe to the shut-off valve (PV3) rises or falls. This causes the control bellow to be filled or emptied. The regulating roll now pivots out of its central position and centers the wire, moving it back to its original position."
+    }
+  ],
+  systemComponents: [
+    { label: "W", cn: "网、毛毯", en: "Wire, felt" },
+    { label: "5a", cn: "网纠偏传感器", en: "Wire tracking sensor" },
+    { label: "FCV2", cn: "控制阀", en: "Control valve" },
+    { label: "5e", cn: "万向节", en: "Universal joint" },
+    { label: "L", cn: "空气供给", en: "Air supply" },
+    { label: "6", cn: "调节辊", en: "Regulating roll" },
+    { label: "6a", cn: "控制气囊", en: "Control bellow" }
+  ],
+  subsections: [
+    // Weight compensation
+    {
+      title: { cn: "重量补偿", en: "Weight compensation" },
+      paragraphs: [
+        {
+          cn: "作用在底部弹簧气囊（用于重量补偿的气囊）上的力的变化取决于网宽和调节辊的倾斜位置而变化。为了实现有效的调节，必须对这个力进行补偿。",
+          en: "The force acting on the bottom spring bellow (bellow for weight compensation) changes depending on the width of the wire and the slanting position of the regulating roll. It is essential to compensate this force in order to achieve efficient regulating."
+        },
+        {
+          cn: "通过阀门（PC1），施加使用空气压力设定的重量补偿。可以在压力计（PI1）处读取预设压力。",
+          en: "The weight compensation set using the air pressure is applied using the valve (PC1). The pre-set pressure can be read off at the manometer (PI1)."
+        }
+      ]
+    },
+    // Control pressure
+    {
+      title: { cn: "控制压力", en: "Control pressure" },
+      paragraphs: [
+        {
+          cn: "控制气囊的压力使用阀门（PC2）设置，并在压力计（PI2）读取。",
+          en: "The pressure for the control bellow is set using the valve (PC2) and read off at the manometer (PI2)."
+        }
+      ]
+    },
+    // Filling and emptying the control bellow
+    {
+      title: { cn: "控制波纹管的充满和放空", en: "Filling and emptying the control bellow" },
+      paragraphs: [
+        {
+          cn: "使用单向限流器（FCV1）设定压缩空气量。可以在压力计（PI3）处读取任何给定时间的空气管中的压力。一方面，这实现了控制气囊的更协调的动作，另一方面，当网子在一个方向或另一个方向上非常快地偏移时，避免了压力脉冲，并且控制阀（FCV2）快速打开或关闭。可以在压力计（PI3）处读取任何给定时间到控制阀的空气管中的压力。",
+          en: "The air quantity is set using the one-way restrictor (FCV1). The pressure in the air pipe at any given time can be read off at the manometer (PI3). On the one hand, this achieves more harmonious actuating of the control bellow and on the other hand, pressure impulses are avoided when the wire drifts very quickly in one direction or the other, and the control valve (FCV2) opens or closes quickly. The pressure in the air pipe to the control valve at any given time can be read off at the manometer (PI3)."
+        }
+      ]
+    },
+    // System and control pressure
+    {
+      title: { cn: "系统和控制压力", en: "System and control pressure" },
+      paragraphs: [
+        {
+          cn: "压力调节器（XV1）用于设定整个控制回路的压力。标称设定值为5 巴。",
+          en: "The pressure regulator (XV1) is used to set the pressure for the entire control loop. Nominal setting is 5 bar."
+        },
+        {
+          cn: "截断阀（PV2，用于重量补偿和PV3，控制波纹管）的控制压力通过气动顺序阀（PC3）施加。在设定弹簧力下，阀门（PC3）不会打开，直到压力超过3 巴。因此，阀门（PV2 和PV3）也打开，且到两个弹簧气囊的管道清理干净，准备好运行。",
+          en: "The control pressure for the stop valves (PV2, weight compensation and PV3, control bellow) is applied via the pneumatic sequence valve (PC3). The valve (PC3) does not open against the spring force set until the pressure is greater than 3 bar. Thus, the valves (PV2 and PV3) are also opened and the pipes to the two spring bellows are cleared for operation."
+        },
+        {
+          cn: "由于系统无法在低于3 巴的压力下工作，因此，在此压力下，调节终止。",
+          en: "The system cannot function below 3 bar so regulating is discontinued below this pressure!"
+        }
+      ]
+    },
+    // Setting the valves
+    {
+      title: { cn: "阀门设置", en: "Setting the valves" },
+      paragraphs: [
+        {
+          cn: "设置阀门（PC1）和（PC2）的气动压力以及在单向限制器（FCV1）处的流量，因此调节辊可以到达其摆角的两个最终位置。",
+          en: "The pneumatic pressure at the valves (PC1) and (PC2) and the flow rate at the one-way restrictor (FCV1) are to be set such that the regulating roll can reach both final positions of its swing angle."
+        }
+      ]
+    },
+    // Setting the regulating system
+    {
+      title: { cn: "设定调节系统", en: "Setting the regulating system" },
+      steps: [
+        { cn: "将网子移动到所需位置。", en: "Move the wire into the required position." },
+        { cn: "a) 关闭压力控制阀PC1 和PC2。", en: "a) Close pressure control valves PC1 and PC2." },
+        { cn: "b) 用阀门HV1 和过滤器控制器XV1 打开压缩空气供应。", en: "b) Turn on the air supply with the valve HV1 and the filter controller XV1." },
+        {
+          cn: "c) 将过滤器控制器XV1 设置为5 巴",
+          en: "c) Set filter controller XV1 to 5 bar.",
+          note: {
+            cn: "=> 动作PC3、PV2 和PV3 阀门。阀门PC3 在压力达到>3 巴之前不会打开",
+            en: "=> Valves PC3, PV2 and PV3 are actuated. Valve PC3 does not open until the pressure reaches > 3 bar."
+          }
+        },
+        {
+          cn: "d) 开启压力控制阀PC1（重量补偿）至足够大的开度，以便移除弹簧气囊之间的运输安全装置（锁定销）。",
+          en: "d) Open pressure control valve PC1 (weight compensation) far enough to allow the transport safety device (locking pin) between the spring bellows to be removed.",
+          note: {
+            cn: "=> 压力显示在压力表PI1 上。只有当调节辊处于其中心位置时才能移除锁定销。这补偿了重量",
+            en: "=> The pressure is displayed at the pressure gauge PI1. The locking pin can only be removed when the regulating roll is in its central position. This compensates the weight."
+          }
+        },
+        { cn: "e) 将压力控制阀PC2 设定为约 2 巴。", en: "e) Set pressure control valve PC2 to approx. 2 bar." },
+        { cn: "f) 将压力控制阀PC1 的设定值增加到约为 4 巴。", en: "f) Increase setting of pressure control valve PC1 to approx. 4 bar." },
+        {
+          cn: "g) 打开蝶阀FCV1。",
+          en: "g) Open butterfly valve FCV1.",
+          note: {
+            cn: "=> 蝶阀FCV1 的流量必须始终低于控制阀FCV2 的流量，否则控制波纹管不能充满空气",
+            en: "=> The flow rate at the butterfly valve FCV1 must always be lower than the flow rate at control valve FCV2. Otherwise the control bellow cannot be filled with air."
+          }
+        },
+        { cn: "h) 通过在两个方向上移动控制阀FCV2 上的探针板来检查调节辊的设置。", en: "h) Check the setting of the regulating roll by moving the feeler plate at control valve FCV2 in both directions." },
+        { cn: "i) 定位跟踪传感器相对于网子的位置，使得跟踪传感器杆大致处于中心位置。", en: "i) Position the tracking sensor in relation to the wire such that the tracking sensor lever is roughly in a central position." }
+      ],
+      importantNotes: [
+        {
+          cn: "如果调节系统正常工作，则在正常运行期间，从控制阀（FCV2）必须连续逸出少量空气。这不属于故障现象，是控制回路保持平衡所必需的！",
+          en: "A little air must escape continuously from the control valve (FCV2) during normal operation when the regulating system is functioning properly. This is not a fault, but is necessary for the control loop to remain balanced!"
+        },
+        {
+          cn: "使用万向节设定控制阀（FCV2）的位置。",
+          en: "The position of the control valve (FCV2) is set using a universal joint."
+        }
+      ],
+      cautions: [
+        {
+          cn: "小心：网子向上运行靠在探针板和控制阀（FCV2）（杠杆效应）改变调节速度点之间的间距。",
+          en: "CAUTION: The spacing between the point at which the wire runs up against the feeler plate and the control valve (FCV2) (lever effect) alters the regulating speed."
+        },
+        {
+          cn: "假设：在下面描述的两种情况下，网子偏移的幅度是相同的：",
+          en: "Assumption: The magnitude of wire drift is the same in both cases described below:"
+        },
+        {
+          cn: "- 如果接触点和控制阀（FCV2）之间的距离增加，则调节系统对相同的偏移程度反应会稍微慢一些",
+          en: "- If the distance between the point of contact and the control valve (FCV2) is increased, the regulating system will react a little more slowly for the same degree of drift."
+        },
+        {
+          cn: "- 如果接触点和控制阀（FCV2）之间的距离减小，则调节系统将对相同的偏移程度的反应会稍快一些。",
+          en: "- If the distance between the point of contact and the control valve (FCV2) is reduced, the regulating system will react a little more swiftly for the same degree of drift."
+        }
+      ]
+    },
+    // Wire drift direction
+    {
+      title: { cn: "网子偏移方向", en: "Direction of wire drift" },
+      paragraphs: [
+        {
+          cn: "当校正辊在特定方向倾斜时，网子偏移方向：",
+          en: "Direction of wire drift when regulating roll is slanted in a particular direction:"
+        }
+      ],
+      diagramLabels: [
+        { label: "Wdrift", cn: "网子偏移", en: "Wire drift" },
+        { label: "6", cn: "校正辊", en: "Regulating roll" },
+        { label: "W", cn: "网", en: "Wire" },
+        { label: "WDir", cn: "网子运行方向", en: "Wire running direction" }
+      ],
+      pneumaticCabinet: {
+        cn: "本图显示的网子校正系统使用的气动柜：",
+        en: "The diagram shows the pneumatic cabinet used for the wire guiding system:"
+      }
+    },
+    // Applications
+    {
+      title: { cn: "应用", en: "Applications" },
+      paragraphs: [
+        {
+          cn: "有两种不同的应用情况：",
+          en: "There are two different applications:"
+        },
+        {
+          cn: "- 调节辊独立安装在空气弹簧气囊上方。",
+          en: "- The regulating roll is mounted free-standing above the air spring bellows."
+        },
+        {
+          cn: "- 调节辊悬挂在空气弹簧气囊下方",
+          en: "- The regulating roll is suspended beneath the air spring bellows."
+        },
+        {
+          cn: "根据应用情况和倾斜位置，调整重量补偿。",
+          en: "Weight compensation is adjusted according to application and slanting position."
+        }
+      ]
+    },
+    // Variants
+    {
+      title: { cn: "变型", en: "Variants" },
+      paragraphs: [
+        {
+          cn: "气动控制系统存在两种变型：",
+          en: "The pneumatic control system has two variants:"
+        },
+        {
+          cn: "- 截止阀PV2 和PV3 安装在弹簧波纹管处（如上所述）",
+          en: "- With stop valves PV2 and PV3 mounted at the spring bellows (as described above)."
+        },
+        {
+          cn: "- 在弹簧气囊处无截止阀。必须按上文所述执行设置工作，但是不带顺序阀PC3。",
+          en: "- Without stop valves at the spring bellows. The setting work must be performed as described above, but without sequence valve PC3."
+        }
+      ]
+    },
+    // Troubleshooting
+    {
+      title: { cn: "故障排除", en: "Troubleshooting" },
+      troubleshootingTable: {
+        caption: { cn: "表9：故障修理", en: "Tab. 8: Fault repairs" },
+        rows: [
+          {
+            error: { cn: "控制器不移动", en: "Controller does not move" },
+            possibleCauses: [
+              { cn: "XV1 处的气体供应压力太低", en: "Supply air pressure at XV1 is too low" },
+              { cn: "截止阀PV2 和PV3 未打开", en: "Stop valves PV2 and PV3 do not open" },
+              { cn: "PC1 和PC2 处压力太低", en: "Pressure too low at PC1 and PC2" }
+            ],
+            remedies: [
+              { cn: "将XV1 处的气体供应压力设置为大于3 巴", en: "Set supply air at XV1 to > 3 bar" },
+              { cn: "检查控制线路以及在PV22、PV3 和PC3 阀门工作", en: "Check control line and valve functioning at PV22, PV3 and PC3" },
+              { cn: "增大PC1 和PC2 处的压力", en: "Increase pressure at PC1 and PC2" }
+            ]
+          },
+          {
+            error: { cn: "控制器振动", en: "Controller vibrates" },
+            possibleCauses: [
+              { cn: "网子/毛毯驱动", en: "Wire/felt drive" },
+              { cn: "网子/毛毯张紧装置", en: "Wire/felt tensioning unit" },
+              { cn: "机器驱动控制", en: "Machine drive control" }
+            ],
+            remedies: [
+              { cn: "改变网子/毛毯张紧度", en: "Change wire/felt tension" }
+            ]
+          },
+          {
+            error: { cn: "控制器太慢", en: "Controller is too slow" },
+            possibleCauses: [
+              { cn: "网纠偏传感器", en: "Wire tracking sensor" }
+            ],
+            remedies: [
+              { cn: "降低触针板支点和网子/毛毯之间的间隙", en: "Reduce clearance between fulcrum point of feeler palm and wire/felt" }
+            ]
+          },
+          {
+            error: { cn: "控制器太快", en: "Controller too fast" },
+            possibleCauses: [
+              { cn: "网纠偏传感器", en: "Wire tracking sensor" }
+            ],
+            remedies: [
+              { cn: "增大触针板支点和网子/毛毯之间的间隙", en: "Increase clearance between fulcrum point of feeler palm and wire/felt" }
+            ]
+          },
+          {
+            error: { cn: "控制器行程太低", en: "Controller stroke too low" },
+            possibleCauses: [
+              { cn: "节流阀FCV1 开度过大", en: "Throttle valve FCV1 open too wide" }
+            ],
+            remedies: [
+              { cn: "设置节流阀FCV1 的开度并校正PC1 和PC2 处的压力", en: "Set throttle valve FCV1 and correct pressures at PC1 and PC2" },
+              { cn: "检查节流阀FCV1 的流量方向。", en: "Check flow direction of the throttle valve FCV1" }
+            ]
+          }
+        ]
+      }
+    },
+    // Suction box angle (4.22.3 - included as it's on page 53 at end of wire/felt section)
+    {
+      title: { cn: "4.22.3 真空压榨辊的真空箱角度", en: "4.22.3 Suction box angle of suction press roll" },
+      paragraphs: [
+        {
+          cn: "当真空伏辊的第二密封条上的毛毯以没有漏气（X）的真空箱角度运行时，真空箱角设置正确。",
+          en: "The suction box angle is set correctly when the felt at the second sealing strip of the suction couch roll shell runs at an angle whereby no leak air (X) is sucked in."
+        }
+      ],
+      diagramLabels: [
+        { label: "1", cn: "螺钉/螺栓", en: "Screws/bolts" },
+        { label: "2", cn: "上盖", en: "Cover" },
+        { label: "3", cn: "方颈", en: "Square neck" },
+        { label: "4", cn: "标尺", en: "Scale" },
+        { label: "5", cn: "辊壳", en: "Roll shell" },
+        { label: "6", cn: "毛毯", en: "Felt" },
+        { label: "C", cn: "校正设定", en: "Correct setting" },
+        { label: "W", cn: "错误设定", en: "Wrong setting" },
+        { label: "S1", cn: "密封条1", en: "Sealing strip 1" },
+        { label: "S2", cn: "密封条2", en: "Sealing strip 2" },
+        { label: "SZ", cn: "真空区", en: "Suction zone" },
+        { label: "X", cn: "如果角度设置不正确，漏气的范围", en: "Range in which leak air can be sucked in if angle is set incorrectly." }
+      ],
+      settingSteps: {
+        heading: { cn: "真空箱角度可以按如下方法设定：", en: "The suction box angle can be set as follows:" },
+        steps: [
+          { cn: "a) 稍微松开盖上（2）的蜗轮箱螺钉（1）", en: "a) Detach the screws (1) slightly at the cover (2) for the worm gear box." },
+          { cn: "b) 将方颈（3）转到所需位置。（可以从可读尺（4）中读出扭曲量）。", en: "b) Turn the square neck (3) into the desired position. (The amount of twist can be read off a scale (4).)" },
+          { cn: "c) 再次锁紧上盖（2）上的蜗轮箱螺钉（1）", en: "c) Tighten the screws (1) again at the cover (2) for the worm gear box." }
+        ],
+        note: {
+          cn: "在（X）处没有吸入泄漏空气时达到最佳操作点。真空箱角度可在运行期间设定。",
+          en: "The optimum operating point is reached when no leak air is sucked in at (X). The suction box angle can be set during operation."
+        }
+      }
+    }
+  ]
+};
+
+// ============================================================================
+// IMAGE-TO-SECTION MAPPING SUMMARY
+// ============================================================================
+
+const IMAGE_SECTION_MAP = {
+  "SECTION: Safety": [
+    { page: "15", image: "images-general/page15-img01.png", caption: { cn: "紧急停机开关的可能设计方案", en: "Possible designs of the EMERGENCY STOP switch" } },
+    { page: "15", image: "images-general/page15-img02.jpeg", caption: { cn: "紧急停机开关", en: "EMERGENCY STOP switch" } },
+    { page: "16", image: "images-general/page16-img01.png", caption: { cn: "安全设备推荐表", en: "Recommended safety equipment table" } },
+    { page: "16", image: "images-general/page16-img02.jpeg", caption: { cn: "安全装备示例", en: "Safety equipment example" } },
+    { page: "16", image: "images-general/page16-img03.jpeg", caption: { cn: "安全装备示例", en: "Safety equipment example" } },
+    { page: "16", image: "images-general/page16-img04.jpeg", caption: { cn: "安全装备示例", en: "Safety equipment example" } },
+    { page: "16", image: "images-general/page16-img05.png", caption: { cn: "EMERGENCY STOP 标志", en: "EMERGENCY STOP signs" } },
+    { page: "16", image: "images-general/page16-img06.jpeg", caption: { cn: "安全装备示例", en: "Safety equipment example" } },
+    { page: "16", image: "images-general/page16-img07.jpeg", caption: { cn: "安全装备示例", en: "Safety equipment example" } },
+    { page: "16", image: "images-general/page16-img08.jpeg", caption: { cn: "安全装备示例", en: "Safety equipment example" } },
+    { page: "16", image: "images-general/page16-img09.jpeg", caption: { cn: "安全装备示例", en: "Safety equipment example" } },
+    { page: "16", image: "images-general/page16-img10.jpeg", caption: { cn: "安全装备示例", en: "Safety equipment example" } }
+  ],
+  "SECTION: Installation": [
+    { page: "24", image: "images-general/page24-img01.png", caption: { cn: "在轴颈处悬吊的辊子", en: "Roll suspended at the journals" } },
+    { page: "24", image: "images-general/page24-img02.jpeg", caption: { cn: "在带涂层的辊轴体处悬吊", en: "Suspending from the coated roll body" } },
+    { page: "24", image: "images-general/page24-img03.jpeg", caption: { cn: "吊装辊子示意图", en: "Lifting the roll" } },
+    { page: "24", image: "images-general/page24-img04.png", caption: { cn: "吊装安全说明", en: "Lifting safety notes" } },
+    { page: "30", image: "images-general/page30-img01.png", caption: { cn: "手动操作的取样接头", en: "Manually operated sampling fitting" } },
+    { page: "30", image: "images-general/page30-img02.jpeg", caption: { cn: "取样容器", en: "Sampling vessel" } },
+    { page: "30", image: "images-general/page30-img03.jpeg", caption: { cn: "取样装置示例", en: "Sampling equipment example" } },
+    { page: "30", image: "images-general/page30-img04.png", caption: { cn: "取样安全设备表", en: "Sampling safety equipment table" } },
+    { page: "30", image: "images-general/page30-img05.jpeg", caption: { cn: "取样设备", en: "Sampling equipment" } },
+    { page: "30", image: "images-general/page30-img06.jpeg", caption: { cn: "取样设备", en: "Sampling equipment" } }
+  ],
+  "SECTION: Wire/Felt Guiding": [
+    { page: "45", image: "images-general/page45-img01.png", caption: { cn: "网校正系统控制阀 (图6)", en: "Control valve for wire guiding system (Fig. 5)" } },
+    { page: "45", image: "images-general/page45-img02.jpeg", caption: { cn: "气动系统流程图 (图8)", en: "Pneumatic flow sheet (Fig. 7)" } },
+    { page: "45", image: "images-general/page45-img03.jpeg", caption: { cn: "控制阀门FCV2", en: "Control valve FCV2" } },
+    { page: "49", image: "images-general/page49-img01.png", caption: { cn: "网子偏移图 (图10)", en: "Wire drift diagram (Fig. 9)" } },
+    { page: "49", image: "images-general/page49-img02.png", caption: { cn: "气动柜 (图12)", en: "Pneumatic cabinet (Fig. 11)" } },
+    { page: "49", image: "images-general/page49-img03.jpeg", caption: { cn: "气动柜实物", en: "Pneumatic cabinet photo" } },
+    { page: "50", image: "images-general/page50-img01.png", caption: { cn: "无支撑网子校正装置", en: "Free-standing wire guiding device" } },
+    { page: "50", image: "images-general/page50-img02.jpeg", caption: { cn: "悬挂网子校正装置", en: "Suspended wire guiding device" } },
+    { page: "50", image: "images-general/page50-img03.jpeg", caption: { cn: "校正装置实物", en: "Guiding device photo" } },
+    { page: "51", image: "images-general/page51-img01.png", caption: { cn: "流程图 (图14)", en: "Flow sheet (Fig. 13)" } },
+    { page: "51", image: "images-general/page51-img02.jpeg", caption: { cn: "流程图实物", en: "Flow sheet photo" } },
+    { page: "52", image: "images-general/page52-img01.png", caption: { cn: "故障修理表 (表9)", en: "Fault repairs table (Tab. 8)" } },
+    { page: "53", image: "images-general/page53-img01.png", caption: { cn: "真空箱角度设定 (图16)", en: "Suction box angle setting (Fig. 15)" } },
+    { page: "53", image: "images-general/page53-img02.jpeg", caption: { cn: "真空箱角度设定实物", en: "Suction box angle setting photo" } },
+    { page: "53", image: "images-general/page53-img03.png", caption: { cn: "真空箱角度设定步骤", en: "Suction box angle setting steps" } }
+  ]
+};
+
+// ============================================================================
+// EXPORT: All sections combined
+// ============================================================================
+
+const GENERAL_ENHANCED = {
+  documentInfo: {
+    title: { cn: "卫生纸机操作与维护说明书", en: "Tissue Machine Operating and Maintenance Instructions" },
+    machine: { cn: "卫生纸机 PrimeLine Compact M1600", en: "Tissue Machine PrimeLine Compact M1600" },
+    client: { cn: "C&S Paper (Jiangsu) Co., Ltd.", en: "C&S Paper (Jiangsu) Co., Ltd." },
+    orders: ["C-14-855551-716 TM4", "C-14-855552-716 TM3"],
+    year: "2026",
+    revision: "0",
+    originalLanguage: { cn: "德语", en: "German" },
+    manufacturer: "ANDRITZ AG",
+    totalPages: 68
+  },
+  sections: {
+    safety: SAFETY,
+    installation: INSTALLATION,
+    wireFeltGuiding: WIRE_FELT_GUIDING
+  },
+  imageSectionMap: IMAGE_SECTION_MAP
+};
+
+// For Node.js / CommonJS:
+if (typeof module !== 'undefined' && module.exports) {
+  module.exports = GENERAL_ENHANCED;
+}
+// For ES modules / browser:
+if (typeof exports !== 'undefined') {
+  exports.SAFETY = SAFETY;
+  exports.INSTALLATION = INSTALLATION;
+  exports.WIRE_FELT_GUIDING = WIRE_FELT_GUIDING;
+  exports.IMAGE_SECTION_MAP = IMAGE_SECTION_MAP;
+  exports.GENERAL_ENHANCED = GENERAL_ENHANCED;
+}
