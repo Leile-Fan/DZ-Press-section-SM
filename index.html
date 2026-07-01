@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="TM PrimePress Single EOM">
+  <meta name="theme-color" content="#4A90D9">
+  <meta name="description" content="PrimePress 压榨部操作与维护说明书">
+  <title>TM PrimePress Single EOM</title>
+
+  <!-- App Icon -->
+  <link rel="apple-touch-icon" href="images/app-icon.png">
+  <link rel="icon" href="images/app-icon.png">
+
+  <!-- PWA Manifest -->
+  <link rel="manifest" href="manifest.json">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- ==================== 主容器 ==================== -->
+  <div id="app">
+
+    <!-- 顶部导航栏 -->
+    <header id="header">
+      <button id="btn-back" class="header-btn" aria-label="返回" title="返回">←</button>
+      <h1 id="header-title">TM PrimePress Single EOM</h1>
+      <button id="btn-search" class="header-btn" aria-label="搜索" title="搜索">🔍</button>
+    </header>
+
+    <!-- 主内容区 -->
+    <main id="main-content">
+      <!-- 内容由 JS 动态渲染 -->
+    </main>
+
+    <!-- 底部导航栏 -->
+    <nav id="bottom-nav">
+      <button class="nav-item active" data-route="home">
+        <span class="nav-icon">🏠</span>
+        <span class="nav-label">首页</span>
+      </button>
+      <button class="nav-item" data-route="tech-data">
+        <span class="nav-icon">📊</span>
+        <span class="nav-label">技术参数</span>
+      </button>
+      <button class="nav-item" data-route="components">
+        <span class="nav-icon">🔧</span>
+        <span class="nav-label">设备描述</span>
+      </button>
+      <button class="nav-item" data-route="maintenance">
+        <span class="nav-icon">🛠</span>
+        <span class="nav-label">维护</span>
+      </button>
+    </nav>
+
+    <!-- 搜索浮层 -->
+    <div id="search-overlay" class="hidden">
+      <div class="search-header">
+        <input type="search" id="search-input" placeholder="搜索中文或英文关键词..." autocomplete="off">
+        <button id="btn-search-close">取消</button>
+      </div>
+      <div id="search-results">
+        <p class="search-hint">输入关键词开始搜索</p>
+      </div>
+    </div>
+
+    <!-- 图片放大弹窗 -->
+    <div id="image-modal" class="hidden">
+      <div class="image-modal-bg"></div>
+      <div class="image-modal-content">
+        <button id="btn-image-close">✕</button>
+        <img id="image-modal-img" src="" alt="">
+        <p id="image-modal-caption"></p>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- ==================== JavaScript ==================== -->
+  <script src="js/data.js"></script>
+  <script src="js/router.js"></script>
+  <script src="js/components.js"></script>
+  <script src="js/search.js"></script>
+  <script src="js/app.js"></script>
+
+</body>
+</html>
