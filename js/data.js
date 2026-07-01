@@ -99,6 +99,15 @@ const APP_DATA = {
             },
             diagrams: {
               icon: "📈", title: "图表与特性曲线 Diagrams (4.23)", subtitle: "流浆箱压力图 · 扬克缸加热曲线 · 蒸汽压力特性",
+              images: [
+                { src: "images-general/page54-img02.png", caption: "Fig. 17: Headbox dynamic pressure diagram / 流浆箱动态压力图" },
+                { src: "images-general/page56-img02.jpeg", caption: "Fig. 19: Yankee heating curve / 扬克缸加热过程曲线" },
+                { src: "images-general/page57-img02.png", caption: "Fig. 21: Steam pressure 3.5 bar curve / 蒸汽压力3.5 bar特性曲线" },
+                { src: "images-general/page58-img02.png", caption: "Fig. 23: Steam pressure 4 bar curve / 蒸汽压力4 bar特性曲线" },
+                { src: "images-general/page59-img02.png", caption: "Fig. 25: Steam pressure 8.5 bar curve / 蒸汽压力8.5 bar特性曲线" },
+                { src: "images-general/page60-img02.png", caption: "Fig. 27: Steam pressure 8.8 bar curve / 蒸汽压力8.8 bar特性曲线" },
+                { src: "images-general/page61-img02.png", caption: "Fig. 29: Steam pressure 9.5 bar curve / 蒸汽压力9.5 bar特性曲线" }
+              ],
               sections: [
                 { title: "流浆箱动态压力图 (4.23.1)", paragraphs: [{ cn: "显示流浆箱在不同速度下的背压关系。用于设定正确的运行参数。", en: "Shows headbox back-pressure relationship at different speeds. Used for setting correct operating parameters." }]},
                 { title: "扬克缸加热过程 (4.23.2)", paragraphs: [{ cn: "手动加热。爬行速度约30 m/min。最大加热速率30°C/h。冷凝水90°C时增压。2 bar蒸汽/约120°C表面温度时准备就绪。", en: "Manual heating. Crawl speed ~30 m/min. Max heating rate 30°C/h. Pressure boost at 90°C condensate. Ready at 2 bar steam / ~120°C surface temp." }]},
